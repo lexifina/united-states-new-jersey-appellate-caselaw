@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1980-05-05"
+citations: ["174 N.J. Super. 225"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES IVKOVICH ET AL., PLAINTIFFS-APPELLANTS, v. RENEE GREEN, MUNICIPAL CLERK, TOWNSHIP OF LIVINGSTON, ET AL., DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/174/cases/0225-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 290148
+cites_cases: ["12 N.J.Misc. 438", "149 N.J.Super. 483", "150 N.J.Super. 110", "40 N.J.Super. 139", "60 N.J.Super. 576"]
+---
+
+# Ivkovich v. Green
+
+## Majority (ALLCORN, P. J. A. D.)
+
+The opinion of the court was delivered by
+ALLCORN, P. J. A. D.
+A review of the pertinent legislative provisions satisfies us that party membership required for purposes of nomination as a candidate for the county committee of that party by way of petition of nomination is prima facie established by the certification of the nominee himself annexed to the petition “that he is qualified for the office . . . [and] that he is a member of the political party named therein . . . and by the declaration of the petition signers that the nominee is a member of the party. N.J.S.A. 19:23 7. In short, the Legislature now has decreed that, for the nominee for county committee, party membership essentially is a present state of mind evidenced by the certification of the candidate, supported by the declaration of the signers to the petition of nomination to the same effect. Id.
+The foregoing construction and conclusion become even more compelling when it is observed that where a person who is not nominated by petition is in fact elected as a member of the county committee by write-in votes, he may qualify simply by filing with the secretary of the county committee prior to its organization meeting “a written statement certifying that he is a member of such political party.” N.J.S.A. 19:23 54. Again, where in the unusual event that a person, not nominated by petition for county committee, has been elected a member of the county committee of both major parties (or more), he may qualify for the county committee of either party by merely filing “with the municipal clerk within three days a statement certifying to which political party he belongs,” whereupon “a certificate of election shall be issued to such person . . .” Id.
+This interpretation is also buttressed by the action of the Legislature in amending N.J.S.A. 19:23 45 to prescribe tests and indicia for determining party membership for the purpose of voting in a party primary. That statute, (N.J.S.A. 19:23 45), states in pertinent part:
+A voter who votes in a primary election of a political party or who signs and files with the municipal clerk or the county commissioner of registration a declaration that he desires to vote in the primary election of a political party shall be deemed to be a member of that party until he signs and files a declaration that he desires to vote in the primary election of another party at which time he shall be deemed to be a member of such other party.
+Under this section as well, party membership by a voter is established by the act of voting in the party primary or by the mere acts of signing and filing a written declaration of party affiliation. Moreover, under such statute such party affiliation, once established, is just as easily changed by signing and filing another declaration to such effect—with certain narrow exceptions not here germane. Id. Thus, in the case of the voter also, by legislative fiat party membership is basically a present state of mind evidenced by one or another of the acts or declarations designated by the statute.
+We perceive the cases of Nickerson v. Capella, 150 N.J.Super. 110 (App.Div.1977); Cottingham v. Vogt, 60 N.J.Super. 576 (App.Div.1960); George v. Gillespie, 40 N.J.Super. 139 (App.Div.1956); Friedland v. State, 149 N.J.Super. 483 (Law Div.1977), and In re Dvorken, 12 N.J.Misc. 438 (Sup.Ct.1934), to be here inapposite.
+Consequently, and absent any contrary evidence, we are satisfied that the petitions of nomination filed by the plaintiffs which contain the certification of party membership by the respective nominees and by the signers annexed thereto, sufficiently establish the party membership of each of the plaintiffs as members of the Democrat Party, and that the invalidation of such petitions of nomination by the township clerk was improper and must be set aside.
+Insofar as concerns those candidates asserted not to be residents of Livingston (plaintiff Giampolo; defendants Cignarella and Sisbarro), there is no proof that Sisbarro is not in fact a resident of Livingston; Giampolo has filed a statement of dual residency setting forth her places of residence and claiming her Livingston residence to be the residence at which she is domiciled for voting, in conformance with N.J.S.A. 19:4 4.1 e£ seq. In these circumstances we are satisfied that the action of the township clerk dismissing the challenge to Sisbarro’s petition of nomination was proper, but that her action invalidating Giampolo’s petition of nomination on the ground of nonresidence was improper and must be set aside.
+With regard to the challenge to Cignarella’s residency, we are satisfied that there is adequate evidence as to his nonresidency as to require that he file with the appropriate election official on or before 10 a. m., May 7, 1980, a dual residency statement pursuant to N.J.S.A. 19:4 4.1 et seq., which statement must set forth a Livingston residence as the residence at which he is domiciled for voting, which residence shall be the same as the residence address of Cignarella set forth in his petition of nomination. In default thereof Cignarella’s petition of nomination shall be invalidated.
