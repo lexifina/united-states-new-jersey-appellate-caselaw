@@ -1,0 +1,47 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1991-06-10"
+citations: ["250 N.J. Super. 558", "595 A.2d 1098"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. CARL CULLEY, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/250/cases/0558-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 307180
+cites_cases: ["103 L.Ed.2d 205", "107 L.Ed.2d 25", "108 N.J. 591", "109 S.Ct. 1146", "110 S.Ct. 57", "112 N.J. 384", "337 A.2d 609", "489 U.S. 1022", "493 U.S. 812", "532 A.2d 199", "548 A.2d 1022", "67 N.J. 268", "871 F.2d 432"]
+---
+
+# State v. Culley
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+In 1986 we affirmed defendant’s conviction for the shot-gun murder of a gas station attendant and related offenses for which, on November 9, 1984, defendant had been sentenced to an aggregate prison term of 30 years without parole. After reciting the substantial evidence of defendant’s guilt, we said, “We conclude that this evidence suffices to support a finding that the homicide was both knowing and purposeful and committed either in the course of committing or attempting to commit a robbery.” We also rejected defendant’s arguments that the victim’s bloodstained shirt was erroneously admitted into evidence, that in his charge the trial judge misstated the testimony of a witness, and that the judge erroneously failed to have the jury consider the lesser crime of reckless manslaughter.
+We now have before us for review Judge Sullivan’s order denying defendant’s petition, dated November 1,1989, for post-conviction relief. Although R. 3:22-1 requires that a person convicted of a crime “file [a petition for post-conviction relief] with the county clerk of the county in which the conviction took place,” there is no evidence in the record submitted to us that defendant ever did so. However, his papers were stamped “Received Nov 15 1989” by Judge Sullivan. In this appeal the State argues for the first time that defendant’s petition is barred by the five-year limitations rule. R. 3:22-12. The rule provides:
+A petition to correct an illegal sentence may be filed at any time. No other petition shall be filed pursuant to this rule more than 5 years after rendition of the judgment or sentence sought to be attacked unless it alleges facts showing that the delay beyond said time was due to defendant’s excusable neglect.
+The period between the date of defendant’s sentence, November 9, 1984, and the date on which Judge Sullivan marked defendant’s papers “received,” November 15, 1989, exceeds the limitations period by six days.
+Defendant does not claim that he is entitled to relief from the bar by “excusable neglect.” Rather he contends in his reply brief that Judge Sullivan delayed stamping his papers “received” until after the limitations period had expired. Aside from the fact that defendant’s statement in his brief is not evidence, the rule is intended to avoid such disputes by requiring the convicted person to file a petition for post-conviction relief with the county clerk where its date of receipt is routinely recorded. We therefore conclude, on the record before us, that defendant’s petition is out of time and should not have been considered. Unfortunately, the State failed to raise the matter below where a fuller record could have been developed. We will therefore proceed to consider defendant’s petition solely on the chance that evidence may later be discovered that the petition was timely filed.
+Defendant raises the following points in his brief:
+I. THE FAILURE TO INDICT DEFENDANT FOR THE CRIME OF ROBBERY OR ATTEMPTED ROBBERY AND TO REQUIRE THE JURY TO CONVICT DEFENDANT OF ROBBERY OR ATTEMPTED ROBBERY AS A PREREQUISITE TO CONSIDERATION OF FELONY MURDER VIOLATED HIS RIGHTS GUARANTEED BY THE FEDERAL AND STATE CONSTITUTIONS.
+II. THE JURY INSTRUCTIONS WHICH DEFINED ATTEMPTED ROBBERY CONSISTENT WITH N.J.S.A. 2C:5-1 WERE UNCONSTITUTIONALLY VAGUE AS REQUIRING BUT A “SUBSTANTIAL STEP” TOWARD A CRIMINAL PURPOSE VIOLATING DEFENDANT’S RIGHT TO DUE PROCESS OF LAW GUARANTEED BY THE FOURTEENTH AMENDMENT.
+III. THE STATE FAILED TO PROVE ALL ELEMENTS OF THE CRIME OF ATTEMPTED ROBBERY THEREBY VIOLATING HIS RIGHT TO DUE PROCESS OF LAW GUARANTEED BY THE FOURTEENTH AMENDMENT AND INVALIDATING HIS FELONY MURDER CONVICTION PREMISED UPON THE KILLING BEING COMMITTED DURING AN ATTEMPTED ROBBERY.
+IV. DEFENDANT’S RIGHT TO DUE PROCESS OF LAW UNDER THE FOURTEENTH AMENDMENT WAS VIOLATED WHEN THE TRIAL COURT INSTRUCTED THE JURY THE DEFENDANT MUST PROVE BY A PREPONDERANCE OF THE EVIDENCE THAT HE HAD A DIMINISHED MENTAL CAPACITY WHICH PRECLUDED HIM FROM POSSESSING THE REQUIRED STATE OF MIND TO COMMIT A KNOWING OR PURPOSEFUL MURDER.
+V. DEFENDANT WAS DENIED THE EFFECTIVE ASSISTANCE OF COUNSEL IN VIOLATION OF HIS SIXTH AND FOURTEENTH AMENDMENT RIGHTS BOTH AT TRIAL AND DURING THE PROSECUTION OF HIS DIRECT APPEAL.
+Defendant raises the following additional points in his reply brief:
+I. DEFENDANT’S PETITION FOR POST-CONVICTION RELIEF WAS IMPROPERLY DENIED, ANY SUGGESTION THAT THE PETITION WAS UNTIMELY, WAS NOT ENDORSED BELOW AND SHOULD NOT BE ACCEPTED BY THIS COURT, FOR THESE REASONS THERE CANNOT BE THE EXPRESS RULING THE STATE SEEKS DENYING RELIEF ON A PROCEDURAL BAR CONSISTENT WITH FEDERAL CONSTITUTIONAL DUE PROCESS.
+II. THE FAILURE TO INDICT THE DEFENDANT FOR THE CRIME OF ROBBERY OR ATTEMPTED ROBBERY AND TO REQUIRE THE JURY TO CONVICT DEFENDANT OF ROBBERY OR ATTEMPTED ROBBERY AS A PREREQUISITE TO THE CONSIDERATION OF FELONY MURDER VIOLATED- HIS RIGHTS GUARANTEED BY THE FEDERAL AND STATE CONSTITUTIONS.
+III. THE JURY INSTRUCTIONS WHICH DEFINED ATTEMPTED ROBBERY CONSISTENT WITH N.J.S.A. 2C:5-1 WERE UNCONSTITUTIONALLY VAGUE AS REQUIRING BUT A “SUBSTANTIAL STEP” TOWARD A CRIMINAL PURPOSE VIOLATING DEFENDANT’S RIGHT TO DUE PROCESS OF LAW GUARANTEED BY THE FOURTEENTH AMENDMENT.
+IV. THE STATE FAILED TO PROVE ALL ELEMENTS OF THE CRIME OF ATTEMPTED ROBBERY THEREBY VIOLATING HIS RIGHT TO DUE PROCESS OF LAW GUARANTEED BY THE FOURTEENTH AMENDMENT INVALIDATING HIS FELONY MURDER CONVICTION PREMISED UPON THE KILLING BEING COMMITTED DURING AN ATTEMPTED ROBBERY.
+V. DEFENDANT’S RIGHT TO DUE PROCESS OF LAW UNDER THE FOURTEENTH AMENDMENT WAS VIOLATED WHEN THE TRIAL COURT INSTRUCTED THE JURY THE DEFENDANT MUST PROVE BY A PREPONDERANCE OF THE EVIDENCE THAT HE HAD A DIMINISHED MENTAL CAPACITY WHICH PRECLUDED HIM FROM POSSESSING THE REQUIRED STATE OF MIND TO COMMIT A KNOWING OR PURPOSEFUL MURDER.
+a. The Requirement of Medical Testimony.
+b. The Disposition of the Direct Appeal, Status of Case Law.
+c. Reasons As To Entitlement of Relief.
+VI. DEFENDANT WAS DENIED THE EFFECTIVE ASSISTANCE OF COUNSEL IN VIOLATION OF HIS SIXTH AND FOURTEENTH AMENDMENT RIGHTS BOTH AT TRIAL AND DURING THE PROSECUTION OF HIS DIRECT APPEAL.
+We are satisfied that all of defendant’s arguments are barred by R. 3:22-4, which bars post-conviction relief on grounds that could have been raised in a direct appeal from a conviction. The rule provides:
+Any ground for relief not raised in a prior proceeding under this rule, or in the proceedings resulting in the conviction, or in a post-conviction proceeding brought and decided prior to the adoption of this rule, or in any appeal taken in any such proceedings is barred from assertion in a proceeding under this rule unless the court on motion or at the hearing finds (a) that the ground for relief not previously asserted could not reasonably have been raised in any prior proceeding; or (b) that enforcement of the bar would result in fundamental injustice; or (c) that denial of relief would be contrary to the Constitution of the United States or the State of New Jersey.
+The trial judge correctly found no basis to overcome the bar.
+We will nevertheless briefly discuss the diminished capacity argument, which, as defendant described it in arguing the matter below, is the “meat and potatoes” of his petition. The judge who conducted the trial instructed the jury on the issue using language later approved in State v. Breakiron, 108 N.J. 591, 532 A.2d 199 (1987) and State v. Zola, 112 N.J. 384, 548 A.2d 1022 (1988), cert. den. 489 U.S. 1022, 109 S.Ct. 1146, 103 L.Ed.2d 205 (1989). Thereafter, the Third Circuit Court of Appeals held in another case that such language unconstitutionally shifts the burden of proof to the defendant. Humanik v. Beyer, 871 F.2d 432 (3d Cir.1989), cert. den. 493 U.S. 812, 110 S.Ct. 57, 107 L.Ed.2d 25 (1989).
+Our Supreme Court has not modified its holding in Breakiron and we must therefore follow it in the absence of a contrary holding by the United States Supreme Court. State v. Norflett, 67 N.J. 268, 286, 337 A.2d 609 (1975). In memoranda dated October 27 and December 8, 1989, our Chief Justice directed that as a practical matter the holding in Humanik be followed in pending and future trials and appeals to avoid the reversal of convictions in later federal habeas proceedings. The memoranda do not purport to apply to post-conviction relief proceedings, so we are obliged to follow Breakiron unless the Chief Justice or our Supreme Court directs otherwise.
+Although barred by R. 3:22-4, we have considered the other points defendant has raised and are satisfied from a careful review of this record that they are clearly without merit and require no further discussion. R. 2:11-3(e)(2).
+Affirmed.
