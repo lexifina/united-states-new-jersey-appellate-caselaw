@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1999-07-26"
+citations: ["334 N.J. Super. 512", "760 A.2d 326"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TOWNSHIP OF MIDDLETOWN, RESPONDENT-APPELLANT, v. MIDDLETOWN PBA LOCAL 124, CHARGING PARTY-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/334/cases/0512-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 477921
+cites_cases: ["116 N.J. 322", "561 A.2d 597"]
+---
+
+# Township of Middletown v. Middletown PBA Local 124
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Middletown Township has a long-standing practice of hiring experienced police officers at an advanced step on its Police Pay Scale. Customarily such new employees were placed on Step Three, but when Anthony Gonzalez was hired, he was placed on Step Two and was not advanced to Step Three for six months. Representing Gonzalez, Middletown PBA Local 124 filed an unfair practice charge against the Township, alleging a violation of N.J.S.A. S4:13A-5.4(a). After a hearing officer recommended dismissing the complaint, the New Jersey Public Employment Relations Commission (PERC) held that the Township had unilaterally violated N.J.S.A. 34:13A-5.4(a) by changing its practice concerning initial salary level for trained and experienced police officers. PERC ordered the practice restored and applied to Gonzalez with back pay. It did not hold that Local 124 had a contractual right to have the practice maintained, but if the Township wished to make a change, it had to negotiate with Local 124 in good faith.
+The Township appeals, contending that PERC lacked jurisdiction because the claim was not an unfair practice, and on the merits, that Local 124 “presented no claim founded in law and fact.” We disagree with each contention and affirm.
+Characterizing this as a “garden-variety contract dispute,” the Township contends the claim is not an unfair labor practice. It admits that the starting salary of new experienced police employees was not part of the collective bargaining negotiations leading to the contract, and it argues that it “would always have been willing to negotiate that issue.” Its position, however, misses the point. Local 124 does not charge a breach of contract; rather, it charges a change in policy or past practice of consistently placing new officers with police academy training and at least one year’s experience as a police officer at Step Three on the pay scale. As Gonzalez’s representative, Local 123 claimed further that when conditions of employment, such as starting salary, are not set by contract, N.J.S.A. 34:13A-5.3 requires good faith negotiations to place the particular condition in the contract. The question is not whether the Township is bound by an existing employment condition, but whether that employment condition has been changed. Thus Local 124 did not claim that the Township was bound by the contract to initially place Gonzalez at Step Three, but it charged that the Township was statutorily required to negotiate before changing its past practice. We conclude that the issue was properly considered as an unfair practice charge and PERC did have jurisdiction to adjudicate the matter.
+Turning to the substantive determination, we recognize that we ordinarily defer to agency factual findings, and we search the record to see whether the decision is supported by sufficient credible evidence. “The administrative determination will stand unless it is clearly demonstrated to be arbitrary or capricious,” and “where, as here, a substantial element of agency expertise is implicated, due weight should be accorded thereto on judicial review .” In re Hunterdon Cty. Bd. of Chosen Freeholders and CWA, 116 N.J. 322, 328, 561 A.2d 597 (1989) (citations omitted). We have reviewed the entire record, which shows that since 1981, Middletown Township had a practice of placing newly hired police officers with police academy training and at least one year’s experience on Step Three of the pay scale. On one occasion it deviated from this scheme and Local 124 filed an unfair practice charge which was settled.
+The Township argues that economic conditions have changed and its salary scale is very high so there is no need to start a new police officer at Step Three in order to be competitive with other municipalities. The PERC decision encompasses this consideration by directing negotiations to make starting salary a condition of the contract, but pending negotiations, the established practice is to remain in effect. That is a reasonable decision, well footed in facts demonstrated in the record, and is neither arbitrary nor capricious.
+We agree completely with the decision, which PERC summarized as follows:
+The Township had an obligation to negotiate over starting salaries. It unilaterally established a policy of placing officers with police academy training and at least one year of municipal police department experience at step three of the salary guide. The PBA did not object to that practice. The only time that the PBA was aware of a deviation from that practice, it filed an unfair practice charge. Thus, the PBA cannot be said to have acquiesced to any deviations from the practice. Under these facts, we conclude that the Township had an obligation to negotiate with the PBA before setting Gonzalez’ salary below step three.
+We reiterate that the Township is not bound to maintain its practice. It is simply required to negotiate before changing it____If conditions have changed and the Township believes that the practice should be discontinued, it is free to take that position in negotiations.
+Accordingly, the PERC final order is affirmed.
+Gonzalez had completed police academy training and had more than nine years experience as a full-time municipal police officer.
+Under the contract then in effect, a patrolman at Step Two was paid $34,272, while at Step Three the pay was $41,812.
