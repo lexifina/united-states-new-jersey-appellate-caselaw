@@ -1,0 +1,41 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1967-04-21"
+citations: ["94 N.J. Super. 499"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DOROTHY KELLER AND HENRY KELLER, PLAINTIFFS-APPELLANTS, v. MICHAEL PASTUCH AND JOSEPH MURRAY, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/94/cases/0499-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 518142
+cites_cases: ["277 F. 2d 809", "42 N. J. 501", "45 N. J. 54", "51 N. J. Super. 319", "52 N. J. Super. 143", "62 N. J. Super. 522", "82 N. J. Super. 281"]
+---
+
+# Keller v. Pastuch
+
+## Majority (Kolovstcy, J. A. D.)
+
+The opinion of the court was delivered by
+Kolovstcy, J. A. D.
+This action was instituted on November 23, 1964 to recover damages allegedly sustained by plaintiffs, who are husband and wife, as the result of the wife’s being injured on April 27, 1964 when an automobile driven by defendant Pastuch, in which she was a passenger, struck the rear of an automobile operated by defendant Murray.
+The issue on this appeal, taken by plaintiffs upon leave granted, is whether, under the circumstances of this case, the trial court abused its discretion in granting motions made orally by defendants on September 13, 1966, after a jury had been selected for the trial of the case, seeking leave to amend their answers to set up an additional defense.
+The complaint was filed November 23, 1964. Defendants’ answers, which denied negligence and asserted only contributory negligence as an affirmative defense, had been filed January 14, 1965. The ease was first listed for trial in the daily calendar call of December 6, 1965 and was then carried into 16 separate daily calendar calls until September 12, 1966, when the trial actually began. The jury was selected and sworn on that day. At the opening of the next day’s session, Pastuch’s attorney advised the court that he desired to amend his answer to include a defense allegedly available to him under the last paragraph of N. J. 8. A. 34:15-8, a section of the Workmen’s Compensation Law, which provides :
+“If an injury or death is compensable under this article, a person shall not be liable to anyone at common law or otherwise on account of such injury or death for any act or omission occurring while such person was in the same employ as the person injured or killed, except for intentional wrong.”
+The court granted a mistrial over plaintiffs’ objection and later that afternoon heard argument on Pastuch’s oral motion for leave to amend, in which defendant Murray joined. Despite plaintiffs’ objection that the application came too late and was prejudicially unfair to them, the trial court granted the motion, invoking the spirit of the rule, R. R. 4:15-1, that “leave [to amend] shall be freely given when justice so requires.”
+It is clear that the quoted portion of the rule does not contemplate that application for leave to amend be a mere formality. On the contrary, the determination as to whether or not leave shall be granted involves “the exercise of the sound discretion of the court * * * in light of the factual situation actually existing at the time the application is made.” Associated Metals, etc., Corp. v. Dixon, etc., Inc., 52 N. J. Super. 143, 150 (Ch. Div. 1958); see same case 82 N. J. Super. 281, 294 (App. Div. 1964), certification denied 42 N. J. 501 (1964).
+In the exercise of its discretion to determine whether justice requires that leave be granted, the trial court must consider not only justice to the applicant but also justice to the adverse party. Band’s Refuse Removal, Inc. v. Fair Lawn Borough, 62 N. J. Super. 522, 555 (App. Div. 1960); Ricciuti v. Voltarc Tubes, Inc., 277 F. 2d 809, 814 (2 Cir. 1960).
+As the court said of the similar federal rule in Ricciuti:
+“The trial Judge’s discretion to permit amendments to pleadings under Rule 15(a) is broad. We do not think, however, that his discretion is so broad as to permit an amendment when the other party would be substantially prejudiced thereby.” (at p. 814)
+Similarly, this court said in the Band’s Refuse Removal case:
+“It is basic that amendments to the pleadings and pretrial order may only be allowed where such amendments are not unfair to the opposing party.” (at p. 555)
+Under the circumstances of this case, particularly in view of the lateness of defendants’ application, the amendment here permitted was unfair to plaintiffs and substantially prejudiced them; it should not have been allowed.
+Defendants argue that plaintiff Dorothy Keller could have successfully prosecuted an action against her employer under the Workmen’s Compensation Law to recover compensation for her injuries on the theory that the accident occurred in the course of the common employment of plaintiff and the two defendants. Cf. Ricciardi v. Damar Products Corp., 45 N. J. 54 (1965). It is undisputed that the time within which plaintiff could have instituted a workmen’s compensation proceeding against her employer expired on April 27, 1966 (R. 8. 34:15—41, 34:15-51), months before defendants’ motions were made.
+A recital of the facts allegedly supporting the defense was given orally; neither the required written notice of motion nor supporting affidavits were submitted. Cf. R. R. 4:7-2 and 4:6-3; Board of Education, Woodbridge Tp. v. Kane Acoustical Co., 51 N. J. Super. 319 (App. Div. 1958); 2 Schnitzer & Wildsiein, N. J. Rules Service, A IV-375.
+We are told that at the time of the accident, defendants’ automobiles were part of a funeral procession. Plaintiff Dorothy Keller, the two defendants and the person whose funeral they were attending had worked for the same employer. The argument that the accident occurred in the course of the employment—an argument whose merits we need not adjudicate—rests solely on the fact that the employer had permitted plaintiff, defendants and several other of its employees to attend the funeral during working hours without suffering any loss of pay.
+Defendants seek to explain their delay in seeking to plead the new defense by asserting that it was not until Pastuch was interviewed by his attorney, “just prior to trial to prepare him for trial,” that the attorney “became certain,” “based upon [his] conversation with Pastuch,” that “there was a bona fide issue as to the fellow servant rule.”
+The explanation offered underscores the unfairness of permitting the amendment. If Pastuch was possessed of facts which showed that plaintiff’s injuries were compensable under the Workmen’s Compensation Law so that the maintenance of the instant negligence action was barred, those facts should have been revealed long before by an appropriate defensive pleading. Had they been revealed, plaintiff could have preserved such rights as she may have had under the Workmen’s Compensation Law by the timely institution of a proceeding in the Division of Workmen’s Compensation, a course which was barred to her by lapse of time when the amendment was allowed. Cf. Ricciuti v. Voltarc Tubes, Inc., supra.
+Further, altogether apart from the question of whether Pastuch had additional evidence which he should have revealed earlier, justice dictates under circumstances such as are present in this case that a defendant who seeks by amendment to his answer to take advantage of the last paragraph of N. J. S. A. 34:15-8 should be required to do so before expiration of the time limited for instituting the workmen’s compensation proceeding which defendant alleges to be plaintiffs’ sole remedy.
+The inordinately delayed amendments should not have been permitted.
+We do not agree with defendants’ additional contention that the newly asserted defense challenges the jurisdiction of the court over the subject matter and therefore may be raised at any time. The last paragraph of N. J. 8. A. 34: 15-8 merely provides a defense which a defendant may raise or not as he sees fit; if he does not present the defense either by motion prior to answer or in his answer, it is waived. B. B. 4:12-8.
+The order permitting defendants to file amended answers is reversed and the matter remanded to the trial court for trial of the issues framed by the original pleadings.
