@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1997-01-21"
+citations: ["296 N.J. Super. 501", "687 A.2d 309"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THERESA ALBA, PLAINTIFF-RESPONDENT, v. JACOB I. SOPHER AND JOSEPH SOPHER, PARTNERS, INDIVIDUALLY AND AS PARTNERS TRADING AS JACCO REALTY CO., DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/296/cases/0501-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 788016
+cites_cases: ["126 N.J. 390", "139 N.J. 582", "249 N.J.Super. 158", "323 A.2d 495", "599 A.2d 166", "65 N.J. 474", "661 A.2d 778"]
+---
+
+# Alba v. Sopher
+
+## Majority (DREIER, P.J.A.D.)
+
+The opinion of the court was delivered by
+DREIER, P.J.A.D.
+Defendant appeals from a Special Civil Part judgment entered by Judge Austin in the amount of $7288.35, representing double the net security deposit that defendant failed to return to plaintiff, plus costs and attorney’s fees.
+In November 1994, plaintiff subleased a Fort Lee cooperative apartment from defendant landlords for one year, commencing December 1, 1994. The rent was $1025 per month, and the security deposit was $1537.50. After living in the apartment for three months, plaintiff told defendants she had lost her job and the stress from that experience had caused her physical injury. Consequently, plaintiff informed defendants that she was breaking her lease and would vacate by March 27, 1995. Instead, plaintiff remained through April, vacating on April 28, 1995. The defendants rerented the apartment as of May 15, 1995, but at the new and higher rental of $1095 per month. Thus, the landlords lost $512.50 at the old rate, but gained the seventy dollar increase for seven and one half months, or $525. In addition, plaintiff owed late charges and garage charges of $100; however, there was a dispute whether these charges would have been incurred if defendants had not raised the rent. Plaintiff had supplied defendants with a replacement tenant who was willing to take the apartment, without loss of occupancy, on the same terms as plaintiff. Defendants, however, raised the rent, and the new tenants could not afford the new rental. As noted, defendants were able to rent the apartment at the new rental fifteen days later, but suffered no net loss of rental income.
+Plaintiffs initial argument is that defendants’ appeal is out of time since it was filed eighty-five days after the original judgment. In the interim, however, defendants filed a motion with the trial court under R. 4:50—1(f). Ordinarily such a motion would not toll the time for appeal. In this case, however, the trial court indicated that it was reconsidering its original judgment based upon arguments submitted by defendants’ new attorney, including the effect of Thomas v. Saijwani, 249 N.J.Super. 158, 592 A.2d 247 (App.Div.), certif. denied, 126 N.J. 390, 599 A.2d 166 (1991), on the fees awarded in this case. In addition, the trial judge stated that he would then give reasons for his original decision, which reasons had not been put on the record in April. It is fair to say, therefore, that the trial judge by implication granted the motion for reconsideration and reopened the April judgment. The same only became final in June, making defendants’ appeal timely.
+Putting the timeliness issue aside, we agree with plaintiff that defendants suffered no loss of rental. Defendants increased the rent, and so prevented the rental by the tenant supplied by plaintiff. This event terminated plaintiffs obligation to pay the rent under the old lease. The choice was the landlords’, and by taking this action they absolved plaintiff of future rental payments. There might also have been a prorating of the garage rental, but the trial judge found that the new tenant supplied by plaintiff would have paid the fee, and we will not disturb this finding of fact. Rova Farms Resort, Inc. v. Investors Ins. Co., 65 N.J. 474, 484, 323 A.2d 495 (1974).
+The last issue in this case is whether N.J.S.A 46:8--21.1 is superseded by the fees section for the Special Civil Part contained in N.J.S.A 22A:2-42. We have no question that the specific security deposit penalty provision takes precedence over the general fee limitation. Defendants contend that Thomas v. Saijwani, supra, requires us to limit the fees awarded to the nominal fees in the general fee statute. We do not read Thomas as limiting the award of fees under the Security Deposit penalty provision of Title 46. In fact, footnote two in Thomas clearly leaves the issue open. 249 N.J.Super. at 162 n. 2, 592 A.2d 247.
+Since the issue left open in Thomas is now before us, we uphold the primacy of the fee provisions of N.J.S.A 46:8-21.1. Where two statutes are in apparent conflict, the specific will take precedence over the general. See New Jersey Transit Corp. v. Borough of Somerville, 139 N.J. 582, 591, 661 A.2d 778 (1995), and the cases there cited. Thomas is inapplicable to cases where a statute or rule permits the award of other specifically described fees in a special civil part proceeding. As Judge Austin noted in the trial court, the fees described in N.J.S.A. 22A:2-42 are the statutory fees allowed in all special civil part cases. They are not the legislatively permitted fees intended to make whole a tenant whose security deposit was not returned and who is forced to resort to the courts for statutory remedies.
+We will not interfere with the quantum of fees awarded. The judge properly required a certification of services, exercised his discretion, and awarded the fees to plaintiff. We see no error.
+Affirmed.
