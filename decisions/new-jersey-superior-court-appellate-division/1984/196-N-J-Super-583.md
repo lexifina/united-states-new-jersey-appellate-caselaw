@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1984-11-05"
+citations: ["196 N.J. Super. 583"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-APPELLANT, v. MICHAEL J. WOOMER, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/196/cases/0583-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 920182
+cites_cases: ["159 N.J.Super. 539", "384 U.S. 757", "57 N.J. 1", "97 N.J. 229"]
+---
+
+# State v. Woomer
+
+## Majority (LONG, J.A.D.)
+
+The opinion of the court was delivered by
+LONG, J.A.D.
+On this appeal, the State challenges an order suppressing the results of a blood test taken of Michael Woomer after his arrest for driving carelessly (N.J.S.A. 39:4-97) and driving while under the influence of alcohol (N.J.S.A. 39:4-50). Woomer had operated a motor vehicle which was involved in an accident. When the police arrived at the scene he admitted to them that he had been drinking. He was observed to have alcohol on his breath, one bloodshot eye (the other was covered by a patch) and some difficulty with balance. One of the officers advised Woomer that he was under arrest for driving while under the influence of alcohol. He was then transported to St. Peter’s Hospital for medical attention. While at the hospital, the officer asked Woomer to sign a consent form to give blood. When Woomer refused, the officer told him that “... we could use force. We could hold his arm down and have the blood taken.” Woomer responded that force would not be necessary and submitted to the blood test which yielded a reading of .225% blood alcohol. No physical force was in fact used in the administration of the test.
+Woomer moved to suppress the results of the test on the basis that the circumstances of the blood taking violated the provisions of N.J.S.A. 39:4-50.2(e) as interpreted in State v. Burns, 159 N.J.Super. 539 (App.Div.1978). The trial judge agreed and suppressed the blood alcohol reading because the officer had threatened the use of force and “the statute says that it [blood] cannot be taken with force or violence or the threat of same____” We find this to be error. Because the statute relied upon by the trial judge is inapplicable to the taking of a blood sample, the order of suppression cannot stand.
+N.J.S.A. 39:4-50.2, the so-called “implied consent” law, sets forth the standards governing the taking of a breath sample. Because the breath sample, unlike other forms of chemical testing, requires the affirmative cooperation of the subject who must “blow up” the balloon, consent to the test is required. State v. Macuk, 57 N.J. 1 (1970). If a subject refuses to consent, the statute provides for the suspension of his or her driving privileges for six months or, in the case of a repeat offender, two years. N.J.S.A. 39:4-50.4. The statute relied upon by the trial judge here is N.J.S.A. 39:4-50.2(e) which prescribes that “[n]o chemical test, as provided in this section, or specimen necessary thereto, may be made or taken forcibly and against physical resistance thereto, by the defendant.” (Emphasis supplied). This provision, like the rest of the “implied consent” law, is limited to a breath sample. State v. Macuk, supra.
+An entirely different set of standards applies to the taking of a blood sample. Unlike a breath sample, a blood sample may be taken involuntarily and no consent is required. As the court in State v. Dyal, 97 N.J. 229, (1984) recently observed:
+A drunken driver arrested by police with probable cause to believe he is intoxicated has no federal constitutional right to prevent the involuntary taking of a blood sample. Of course, the sample should be taken in a medically acceptable manner at a hospital or other suitable health care facility. Schmerber v. California, 384 U.S. 757, 771-72, 86 S.Ct. 1826, 1836, 16 L.Ed.2d 908, 920 (1966). [at 238]
+Indeed, a subject who resists a blood sample can be restrained in a medically acceptable way as could any other uncooperative patient. Here the police properly advised Woomer that they were empowered to use force if necessary to secure the blood sample. We disagree with the trial judge’s characterization of this advice as a “threat.” It was not a threat at all, but an accurate statement of fact. Moreover even if a threat was inferrable from the language used by the police, the result is the same. To the extent that the trial judge held that the blood sample may never be taken with the threat of force, he erroneously imposed a restriction on the taking of blood which is neither prescribed by the statute nor recognized in the Supreme Court decisions interpreting it. State v. Dyal, supra; State v. Macuk, supra. While we might conceive of circumstances in which threats of force or violence are of such an egregious nature as to implicate a due process claim or negatively affect the integrity of the medical environment, that is not the case before us. Nor was it the case before the court in State v. Burns, which merely involved the threshhold question of the need to consent to a blood test. We do not regard the dictum in Burns (159 N.J.Super. at 544), which appears to disapprove “threats” in connection with the taking of blood to contemplate facts such as are presented here.
+Reversed and remanded for trial.
