@@ -1,0 +1,24 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1959-12-31"
+citations: ["59 N.J. Super. 1"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CAMP CLEARWATER, INC., A NEW JERSEY CORPORATION, PLAINTIFF-APPELLANT, v. PETER PLOCK, ET AL., DEFENDANTS, AND GEORGE WILSON, Jr., DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/59/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 419070
+cites_cases: ["332 U. S. 469", "52 N. J. Super. 583", "88 N. J. L. 199", "92 L. Ed. 81"]
+---
+
+# Camp Clearwater, Inc. v. Plock
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals from a judgment entered in the Chancery Division declaring that plaintiff’s title in a certain lake bed is subject to a “right and privilege” for boating, fishing and bathing of defendants George Wilson, Jr. and his wife, Edith Wilson. The judgment was entered pursuant to an opinion rendered by Judge Kolovsky disposing of a number of issues concerning rights in respect of the title to and use of said lake as between the named parties and others. Camp Clearwater, Inc. v. Plock, 52 N. J. Super. 583 (Ch. Div. 1958). Yo other aspect of the said judgment has been appealed.
+We affirm the judgment insofar as it is challenged by the present appeal, and do so for the reasons stated in the opinion cited. The relevant facts are fully stated therein.
+Comment is required, however, as to one phase of the Chancery Division opinion. One of the basic grounds of this appeal is that plaintiff’s title derives from a different chain of title from that in the devolution of which defendant George Wilson, Jr.’s predecessor was granted the lake rights in question and that plaintiff and its predecessors consequently took free of notice of the rights of the parties in the Wilson chain, under Glorieux v. Lighthipe, 88 N. J. L. 199 (E. & A. 1915). In his opinion in this matter Judge Uolovsky made the concession that the cited case and others stand for the proposition that the provisions of the Recording Act (R. S. 46:21-1 el seq.) “are deemed not to charge a purchaser of lands with constructive notice of easements or covenants affecting his lands which appear in an earlier deed by his grantor, conveying property other than the property involved in the purchaser’s chain of title.” (52 N. J. Super., at page 598.) (Emphasis added.) He found, however, that plaintiff was nevertheless bound by notice from the recital in its own deed and in prior deeds in its chain that title was being conveyed “subject to * * * such boating, fishing and bathing rights in and on Lake Iliff as may be outstanding by virtue of prior grants and use.” Such notice called for inquiry which would have disclosed the record of Wilson’s rights. We are in accord with the conclusions last stated and this is dispositive of the appeal. It is consequently unnecessary to determine the correctness of Wilson’s additional contention that the rule of the Giorieux case, supra, is not applicable to easements, but only to restrictions. The case actually dealt only with restrictions, which were treated as equitable servitudes, and the court expressly distinguished the situation with respect to easements, as lying in grant (88 N. J. L., at page 203). We imply no view in that regard.
+Plaintiff’s argument (which does not appear to have been made below) that its position as successor in interest to the wartime United States Alien Property Custodian gives it greater rights than would otherwise be the case is not convincing. As plaintiff concedes, the order vesting the title of the German-American Bund Auxiliary in the federal official in 1943 was expressly made “subject to recorded liens, encumbrances, and other rights of record held by or for persons who are not nationals of designated enemy countries” (emphasis added), and defendants George and Edith Wilson were in the latter category. Their rights were of record, their deed having been recorded, and the reference in the federal order and underlying federal statute to “rights of record” must be understood as intended to refer to what the substantive law of the state where the lands are located would consider to he a right of record. That our law encompasses the Wilson rights under that description is obvious. If the language of the federal vesting order is to be taken to mean, specifically, such “rights of record” as a purchaser from the enemy alien would be subject to under local law, the Wilson rights fall in that classification for the reasons expressed in the opinion of the trial court. We are not concerned here with the summary nature of the possession which the Alien Property Custodian may properly exercise under wartime exigencies. See Silesian American Corporation v. Clark, 332 U. S. 469, 68 S. Ct. 179, 92 L. Ed. 81 (1947).
+Judgment affirmed.
