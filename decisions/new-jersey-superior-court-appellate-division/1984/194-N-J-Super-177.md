@@ -1,0 +1,36 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1984-03-27"
+citations: ["194 N.J. Super. 177"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. DANIEL C. HUNTER, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/194/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 923412
+cites_cases: ["178 N.J.Super. 303", "181 N.J.Super. 586"]
+---
+
+# State v. Hunter
+
+## Majority (BACHMAN, J.S.C.,)
+
+The Opinion of the court was delivered by
+BACHMAN, J.S.C.,
+temporarily assigned.
+A Monmouth County grand jury indicted defendant, charging him with aggravated assault, contrary to N.J.S.A. 2C:12-lb(l) and (2) (Count One), possession of a weapon, contrary to N.J. S.A. 2C:39-4a (Count Two), unlawful possession of a weapon, contrary to N.J.S.A. 2C:58-3 and 20:39-5 (Count Three) and unlawful possession of a weapon, contrary to N.J.S.A. 2C:39-5d (Count Four).
+A non-jury trial was conducted. The judge found defendant not guilty of Counts Two, Three and Four. As to Count One, he found defendant not guilty of aggravated assault, but found him guilty of what he considered to be a lesser included offense, recklessly creating a risk of widespread danger, contrary to N.J.S.A. 2C:17-2c.
+Defendant was sentenced to an indeterminate term in the Youth Reception and Correction Center Complex not to exceed 18 months.
+The accusation against defendant was that he fired a shotgun at a member of the Keansburg Police Department who was investigating reports of gun shots in the neighborhood. The police testified that after they arrested him, defendant told them that he and a friend had been throwing “M-80” firecrackers which are apparently firecrackers which make a great deal of noise. It was on the basis of the throwing of the firecrackers that the court found defendant guilty of the “lesser included offense.”
+The Code of Criminal Justice permits the conviction of a defendant of an included offense; see N.J.S.A. 2C:l-8d which reads as follows:
+A defendant may be convicted of an offense included in an offense charged whether or not the included offense is an indictable offense. An offense is so included when:
+(1) It is established by proof of the same or less than all the facts required to establish the commission of the offense charged; or
+(2) It consists of an attempt or conspiracy to commit the offense charged or to commit an offense otherwise included therein; or
+(3) It differs from the offense charged only in the respect that a less serious injury or risk of injury to the same person, property or public interest or a lesser kind of culpability suffices to establish its commission.
+If the present case is to qualify under this provision, it must be pursuant to 2C:l-8d(l), as an offense which establishes “less than all the facts required to establish ... the offense charged.”
+Defendant was charged with aggravated assault contrary to N.J.S.A. 2C:12-lb. That provision condemns various violent assaultive acts by a person against another person. In this indictment, defendant was charged with an attack upon a specific individual, Officer Smith of the Keansburg Police Department. The crime for which defendant was found guilty however, deals with quite another problem. N.J.S.A. 2C:17-2 is entitled “Causing or Risking Widespread Injury or Damage.” The court found defendant guilty of violating N.J.S.A. 2C:17-2c: “[a] person who recklessly creates a risk of widespread injury or damage commits a crime of the fourth degree even if no such injury or damage occurs.” Widespread injury or damage is defined in N.J.S.A. 2C:17-2e: “[f]or purposes of this section, widespread injury or damage means serious bodily injury to 10 or more people or damage to 10 or more habitations or to a building which would normally have contained 50 or more persons at the time of the offense.”
+The obvious purpose of these provisions is to interdict conduct which would jeopardize many persons rather than one. We have found two reported cases which discuss N.J.S.A. 2C:17-2 generally or 2C:17-2c specifically. Both of these cases illustrate the type of conduct condemned. State v. Iron Oxide Corp., 178 N.J.Super. 303 (Law Div.1980) dealt with the dumping of hazardous waste. In State In The Interest of D.B., 181 N.J.Super. 586 (Cty.Ct.1981), the juvenile had placed a smoke bomb in a high school locker. Both of these cases involved acts which endangered many more than one person.
+The proofs required then for a finding of guilty under N.J. S.A. 2C:17-2 are therefore different and greater in many respects than the proofs necessary for aggravated assault. In the former case, it must be proven that 10 or more people were jeopardized. Clearly, then it is not a lesser included offense of Count One of the indictment.
+We also point out that if our holding was otherwise, that is if we held the conduct here to be a lesser included offense, we would nevertheless disagree with the decision of the trial court. The proofs in this case were absolutely devoid of any evidence that would indicate that anything defendant did created a risk of injury or damage to 10 or more people, or to 10 or more habitations or a building which would have contained 50 or more people. Therefore, we find there was no rational basis for a finding of guilt of the “lesser” offense. N.J.S.A. 2C:l-8e.
+The judgment of conviction is reversed.
