@@ -1,0 +1,35 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1979-07-17"
+citations: ["169 N.J. Super. 412"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE TRAVELERS INSURANCE COMPANY, PLAINTIFF-RESPONDENT, v. GENNARO COLLELLA, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/169/cases/0412-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 881649
+cites_cases: ["1 N. J. 287", "135 N. J. Super. 238", "56 N. J. 41", "59 N. J. 5", "70 N. J. 280"]
+---
+
+# Travelers Insurance v. Collella
+
+## Majority (Fritz, P. J. A. D.)
+
+The opinion of the court was delivered by
+Fritz, P. J. A. D.
+In this appeal by defendant from a summary judgment in an action wherein plaintiff insurance company sought and obtained a judgment for reimbursement for medical expenses and temporary disability compensation paid defendant pursuant to the law of workers’ compensation, there is no dispute regarding the facts.
+Gennaro Collella, an employee of the North American Phillips Company which was insured by plaintiff for workers’ compensation liability, was injured in an automobile collision between his vehicle and a Willingboro Township police car. He collected workers’ compensation benefits for medical expenses and temporary compensation in the amount of $5,202.45 paid by plaintiff.
+Collella instituted an action against the Township of Willingboro and the police officer operating the vehicle at the time of the accident. The matter went to trial and a jury awarded Collella $30,698.37 in damages.
+Subsequently plaintiff filed the complaint here implicated seeking reimbursement from defendant to the extent of the $5,202.45 it paid in workers’ compensation benefits.
+Plaintiff’s motion for summary judgment was granted and defendant was ordered to reimburse plaintiff from the jury award. We believe this to be in error and we reverse.
+Plaintiff argues that N. J. 8. A. 34:15-40(b) is clear in its provision for reimbursement, the sole contingency being that “the sum recovered by the employee * * * is equivalent to or greater than the liability of the employer or his insurance carrier.” This contingency was, in fact satisfied in this case. Defendant contends, on the other hand, that since the responsible tortfeasors were a public entity and a public employee, N. J. S. A. 59:9-2(e) precluded his recovery in the common law suit of any benefits to which he was entitled by virtue of the policy of workers’ compensation insurance, and insulated defendants in that suit from responsibility for paying those. Plaintiff’s response to this defense is that N. J. 8. A. 59 :1~5 renders N. J. 8. A. 59:9-2(q) inoperative to the extent it conflicts with N. J. 8. A. '34:15^-40(b).
+The question is one of first impression involving statutes which apparently are in conflict. In such a situation our effort is to divine as best we can the intent of the Legislature so that in the event they cannot be harmonized, we may declare which shall prevail. See Maritime Petroleum Corp. v. Jersey City, 1 N. J. 287 (1949).
+Nobody doubts that were the tortfeasor one other than a public entity or public employee, the insurance company would unquestionably be entitled to reimbursement under N. J. S. A. 34:15-40(b) and, as a matter of fact, to subrogation, on a conditional basis, to the right of the injured employee to seek damages on account of that for which the insurance company paid the employee, N. J. S. A. 34:15-40 (f). But to permit those rights to extend to actions involving payment by a public agency (or its insurer; see Gucci v. JalJmi, 141 N. J. Super. .297 (App. Div. 1976)) would be to confer upon the commercial insurance company rights beyond those the Legislature gave the injured worker. Eor the worker, being entitled by law to receive benefits from workers’ compensation insurance, cannot retain any common law award against a public entity for such benefits: the amount “shall be deducted from any award against a public entity or public employee recovered by such claimant.” N. J. S. A. 59:9-2 (e).
+Beyond this, it is dear from the very language of the same section that the lawmakers did not intend their legislative relaxation of the bar of sovereign immunity to benefit insurers who received premiums for underwriting the risks they insure. As is noted in the Comment-1972 appended to the statute, abstracted from the Report ¡of the Attorney General’s Task EoTce on Sovereign Immunity (May 1972), this “reflects a recognition that profit-making insurance companies are in a better position to withstand losses which they contract for than are the already economically burdened public entities.”
+Such a legislative approach is not new. By L. 1968, c. 386, the Legislature in 1969 amended N. J. 8. A. 2A:48-1 to relieve municipalities and counties from their otherwise absolute liability for mob or riot damage in cases where the injured party had insurance coverage for the loss. The comment of Chief Justice Weintraub in A. & B. Auto Stores of Jones St., Inc. v. Newark, 59 N. J. 5 (1971), in connection with that statute is as appropriate to this appeal (with the proper substitution of the word “compensation” for the word “riot”) as it was there:
+Thus the contest here is between a surety paid to absorb a riot loss and an involuntary suretj', the taxpayers of the community, who received nothing for their assigned responsibility and who will not profit a penny if the loss remains with the carriers who contracted for that very liability, [at 25]
+And lastly, subrogation — permitted under N. J. S. A. 34:15-40(f) — is expressly prohibited by N. J. S. A. 59:9-2(e), in order to “limit the exposure to liability of public entities,” according to the appended Comment-1972. Dependable Container Serv. v. N. J. Turnpike Auth., 135 N. J. Super. 238 (App. Div. 1975).
+Nor do we think that this clearly expressed legislative intention is at all clouded by the nonrepealer assertion of N. J. S. A. 59 :1-5. We are satisfied the purpose of this very general statute was simply to preserve the direct obligation which a public entity might have to its employees under the workers’ compensation statutes.
+Our views being what they are, the fact that defendant did not include in his action against the public entity and its employee a claim for medical expenses or actual lost wages (temporary disability) has no significance. Indeed, as we have said, since recovery of these damages was assured to the defendant by the workers’ compensation statutes and the mandatory insurance provisions therein, he could not in any event have recovered them even if they had been awarded him. Cases in which the third-party tortfeasor is not a public entity or public employee, such as Schweizer v. Elox Div. of Colt Industries, 70 N. J. 280 (1976), and Bello v. Labor and Industry Comm’r, 56 N. J. 41 (1970), simply are not apposite.
+Reversed and remanded for the entry of judgment in favor of defendant.
