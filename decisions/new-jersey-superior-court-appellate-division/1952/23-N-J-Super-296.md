@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "1952-12-03"
-citations: ["23 N.J. Super. 296", "23 N.J. Super. 304"]
+citations: ["23 N.J. Super. 296"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. EWALD JOHNSON, DEFENDAN
 source_url: "https://static.case.law/nj-super/23/cases/0296-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 455905
-cites_cases: ["12 N. J. Misc. 747", "14 N. J. Super. 234", "19 N. J. Super. 60", "21 N. J. Super. 348"]
+cites_cases: ["12 N. J. Misc. 747", "14 N. J. Super. 234", "19 N. J. Super. 60"]
 ---
 
 # State v. Johnson
