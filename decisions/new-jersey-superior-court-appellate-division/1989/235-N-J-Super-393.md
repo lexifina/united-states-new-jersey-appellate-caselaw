@@ -1,0 +1,42 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1989-08-17"
+citations: ["235 N.J. Super. 393"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HECTOR CAVALLO, PLAINTIFF-RESPONDENT, v. DONALD HUGHES, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/235/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 294879
+cites_cases: ["11 N.J. 600", "111 N.J. 238", "2 N.J. 257", "22 N.J. 221", "34 N.J. 243", "39 N.J.Super. 222", "7 Wis.2d 556", "8 A.L.R.3d 335", "85 N.J.L. 525", "97 N.W.2d 385"]
+---
+
+# Cavallo v. Hughes
+
+## Majority (KEEFE, J.S.C.)
+
+The opinion of the court was delivered by
+KEEFE, J.S.C.
+(temporarily assigned).
+Defendant Donald Hughes appeals from the denial of his motion for a new trial, contending that the jury verdict entered against him must be set aside because the jury used the “quotient method” of assessing liability. We disagree and affirm the judgment under review.
+Plaintiff Hector Cavallo brought suit against the defendant alleging that defendant was negligent in failing to properly maintain the premises where plaintiff’s accident occurred. The case was tried to a jury who found the defendant 58% negligent and the plaintiff 42% negligent. The foreman of the jury announced that the vote with regard to the apportionment of negligence was unanimous. However, when the jury was polled on that question, the following colloquy took place between the court and juror number three:
+Juror No. 3: May I ask a question?
+The court: All we want to know is whether you agree with the decision as given by your foreman or disagree.
+The record reflects that all jurors agreed with the foreman’s report on the question except juror number three. After the jury was polled on the remaining questions on the verdict sheet, there was further colloquy between the court and juror number three as follows:
+The court: Before we record the verdict, [juror no. 3], you indicated that you had a question to ask me with respect to question number five, the division of the percentage. Now, what is the question?
+Juror No. 3: The percentage is like — was it right for us to each one take a vote on what the percentages should be and then we take an average?
+The court: Whatever the final agreement of the Jury was, that’s the verdict. Do you agree that 58 and 42 was the final agreement?
+Juror No. 3: Yes.
+The jury awarded plaintiff $2,643.00 for medical expenses and $1,550.00 for loss wages, as well as $80,000.00 for pain and suffering. The trial judge had instructed the jury that the maximum they could award for medical expenses was $4,557.00 and $2,674.00 for lost earnings. Thus, the jury verdict for medical expenses and lost wages was 42% less than the maximum that could have been awarded under the judge’s instructions for those losses.
+Plaintiff’s counsel alerted the trial judge to his concern that the jury may have misunderstood the judge’s instructions concerning the damage verdict, noting that the jury award for medical expenses and lost wages was reduced in accordance with the percentages of fault allocated by the jury. When the trial judge indicated that he would recall the jury, plaintiff withdrew his objection to the verdict and accepted it. Plaintiff has not cross-appealed.
+On appeal, defendant argues that the apparent error in the damage award, combined with the colloquy between the court and the juror, evidences either a compromise verdict or a quotient verdict requiring a new trial.
+We see no evidence of a compromise verdict. This is not a case in which a close call on liability in favor of the plaintiff resulted in a low verdict on damages, thereby reflecting an improper compromise verdict. Esposito v. Lazar, 2 N.J. 257 (1949); Hendrickson v. Koppers Co., Inc., 11 N.J. 600 (1953); Kopec v. Kakowski, 34 N.J. 243 (1961). The alleged low verdict in this case on the issues of medical expenses and lost wages at best resulted from the jurors’ misperception that it was their function, as opposed to the judge’s function, to reduce plaintiff’s verdict by the percentage of fault attributed to him. Thus, the jury’s alleged error as to damages had no relationship to its consideration of the liability issue. Compromise verdicts result from the improper mix of issues involving liability with those involving damages. Hendrickson, 11 N.J. at 609.
+Quotient verdicts are different from compromise verdicts and present separate problems. Quotient verdicts have long been recognized as illegal in this State, and, indeed, in most jurisdictions. Pushcart v. N.Y. Shipbuilding Co., 85 N.J.L. 525, 527 (S.Ct.1914); Cerf v. Smolderen, 39 N.J.Super. 222, 229 (Law.Div.1956), certif. den. 22 N.J. 221 (1956); Annotation, Quotient Verdicts, 8 A.L.R.3d 335, 345. In Pushcart, the court defined a quotient verdict as one
+where the jury take[s] the sum of each estimate submitted by the jurors and divide[s] it by the number of jurors, ... but in order to hold that the finding of a jury is a quotient verdict it must also appear that there was a positive prior agreement t,o abide by the result of this process, and even if there may have been such an agreement, if the jury subsequently refused to abide by it, and find a verdict greater or less than the quotient, it would not be error. [85 N.J.L. at 527-528],
+This definition of a quotient verdict is generally accepted by all jurisdictions which prohibit such verdicts. Quotient Verdicts, supra, 8 A.L.R.3d at 339. In New Jersey, to prove that a quotient verdict has been rendered, the aggrieved party must establish that through a “positive prior agreement, the jurors bound themselves to abide by the results of the quotient process.” Pushcart, 85 N.J.L. at 527. The objectionable aspect of such agreements is that jurors who participate in quotient verdicts “agree, without knowing in advance what the quotient will be, to be bound by it and to foreclose the opportunity for further discussion and for comparison and evaluation of individual juror’s positions, ... [and such verdicts are thus arrived at] through a process of chance or gambling and are not founded upon discussion, deliberation, reasoning, and collective judgment in which each juror has an opportunity for individual participation.” Quotient Verdicts, supra, 8 A.L.R.3d at 340.
+In this case there is no evidence of a prior agreement which bound the jurors to abide by a quotient to be arrived at regardless of the individual juror’s view of the liability issue. At best, the colloquy between juror number three and the trial judge indicated that each juror simply made his/her own independent assessment of the parties’ liability and agreed that the average of their individual responses was a fair judgment in response to the question asked of them. Without a prior agreement there is nothing wrong with a jury taking the sum of each juror’s separate estimate and dividing it by the number of jurors, so long as the jury ultimately agrees by the required number that the final percentage of fault represents its collective appraisal of the issue to be decided.
+The jury’s approach to the assessment of liability between plaintiff and defendant on the comparative fault question in this case has never been decided before in this jurisdiction. However, our sister state of Wisconsin, to whom we often look for guidance in questions that arise under our comparative fault statute, Waterson v. General Motors Corp., 111 N.J. 238, 256 (1988), has approved the process that occurred here in the absence of proof of a prior agreement to be bound by the quotient method. Schiro v. Oriental Realty Co., 7 Wis.2d 556, 97 N.W.2d 385, 389-390 (S.Ct.1959).
+Affirmed.
+Counsel has not supplied a complete record of the trial proceedings. Therefore, we cannot make an independent judgment of whether liability in this case was a close call. However, for the purpose of argument, we accept defendant's assertion and the trial judge’s opinion that liability was close.
+We recommend in future cases when similar issues arise that the trial judge specifically inquire whether there was a prior agreement. His failure to do so here did not constitute plain error because the juror’s explanation of what occurred appears to be a complete explanation of what occurred during deliberations. Moreover, defendant, who has the burden of proving the existence of such prior agreement, failed to request any follow-up questions.
