@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1969-03-14"
+citations: ["105 N.J. Super. 49"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MASTER AUTO PARTS, INC., A CORPORATION OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. M. & M. SHOES, INC., A CORP. OF NEW JERSEY, MORRIS RUBINSTEIN, AND M & M DISCOUNT CENTER, DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/105/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 287588
+cites_cases: ["33 N. J. 404", "35 N. J. 459", "49 N. J. 116", "59 N. J. Super. 306", "63 N. J. Super. 153", "67 N. J. Super. 414", "99 N. J. L. 166"]
+---
+
+# Master Auto Parts, Inc. v. M. & M. Shoes, Inc.
+
+## Majority (Sulliyau, S. J. A. D.)
+
+The opinion of the court was delivered by
+Sulliyau, S. J. A. D.
+Defendant, pursuant to leave granted, appeals from am order of the trial court denying its application under N. J. 8. 2A :18-60 to transfer a summary proceeding, for the removal of a tenant, from the county district court into the Superior Court. For reasons hereinafter detailed, we conclude that the application should have been granted.
+Plaintiff is the owner-landlord of certain commercial premises in the Borough of Boselle. Defendant is the tenant (the three named defendants will be referred to in the singular). The main portion of the premises is occupied under a long-term lease which provides for a monthly rental of $400. The attic is also occupied under an oral lease with a monthly rental of $100.
+In September 1968 plaintiff filed a summary proceeding to remove the tenant, alleging (except for the oral lease of the attic) that the tenant had failed and refused to pay for utilities consumed and used by it at the premises since October 1963, in violation of a covenant of the lease. It was not charged that the tenant was in default in the payment of rent.
+Defendant filed a motion to transfer the proceeding to the Superior Court, and in its supporting affidavit averred that it conducts a substantial retail business at the location, has expended large sums of money in the improvement of the leased premises in order to make them suitable for business purposes, and has made a large investment in establishing its reputation and building good will at the location. Defendant asserted that it had a good defense to the tenancy suit.
+At the hearing before the trial court it was revealed that the landlord has entered into a contract to sell the premises to Acme Supermarkets, which contract calls for delivery of the premises free and clear of tenancies. In denying the motion, the trial court observed that the county district court was “perfectly capable” of determining the issues involved.
+By statute, proceedings in the county district court for the removal of a tenant are heard in a summary manner and are not appealable except on the ground of lack of jurisdiction. N. J. 8. 2A: 18-5 9. The action is designed to afford the landlord a speedy and inexpensive method of recovering possession of his property. However, the statute recognizes that certain types of proceedings to remove a tenant involve rights or issues too important to be heard in a summary manner without a right of appeal. Accordingly, the statute provides that either party may apply to the Superior Court which may, “if it deems it of sufficient importance,” order the cause transferred to the Superior Court, where it shall be tried before a jury, unless a jury is waived, and shall be appealable.
+We have no decisions in this State directly interpreting the statutory language “of sufficient importance.” However, recent tenancy cases dealing with commercial leases of business properties have pointed out that the removal procedure was available. See Vineland Shopping Center, Inc. v. DeMarco, 35 N. J. 459 (1961); Carteret Properties v. Variety Donuts, Inc., 49 N. J. 116 (1967). In McCrory Stores Corp. v. S. M. Braunstein, Inc., 99 N. J. L. 166 (E. & A. 1933), the court, in referring to a tenancy proceeding in the then district court, with its restricted right of review, stated:
+“It may not be out of place to add that the legislature has not left the tenant of a great store, factory, hotel, &c., wholly to the mercy of a small cause court; for by statute the tenant may *' * * apply to a justice of the [former] Supreme Court, who, if he deem the case of sufficient importance, may order a removal into the [former] Circuit Court, where it shall be tried * * * and writ of error lies therefrom to the Supreme Court. * * *” (at p. 169)
+It has been stated that the application to transfer a tenancy proceeding is addressed to the discretion of the trial court. Carteret Properties v. Variety Donuts, Inc., supra, 49 N. J., at p. 130. However, discretion means legal discretion in the exercise of which the trial judge must take account of the applicable law and the particular circumstances of the case, to the end that a just result is reached. If he goes wide of the mark, the appellate court has a duty to act. Kavanaugh v. Quigley, 63 N. J. Super. 153 (App. Div. 1960); Fanwood v. Rocco, 59 N. J. Super. 306 (App. Div. 1960), affirmed 33 N. J. 404 (1960); State v. Johnson, 67 N. J. Super. 414 (App. Div. 1961).
+In the instant case the property involved is a commercial building, the major part of which the tenant occupies under a long-term lease. It conducts its retail business at that location. It can hardly be denied that ouster from these premises would seriously affect the tenant, which represents that it has expended large sums of money in improving these premises and has made a large investment in establishing its reputation and good will at the location.
+It is also worthy of note that the alleged breach of the written lease relates to the alleged nonpayment of bills for utilities since October 1963, and that the landlord did not see fit to bring removal proceedings against the tenant, and charge a breach of the lease, until September 1968, and after it had entered into a contract to sell the premises free and clear of tenancies.
+All of the foregoing circumstances add up to a situation in which the summary proceeding procedure in the county district court, with its restricted right of review, was not appropriate. The matter was “of sufficient importance” within the meaning of the statute and should have been transferred to the Superior Court.
+The order denying defendant’s motion is vacated and the matter remanded with direction that the proceedings be transferred to the Superior Court under N. J. 8. 2A :18-60.
