@@ -1,0 +1,76 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1983-12-12"
+citations: ["192 N.J. Super. 290"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. ALBERT DICKENS, JR., DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/192/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 903217
+cites_cases: ["174 N.J.Super. 14", "384 U.S. 436", "441 U.S. 369", "446 F.Supp. 107", "451 U.S. 477", "52 N.J. 35", "537 F.2d 1219", "90 N.J. 18"]
+---
+
+# State v. Dickens
+
+## Majority (J.H. COLEMAN, J.A.D.)
+
+The opinion of the court was delivered by
+J.H. COLEMAN, J.A.D.
+Following a jury trial, defendant was found guilty of conspiring with Larnell Holcomb, Dewey Upshaw, Clarence Waldron and Tyrone Coleman to commit an armed robbery contrary to N.J.S.A. 2C:5-2 and N.J.S.A. 2C:15-1. He was sentenced to a custodial term of ten years with five years of parole ineligibility.
+On this appeal, defendant contends:
+1. THE STATE FAILED TO MEET ITS HEAVY BURDEN WITH RESPECT TO DICKENS’ INTELLIGENT WAIVER OF HIS MIRANDA RIGHTS.
+2. THE COURT’S INSTRUCTION AS TO THE LAW OF CONSPIRACY AND CIRCUMSTANTIAL EVIDENCE WERE CONFUSING AND MISLEADING TO THIS LAY JURY AND MANDATES REVERSAL OF DEFENDANT’S CONVICTION.
+3. THE TRIAL COURT’S COMMENT UPON THE EVIDENCE PREJUDICED DEFENDANT AND CONSTITUTED REVERSIBLE ERROR.
+4. THE TRIAL COURT COMMITTED PLAIN ERROR WHEN IT CHARGED THE JURY THAT THE STATE COULD MEET ITS BURDEN OF PROOF THROUGH “WHAT DEFENDANT SAYS.”
+5. THE COURT ERRED BY DENYING DEFENDANT’S MOTION FOR JUDGMENT OF ACQUITTAL.
+6. THE TRIAL COURT IMPROPERLY DENIED DEFENDANT DICKENS’ MOTION FOR SEVERANCE DUE TO PREJUDICIAL JOINDER.
+7. THE TRIAL COURT’S SANCTIONING OF DELIBERATIONS AFTER MIDNIGHT ON GOOD FRIDAY HAD A COERCIVE EFFECT ON THE JURY.
+8. THE TRIAL COURT ERRED BY PERMITTING OFFICER STANKO-VITS TO STATE THAT THE CAR USED IN THE ROBBERY HAD NOT BEEN REPORTED STOLEN.
+9. THE TRIAL COURT ERRED BY DENYING DEFENDANT’S MOTION FOR CHANGE OF VENUE OR, IN THE ALTERNATIVE FOR A FOREIGN JURY TO BE UTILIZED.
+10. THE TRIAL COURT ABUSED ITS DISCRETION BY SENTENCING APPELLANT DICKENS TO A LENGTHY CONSECUTIVE TERM OF CONFINEMENT AND BY LATER DENYING DEFENDANT’S MOTION FOR A REDUCTION IN SENTENCE.
+11. THE AGGREGATE EFFECT OF THE COURT’S ERRORS WAS TO DEPRIVE DEFENDANT OF A FAIR AND IMPARTIAL TRIAL.
+The State’s theory against defendant essentially is that he conspired with Holcomb and others to rob the University Savings Bank in North Brunswick between August 27 and 28, 1980. Defendant’s role was to provide transportation with his girlfriend’s automobile. Almost immediately after the robbery, the getaway car crashed into a tree while the police were in hot pursuit. The four co-felons and occupants of the getaway car were arrested on August 28, 1980 or shortly thereafter. Defendant, however, was not arrested until December 30, 1980. After the arrest by the FBI in Trenton, defendant was turned over to Detective Zimmerman of the Middlesex County Prosecutor’s office.
+Zimmerman transported defendant to the Middlesex County Prosecutor’s office. Defendant was asked to give a statement. The following colloquy ensued between defendant and Zimmerman before the statement, later admitted as evidence, was given:
+Q. Would you be willing to answer some questions about that car [1969 Cadillac registered to Bernice Evans, defendant’s girlfriend] and about anything that you can tell me about the bank robbery?
+A. I will do my best to cooperate in every way that I can. But I must follow my lawyer’s advice and not sign anything without consulting him first.
+Q. Okay.
+Before I even talk to you about anything, what I’d like to do is read your Miranda warning, the rights that you have while you’re in this room, and these rights would be consistent, any time that you feel you don’t want to continue to talk to us, you just state that, all right?
+A. Yeah.
+Q. First, you have the right to remain silent. Do you understand that?
+A. Yes.
+Q. Second, if you decide to make any statement, you must understand that it may later be used against you in the event of a trial. Do you understand that?
+A. Yes.
+Q. If you initially decide to make a statement but during the course of questioning decide you do not wish to continue, you have the right to stop. Do you understand that?
+A. Yes.
+Q. Four. You have a right to have a lawyer present. Do you understand that?
+A. Yes.
+Q. In the event you cannot afford counsel, the State will provide counsel. Do you understand that?
+A. Yes.
+Q. I’d like you to look at this card that I just read to you, and if you would, I’d like to ask you to sign it, put the time on and date it. Would you do that?
+A. Yes.
+Q. All right. I’ll put my initials on it, and Investigator Rizzo, you put your initials on the card.
+A. Now, as far as we know, my attorneys are not in the buildings.
+Q. The only thing I can tell you which I do know is that an attorney by the name of William Kunstler, and another one by the name of Richard Malgran, M-a-l-g-r-a-n, of Venezia, Nolan offices in Woodbridge, New Jersey, have called the F.B.I. office in Trenton, and spoke with the agent in charge, Dave Williams, and asked if you were arrested, and Mr. Williams explained to both of them in my presence that you were arrested on the charges from Middlesex County, and that you were going to be released to us and transported to Middlesex County on these charges. To my knowledge, again, neither one are in the building now.
+A. We have to put in the record that this statement has to stand the approval of the attorneys before we can submit it as evidence. Like I said, I want to cooperate 100 percent, but at the same time, I don’t want to do nothin’ that my attorneys would, you know, rule against. So what I’m saying is, let it show in the record that I’m making this statement, voluntarily, with the understanding that my attorneys have the final say about my signature and whatever.
+Q. All right. The only thing that I could comment on is that attorneys eventually will have the opportunity to read the statements during discovery. If they want to make any motions to the Courts about the statement, any legality of anything like that there’s no problem as far as we’re concerned. Again, as long as it’s a voluntary statement, you still have the right at any time not to answer any question or to stop. Do you understand that?
+A. Yes. You’re saying this statement will not be given to the attorneys until the trial?
+Q. No. The attorneys have a procedure that they go by that they follow the rules set down by the State of New Jersey—
+(Mr. Graves is now in the room.)
+Q. (Continued)—that they follow the rule that they request from the Prosecutor’s office all of the materials that’s involved in the case and discoverable. Just walking in the door is Assistant Prosecutor Frank Graves. I believe with his knowledge of the law he could comment a lot better on it than I can. If you’d direct your questioning to him.
+A. Mr. Prosecutor, we’re saying here that we want to give a statement, but we want to know if my lawyers will have access to this statement or will they have to request the statement from your office before they get a chance to go over this?
+MR. GRAVES: No, that will be part of discovery. After it’s typed up, everybody gets a copy. Just like your lawyer is going to get a copy of everything that everybody else has said. They will all get a copy of anything you said. Upshaw talked to us, they will all get copies when they get discovery.
+THE WITNESS: Well, then as long as it’s understood that I’m making this statement with the understanding that I’m not signing it. My lawyers must okay this, you know, before I can say, you know, this is it. In other words, I want to be as helpful as I can without, you know, the lawyers saying, hey, what are you doin’? You didn’t give us the statements. I don’t want to get myself in trouble with them. I just want to make sure that everybody is getting a fair shake, especially me.
+Q. Like I said, and I believe Mr. Graves, if he wants to comment on it, as long as it’s a voluntary statement and you’ve been read your rights, if at any time you feel you don’t want to answer questions, you’ve got the right to do that.
+A. Okay. [Emphasis supplied]
+Dickens gave an oral statement consisting of 21 transcribed pages. At trial, the prosecutor introduced the statement pursuant to Evid.R. 63(7) to suggest to the jury that defendant lied when he denied knowing Holcomb and when he described the locations and movements of the 1969 Cadillac in August 1980.
+On this appeal, defendant first contends that his oral statement was admitted as evidence in violation of Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966). He argues that his discussion with Zimmerman and Graves demonstrates that he did not understand the evidentiary impact of making the statement without the presence of his attorney; consequently, he did not knowingly and intelligently waive his Fifth Amendment rights. We find this argument to be persuasive and consistent with our holding in State v. Fussell, 174 N.J.Super. 14 (App.Div.1980). See also Edwards v. Arizona, 451 U.S. 477, 101 S.Ct. 1880, 68 L.Ed.2d 378 (1981).
+The trial judge’s reliance on State v. McKnight, 52 N.J. 35 (1968) is misplaced. In McKnight defendant was given his Miranda warnings and he refused to make a statement because he wanted a lawyer present. No one attempted to take a statement and defendant was placed in the county jail. Approximately six or seven hours later, defendant sent the prosecutor a note saying it was “very important that I see him right away for he wanted me to answer some question....” The prosecutor met with defendant the same day the note was received. After defendant expressed the desire to tell what he knew about the murder without the aid of counsel, he was questioned after Miranda warnings were again given to him. Defendant then gave a full confession. When he was asked to sign his statement, only then did he ask if his attorney could read it before he signed it. The statement was never signed. The court rejected defendant’s contention of no waiver of his right to counsel. It said
+[T]he warnings were perfectly clear that anything he said could be used against him. It is absurd to suppose that a man who confessed and led the police to the murder weapon could have thought that none of that would matter if he declined to sign a statement embodying what he had said and done. Rather his request at the end of the statement that his attorney see it before it is signed reflected a desire to be assured that it fairly related his version of the criminal event .... [at 46-47; emphasis supplied]
+In Fussell defendant was asked if he would give a statement after he had been given the Miranda warnings. Defendant responded “I would like to wait for legal counsel after taking [sic], I would like him to read the statement before I answer.” Defendant was then asked “Don’t you want to give us this statement?” The answer was “Sure, I’ll give you a statement.” Defendant then confessed to the crimes. There, we held that the confession was inadmissible because it was obtained after defendant had asserted his right to counsel. We observed:
+While defendant’s request for counsel may have been somewhat ambiguous, nevertheless we deem it to have been a sufficient assertion of his right to counsel to have required Detective Clark to stop any further substantive interrogation until it was clearly determined that defendant desired to proceed without counsel. See United States v. Riggs, 537 F.2d 1219, 1222 (4 Cir.1976); United States v. Chansriharaj, 446 F.Supp. 107, 108 (S.D.N.Y.1978). In Riggs the court set forth what we believe to be the proper procedure to follow in circumstances similar to those present here:
+[Wjhere a suspect makes a statement which arguably amounts to an assertion of his Miranda rights and the interrogating agent recognizes that the statement is susceptible of that construction, his questioning with regard to the crime he is investigating should immediately cease and he should then inquire of the suspect as to the correct interpretation of the statement. Only if the suspect makes clear that he is not invoking his Miranda rights should substantive questioning be resumed. [174 N.J.Super. at 21]
+Here, we are satisfied that the attempts made by the detective and assistant prosecutor to clear up the ambiguity and contradiction by informing defendant that his attorney would get the statement in the discovery fails to overcome the presumption that defendant did not waive his right to counsel. See North Carolina v. Butler, 441 U.S. 369, 373, 99 S.Ct. 1755, 1757, 60 L.Ed.2d 286 (1979). Before defendant was given the Miranda warnings, he made known he was willing to cooperate “[b]ut I must follow my lawyer’s advice.... ” Immediately after he had been given the Miranda warnings, defendant stated “[w]e have to put in the record that this statement had to stand the approval of the attorney before we can submit it as evidence.” In the face of these assertions by defendant, it was incumbent upon the interviewer to cease questioning defendant until his attorney arrived. We perceive no meaningful difference between a defendant who says, “I don’t want to give a statement without the presence of counsel” and one who says “I will give a statement provided that it is approved by my attorney before it can be used as evidence.” In either event there is no waiver of the right to the presence of counsel. The assertion in either case is that the accused does not wish to deal with the police except through counsel. See State v. McCloskey, 90 N.J. 18, 26, n. 1 (1982). Assuring defendant that any statement would be given to his attorney in discovery in the circumstances here presented is functionally equivalent to tricking defendant into answering questions, a practice condemned by Miranda and its progeny. It was clearly the perception of defendant that his statement could not be used as evidence if his attorney objected after receiving it in discovery. The police and the assistant prosecutor knew that defendant was proceeding on the basis of this erroneous assumption induced by the police interviewer. Where, as here, the circumstances cast doubt on the knowing and intelligent quality of the alleged waiver, there can be no waiver. State v. McCloskey, supra at 28.
+We are unable to conclude that the admission of defendant’s statement is harmless error. The proofs against defendant were extremely slender and only circumstantial. The use of the statement to show that defendant lied to the police about knowing Holcomb and about the movements of the getaway car was designed to inform the jury that defendant had a motive for lying. The motive was to cover up his involvement in the robbery. In these circumstances, the error requires reversal. See State v. McCloskey, supra at 30-32.
+The remaining contentions raised are clearly without merit. The judgment of conviction is reversed. The matter is remanded to the Law Division for a new trial. We do not retain jurisdiction.
