@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1974-06-28"
+citations: ["129 N.J. Super. 145"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STANLEY WICKS, PLAINTIFF-RESPONDENT, v. THE CENTRAL RAILROAD COMPANY OF NEW JERSEY, DEFENDANT-APPELLANT. HERBERT HUBER, PLAINTIFF-RESPONDENT, v. THE CENTRAL RAILROAD COMPANY OF NEW JERSEY, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/129/cases/0145-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 320474
+cites_cases: ["127 N. J. Super. 391", "142 F. 2d 847", "158 F. 2d 481", "180 N. E. 114", "258 N. Y. 447", "344 U. S. 367", "38 L. Ed. 2d 733", "41 F. 2d 617", "414 U. S. 1106", "449 F. 2d 1238", "469 F. 2d 288", "63 F. Supp. 928", "63 N. J. 351", "94 S. Ct. 831", "97 L. Ed. 395"]
+---
+
+# Wicks v. Central Railroad
+
+## Majority (Meanor, J. A. D.)
+
+The opinion of the court was delivered by
+Meanor, J. A. D.
+In these actions brought under the Federal Employers’ Liability Act, 45 U. S. C. A. § 51 et seq., there were judgments for plaintiffs. Prejudgment interest was assessed against defendant pursuant to R. 4:42 — 11(b). This appeal challenges the application of that rule to an E.E.L.A. action.
+R. 4:42-11(b), whose validity was sustained in Busick v. Levine, 63 N. J. 351 (1973), app. dism. 414 U. S. 1106, 94 S. Ct. 831, 38 L. Ed. 2d 733 (1973), requires the assessment of prejudgment interest in all tort actions at the rate of 6% a year “from the date of the institution of the action or from a date 6 months after the date of the tort, whichever is later.” The rule is mandatory; no discretion is involved in its application. Ford v. Garvin, 127 N. J. Super. 391 (App. Div. 1974).
+We may start with the elementary proposition that actions falling within the ambit of the F.E.L.A. are governed exclusively by federal law as to both liability and damages. South Buffalo R. Co. v. Ahern, 344 U. S. 367, 371-372, 73 S. Ct. 340, 97 L. Ed. 395 (1953); Anderson v. Burlington Northern, Inc., 469 F. 2d 288 (10 Cir. 1972). Federal law makes provision only for interest on a judgment, 28 U. S. C. A. § 1961, and it has been held consistently that prejudgment interest may not be awarded in an F.E.L.A. action. See, e. g., Murmann v. N. Y., N. H. & H. R. Co., 258 N. Y. 447, 180 N. E. 114 (Ct. App. 1932); Chicago, M., St. P. & P. R. Co. v. Busby, 41 F. 2d 617, 619 (9 Cir. 1930); Murphy v. Lehigh Valley R. Co., 63 F. Supp. 928 (E. D. N. Y. 1945), mod. 158 F. 2d 481 (2 Cir. 1946); Kozar v. Chesapeake & Ohio R. Co., 449 F. 2d 1238, 1244 (6 Cir. 1971); Louisiana & Arkansas R. Co. v. Pratt, 142 F. 2d 847 (5 Cir. 1944). Therefore, it was error to assess prejudgment interest under R. 4:42-11(b) on these F.E.L.A. awards.
+Plaintiffs seek dismissal of the appeal on the ground that it was not timely brought. The verdicts were returned March 14, 1973. Immediately thereafter counsel and court became occupied in calculating the exact amount of the judgments to be entered because of the jury’s finding of 5% contributory negligence on the part of one plaintiff and 2% on the other. Then, the court directed the entry of judgment with interest and -costs. Obviously, this was a reference to interest on the judgments. Prejudgment interest under R. 4:42-11(b) was not mentioned.
+The following day, March 15, 1973, the clerk of the court in which the cases were tried forwarded a certificate for the-entry of judgment to the Superior Court clerk in Trenton. The certificate recited that judgment was to be entered in favor of plaintiff Wicks in the amount of $33,250 “W/Interest pursuant to Rule 4:42-11,” with a like recitation following notation that judgment was to be entered in favor of plaintiff Huber for $24,500. Judgment was entered in accordance with this certificate on March 20, 1973. These judgments did not include an allowance for prejudgment interest. They simply recited debts in the principal amounts with a notation that their entry was with interest and costs.
+On May 1, 1973 defendant filed a motion returnable May 17 to amend the judgment to eliminate the allowance of prejudgment interest. This motion was denied by order dated May 21, 1973 and an appeal from that order was taken June 28, 1973.
+It is the position of plaintiffs that since the appeal was taken more than 45 days following the entry of judgment, it was out of time. R. 2:4—1 (a).
+Defendant, however, is not appealing from the judgment, but from the May 21, 1973 order denying its motion under B. 4:49-l to amend the judgment by excising therefrom the allowance of prejudgment interest. Plaintiffs contend that this motion was not timely since it was not made within ten days of the entry of judgment as required by R. 4:49-2:
+Except as otherwise provided by R. 1:13-1 (clerical errors) a motion to alter or amend a judgment shall be served not later than 10 days after entry of the judgment.
+R. 1:13-1 provides :
+Clerical mistakes in judgments, orders or other parts of the record and errors therein arising from oversight and omission may at any time be corrected by the court on its own initiative or on the motion of any party, and on such notice and terms as the court directs, notwithstanding the pendency of an appeal. [Emphasis added]
+It is apparent on this record that to include prejudgnient interest in these cases did not result from a judicial decision, hut from that of the clerk. Nowhere in the record is there evidence of any judicial ruling or order regarding prejudgment interest. Since the error in assessing prejudgment interest was not judicial hut clerical, a motion to correct such error may be made at any time. R. 4:49 — 2; R. 1:13-1. The appeal of June 28, 1973 from the denial of the motion to amend the judgment by correcting the clerical error in including prejudgment interest was well within time.
+B. 4:42-ll(b) states that “the court shall, in tort actions, including product liability actions, include in the judgment interest at 6% per annum on the amount of the award from the date of the institution of the action or from a date (3 months after the date of the tort, whichever is later.” The rule mandates judicial, not clerical action and its application is not to be left to the lay judgment of court clerks. It is essential that the applicability of the rule and the amount of prejudgment interest he the result of judicial ruling. If that ruling cannot he made immediately upon return of a verdict to which the rule applies, prompt arrangements should be made for resolution of any disputes upon the topic. When the amount of prejudgment interest is determined, judgment should be entered in an amount reflecting the sum of the verdict and the prejudgment interest.
+The judgments below are modified to eliminate therefrom the allowance of prejudgment interest.
