@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1976-11-15"
+citations: ["144 N.J. Super. 535"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOUISE MILES, PETITIONER-APPELLANT, v. THEOBALD INDUSTRIES, RESPONDENT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/144/cases/0535-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 864686
+cites_cases: ["39 N. J. 555", "47 N. J. 163", "59 N. J. 190", "64 N. J. 159", "71 N. J. 398", "77 N. J. Super. 147", "88 N. J. Super. 131"]
+---
+
+# Miles v. Theobald Industries
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The novel question presented by this appeal is whether a person who stood in loco parentis to a deceased worker is a “parent” qualified for Workmen’s Compensation death benefits within the meaning of N. J. S. A. 34:15-13 (f).
+The relevant facts are not in dispute. When Rayfield Scott (the deceased) was an infant he was taken in by his mother’s cousin, the petitioner. She raised him through childhood and thereafter he lived with her until his death at age 34. Decedent always referred to petitioner as mother and he used the name Miles until two or three years before his death. At that time he changed his name to Scott, which apparently was the name of his natural father.
+Although petitioner was neither the natural nor adoptive mother of the deceased, as the judge of compensation noted, there existed a close relationship quite similar to that of parent and child. The judge concluded, however, that an award of benefits to petitioner would improperly extend the statutory definition of dependents. Accordingly, he granted respondent’s motion to dismiss the petition. Despite onr own sympathy with petitioner, we are constrained to affirm the dismissal.
+In relevant part, N. J. S. A. 34:15-13(1) provides:
+The term “dependents” shall apply to and include any or all of the following who are dependent upon the deceased at the time of accident or the occurrence of occupational disease, or at the time of death, namely: Husband, wife, parent, stepparents, grandparents, children, stepchildren, grandchildren, child in esse, posthumous child, illegitimate children, brothers, sisters, half brothers, half sisters, niece, nephew. Legally adopted children shall, in every particular, be considered as natural children.
+We are well aware of the “liberal trend which is the hallmark of our courts in the area of workmen’s compensation,” and that the “reason and spirit of the Act rather than its letter must prevail.” Parkinson v. J & S Tool Co., 64 N. J. 159, 167-168 (1974); Panzino v. Continental Can Co., 71 N. J. 398 (1976). But while the act is to be construed to bring as many cases as possible within its coverage, Dawson v. Hatfield Wire & Cable Co., 59 N. J. 190, 197 (1971), the qualifications for compensation have been determined by the Legislature and it is not within the judicial province to extend benefits beyond the limits of the statute. Jones v. N. J. Manufacturers Cas. Ins. Co., 77 N. J. Super. 147, 152 (App. Div. 1962), aff’d o. b. 39 N. J. 555 (1963).
+We do not view the liberal trend in workmen’s compensation cases as vitiating the requirement that death benefits “are to be determined by a finding that the person claiming the benefits is not only an actual dependent of the deceased worker but also bears to the worker one of the specified statutory enumerated relationships.” Stellmah v. Hun- terdon Coop. G.L.F. Service, Inc., 47 N. J. 163, 170 (1966). Assuming actual dependency in the present case, we are unable to conclude that petitioner falls within any of the statutory relationships and specifically that of “parent.”
+The term “parent” is not defined in the act but we believe the plain wording of N. J. S. A. 34:15-13(f) prevents the inclusion of a person standing in loco parentis within that class. If the word “parent” were intended to be broad enough to include a de facto parent, the Legislature would not have found it necessary to specify stepparents as an additional class of dependents. Stepparents would have been considered within the term parent along with those standing in loco parentis to the deceased worker. So, too, we find it significant that the Legislature specified that “legally adopted children” shall be considered as natural children. The implied negative is that children not legally adopted (e. g., informally “adopted”) are outside the definition of “dependents.”
+In Stellmah, supra, the court was concerned with a Canadian child who was in the process of being adopted by the worker and his wife when the worker died. The Workmen’s Compensation Division found the child was not ‘legally adopted” but awarded compensation upon a theory of in loco parentis. (At 169).
+The decision was upheld in County Court but reversed by the Appellate Division upon the finding that the Legislature had not intended to include within the enumerated classes those infants to whom the deceased stood in loco parentis. 88 N. J. Super. 131, 136 (App. Div. 1965). Our Supreme Court agreed that death benefits could not be awarded under a theory óf in loco parentis “as that rule is no more than a description of ‘actual dependency’ [citations omitted].” 47 N. J. at 171. The child, however, was found to be a dependent within the statute upon an analysis of Canadian law which produced the conclusion that the child had indeed been legally adopted at the time of the worker’s death. (At 178-179).
+The Stellmah decision made clear that the phrase “legally adopted child” excluded the “grafting of persons into and upon the family stock of a workman * * * otherwise than by some adoption proceedings conforming to the law purported to govern the subject person [citations omitted].” (At 173). In other words, the fact that a deceased worker stood in loco parentis to a child is insufficient to give that child the status of a dependent. In view of this it would be anomalous for us to now hold that when it is the “child” who is the deceased worker, the person standing in loco parentis is a “parent” within the meaning of N. J. S. A. 34:15-13 (f).
+We have reviewed the numerous out-of-state cases cited to us in petitioner’s extremely thorough brief. Hone of them persuade us to a result different than the one we have reached by reference to our own statute and case law.
+The dismissal of the petition is affirmed.
+The granting of this motion preempted determinations on the contested issues of whether decedent’s death arose out of and in the course of his employment and whether or to what extent petitioner was dependent upon the deceased.
