@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1953-08-21"
+citations: ["27 N.J. Super. 135"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE ESTATE OF ANNA KOLBECK, DECEASED. JOSEPH J. KOLBECK, PLAINTIFF-APPELLANT, v. BEATRICE LIST, EXECUTRIX OF THE ESTATE OF ANNA KOLBECK, DECEASED, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/27/cases/0135-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 392266
+cites_cases: ["140 N. J. Eq. 548", "214 Ky. 370", "283 S. W. 444", "8 N. J. 506"]
+---
+
+# Kolbeck v. List
+
+## Majority (Clapp, J. A. D.)
+
+The opinion of the court was delivered by
+Clapp, J. A. D.
+This is an appeal from the refusal of a County Court to remove Beatrice List from office as executrix under the will of her sister, Anna Kolbeck.
+Mrs. List’s interests and obligations are in conflict. She is given nothing under that will. However, she is a beneficiary as well as executrix under the will of Mrs. Kolbeck’s husband, whose death followed his wife’s death. The conflict arises over a mortgage made to Mr. and Mrs. Kolbeck, which, according to its terms, when read with L. 1947, c. 206, N. J. S. A. 46:2D-1, they took as joint tenants. The plaintiff in the action for removal — he is the son of Mrs. Kolbeck and the stepson of Mr. Kolbeck — claims that the parties intended to acquire the mortgage as tenants in common.
+Such interest, if any, as Mrs. Kolbeck’s estate may have in the mortgage is very nearly its sole asset. Plaintiff, as a beneficiary of her estate, wants the mortgage reformed so as to have the tenancy in common established; Mrs. List is opposed. After taking this appeal, plaintiff in behalf of his mother’s estate brought an action, now pending, for the reformation of the mortgage, joining Mrs. List as a defendant. If reformation is granted, Mrs. List personalty, as one of the beneficiaries under Mr. Kolbeck’s will, stands to lose some $2,000.
+The law on this matter is set out in Fidelity Union Trust Co. v. Guaranty Trust Co., 140 N. J. Eq. 548 (E. & A. 1947). No fiduciary will be allowed to retain his office where, at least in a matter of overwhelming importance to the estate in his charge, he is resolved to do “battle” (such was the language of the case) with the estate in a private cause of his own. The case spoke in strong terms. Good faith the fiduciary may have, but that is not enough. The law has laid upon him the duty to enlist, with all bis loyalty, on the side of the estate. Further see In re Koretzky, 8 N. J. 506, 528 (1951); Warden v. Hoover’s Adm’r., 214 Ky. 370, 283 S. W. 444 (Ct. App. 1926).
+Whether with the devices for discovery now provided by the law, the plaintiff has aught to gain in the reformation action by having Mrs. List removed, has not been made to appear. Does, then, the rule we speak of operate to remove her from office because of this defection in her allegiance to her trust, even though there is no showing that the trust will suffer thereby? In our opinion, at least in the present case, the rule is operative, regardless. Eor here is a case — and there is something rather offensive about it- — of a fiduciary who insists upon keeping her office and, at the same time, partly for her own gain, seeks to defeat a claim which, such as it is, constitutes practically the entire estate. The fiduciary’s conduct at this juncture is repugnant to nearly the whole reach of her obligations.
+The nature of the case is somewhat exposed by an assertion of Mrs. List’s counsel made on the argument. There is some suggestion of the matter, too, in his brief. He said he thought that in the reformation action he would advise her not to open the door under N. J. S. 2A :81 — 2 so as to let into evidence statements (assuming them to be otherwise admissible) of Mrs. Kolbeck to plaintiff, advantageous to Mrs. Kolbeck’s estate. We need not consider whether in that action, in which Mrs. List is an adverse defendant, the statute gives her the right to open or close the door to such evidence — that is, whether for the purpose of the statute she there is to be looked upon as the true representative of the estate. • The plain fact remains that her duty as executrix of her sister’s estate is to see that all proper testimony favorable to the cause of reformation is put in. A fiduciary’s private interests warring with his trust dull his perception of his obligations to the trust.
+We do not think any censure is to be visited upon Mrs. List in the circumstances here. Eor do we undertake to pass judgment upon the claim for reformation, except to say that there is some color to it, sufficient to warrant her removal. Of course, no fiduciary should be required to relinquish his office because a legatee asserts that the estate has some claim against the fiduciary, when that claim is plainly without merit.
+It is said that the plaintiff is to be charged with laches for having failed to put forward the claim for reformation until after Mr. and Mrs. Kolbeck’s deaths. There is nothing to this. Even after their deaths, Mrs. List’s attorney, who had been the Koibeeks’ attorney for 24 years, admitted in writing to plaintiff’s attorney (he claims he wrote it “at the insistence of” the latter) that one-half of the mortgage belonged to the Anna Kolbeck estate; and the day before Mr. Kolbeck’s death he had Mrs. List swear to an inheritance tax return to like effect. Not until perhaps two months after these circumstances did he locate L. 1947, c. 206, supra, and change his position.
+Then again, it is said that this action for the removal of the executrix, brought under N. J. S. 3A :11-4, must be commenced within the times fixed by Rule 5 :3-4. There is nothing to this either. This is not a collateral attack upon the probate judgment granting letters to her. The circumstances here relied upon arose after her appointment and could not have been passed upon by that judgment.
+Judgment reversed.
