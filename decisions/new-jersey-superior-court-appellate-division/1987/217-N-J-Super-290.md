@@ -1,0 +1,56 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1987-05-06"
+citations: ["217 N.J. Super. 290"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-APPELLANT, v. DOREEN TSOI, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/217/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 710514
+cites_cases: ["23 N.J. 162", "40 N.J. 180", "41 N.J. 531", "66 N.J. 510", "7 N.J. 137"]
+---
+
+# State v. Tsoi
+
+## Majority (LANDAU, J.S.C.)
+
+The opinion of the court was delivered by
+LANDAU, J.S.C.
+(temporarily assigned).
+The State of New Jersey here appeals a judgment dismissing the indictment of defendant-respondent Doreen Tsoi by the Esséx County Grand Jury for third degree theft (N.J.S.A. 2C:20-9). The State urges that dismissal of the indictment based upon double jeopardy and mandatory joinder was improper. We agree, and reverse.
+The indictment encompassed multiple acts of theft by embezzlement alleged to occur between on or about June 25, 1985, and on or about November 14, 1985, from the Abercrombie & Fitch store in Short Hills.
+On November 18, 1985, the Abercrombie & Fitch security manager reported to the Millburn police discovery of a number of unexplained shortages, and the possible involvement of one or more as yet unknown store employees. On November 14, 1985, store officials brought Tsoi, a sales clerk, to the Millburn police headquarters where they signed a single complaint against her for theft that day of $85 from her assigned cash register. She had confessed to the single theft in a handwritten informal statement dated November 14, noting the transaction and sales check numbers. On the same day, she wrote and signed a second brief note which stated, “I’ve been doing these fauders [sic ] for about three months.”
+On November 18, 1985, Tsoi appeared before the Millburn Municipal Court on the November 14 complaint. She was not represented by counsel. The transcript does not disclose whether the municipal prosecutor participated. The entire proceeding occupies one page of transcript and is here set forth:
+THE CLERK: Doreen Tsoi, Docket No. C1894-85.
+THE COURT: Doreen Tsoi, is it?
+MS. TSOI: Yes.
+THE COURT: You are charged on the 14th day of November of this year with committing an act of shoplifting [sic] by altering sales slips while employed at Abercrombie and Finch [sic] for monetary gain. This is in violation of 2C:20-11. Are you represented by counsel?
+MS. TSOI: No, sir.
+THE COURT: Would you like to be?
+MS. TSOI: No, sir.
+THE COURT: Okay. You have the right to remain silent. Do you know what that means?
+MS. TSOI: Yes.
+THE COURT: Okay. Do you wish to enter a plea at this time?
+MS. TSOI: Guilty.
+THE COURT: Guilty. Is this a first offense?
+MS. TSOI: Yes, sir.
+THE COURT: Last offense?
+MS. TSOI: Yes, sir.
+THE COURT: Okay. There will be a $250 fine, $25 to the Violent Crimes Compensation Board and all will be forgiven. Okay?
+On December 6, 1985, after completion of their investigation initiated prior to the November 18 proceeding, the Abercrombie & Fitch manager signed a complaint against Tsoi alleging theft by placing fraudulent credit slips in the cash register on 67 occasions between June 25 and November 12, 1985, in an aggregate amount of $6,096. Thereafter, the Grand Jury returned a third degree theft indictment under N.J.S.A. 2C:20-9 alleging theft between on or about June 25 and on or about November 14, 1985, by purposely receiving monies of Abercrombie & Fitch upon agreement or subject to a known legal obligation to make specified payment or other disposition and dealing with the monies as her own and failing to make the required payment or disposition.
+Tsoi successfully moved for dismissal asserting a violation of N.J.S.A. 2C:l-8 et seq. and the bar against double jeopardy in that the offenses charged in the municipal court complaint and the indictment were identical and part of a single episode, knowledge of which was chargeable to the State on November 18 by reason of the second note signed by Tsoi on November 14.
+We begin our consideration by recognizing the obvious; that at the very least, so much of the indictment as relates to events ending on November 14, 1985, must be modified to conform to the second complaint’s November 12 date, in light of the November 18 plea and sentence on the single November 14 incident, for which jeopardy has clearly attached. The question before us is whether the indictment, to the extent it alleges acts between June 25 and November 12, was properly dismissed.
+The trial judge accepted the proposition that the thefts between June and November constituted a single episode. This was not contested by the State at the hearing. He also imputed knowledge of the contents of the November 14 supplemental statement to the county prosecutor, irrespective of actual knowledge, because it was apparently known to the Millburn police and presumably the local prosecutor. Because the November 14 offense (disposed of by the municipal court plea on November 18) was deemed part of one episode and because knowledge of the “other frauders” committed during the prior three months was deemed known by the prosecutor, the trial judge concluded that the indictment must be dismissed “on double jeopardy.”
+State v. Gregory, 66 N.J. 510 (1975) is this State’s landmark authority on double jeopardy and compulsory joinder of known offenses arising from the same criminal episode. The Supreme Court took note of the “State’s vital interest in bringing the guilty to justice while at the same time protecting the accused from multiple trials and punishment when in substance there has been but a single wrongdoing.” Id. at 517. It also restated the earlier language in State v. Currie, 41 N.J. 531 (1964), stressing the futility of trying to devise a single inflexible test of double jeopardy. Ibid. Currie and Gregory cautioned that “underlying policies rather than technisms” must be the touchstones, and that “the considerations should be fairness and fulfillment of reasonable expectations in the light of the constitutional and common law goals.” State v. Gregory, 66 N.J. at 517; State v. Currie, 41 N.J. at 539. In its analysis, the Currie Court considered earlier decisions in State v. Dixon, 40 N.J. 180 (1963); State v. Mark, 23 N.J. 162 (1957); and State v. Lobato, 7 N.J. 137 (1951), noting that their results were entirely consistent with reasonable expectations of the defendants, saying, “[b]ut they were never intended to convey the thought that every magistrate’s determination, no matter how minor the offense charged before him, will necessarily preclude a subsequent criminal prosecution based in whole or in part on the same activity, no matter how aggravated the crime charged ...” (41 N.J. at 541) Currie also recognized the significance of “relevant practical factors” such as the effect of typically quick and informal trials in the local courts, and their typically minor fines and terms of imprisonment. Id. at 543.
+The quoted admonitions from Gregory and Currie are uniquely applicable here. Tsoi represented to the municipal judge during the abbreviated November 18 proceeding that the November 14 charge was her first offense. We note that the investigation by Abercrombie & Fitch which established the amount and number of offenses attributable to Tsoi was not concluded until December 6, 1985, when the second complaint was filed in Millburn. We do not consider it reasonable that Tsoi would then expect that 67 other instances of embezzlement totalling over $6,000, and known at that time only to her, would be disposed of upon the single plea in municipal court. The casual tenor of their colloquy makes it clear that the municipal judge was not aware of the other offenses when he imposed a $250 fine.
+Moreover, the municipal court does not have jurisdiction of a single episode involving more than $200 in thefts, nor of third degree embezzlements under N.J.S.A. 2C:20-9 and N.J.S.A. 2C:20-2(b)(2)(e). See N.J.S.A. 2A.-8-21.
+N.J.S.A. 2C:l-8(b) provides that:
+a defendant shall not be subject to separate trials for multiple criminal offenses based on the same conduct or arising from the same episode, if such offenses are known to the appropriate prosecuting officer at the time of the commencement of the first trial and are within the jurisdiction and venue of a single court. (Emphasis added)
+The indictment here charges an episode of embezzlement far beyond municipal court jurisdiction.
+Additional guidance is provided by the parallel R. 3:15-1(b), which deals with mandatory joinder. Significantly, the rule provides that, “... a defendant shall not be subject to separate trials for multiple indictable offenses based on the same conduct or arising from the same criminal episode or transaction if such offenses are.known to the appropriate prosecuting attorney at the time of the commencement of the first trial.” (Emphasis added) Although this rule was modified in response to State v. Gregory in 1977, the municipal court rule, R. 7:4-2(f), remains permissive, “... the court may order that two or more complaints be tried together if the offenses arose out of the same facts and circumstances ...” As previously observed, Tsoi was not exposed to separate trials for “multiple indictable offenses” by the present indictment. Moreover, where the initial prosecuting officer in the municipal court for a single disorderly persons offense is not part of the Office of the County Prosecutor or the Attorney General, we do not think he is the “appropriate prosecuting attorney” referred to in the rule. And, as noted earlier, the Abercrombie and Fitch investigation was not concluded, nor the definitive complaint filed, until after commencement of the “first trial” on November 18. To the contrary, on that day Tsoi represented to the municipal judge that the November 14 incident was her first offense. On the facts in this case, we see no basis to impute to the prosecutor of Essex County knowledge of all of Tsoi’s misdeeds, until the complaint was appropriately forwarded. Even if knowledge of the supplemental statement, with its general reference to “other frauders” were to be imputed to the county prosecutor, there is surely no basis for imputing knowledge of the scale and scope of the embezzlements.
+We hold that the elements of harassment and oppression which were the historic object of the constitutional and common law double jeopardy principles are not here present. Defendant could not have entertained a reasonable expectancy of disposing of all her crimes in the November 18 proceeding. We further hold that the elements of N.J.S.A. 2C:l-8(b) and R. 3:15-l(b) have not been met. Reversed and remanded for reinstatement of the indictment consistent with this opinion.
+The trial judge believed that the word was meant to be "frauders.”
+The statements were not on a police form, and there is nothing in the record to show that the police participated in securing either of them.
+It was never definitively established that the local prosecutor was aware of the statements.
