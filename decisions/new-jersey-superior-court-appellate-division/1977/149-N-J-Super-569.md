@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1977-05-06"
+citations: ["149 N.J. Super. 569"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANDREW P. BECK, JR., PLAINTIFF-APPELLANT, v. JEAN A. WASHINGTON, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/149/cases/0569-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 310529
+cites_cases: ["114 N. J. L. 258", "119 N. J. Super. 56", "20 N. J. 467", "38 N. J. Super. 365", "55 N. J. 2", "63 N. J. Super. 215", "71 N. J. Super. 39"]
+---
+
+# Beck v. Washington
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal from a jury verdict in favor of defendant in an action for personal injuries sustained in a motor vehicle accident.
+The accident occurred at the intersection of Bayview Avenue and Chestnut Street, Pleasantville, New Jersey. Plaintiff was traveling south on Chestnut Street and defendant was traveling east on Bayview Avenue. Bayview Avenue is controlled by a stop sign at its intersection with Chestnut Street. The accident took place at about 8:30 a.m. on the morning of March 28, 1973. Both streets were of equal width and located in a residential area. The weather conditions were clear and dry.
+The parties differed sharply on the events immediately preceding the accident. Plaintiff testified he was proceeding south on Chestnut Street at a speed of 15 to 20 miles an hour when he observed defendant, traveling east on Bayview, proceed into the intersection without stopping. Plaintiff swerved to the right, hoping to avoid a collision, but was unable to do so and struck defendant’s vehicle in the left rear. Plaintiff also adduced testimony that defendant had pleaded guilty to a charge of failing to yield at the intersection.
+Defendant testified that she stopped and twice looked to the left before attempting to cross Chestnut Street. She testified that the way was clear on both observations and that she observed plaintiff’s vehicle traveling at a high rate of speed only “split seconds” before the collision.
+Plaintiff alleges the following as error: (1) the verdict was against the weight of the evidence; (2) the trial judge erred in refusing to instruct the jury that in determining contributory negligence they should realize “a motor vehicle approaching an intersecting stop street has a right to expect the vehicles on the stop street to behave in a reasonable manner” in accordance with the applicable statute, and (3) the judge committed reversible error in charging N. J. S. A. 39 :4-90 and N. J. S. A. 39 :4M37 with reference to an intersection governed by a stop sign.
+The proofs were more than sufficient to allow a reasonable jury to determine that plaintiff was guilty of contributory negligence or defendant was free of negligence. The judge’s denial of plaintiff’s motion for a new trial on this ground was not a miscarriage of justice under the law. R. 2:10-1; Dolson v. Anastasia, 55 N. J. 2 (1969).
+Also meritless is plaintiff’s claim that the court committed reversible error when it refused to instruct the jury, as requested, that in determining contributory negligence they should realize “a motor vehicle approaching an intersecting stop street has a right to expect the vehicles on the stop street to behave in a reasonable manner” in accordance with the applicable statute. Although there is no New Jersey case directly on point, the general rule appears to be that the favored driver’s right to assume that the disfavored driver will obey a stop sign is qualified by the favored driver’s continuing duty to exercise due care. 60A C. J. S. Motor Vehicles § 363(8) (1969); 3 Blash field, Automobile Law and Practice (3 ed. 1965), § 114.111-114.112; Annotation, “Liability for automobile accident at intersection as affected by reliance upon or disregard of unchanging stop signal or sign,” 3 A. L. 11. 3d 180 (1965). Since these qualifying words were omitted, plaintiff’s request to charge was only partially correct, and a partially correct charge may properly be rejected. Massotto v. Public Service Coord. Transport., 71 N. J. Super. 39, 47 — 48 (App. Div. 1961).
+However, we do agree with plaintiff that the judge committed reversible error in charging N. J. S. A. 39:4-90, which provides, in pertinent part, that when two vehicles enter an intersection at the same time, the vehicle on the left shall yield the right-of-way to the vehicle on the right. In DePolo v. Caplan, 119 N. J. Super. 56 (App. Div. 1972), a stop light case, we held that this right-of-way statute does not apply at intersections where traffic is controlled by traffic signals. It is equally inapplicable at intersections governed by stop signs. See Yates v. Madigan, 114 N. J. L. 258 (E. & A. 1935).
+This charge was given immediately after the jury was properly instructed that a vehicle on a stop street must yield the right-of-way to all traffic on a through street which is so close as to constitute an immediate hazard. N. J. S. A. 39:4-144. Obviously a vehicle entering an intersection at the same time as another is close enough to constitute an immediate hazard. Yet the jury was in effect informed that defendant, because she was on plaintiff’s right, had the right-of-way immediately after being told that plaintiff had the right-of-way. Where two distinct propositions of law are charged, one of which is correct and the other erroneous, and neither is withdrawn so that the jury cannot decide which is right, there is reversible error. Davidson v. Fornicola, 38 N. J. Super. 365 (App. Div. 1955), certif. den., 20 N. J. 467 (1956).
+The judge also charged N. J. S. A. 39:4 — 67, the purpose of which is to eliminate or avoid traffic congestion by prohibiting the entry of vehicles into congested intersections so as to block the passage of other vehicles. Sharp v. Cresson, 63 N. J. Super. 215 (App Div. 1960). Since there was no evidence of traffic congestion in this case, the statute should not have been charged; however, we do not reach the question of whether this amounted to reversible error.
+Reversed and remanded for a new trial.
+The accident occurred before the effective date of N. J. S. A. 2A: 15-5.1 et seq., which provides for comparative negligence.
