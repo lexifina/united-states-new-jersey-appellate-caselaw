@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1951-08-31"
+citations: ["15 N.J. Super. 229"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NEW YORK SHIPBUILDING CORPORATION, A CORPORATION, PLAINTIFF, v. INDUSTRIAL UNION OF MARINE AND SHIPBUILDING WORKERS OF AMERICA, LOCAL NO. 1. ET AL., DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/15/cases/0229-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 715736
+cites_cases: ["7 N. J. 323"]
+---
+
+# New York Shipbuilding Corp. v. Industrial Union of Marine & Shipbuilding Workers of America, Local No. 1
+
+## Majority (Gbijishaw, J. S. 0.)
+
+The opinion of the court was delivered by
+Gbijishaw, J. S. 0.
+This appeal is by Industrial Union of Marine and Shipbuilding Workers of America, Local No. 1, affiliated with Industrial Union of Marine and Shipbuilding Workers of America, CIO (hereinafter referred to as Local No. 1, CIO) and Industrial Union of Marine and Shipbuilding Workers of America (National Union), affiliated with the Congress of Industrial Organizations (hereinafter referred to as National), defendant-appellants, from a judgment of interpleader in favor of plaintiff New York Shipbuilding Corporation (hereinafter referred to as corporation), and from a summary judgment in favor of the defendant Industrial Union of Marine and Shipbuilding Workers of America, Local No. 1, affiliated with International Brotherhood of Boilermakers, Iron Shipbuilders and Helpers of America, Lodge No. 801, AEL (hereinafter referred to as Local No. 1, AEL).
+The controversy stems from prior litigation between the same parties. In September, 1948, Local No. 1, AEL, which had been associated with National, severed its connection with that body. Immediately thereafter proceedings were commenced in the Chancery Division for the purpose of having determined (1) whether there was a valid secession of Local No. 1 from National and (2) whether a self-executing provision of the National’s constitution for the transfer upon disaffiliation of the local affiliate’s property to the National Union was valid and enforceable. Both questions were answered in the affirmative by the Supreme Court. Harker v. McKissock 7 N. J. 323 (1951).
+For some years the corporation had collective bargaining contracts with Local No. 1, CIO. The most recent of those contracts contained a provision that it was to be renewed automatically each year, unless, in the interim, a new contract was negotiated. The expiration date for the contract was June 23, 1950.
+On May 29, 1950, pursuant to the provisions of the Federal Labor Management Relations Act of 1947 (U. S. C. A. Title 29, § 141 et seq.) an election was held in the corporation’s plant to determine the collective bargaining agent for the employees of the corporation. As a result of the election the National Labor Relations Board certified Local No. 1, AEL, as the collective bargaining agent. Immediately Local No. 1, AEL, negotiated a new contract with the corporation. The contract was executed on June 23, 1950, and was implemented by check-off authorizations signed by the employees of the corporation as required by the Labor Management Relations Act.
+On August 3, 1950, the corporation instituted the present action in the Chancery Division. In the complaint it was alleged that in compliance with the terms of the contract of June 23, 1950, the corporation had deducted from the wages of its employees the sum of $9,686, to which the various defendants had made claim. Plaintiff sought permission to pay the $9,686 and all subsequent deductions into court and also sought' a judgment requiring the defendants to inter-plead and settle their respective rights to the fund.
+Local No. 1, AEL, stood upon the contract of June 23, 1950, and claimed the fund as the recognized bargaining agent of the corporation’s employees, and the beneficiary of the check-off authorizations which were responsible for the existence of the fund. Local No. 1, CIO, based its claim upon the assumption that Local No. 1, AEL, had no legal existence and that, as a result, the contract of June 23, 1950, was without force. Erom this premise the appellant argued that thé prior contract was still in force by virtue of the automatic renewal clause. National’s claim was grounded upon the theory that the funds in controversy were the proceeds of choses in action (check-off authorizations) which upon disaffiliation of the local passed to National by virtue of the provisions of National’s constitution.
+The court below found that there were adverse claims to the fund and that there was uncertainty as to which claimant was entitled to it. Accordingly, it granted a judgment of interpleader. Thereafter, on motion made therefor, a summarj1- judgment in favor of Local No. 1, AEL, was entered. With, both actions of the trial court we are in accord.
+The claim of defendant Local No. 1, CIO, has been disposed of effectively by the decision of the Supreme Court in Ilarker v. McKissocTc, supra. The claim of National is equally without substance. The funds here in controversy resulted from the implementation of the contract of June 23, 1950. That contract opened a new chapter in the labor relations of the parties. In that new chapter appellants have no part. Thejr were not parties to the contract of June 23, 1950. It was executed long after Local No. 1, AEL, had severed its connection with National and after appellants had been replaced as bargaining agents. The check-off authorizations ran to Local No. 1, AEL, and not to the appellants. Under no principle of equity can appellants be considered to have an interest in the fruits of the new contract.
+Judgment affirmed.
