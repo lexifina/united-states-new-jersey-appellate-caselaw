@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "1972-10-04"
-citations: ["121 N.J. Super. 27", "121 N.J. Super. 32"]
+citations: ["121 N.J. Super. 27"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["SYBIL KAUFMAN, PLAINTIFF-RESPONDENT, v. JOSEPH PANNUCCIO a/k/a JOSEPH
 source_url: "https://static.case.law/nj-super/121/cases/0027-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 342055
-cites_cases: ["117 N. J. Super. 586", "119 N. J. Super. 299", "121 N. J. Super. 27", "121 N. J. Super. 32", "17 N. J. 183", "20 N. J. L. 689", "33 N. J. 132", "33 N. J. 529", "35 N. J. 153", "39 N. J. 418", "64 N. J. Super. 432", "95 N. J. Super. 495"]
+cites_cases: ["117 N. J. Super. 586", "121 N. J. Super. 32", "17 N. J. 183", "20 N. J. L. 689", "33 N. J. 132", "33 N. J. 529", "35 N. J. 153", "39 N. J. 418"]
 ---
 
 # Kaufman v. Pannuccio
