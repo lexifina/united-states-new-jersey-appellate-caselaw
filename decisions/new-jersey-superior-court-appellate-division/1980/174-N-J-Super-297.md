@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1980-05-21"
+citations: ["174 N.J. Super. 297"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILHELMENIA DYER, GENERAL ADMINISTRATRIX OF THE ESTATE OF CLARA MAE HARRIS, DECEASED, PLAINTIFF-APPELLANT, v. CITY OF NEWARK AND COUNTY OF ESSEX, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/174/cases/0297-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 290182
+cites_cases: ["137 N.J.Super. 1", "147 N.J.Super. 575", "168 N.J.Super. 315", "168 N.J.Super. 333", "73 N.J. 107", "81 N.J. 332"]
+---
+
+# Dyer v. City of Newark
+
+## Majority (CRANE, P. J. A. D.)
+
+The opinion of the court was delivered by
+CRANE, P. J. A. D.
+Plaintiff appeals from an order entered in the Law Division denying her motion to file a late notice of claim pursuant to N.J.S.A. 59:8-9. In the affidavit submitted with the motion, plaintiff asserted that her mother was arrested by Amtrak police on December 2, 1978 while trespassing on the railroad tracks near Pennsylvania Station in Newark. She asserted that when arrested her mother had a serious medical problem that went unattended by the Newark Police personnel and personnel of the County of Essex when she was transferred to the county jail after having been confined in the Newark City Jail for two days. She further asserted that her mother was incoherent and was eventually transported to Martland Medical Center where she was admitted with a diagnosis of “subarachnoid hemorrhage with bilateral cerebral aneurysms.” Plaintiff’s essential allegations are that her mother suffered from a failure to provide medical care which resulted in her death on December 24, 1978.
+The motion to file a late notice of claim was dated March 22, 1979; it was filed March 23, 1979. The original notice served on the city and the county was dated March 14, 1979 and was served on March 16, 1979. The city rejected the claim, contending that the 90-day period of time began to run from December 2, 1978, the date of decedent’s arrest. Apparently the judge who heard the motion agreed with this contention since he denied the motion.
+The position of the city is in error. An action for wrongful death is separate and distinct from a right of action for negligent injury possessed by decedent. Alfone v. Sarno, 168 N.J.Super. 315 (App.Div. 1979), certif. granted 81 N.J. 332 (1979). The cause of action does not accrue until death occurs. Silverman v. Lathrop, 168 N.J.Super. 333 (App.Div. 1979). We conclude, therefore, that plaintiff’s notice to the city and county dated March 14, 1979 was timely and that permission to file a late notice was not required.
+A different issue is presented with regard to the derivative claim on behalf of the decedent. The initial contact with the city was December 2, 1978, the date of decedent’s arrest. The date of decedent’s contact with the county was December 4, 1978, when she was transferred to the Essex County Jail. During her remaining life decedent was either comatose or incoherent. Her children could not communicate with her. They experienced difficulties in ascertaining the circumstances of her injury. In support of her motion for leave to file a late claim, plaintiff asserted in her affidavit that she had no training in the medical or health fields and that she did not know until shortly before filing the motion that the condition for which her mother was treated and which caused her death actually existed while her mother was in jail. Plaintiff also asserted that she and her sisters were grief-stricken, that they had difficulty raising money for the funeral and that her mother’s apartment was broken into. She also referred to serious medical problems suffered by her sisters.
+The statute, N.J.S.A. 59:8-9, permits a notice of late claim to be filed within one year of the accrual of the claim in the discretion of a judge of the Superior Court if the public entity has not been substantially prejudiced. In denying the motion the judge commented:
+It is the opinion of this Court that the appellate courts are beginning to more and more enforce the 90-day rule and to advise the trial courts that their discretion under N.J.S.A. 59:8-9 should be exercised with a great deal of circumspection requiring the satisfaction of the sufficient reason rule.
+In making such a comment, the judge apparently misconstrued the portent of the applicable appellate decisions. The approach adopted by the Supreme Court is that wherever possible cases should be heard on the merits, thus any doubts as to the sufficiency of reasons to excuse the filing of a late claim should be resolved in favor of the applicant. S.E.W. Friel Co. v. N.J. Turnpike Auth., 73 N.J. 107, 122 (1977). The same attitude was expressed in Keller v. Somerset Cty., 137 N.J.Super. 1, 6-7 (App.Div. 1975). And, in Kleinke v. Ocean City, 147 N.J.Super. 575 (App.Div. 1977), we held that a denial of a late claim motion was a mistaken exercise of discretion where the circumstances were the equivalent of “excusable neglect.”
+The city did not contend in the Law Division that the late filing created any prejudice to its ability to investigate and defend the claims. Indeed, we cannot conceive of how the delay of a few days could have prejudiced the city in any way.
+Our review of the record persuades us that the Law Division judge mistakenly exercised his discretion in denying the motion. He was mistaken in applying a standard of sufficiency of reasons which was not in accord with the cases to which we have referred above. Viewed with liberality, we can well understand how a grief-stricken person of limited education could fail to take the affirmative action of filing a notice of claim within the brief period of 90 days provided by the statute. A proper application of the standard set forth in S.E.W. Friel Co. v. N.J. Turnpike Auth., supra, requires that the motion for leave to file a late notice claim be granted.
+Reversed.
