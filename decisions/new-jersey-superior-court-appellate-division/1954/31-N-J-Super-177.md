@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1954-06-18"
+citations: ["31 N.J. Super. 177"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HUGH B. GORDON, PLAINTIFF-APPELLANT, v. STEVENS INSTITUTE OF TECHNOLOGY, A CORPORATION OF THE STATE OF NEW JERSEY, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/31/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 380484
+cites_cases: ["100 N. J. Eq. 110", "113 N. J. L. 605", "128 N. J. L. 303", "141 N. J. Eq. 101", "142 N. J. Eq. 723", "78 N. J. L. 729", "83 N. J. L. 419", "85 N. J. L. 692"]
+---
+
+# Gordon v. Stevens Institute of Technology
+
+## Majority (Clapp, S. J. A. D.)
+
+The opinion of the court was delvered by
+Clapp, S. J. A. D.
+Plaintiff sued in the Hudson County District Court for $700, the remaining salary which, he claims, the defendant Stevens Institute of Technology owes him as assistant professor. Judgment went for the defendant, and plaintiff appeals.
+By resolution of the defendant’s trustees, plaintiff was appointed assistant professor for a year commencing September 1, 1946 at a salary of $4,200. Though he was to teach only from September to June, he was to be paid in 12 monthly installments of $350 each. Without further agreement, he remained on in this position after that year; and under the circumstances, as the parties concede, they impliedly entered into another contract for another year with the same salary and upon the same conditions of service. Dennis v. Thermoid Co., 128 N. J. L. 303, 305 (E. & A. 1942); Art Wire and Stamping Co. v. Johnson, 141 N. J. Eq. 101 (Ch. 1947), affirmed 142 N. J. Eq. 723 (E. & A. 1948); Passino v. Brady Brass Co., 83 N. J. L. 419 (Sup. Ct. 1912); Kislak, Inc. v. Muller, 100 N. J. Eq. 110 (Ch. 1926); 1 Williston on Contracts 255 (1936); 3 Corbin on Contracts 689 (1950). So, in return for nine to ten months of teaching in this second year, he was to receive a salary of $4,200 payable in 12 monthly installments, the last two payments falling due in July and August 1948.
+In April 1948 defendant’s trustees by resolution promoted plaintiff, appointing him an associate professor for one year from July 1, 1948 at a salary of $4,500 per year. This was his third year. Under this resolution plaintiff was to receive and did receive $375 a month for July and August 1948. The suit here is for an additional $350 a month for July and August 1948, the balance allegedly due him under the implied contract for the second year ending September 1, 1948.
+The single question in the case is whether, as defendant contends, the parties agreed to discharge the contract to pay $350 a month for July and August 1948 and to substitute for it a contract to pay $375 a month for those months; or whether, as plaintiff contends, he was entitled to both $350 a month and $375 a month for those two months. In short, was the old obligation as to July and August 1948 extinguished by substituting in its place the new obligation effective July 1, 1948? Such a substitution is a familiar matter in the law of contracts, sometimes termed a novation (Morecraft v. Allen, 78 N. J. L. 729 (E. & A. 1910)), sometimes a substituted contract (6 Corbin, supra, pp. 148, 162; cf. 6 Williston, supra, § 1865), and sometimes a species of accord and satisfaction (Cooke v. McAdoo, 85 N. J. L. 692 (E. & A. 1914)).
+More precisely, the question here is whether there was an intention to effect a novation (to use the term employed by the parties here). Morecraft v. Allen, supra; 66 C. J. S., Novation, § 11, p. 692. A novation is a contract. As with all contracts not integrated into a writing or writings, the answer' to the question as to what the parties meant by what they said and did in making the contract, turns upon what interpretation each of the parties might reasonably have apprehended would be placed by the other upon their respective words and acts. 3 Williston, supra, § 605; Restatement of Contracts § 233; 6 Corbin, supra, pp. 147, 154. Cf. Corn Exchange Nat. Bank & Trust Co., Philadelphia v. Taubel, 113 N. J. L. 605, 609 (E. & A. 1934). The alleged contract of novation here consists of, first, the resolution of April 1948 by defendant’s trustees, promoting plaintiff, offering a higher salary and advancing the commencement of the contractual year from September 1, 1948 to July 1, 1948, and, second, performance under that resolution.
+When the defendant advanced the commencement of the contractual year from September 1, 1948 to July 1, 1948, the plaintiff and defendant should reasonably have expected that defendant was giving to him the benefit of an increase in salary of $25 a month during July and August in 1948. We think it altogether unreasonable to suppose that it meant to pay him during those months $375 a month in addition to the $350 a month that had been due him. It promoted him from an assistant professorship to an associate professorship, but it surely did not intend to pay him in a dual capacity. Plaintiff accepted defendant’s proposition. Looking at this transaction objectively and from the viewpoint of a reasonable man standing in the position of the parties respectively, there is only one reasonable interpretation that can be put upon it (Restatement of Contracts § 71a), namely, that here there was a novation.
+Affirmed.
