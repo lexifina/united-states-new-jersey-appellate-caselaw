@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1959-06-04"
+citations: ["56 N.J. Super. 146"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ABE GRUSCHOW t/a SHEPPARD FOOD COMPANY, PLAINTIFF-APPELLANT, v. NEW JERSEY STATE HIGHWAY DEPARTMENT ET AL., DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/56/cases/0146-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 398820
+cites_cases: ["132 N. J. L. 426", "133 N. J. L. 323", "22 N. J. 454", "42 N. J. Super. 52", "92 F. 2d 170", "93 N. J. L. 500"]
+---
+
+# Abe Gruschow t/a Sheppard Food Co. v. New Jersey State Highway Department
+
+## Majority (Price, S. J. A. D.)
+
+The opinion of the court was delivered by
+Price, S. J. A. D.
+Plaintiff, in an automobile negligence case involving property damages only, seeks to reverse a district court judgment entered against him in favor of defendant New Jersey State Highway Department on its counterclaim. The case was tried without a jury. It is presented to us on an agreed statement in lieu of record. B. B. 1:6 — 2; B. B. 2:6. The accident, on which the action was based, involved a collision between plaintiff’s automobile and one owned by defendant New Jersey State Highway Department and operated by its employee-agent, also a defendant. The trial court found that the negligence of the drivers of both vehicles proximately caused the accident.
+The single question presented is the legality of the trial court’s determination that, because of the State’s sovereign immunity, the defense of contributory negligence was not available to plaintiff in bar of the Highway Department’s counterclaim, by which it sought to be compensated for the damage to its truck.
+The record reveals that at the close of plaintiff’s case the court granted the Highway Department’s motion “to strike the complaint against it” on the ground of its sovereign immunity. At the close of the entire case, after announcing its finding that both drivers were negligent, the court struck plaintiff’s defense of contributory negligence and entered judgment for the Highway Department' on its counterclaim. The court based its action on the case of Miller v. Layton, 132 N. J. L. 426 (Sup. Ct. 1945), affirmed 133 N. J. L. 323 (E. & A. 1945), which it deemed controlling:
+Initially, plaintiff seeks to distinguish the cited case from the one at bar because in Miller the State sought a judgment to reimburse it for damage to its real property while here personal property loss only is involved. The difference in the character of the property damaged cannot determine the applicability of the doctrine of sovereign immunity.
+Plaintiff next questions whether such a defense (governmental immunity) is “ ‘appropriate’ to a factual set-up involving an automobile collision with resultant personal property loss.” He asserts: “This question was not before the court in Miller v. Layton; it is accordingly within this court’s province to determine the issue unfettered by stare decisis and without trespassing on the exact holding of Miller v. Layton.” In Miller a state-owned bridge was damaged by the negligent action of a motorist, and the contributory negligence of the state-employed bridge tender was asserted. In the case at bar a collision between two automobiles is involved and the driver of the state car was found to be contributorily negligent. This factual variance in the type of accident cannot afford a basis for holding the doctrine inapplicable.
+Plaintiff next asserts in Ms brief: “* * * the doctrine of immunity of a State Agency is based on principles developed in relation to municipal corporations; the legal basis for such immunity as set forth in Miller v. Layton * * * is that a state agency cannot ho liable because a municipality is not so accountable for its torts.” He cites in support of this thesis the opinion of the former Supreme Court in Miller (132 Ar. J. L., at page 427) and the opinion of the Court of Errors and Appeals in the same case (133 N. J. L.. at page 326). He then refers to N. J. 8. A. 40:51 — 3. obligating a municipality to pay a judgment recovered against an authorized driver of a municipally-owned motor ear if the municipality fails to have the driver covered by public liability insurance. He concludes that “the foundation of Miller v. Layton, narrowed by court decision, has been obliterated by the legislature. Without this foundation, the holding in Miller v. Layton has no legal support.”
+The fallacy in these contentions is (a) that the State’s immunity is not based on that of the municipalities, Stephens v. Commissioners of Palisades Inter. Park, 93 N. J. L. 500, 501 (E. & A. 1919), and (b) N. J. 8. A. 40 :51-3 has hv its terms no application to a state agency.
+Finally we come to appellant’s argument that we need not and should not perpetuate the result reached in Miller, supra. We recognize that the New Jersey rule, as expressed in Miller, has been characterized as a minority view, 1 A. L. E. 2d 827, 828, and that the doctrine of governmental immunity in certain other instances of its application has been the subject of critical comment. See the analysis by Justice Jacobs in Taylor v. New Jersey Highway Authority, 22 N. J. 454, 470 (1956); the observations by Judge Jayne in his concurring opinion in Casale v. Housing Authority of City of Newark, 42 N. J. Super. 52, 62 (App. Div. 1956); the dissenting opinion by Judge Francis (now Justice Francis) in the same case (42 N. J. Super, at page 66); the dissenting opinion by Justice Perskie in Miller (133 N. J. L., at page 326), and the opinion in United States v. Moscow-Idaho Seed Co., 92 F. 2d 170 (9 Cir. 1937). However, as Miller is precisely in point and was a decision by the Court of Errors and Appeals we are bound by it as was the trial judge.
+Affirmed.
