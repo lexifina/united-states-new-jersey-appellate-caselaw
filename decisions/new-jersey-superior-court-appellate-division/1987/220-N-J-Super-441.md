@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1987-10-14"
+citations: ["220 N.J. Super. 441"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NIKOLA SVILOKOS, APPELLANT, v. STATE OF NEW JERSEY, DEPARTMENT OF COMMUNITY AFFAIRS, DIVISION OF HOUSING AND DEVELOPMENT, RESPONDENT."]
+source_url: "https://static.case.law/nj-super/220/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 301991
+cites_cases: ["177 N.J.Super. 595", "197 N.J.Super. 49", "205 N.J.Super. 153", "81 N.J. 571"]
+---
+
+# Svilokos v. State
+
+## Majority (BILDER, J.A.D.)
+
+The opinion of the court was delivered by
+BILDER, J.A.D.
+This is an appeal by the owner of a multiple dwelling from the denial of an administrative hearing; an action which thereupon became the Final Decision of the Department of Community Affairs and finalized an order requiring the owner to abate violations of the Hotel and Multiple Dwelling Law, N.J.S.A. 55:13A-1 et seq. A hearing was denied because the commissioner found the application was not filed within 15 days of the owner’s receipt of the notice of violation and order of abatement. The owner, appellant Nikola Svilokos, contends he first received notice when he received an order to pay an inspection fee and penalty, some nine months after the inspection and some five months after the time the Department claimed he had been given notice. His request for a hearing was made within 15 days of his receipt of the order to pay a fee and penalty.
+Appellant is the owner of a multiple dwelling located in Princeton. There is apparently a dispute as to whether it contains four or six units. In either case, the building would be subject to the Act, N.J.S.A. 55:13A-3(k) (a multiple dwelling is any building containing three or more independent dwelling units), but there are differences in the requirements for four and six unit buildings — differences which the appellant contends render some of the alleged violations inapplicable to his building.
+According to the record relied upon by the commissioner in denying the application for a hearing, the building was inspected on March 31,1986 and an inspection report and order requiring the abatement of violations was issued. These violations included failures to provide smoke detectors and second means of egress, to fire rate a transom and to install security devices such as dead bolt locks, chains and viewers. The order was mailed to appellant’s home address in Pennsylvania (the address he listed when registering the property with the state) by certified mail, return receipt requested on May 9, 1986 and was returned undelivered when it remained unclaimed after two notices. Thereafter, on July 6, 1986, service was made on the appellant in accordance with N.J.S.A. 55:13A-20(b)(l) by serving the order on the Secretary of State and posting a copy on the Princeton premises.
+Essentially, appellant does not controvert the Department’s facts but contends that service under N.J.S.A. 55:13A-20 is not the equivalent of the notice required to trigger the start of the 15 days allowed for request for a hearing. See N.J.S.A. 55:13A-18. It is clear that if the service on the Secretary of State and posting on appellant’s building was notice under N.J.S.A. 55:13A-18, appellant's request for a hearing had to be made in July 1986. His December 1986 attempt has clearly been untimely; the Department lacked authority to accept it. See Community Affairs Dep’t v. Wertheimer, 177 N.J.Super. 595, 599-600 (App.Div.1980).
+Appellant seeks to create an issue of whether “service” under N.J.S.A. 55:13A-20 is “receipt of notice” under N.J.S.A. 55:13A-18 and supports that notion by weaving an artistic semantic argument. However statutes are not construed on semantic niceties. They are construed in accordance with the ordinary meaning of the language used and the purpose intended by the legislature. See State v. Stern, 197 N.J.Super. 49, 53 (App.Div.1984). Here, it is clear that the legislative purpose cannot be achieved if the notice required by N.J.S.A. 55:13A-18 meant actual notice. Notice sufficient to satisfy constitutional due process is all the notice that is required and that is what the service provisions of N.J.S.A. 55:13A-20 provide. Appellant’s semantic argument must be unavailing. Were it otherwise, the state’s efforts to assure the provision of decent, standard and safe units of dwelling space under the Hotel and Multiple Dwelling Law, see N.J.S.A. 55:13A-2, could be stymied by peripatetic owners. We are satisfied the commissioner’s finding that appellant received notice in July 1986 is amply supported by substantial credible evidence. See Henry v. Rahway State Prison, 81 N.J. 571, 579-580 (1980).
+On the other hand, we are very much concerned by information contained in the appendix to appellant’s reply brief which indicates that many of the matters contested by the owner had been previously considered and adjudicated. The state apparently does not deny that its own records show that the owner is entitled to relief from the order. Therefore, as a matter of fundamental fairness, we feel that the commissioner should be afforded the opportunity to reconsider his decision on equitable grounds in the interest of justice. See Lee v. W.S. Steel Warehousing, 205 N.J.Super. 153, 156 (App.Div.1985).
+The matter is remanded for further proceedings consistent with our opinion.
