@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1976-04-26"
+citations: ["141 N.J. Super. 171"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GIRARD ACCEPTANCE CORPORATION, PLAINTIFF-RESPONDENT, v. EDWARD W. WALLACE AND LAURETTA WALLACE, HIS WIFE, DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/141/cases/0171-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 304406
+cites_cases: ["103 N. J. Super. 11", "109 N. J. Super. 317", "127 N. J. Super. 323", "134 N. J. Super. 588", "46 N. J. 299", "59 N. J. 465", "69 N. J. 73"]
+---
+
+# Girard Acceptance Corp. v. Wallace
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal by mortgagors (defendants) from a summary judgment against them in an action to foreclose two second mortgages on their premises used as a residence. Each mortgage covered a separate tract.
+The mortgages were given as additional collateral in connection with a purchase of a used Cadillac automobile by defendants from Whelan Pontiac-Buiek, Inc. (seller). The latter had arranged financing of the purchase with plaintiff on behalf of defendants. Plaintiff would not finance the sale without the additional security of the second mortgages.
+Defendants executed an installment sale and security agreement (agreement) with the seller. The total “time balance” due under the agreement, including insurance premium advances and the finance charges, was $5,888.64. The collateral specified therein was the automobile and “Recorded Mortgage Against Real Estate.” A promissory note in the sum of $5,888.64, payable in monthly installments, with an acceleration clause, was executed by defendants with plaintiff as payee. Two real estate mortgages, the second mortgages here involved, were executed by defendants in favor of plaintiff as additional security for the note. All of the seller’s rights in the agreement were assigned to plaintiff. Defendants acknowledged in writing at the time of execution of all of the documents that their payments were $122.68 a month for 48 months for which “we are signing a mortgage to be recorded as security.”
+The only defenses were that the “transaction was usurious in that the amount of interest charged was above the legal limits as delineated in N. J. S. A. 17:11A-44(a)” and the “second mortgage note” did not comply with N. J. 8. A. 17 :11A-51(a) and (c). These provisions are contained in the Secondary Mortgage Loan Act, N. J. S. A. 17:11A-34 et seq. (L. 1970, c. 205).
+Admittedly, the transaction complied with the provisions of the Retail Installment Sales Act of 1960, N. J. S. A. 17:16C-1 to 61, as amended. The only question presented below and on appeal is whether the Secondary Mortgage Loan Act is applicable to the transaction. We concur in the trial judge’s conclusion that it is not, and affirm.
+The transaction involves the financing of an automobile purchase, a bona fide sale, and not a loan subject to the provisions of the Secondary Mortgage Loan Act. The issue before us is governed by Public Acceptance Corp. v. Taylor, 127 N. J. Super. 323 (App. Div. 1974), and Girard Acceptance Corp. v. Boyle, 109 N. J. Super. 317, 324 (App. Div. 1970). See also, Sliger v. R. H. Macy & Co., Inc., 59 N. J. 465 (1971); Steffenauer v. Mytelka and Rose, Inc. 46 N. J. 299 (1966).
+Permitting a second mortgage on real property as additional collateral for the financing of a sale of an automobile is not one of the evils at which the Secondary Mortgage Loan Act was directed. See City Consumer Services v. Banking Dept., 134 N. J. Super. 588 (App. Div. 1975), certif. den. 69 N. J. 73 (1975); Crescent Invest. Co. v. Comm. of Bank. & Ins. of N. J., 103 N. J. Super. 11, 18 (Ch. Div. 1968).
+We are satisfied that the Legislature intended that the retail installment sale before us be regulated by the protective provisions of the Retail Installment Sales Act. The giving of additional collateral by way of a second mortgage on real property in connection with the financing of such a sale does not make the Secondary Mortgage Loan Act applicable.
+Defendants contend that the changes in the definition of “secondary mortgage loan” effected by L. 1970, c. 205, N. J. S. A. 17:11A-35 a, which repealed the 1965 statute, L. 1965, c. 91, and was substituted, therefor, show a legislative design to cover second mortgages on real property in connection with sales of any chattels, including a sale of an automobile, subject to the Eetail Installment Sales Act. We do not agree.
+They claim that the definition of “secondary mortgage loan” in the 1970 act was modified so as specifically to except a loan which is taken as security for a home repair contract executed in accordance with the provisions of L. 1960, c. 41, as amended (N. J. S. A. 17:160-62 et seq.) or is the result of a private sale of a dwelling, title being in the name of the seller who has resided therein for at least one year, where the buyer is purchasing it for his own residence and, as a part of the purchase price, executes a secondary mortgage in favor of the seller. They contend that these changes indicate a legislative purpose to include within the Secondary Mortgage Loan Act all other sales in which second mortgages on real estate are given as collateral security. Thus, it is argued, Public Acceptance Corp. v. Taylor and Girard Acceptance Corp. v. Boyle, supra, which dealt with the 1965 statutory definition of a secondary mortgage loan, are inapposite to the present ease.
+We do not view these changes as having the significance attributed to them by defendants. The exceptions were included in the 1970 definition provisions of the Secondary Mortgage Loan Act in order to make it clear that certain specific transactions relating to real property were not covered by and would not violate the act. Thus, it is now manifest that the act does not apply to the taking of a second mortgage by the seller with respect to the sale of a dwelling under the circumstances set forth in the act, or to goods or services furnished under a home repair contract, subject to the Home Repair Financing Act, which by definition involve the “modernization, rehabilitation, repair, alteration or improvement of real property,” N. J. S. A. 17: 16C-62(a), (b). These exceptions do not reveal any purpose to change the existing law with respect to the sale of personal property subject to the Retail Installment Sales Act.
+We have considered the other arguments advanced by defendants and find them to be without merit.
+Affirmed.
+Defendants defaulted in paying the installments due and the entire balance became due and payable.
