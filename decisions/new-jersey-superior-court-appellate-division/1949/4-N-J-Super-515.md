@@ -1,0 +1,26 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1949-08-22"
+citations: ["4 N.J. Super. 515"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FRED B. HANDLON, PLAINTIFF, v. TOWN OF BELLEVILLE AND LOUIS A. NOLL, DIRECTOR OF THE DEPARTMENT OF PUBLIC SAFETY OF THE TOWN OF BELLEVILLE, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/4/cases/0515-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 364036
+cites_cases: ["1 N. J. 216"]
+---
+
+# Handlon v. Town of Belleville
+
+## Majority (McGeehan, S. J. A. D.)
+
+The opinion of the court was delivered by
+McGeehan, S. J. A. D.
+The Civil Service Commission, by order of October 21, 1947, ordered the Director of the Department of Public Safety of the Town of Belleville to restore the plaintiff, as of November 1, 1947, to the pay and position of clerk of the Recorder’s Court. The Director of Public Safety refused to comply with this order and the plaintiff, on December 22, 1947, was granted an alternative writ of mandamus.
+Plaintiff was employed in the Department of Public Safety from January, 1937, until his suspension on April 15, 1947. On April 24, 1947, the plaintiff was dismissed by the Director of the Department of Public Safety, after a hearing off charges preferred against him. Plaintiff appealed to the Civil Service Commission which, after hearing, approved the action of the Director of the Department in dismissing plaintiff, and on July 1, 1947, entered an order' to that effect.
+On August 18, 1947, the plaintiff hied with the Civil Service Commission a petition for a reopening and rehearing of his appeal; on September 25, 1947, the Commission heard argument of counsel for the plaintiff and counsel for the defendants on said petition; and on October 7, 1947, the Commission denied plaintiff’s application for reopening and rehearing, on a finding that “The appellant claims that this Commission failed to make its determination on a proper basis and that its decision is contrary to the weight of the evidence produced at the hearing. The Commission does not so find. No new facts are offered or are attempted to be offered by the appellant. It is the conclusion of the Civil Service Commission that nothing is offered that would warrant the Civil Service Commission in reopening and rehearing the case."’ On October 21, 1947, the Civil Service Commission, of its own motion and without notice to the parties or opportunity to be heard, voted to reconsider the plaintiff’s case, and on the same day entered an order which recited : “the penalty of dismissal approved by it on July 1, 1947, was too severe and that suspension, without pay, from April 15, 1947, to October 31, 1947, would have been and is now a fully adequate and equitable discipline” and ordered the Director of the Department of Public Safety to restore plaintiff to the pay and position of clerk of the fiecorder’s Court as of November 1, 1947.
+The Civil Service Commission order of October 21, 1947, changed the substantial rights of the parties as determined by the order of July 1, 1947. This order of October 21, 1947, was made without notice to the parties affected and without adequate opportunity to be heard, and therefore the Commission lacked power to make such an order. While the Commission may have the inherent power of reconsideration, on its own motion or upon request, in order to correct injustice and prevent fraud or imposition upon the law, the exercise of this power is conditioned upon the giving of reasonable notice and adequate opportunity to be heard and the requirement that the action taken shall rest upon reasonable grounds and shall be in no sense arbitrary. Cf. McFeely v. Board of Pension Com'rs of City of Hoboken, 1 N. J. 216 (1948).
+Even if there had been notice to the parties and adequate opportunity to be heard in this case, the Commission had no power to make the order of October 21, 1947. The only basis for that order is stated in the order as follows: “On October 7,1947, the Civil Service Commission took formal action denying a rehearing. On October 21, 1947, the Commission, of its own motion, voted to reconsider the Fred B. Handlon case. After extended discussion of the whole case it was the unanimous conclusion of the Commission that while the original charges bad been reasonably established, considering the whole record the'penalty of dismissal approved by it on July 1, 1947, was too severe and that suspension, without pay, from April 15, 1947, to October 31, 1947, would have been and is now a fully adequate and equitable discipline.” No question such as fraud, newly discovered evidence or inadvertence is involved. There had been a full hearing before the entry of the July 1st order; and there had been a hearing on the plaintiff’s petition for reopening and rehearing before the entry of the order of October 1st, which affirmed the order of July 1st. Under such circumstances, the Commission’s action in reopening the case was beyond its powers and void. There must be, at some stage, a finality to administrative proceedings and that stage was reached in this case when the determination of October 7th was made.
+The writ is dismissed without costs.
