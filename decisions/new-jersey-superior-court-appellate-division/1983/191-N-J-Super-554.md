@@ -1,0 +1,41 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1983-11-03"
+citations: ["191 N.J. Super. 554"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STANLEY STONE AND FRANCES STONE, HIS WIFE, PLAINTIFFS-APPELLANTS, v. POLICE DEPARTMENT OF THE BOROUGH OF KEYPORT; MAYOR AND COUNCIL OF THE BOROUGH OF KEYPORT, A BODY POLITIC OF THE STATE OF NEW JERSEY, IN THE COUNTY OF MONMOUTH; WILLIAM GEIGER, CHIEF OF POLICE OF THE BOROUGH OF KEY-PORT; AND PATROLMAN JOHN GEORGE DAYBACK, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/191/cases/0554-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 904715
+cites_cases: ["126 N.J.Super. 557", "401 U.S. 222", "64 N.J. 508"]
+---
+
+# Stone v. Police Department of Keyport
+
+## Majority (BRODY, J.A.D.)
+
+The opinion of the court was delivered by
+BRODY, J.A.D.
+Stanley Stone (plaintiff) and his wife brought this tort action to recover damages for injuries he received when shot by Keyport Police Officer John Dayback (defendant). It was agreed at trial that despite the caption of the case, the Borough of Keyport and its Chief of Police William Geiger would be considered the only other defendants. The trial judge submitted to the jury the issues of negligence and damages after dismissing all other claims. By answers to special interrogatories, the jury found defendant 40% negligent and plaintiff 60% negligent. Accordingly, the judge entered judgment for defendant. We affirm.
+We state the facts in a manner consistent with the finding that both parties were negligent. Fearing that plaintiff was about to commit suicide behind a locked door of their bedroom, his wife summoned the police. Defendant and Officer Albert Hafner responded in separate cars. Defendant arrived first. Mrs. Stone took him upstairs to the locked door. Defendant broke open the door. Plaintiff was standing inside facing the door and brandishing a machete over his head. Mrs. Stone unsuccessfully tried to calm her husband while defendant retreated to a daughter’s bedroom. Hafner reached the top of the stairs just as plaintiff, now in the hall, began to swing the machete at Mrs. Stone. Hafner pulled her out of the way and carried her downstairs.
+Plaintiff then turned his attention to defendant who was in the daughter’s bedroom. A piece of equipment which defendant had dropped kept the door from fully closing. Before defendant was able to kick it away, plaintiff began to strike the door with the machete. Defendant was leaning his weight against the partially open door when plaintiff swung the machete through the open portion of the doorway. Defendant fired a warning shot into the ceiling. Its only effect was to plunge the room into darkness. Plaintiff kept swinging the machete at the door and through the doorway. Unable to see what was happening in the dark and fearing for his safety, defendant fired his gun through the door. The bullet severely wounded plaintiff. All these events occurred in very rapid succession.
+Plaintiff’s major points turn on whether the trial judge erred in receiving as evidence a prior sworn oral statement in which, contrary to his trial testimony, plaintiff admitted having assaulted defendant. Plaintiff made the statement in a criminal proceeding to establish a factual basis for his guilty plea to an assault charge arising out of this incident. In accepting the plea, the judge in the criminal case ordered that neither the plea of guilty nor “any statements made by the defendant, Stanley Stone, at the time of this plea, shall ... be evidential in any civil proceeding.” The authority for entering that kind of order is found in R. 3:9-2 which provides in relevant part:
+For good cause shown the court may, in accepting a plea of guilty, order that such plea not be evidential in any civil proceeding.
+When the plea was accepted, this action had not yet been commenced.
+The judge in the criminal case died before trial. The assignment judge, acting in his stead, modified the order on defendant’s motion to permit the following portion of plaintiff’s statement to be admitted solely to affect plaintiff’s credibility:
+Question: Will you tell me what happened insofar as the assault with the machete is concerned?
+Answer: I had in my hand a machete and assaulted a police officer that had broken through the door into my bedroom.
+Question: And you threatened him with it? Is that right?
+Answer: Threatened him; yes.
+Plaintiff argues that although the rule only authorizes the judge to immunize the “plea,” we should interpret “plea” to include admissions made by a criminal defendant in giving a factual basis for a plea. Plaintiff also argues that any modification of the immunization order should have been done in the criminal action on notice to the prosecutor.
+We need not address these points because the immunization order and R. 3:9-2 upon which it was based do not apply in the circumstances of this case. The purpose of the rule is to avoid an unnecessary criminal trial of a defendant who fears that a civil claimant will later use his plea of guilty as a devastating admission of civil liability. However, the immunity is not available to prevent impeachment which may uncover the perjurious basis of a criminal defendant’s civil claim. Here, where plaintiff offered his own testimony to support his civil claim and that testimony is inconsistent with the testimony he gave to support his plea, the protection of the immunity has been waived. See Harris v. New York, 401 U.S. 222, 225-226, 91 S.Ct. 643, 645-646, 28 L.Ed.2d 1, 4-5 (1971).
+The judge did not unfairly limit plaintiff’s effort to explain away the statement. Plaintiff offered to testify,
+At that time I had a number of charges pending against me arising out of this incident. My attorney who represented me at that time told me that if I pleaded not guilty to all those charges that I would have to come back here over a period of months and the trial would take a long time and that the only way I could avoid being put through a trial on a criminal matter was to plead guilty to one of the charges the prosecutor was then offering and that under the rule of court I’d have to tell the judge that I had threatened and assaulted or threatened or assaulted the officers. So my attorney told me I had to do it, so I did it, or else I’d have to come back here for trial.
+The trial judge excluded the proffered testimony on the ground that its admission would produce too many collateral issues. Evid.R. 4. We defer to his judgment. Hill v. Newman, 126 N.J.Super. 557 (App.Div.1973), certif. den. 64 N.J. 508 (1974). It is also hard to imagine how this explanation for committing perjury and pleading guilty to a serious crime would rehabilitate plaintiff’s credibility.
+Finally plaintiff contends that his mental state rendered him unable to be negligent as a matter of law. The only reference to this contention below is a statement by plaintiff’s attorney after the charge was given to the jury. The attorney referred the judge to a memorandum “which in effect is a request not to charge contributory negligence....” We were not given that memorandum. There was no medical evidence of plaintiff’s mental capacity at the time of these events and therefore no basis for barring the defense of plaintiff’s negligence. It would also be incongruous to absolve plaintiff of civil responsibility for the same conduct he acknowledged was criminal.
+We have carefully considered plaintiff’s remaining points and find that they are clearly without merit. R. 2:ll-3(e)(l)(E).
+Affirmed.
+As will appear hereafter, the tortious conduct at issue of both parties could be characterized as intentional, but neither has questioned treating it as negligence.
+A more difficult question would be presented if a civil litigant whose plea has been immunized becomes an involuntary witness in the civil action. Also, literal application of the R. 3:9-2 immunity may run afoul of N.J.S.A. 2A:81-12 which renders a criminal conviction admissible to affect a witness’ credibility. The Supreme Court Criminal and Civil Practice Committees may wish to consider whether these concerns warrant modification of the rule.
