@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1951-05-15"
+citations: ["13 N.J. Super. 564"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["COMFORT SPRING CORP., A CORPORATION, PLAINTIFF-RESPONDENT, v. BROOKS EQUIPMENT CORPORATION, A CORPORATION, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/13/cases/0564-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 444615
+cites_cases: ["10 N. J. Misc. 147", "103 N. J. Eq. 145", "34 N. J. L. 296", "4 N. J. 383", "83 N. J. L. 492", "86 N. J. L. 111", "95 N. J. Eq. 563", "98 N. J. L. 77"]
+---
+
+# Comfort Spring Corp. v. Brooks Equipment Corp.
+
+## Majority (FjRkuxd, J. S. C.)
+
+The opinion of the court was delivered by
+FjRkuxd, J. S. C.
+The defendant appeals from an order dismissing the fourth count of its counterclaim. The suit was brought by the plaintiff to recover damages for defendant’s failure to deliver a machine which it had agreed to construct in accordance with specifications, terms and conditions contained in a written order. The complaint alleged that the plaintiff was bi-weekly to pay the defendant’s labor and 'material costs in the construction of the machine, with an agreed maximum of $9,000; that the plaintiff had paid $8,122.11 on account thereof; but that the defendant failed to make delivery within the stipulated time. The defendant’s answer denied default and set up a counterclaim in four counts.
+The fourth count alleges that the defendant was induced to enter into the contract and expended large sums of money in experimental work in reliance upon the false and fraxrdulent promise of the plaintiff that 24 additional machines would be ordered, and that by reason of plaintiff’s failure to perform, the defendant suffered damages. The salient portion of the count reads as follows:
+“1. The written agreement set forth in the complaint of the plaintiff was obtained by the plaintiff by fraud and misrepresentation in that plaintiff falsely represented to the defendant that the plaintiff desired and intended to obtain and accept the Pilot machine set forth for the use in plaintiff’s manufacturing establishment and after actual cost of manufacture of same had been ascertained to contract for the manufacture of upwards of 24 similar machines, whereas the plaintiff’s true intent and purpose was to induce the defendant to engage in extensive and costly experimental and developmental work for the sole use and benefit of the plaintiff.
+2. Defendant relied upon the. aforesaid false representations, believed them to he true and was induced to execute and deliver the written agreement and did engage in extensive experimental and developmental work at great expense to the defendant, to wit, the sum of approximately $30,000.00.”
+On the motion to dismiss, the plaintiff argued that the representations set out in the counterclaim constituted a mere promise to perform an act in the future, and therefore was not actionable; while the defendant urged that plaintiff’s representation that it would purchase 2é additional machines induced the defendant to enter into the contract, and, being false, is actionable. The court concluded that the count failed to set forth a valid claim and dismissed it.
+The established rule of law is that a representation, to form the basis of an action for deceit, must relate to some past or existent fact—it cannot ordinarily be predicated on representations involving things to be done in the future. Byard v. Holmes, 34 N. J. L. 296 (Sup. Ct. 1870); Lembeck v. Gerken, 86 N. J. L. 111 (Sup. Ct. 1914); Halpern v. Cafarelli, 98 N. J. L. 77 (Sup. Ct. 1922); Anderson v. Modica, 4 N. J. 383 (1950). A representation of an intention as existing may, if false, avoid a contract induced thereby, because a misrepresentation as to the state of a man’s mind is a misstatement of fact. The distinction is whether the representation of an intention is in fact a mere promise collateral to the contract or an affirmation of a present state of mind. In the former, there is no fraud because there is no misrepresentation ol an existing fact. “There must be a misstatement of an existing fact; bnt the state of a man’s mind is as much a fact as the state of Ms digestion. It is true that it is very difficult to prove what the state of a man’s mind at a particular time is, but if it can be ascertained it is as much a fact as anything else.” Edgington v. Fitzmaurice, L. R., 29 C. D. 483, 55 L. J. Ch. 650 (1885); Roberts v. James, 83 N. J. L. 492 (E. & A. 1912); Gordon v. Schellhorn, 95 N. J. Eq. 563 (Ch. 1924); Zuckerman v. Geller, 103 N. J. Eq. 145 (Ch. 1928); Park Gasoline Co. v. Crusius, 10 N. J. Misc. 147 (Sup. Ct. 1932).
+Tested by the foregoing ruies, it seems clear from the allegations of the couni,erclaim that the representation was a mere promise collateral to the contract and did not amount to an affirmation of a present state of mind. The counterclaim alleges that “plaintiff falsely represented to the defendant that the plaintiff desired and intended * * * after actual cost of manufacture of same had been ascertained, to contract for the manufacture of upwards of 24 similar machines * * When the contract was made, there was no present intention to purchase 24 machines; it was dependent upon ascertainment of the actual cost of manufacture. This was necessarily left to future determination, for assuredly the cost could not be fixed until the initial contract had been performed. Accordingly, the representation was a mere collateral promise of future action.
+The order is affirmed.
