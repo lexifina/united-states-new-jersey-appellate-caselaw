@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1976-03-24"
+citations: ["140 N.J. Super. 237"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. EVARISTO QUINONES, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/140/cases/0237-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 880426
+cites_cases: ["129 N. J. Super. 399", "22 N. J. 405", "27 N. J. 560", "44 N. J. 540", "52 N. J. 377", "57 N. J. 265", "59 N. J. 515", "65 N. J. 45", "66 N. J. 326", "67 N. J. 134"]
+---
+
+# State v. Quinones
+
+## Majority (Kole, J. A. D.)
+
+The opinion of the court was delivered by
+Kole, J. A. D.
+In a ten-count indictment, defendant among other things, was charged with murder, murder while armed, manslaughter and manslaughter while armed. The alleged victim was William Wengerter. The indictment charged that defendant was armed with a pistol and the jury could have so found beyond a reasonable doubt on the proofs in the record. The jury found him guilty of manslaughter while armed but not guilty of the other remaining offenses. He was sentenced to concurrent 5-7 year terms for both manslaughter and the armed portion thereof. He appeals.
+He contends that (1) “the court’s refusal to charge the jury again on self-defense and justification after its original charge was reversible error in the context of this case”, and (2) “it was reversible error for the judge to issue curative instructions rather than granting a mistrial based on the prosecutor’s declaration in summation that defendant was guilty.”
+Erom our review of the record we are satisfied that there is no merit in either of these contentions. See State v. Perry, 65 N. J. 45 (1974); State v. Mustacchio, 57 N. J. 265 (1970); State v. Gallicchio, 44 N. J. 540 (1965).
+Defendant further claims that, since manslaughter is not a specifically mentioned crime for which an additional sentence may be imposed under N. J. S. A. 2A:151~-5 if committed while armed, the additional concurrent sentence for being armed is illegal. The claim is without substance.
+At common law generally all homicide constitutes murder unless “alleviated” or mitigated into manslaughter. Involuntary manslaughter is an unintentional homicide, committed without excuse or justification, as a consequence of some act, not strictly lawful, under circumstances not manifesting or implying malice. Voluntary manslaughter, with which we are here concerned, is an intentional homicide done in sudden passion, without malice aforethought, resulting from a reasonable provocation, a passion which effectively deprived the killer of the mastery of his understanding and was acted upon before a time sufficient to permit reason to resume its sway had passed. The legislative classification of murder into two degrees and the separate offense of manslaughter has not altered the common law nature of these crimes in this State. The statutes are concerned only with the character of the punishment. Thus, the voluntary manslaughter here involved is not a separate statutory crime. The statute relating thereto, N. J. S. A. 2A:113-5, merely sets forth the punishment therefor, leaving its definition to the common law. State v. Bonano, 59 N. J. 515, 522-523 (1971); State v. Brown, 22 N. J. 405, 410 (1956).
+A short form murder indictment encompasses first and second degree murder, manslaughter and atrocious assault and battery; and an assault is embraced in a charge of manslaughter or murder resulting from direct personal violence. State v. Zelichowski, 52 N. J. 377, 382-384 (1968).
+Prior to 1966, when the new comprehensive firearms control law was enacted (L. 1966, c. 60), N. J. S. A. 2A.151-5 provided for additional punishment where the offender was armed with a weapon in the following instances: commission or attempt to commit an assault, robbery, larceny, burglary, or breaking and entering. See L. 1963, c. 160, p. 878. The 1966 act, designed to prevent violent crimes by the use of weapons, amended N. J. S. A. 2A :151-5 by adding to the enumerated crimes the commission or attempt to commit while armed, rape, murder, mayhem, arson, abduction, extortion, kidnapping, sodomy and treason. It also included persons who were fugitives from justice. It substantially increased then existing added penalties for being armed. The obvious purpose was to deter the use of weapons during the commission of, or attempt to commit, these newly enumerated crimes of violence by the imposition of additional penalties therefor.
+We are satisfied that “murder” as used in the 1966 amendment to N. J. S. A. 2A:151-5 was intended by the Legislature to mean the common law offense, which, as indicated, covered manslaughter as a lesser included offense. See and compare State v. Mullen, 67 N. J. 134 (1975); State v. Butler, 27 N. J. 560, 588 (1958); State v. Brown, supra, 22 N. J. at 415-416.
+Although generally penal statutes are to be strictly construed, they should be interpreted in such a way as to effect the statutory scheme and intent and not to reach an absurd or impractical result. State v. Brown, supra; State v. Tims, 129 N. J. Super. 399 (App. Div. 1974), certif. den. 66 N. J. 326 (1974).
+The plain legislative design in the 1966 firearms control act was to enhance the punishment for those using weapons during the commission of the crimes set forth in N. J. S. A. 2A:151-5. It is inconceivable that the Legislature intended that the use of a pistol, containing a substantial potential for the infliction of harm or death, woirld result in an aggravation of punishment in the case of an assault (which might or might not involve a wounding), a lesser included offense of manslaughter, but not in the case of manslaughter itself. Similarly, in view of the common law nature of homicide in this State, we cannot believe that the Legislature intended that taking life through the use of a pistol would result in additional punishment where the crime is first or second degree murder, but not where it is manslaughter, merely because there are separate statutes dealing solely with punishment for these crimes.
+Affirmed.
+We refer, of course, to homicide that is not “justified by the command or permission of the law” or “excused on account of accident or self-preservation.” State v. Brown, 22 N. J. 405, 410 (1956).
