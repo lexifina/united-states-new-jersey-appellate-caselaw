@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1980-02-06"
+citations: ["172 N.J. Super. 219"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NEW JERSEY SPORTS & EXPOSITION AUTHORITY, PLAINTIFF-RESPONDENT, v. LEON KOZIOL ET ALS., DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/172/cases/0219-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 287514
+cites_cases: ["107 N.J.L. 110", "123 N.J.L. 350", "164 N.J.Super. 127", "22 N.J. 340", "32 N.J. 278", "41 N.J.Super. 385", "43 N.J. 34", "46 N.J.Super. 557", "81 N.J. 41", "92 N.J.Super. 471"]
+---
+
+# New Jersey Sports & Exposition Authority v. Koziol
+
+## Majority (CRANE, P. J. A. D.)
+
+The opinion of the court was delivered by
+CRANE, P. J. A. D.
+Defendants Leon W. Koziol and Genevieve Koziol, former owners of a two-acre cárcel of meadowland real property in East Rutherford, appeal from a final judgment entered in the Law Division adjudging the value of the condemned property to be $137,000.
+Defendants contend that the trial judge erred in ruling that their appraisal expert witness could not testify as to what the purchaser of a comparable parcel of realty told the appraiser about whether the property was filled. Our review is somewhat hindered by the fact that defendants’ counsel did not, as he was entitled to under R. 1:7 3, make a specific offer of what he expected to prove by the answer of the witness. See Duffy v. Bill, 32 N.J. 278, 294 (1960); Farber v. Margolin, 46 N.J.Super. 557, 561-565 (App.Div.1957). Nevertheless, it does appear from the record that counsel sought to elicit from the witness what the purchaser had told the witness relative to whether the parcel was filled or not. In one question the witness was asked: “Can you tell us what Albert Prasetto told you relative to the condition of the property when he bought it?”
+Later the witness was asked: “Did you regarding that important valuation factor, inquire of the purchaser to that property regarding fill and its affect on the purchase price?”
+The witness answered, “Yes, I did.” and was then asked: “Can you tell us what the seller [sic] told you in that regard?”
+Objections to all of the questions were sustained on the ground that they called for hearsay. The trial judge construed N.J.S.A. 2A:83-1 as permitting testimony of a witness as to the sales price as told to him by someone else but ruled that the statute did not permit other hearsay testimony as to factors affecting the selling price. While we would have preferred to have an offer of proof on the record, from the questions asked and the ruling of the trial judge, the issue is sufficiently clear to justify our review. State v. Pollack, 43 N.J. 34, 40 (1964).
+In our view the trial judge took too narrow and restrictive a view of the purpose of N.J.S.A. 2A:83 1. The statute provides that:
+In any action or proceeding for the acquisition or sale of land, or any interest or interests therein, or on review of the assessment for taxes of any real property, any person offered as a witness in any such action or proceeding shall be competent to testify as to sales of comparable land, contiguous or adjacent to the land in question, or in the vicinity or locality thereof, from information or knowledge of such sales, obtained from the owner, seller, purchaser, lessee or occupant of such comparable land, or from information obtained from the broker or brokers who negotiated or who are familiar with or cognizant of such sales, which testimony when so offered, shall be competent and admissible evidence in any such action or proceeding.
+This section shall not be construed to apply to any action or proceeding instituted by an individual or private corporation authorized to take property for public use where compensation must first be made to the owner thereof.
+The statement accompanying the enactment of the statute indicates that its purpose was to overcome the ruling in Essex Cty. Park Comm. v. Brokaw, 107 N.J.L. 110 (E. & A.1930), that testimony of sales of comparable property must be based on personal knowledge rather than on what somebody else has told the witness or what he has learned through an examination of the consideration given in the record of deeds of conveyance. See White v. State Bd. of Tax App., 123 N.J.L. 350 (Sup.Ct.1939). As we said in N.J. Highway v. Rue, 41 N.J.Super. 385, 390 (App.Div.1956), certif. den. 22 N.J. 340 (1956), the statute represents a radical change from prior concepts of admissibility of evidence.
+One of the important factors in assessing the weight of testimony of comparable sales in condemnation matters is the similarity of the condition of the property. State by Comm’r. of Conserv. v. Vacation Land, Inc., 92 N.J.Super. 471, 478 479 (App.Div.1966). Whether meadow land has been filled or not is an important factor in determining its value. N.J. Sports & Expo. Auth. v. Cariddi, 164 N.J.Super. 127, 130 (App.Div.1978), certif. granted 81 N.J. 41 (1979).
+Bearing in mind the radical nature of the statute and its purpose, we have no doubt that its language is sufficiently broad to permit hearsay testimony as to the condition of property alleged to be comparable in nature to the property condemned. In the instant case defendants’ witness did testify that he viewed a photograph of the property and that the photograph showed some fill but not too much. He also testified that he would not consider the property to be comparable to the property condemned if it was not filled. He was not permitted, however, to relate what one of the principals in the sale told him about the condition of the property with regard to whether it was filled or not. We find that ruling of the trial judge to have been erroneous in light of the declared purpose of N.J.S.A. 2A:83-1 and reverse. In doing so, however, we express a word of caution. During the colloquy leading up to the judge’s ruling, counsel for the Authority expressed the fear that the witness was going to testify as to how much the purchaser spent in filling the property. Such testimony, if offered, would clearly be inadmissible since it does not relate to the sales price or the condition of the property at the time of sale.
+Accordingly the judgment is reversed and the cause is remanded for a new trial. We do not retain jurisdiction.
