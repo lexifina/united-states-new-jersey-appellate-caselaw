@@ -1,0 +1,35 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1973-10-09"
+citations: ["125 N.J. Super. 179"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALBERT I. WIGLER, PLAINTIFF-RESPONDENT, v. CITY OF NEWARK, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/125/cases/0179-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 298691
+cites_cases: ["112 A. 2d 344", "138 F. Supp. 344", "14 A. L. R. 3d 831", "144 Ohio St. 32", "216 Tenn. 545", "316 F. 2d 884", "380 Pa. 590", "56 N. E. 2d 214", "59 N. J. 5"]
+---
+
+# Wigler v. City of Newark
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant appeals from a judgment entered on a jury verdict in favor of plaintiff in the amount of $54,300.
+Plaintiff owns certain buildings and personal properties located on Springfield Avenue and Sayers Street in Newark, which he contends were damaged and vandalized by riots during the nights of July 12 through 19, 1967. He filed a complaint seeking damages from defendant city, based upon A. J. S. A. 2A :48-1 which authorizes recovery against municipalities for damages caused by riots if certain conditions are met.
+Defendant first argues that plaintiff failed to present sufficient evidence to prove that the loss sustained was the result of riot rather than a criminal event committed impersonal gain. In support of this contention defendant relies upon the case of A & B Auto Stores of Jones Street v. Newark, 59 N. J. 5, 17 (1971), wherein the court observed that N. J. S. A. 2A:48-1 is not applicable to damages resulting from a common criminal event committed for the private gain or gratification of the offenders merely because they number three or more.
+The city, in effect, asserts that since plaintiff did not produce any witnesses to the actual entry and destruction of his premises, he cannot prevail in this suit against the city.
+The damaged properties were located in the eye of the storm. Plaintiff was prevented from approaching them for several days by police, who had sealed off that particular area. There is sufficient credible evidence in the record from which the jury could properly conclude that plaintiff’s losses were the result of a riot.
+It is next argued that it was error for the court to exclude from evidence plaintiff’s sworn petitions for tax appeal purposes previously filed with the city, as admissions against interest under Evidence Rule 63(7). The trial judge permitted extensive cross-examination based upon the petitions. He excluded them from evidence, exercising the discretion vested in Mm by Evidence Bule 4, on the ground they contained irrelevant material. Defendant was not prejudiced, and we hold there was no abuse of discretion.
+The further contention that it was error to exclude the complaint from evidence is specious for the record does not disclose any offer of the complaint into evidence by defendant.
+Defendant also alleges reversible error in the conduct of the trial, resulting from note-taking by a single juror, under the following circumstances. During the course of deliberations, the jury requested supplemental instructions on two matters, namely, the fact-finding procedure outlined by the court in its charge and the inventory list. The court reinstructed the jury on the first and then read to the jury the inventory list, which consisted of over 20 items with dollar amounts ascribed to each. After the requested instructions were given and the jury retired to continue with their deliberations, defense counsel came to the court and indicated he was informed that a juror was making a list of the items as the court read them. It appears the list was made on an envelope. Neither counsel observed the procedure, and it was brought to the attention of defense counsel by someone else in the court room. It is contended this constitutes reversible error.
+The practice of note-taking by jurors is not prohibited by any New Jersey statute, rule of court or decision. The matter becomes one of first impression.
+The reasons advanced against this practice include the contention that the taking of notes by a juror may tend to distract his mind from the evidence which is being presented while he is taking notes; may distract the attention of other jurors from consideration of the evidence being presented; may tend to overemphasize either to himself or to other jurors the evidence on which he is taking notes; further, that the taking of notes might tend to be a confusing element for those jurors not trained or skilled in the note-taking process. Thorton v. Weaber, 380 Pa. 590, 112 A. 2d 344 (Sup. Ct. 1955); Corbin v. Cleveland, 144 Ohio St. 32, 56 N. E. 2d 214 (Sup. Ct. 1944).
+During the trial of a case the judge, counsel and the court reporter are all busily engaged in taking notes. It is incongruous to expect only the jury to have the evidence, as it is given, indelibly inscribed on the “tablets of their memory.” Counsel would hardly urge as error, in a case tried by a judge without a jury, the fact that the trial judge took notes. The majority and better view is that in the absence of statute the matter of note-taking by jurors rests largely within the discretion of the trial judge. United States v. Campbell, 138 F. Supp. 344 (N. D. Iowa 1956) United States v. Standard Oil Company, 316 F. 2d 884, 897 (7 Cir. 1963); Watkins v. State, 216 Tenn. 545, 393 S. W. 2d 141 (Sup. Ct. 1965). See Annotation, “Taking and Use of Trial Notes by Jury,” 14 A. L. R. 3d 831 (1967).
+As a general rule we see nothing improper in a juror taking notes during the course of trial. The trial jiidge has discretion to determine in the first instance if the case lends itself to the practice and to exercise control and direction over the manner in which the jurors exercise the right.
+Tn this instance, assuming the single juror was taking notes, the practice was limited to that time period when the judge was recharging the jury in response to two specific questions posed by them. The instructions were concerned with an inventory list of over 20 items with values being ascribed to each in the testimony. Defendant points to no evidence of confusion, distraction, or prejudice. There was no testimony introduced disputing the individual items on the list or the dollar amounts read by the judge. Under our Rules of Court, R. 1:8-8, a list of various items of damages could properly have been prepared by either the attorney or the court and given to the jury to take into the jury room.
+We see no error under the facts of this case in the juror taking and using notes to assist his memory.
+The remaining grounds of appeal are that the verdict was excessive, against the weight of the evidence, that plaintiff was incompetent and should not have been permitted to testify, and that the court’s instruction was in error. Our examination of the entire record leads to the conclusion that they are without merit.
+Affirmed.
