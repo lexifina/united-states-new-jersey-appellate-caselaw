@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1969-10-31"
+citations: ["107 N.J. Super. 346"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HARRY E. NEWTON, PLAINTIFF-RESPONDENT, v. WILLIAM J. DEMAS, CALVIN ELDRIDGE AND HENRY W. PETTY, DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/107/cases/0346-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 523289
+cites_cases: ["344 U. S. 838", "35 N. J. 224", "39 N. J. 61", "61 N. J. Super. 312", "73 S. Ct. 25", "8 N. J. 433", "97 L. Ed. 652"]
+---
+
+# Newton v. Demas
+
+## Majority (Halrern, J. A. D.)
+
+The opinion of the court was delivered by
+Halrern, J. A. D.
+A brief statement of the facts is necessary to understand the narrow issue to be decided.
+Plaintiff Harry E. Newton is a New Jersey licensed engineer who was duly appointed and served as municipal engineer for North Hanover Township, Burlington County, from 1958 to 1966, inclusive. Defendant Calvin Eldridge was the owner of farm land in North Hanover Township which was to be utilized for the construction of garden apartments by defendant developer William J. Demás. Eldridge had given Demás an option to purchase for such use.
+While plaintiff was township engineer he was employed by Demás, or his architect, to prepare plans and specifications for the sewer system to be utilized in the project, together with an outbound survey and a topographical plan of the Eldridge property. Plaintiff never completed all the work called for in connection with the sewer system but was paid $2,000 for the work actually done. He completed the outbound survey and the topographical plan, but Demás abandoned the project without submitting it to the township, and did not pay plaintiff for such work. The court rendered judgment for plaintiff against Demás in the sum of $2,878, plus costs, and this appeal followed.
+Before discussing the legal issues involved it should be noted that the engineering work to be performed by plaintiff would be relied upon by Demás in submitting his proposed garden apartment project to the township for its approval, and for any required subdivision approval of the Eldridge property. Such engineering work, of necessity, would also be the basis for plaintiff’s opinion concerning the adequacy of the project’s drainage, street layout, boundary line locations and the sewer system. The township’s special zoning ordinance dealing with garden apartment projects required plaintiff, as township engineer, to determine whether such portions of the project met the specifications in the ordinance, and if not, “such drainage design and materials shall be installed as required by the Township Engineer.” In addition, plaintiff knew he would be called upon by other municipal agencies to advise with them concerning other features of the project. See N. J. 8. A. 40:55-1.20 to 40; 55-1.24.
+The legal issue for determination is whether, on these facts, plaintiff, a public officer, was in such a conflict of interest position that his agreement to perform the engineering work for Demás was against public policy and, therefore, void and unenforceable even though the project was abandoned.
+The courts of this State are committed to the principle that public officials hold positions of public trust; they are under an inescapable obligation to serve the public with the highest fidelity, good faith, and integrity. Driscoll v. Burlington-Bristol Bridge Co., 8 N. J. 433, 474 (1952), cert. den. 344 U. S. 838, 73 S. Ct. 25, 97 L. Ed. 652 (1952). Such required conduct demands undivided loyalty and compels public officers to refrain from outside activities which interfere with proper discharge of their duties, or which may expose them to the temptation of acting in any manner other than in the best interests of the public.
+These principles are imposed by law on all public officers and become effective upon their entering public office. If it be determined that such a conflict of interest exists, their agreements are against public policy and may be declared void; and this is so even though there is no proof of fraud, dishonesty, loss to the public or whether in fact they were influenced by their personal interest. S. & L. Associates, Inc. v. Washington Tp., 61 N. J. Super. 312 (App. Div. 1960), partly reversed on other grounds, 35 N. J. 224 (1961); Driscoll, supra.
+Justice Jacobs, by way of dictum but in clear and unmistakable terms, expressed the view of our Supreme Court on the issue we are called upon to decide and with which we are in accord. In Virginia Construction Corp. v. Fairman, 39 N. J. 61 (1962), the court determined that a developer acquired no vested rights because of tentative and final approval of a subdivision which were improperly obtained. The court noted that the approvals of the subdivision were given by the part-time municipal engineer who had been hired by the developer to design the drainage plan for the proposed project. In poignant terms Justice Jacobs stated: “Although this type of dual employment has not been uncommon in the past, it gives rise to highly offensive conflicts of interest and should not be tolerated hereafter by municipalities.” (at 64, 65).
+With these principles and standards in mind we have concluded that a municipal engineer who does engineering work for a developer, when he knew, or should have known, that it will be used by the developer in connection with a project in the municipality he represents, and requiring him to pass judgment thereon, is in a conflict of interest position. The facts in this case bring plaintiff within that proscription.
+Plaintiff argues that our condemnation of this contract would in effect deprive a municipal engineer of the opportunity of performing engineering work for third parties in the municipality where he holds public office. We disagree. We have merely disapproved the practice of a municipal engineer accepting private conflicting employment when he knows, or should know, that it will require the exercise of direct or indirect action on his part on behalf of the municipality.
+The verdict for plaintiff is reversed; and a verdict for no cause of action entered. No costs.
