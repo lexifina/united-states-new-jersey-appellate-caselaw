@@ -1,0 +1,58 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1988-03-30"
+citations: ["224 N.J. Super. 142"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. JULIUS CRESCENZI, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/224/cases/0142-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 348618
+cites_cases: ["102 S.Ct. 1469", "105 N.J. 560", "125 N.H. 739", "156 N.J.Super. 46", "16 L.Ed.2d 212", "160 N.J.Super. 49", "173 N.J.Super. 215", "200 Conn. 664", "209 N.J.Super. 255", "211 N.J.Super. 355", "35 L.Ed.2d 611", "383 U.S. 950", "410 U.S. 945", "427 U.S. 539", "455 U.S. 958", "46 N.J. 16", "484 A.2d 1208", "513 A.2d 646", "59 N.J. 396", "602 F.Supp. 735", "61 N.J. 165", "622 F.Supp. 1523", "638 P.2d 512", "71 L.Ed.2d 676", "78 N.J. 405", "782 F.2d 1025", "86 N.J. 281", "86 S.Ct. 1210", "93 S.Ct. 1393", "94 N.J. 85"]
+---
+
+# State v. Crescenzi
+
+## Majority (LANDAU, J.A.D.)
+
+The opinion of the court was delivered by
+LANDAU, J.A.D.
+Defendant Julius Crescenzi appeals from his conviction on two counts of witness tampering (N.J.S.A. 2C:28-5 a(2)) following jury trial. Counts of official misconduct (N.J.S.A. 2C:30-2 a) and misapplication of governmental property (N.J.S.A. 2C:21-15) were dismissed by the trial judge at the end of the State’s case. Motions for new trial and judgment notwithstanding the verdict were denied. Pretrial motions for a bill of particulars and for severance of the misconduct and misapplication counts had been previously denied.
+The four counts for which Crescenzi was tried were contained in Mercer County Indictment No. 1-1-85, superseding four counts of an earlier 23 count Indictment No. 557-5-84, which had been returned against Crescenzi and his job supervisor, codefendant Daniel J. Rosetty. The superseding indictment was consistent with the earlier severance of Crescenzi from trial with Rosetty, but it also eliminated the names of two persons who were subject to the alleged tampering which had been contained in the first indictment. The indictments grew out of a prosecutor’s investigation into alleged private diversions of public manpower and material by supervisory employees of the Hamilton Township Board of Education. Rosetty appears to have been the principal target of this investigation, as supervisor of the maintenance department. Crescenzi was a foreman under his supervision.
+Following his conviction, Crescenzi was sentenced to probation, community service, a $350 fine, and $25 Violent Crimes Compensation Board penalty on each count. He was also barred, on the State’s motion, from holding any office or position of honor, trust or profit under the State or its administrative or political subdivisions. (N.J.S.A. 2C.-51-2 c)
+On appeal, Crescenzi urges:
+I. N.J.S.A. 2C:28-5 IS UNCONSTITUTIONAL.
+A. NEW JERSEY’S TAMPERING STATUTE IS OVERBROAD.
+1. A STATUTE IN WHICH SPEECH MAY TRIGGER CRIMINAL LIABILITY MUST REQUIRE A SPECIFIC INTENT MENS REA OR IS OVER-BROAD.
+B. NEW JERSEY’S TAMPERING STATUTE IS VOID FOR VAGUENESS.
+II. THE COURT’S RULING LIMITING DEFENSE COUNSEL’S CROSS-EXAMINATION ON THE QUESTION OF INTENT WAS FUNDAMENTALLY UNFAIR TO DEFENDANT.
+A. THE PROHIBITED QUESTIONING WAS RELEVANT AND SHOULD HAVE BEEN PERMITTED.
+III. THE COURT’S REFUSAL TO INSTRUCT THE JURY THAT A DEFENDANT’S CONCERN FOR THE PROTECTION OF WITNESSES IS A DEFENSE TO A TAMPERING CHARGE WAS REVERSIBLE ERROR.
+IV. THE COURT ERRED IN DENYING DEFENDANT’S MOTION FOR A BILL OF PARTICULARS SEEKING THE NAMES OF ‘WITNESSES' THAT THE DEFENDANT WAS ALLEGED TO HAVE TAMPERED WITH AND IN PERMITTING THOSE ‘WITNESSES’ TO LATER TESTIFY AT TRIAL.
+V. THE COURT ERRED IN DENYING DEFENDANT’S MOTION TO SEVER THE SEPARATE COUNTS WITHIN HIS INDICTMENT.
+We have considered carefully the briefs and arguments of counsel in light of the record and applicable law, and we conclude that the issues raised in Points II (limitation of cross-examination); III (refusal of oral request for charge); IV (denial of bill of particulars), and V (severance of the dismissed counts) are clearly without merit and we therefore affirm as to such issues. R. 2:11-3(e)(2); State v. Petillo, 61 N.J. 165 (1972), cert. den. 410 U.S. 945, 93 S.Ct. 1393, 35 L.Ed.2d 611 (1973); State v. Green, 86 N.J. 281 (1981); State v. Thompson, 59 N.J. 396 (1971); State v. Coleman, 46 N.J. 16 (1965), cert. den. 383 U.S. 950, 86 S.Ct. 1210, 16 L.Ed.2d 212 (1966); State v. Whipple, 156 N.J.Super. 46 (App.Div.1978); State v. Chaney, 160 N.J.Super. 49 (App.Div.1978), certif. den. 78 N.J. 405 (1978); State v. Kent, 173 N.J.Super. 215 (App.Div.1980).
+Additionally, we note that the names of the two principal witnesses called by the State on the witness tampering issue had been named in the original indictment, and those names had also been provided as part of names furnished by the prosecutor in discovery.
+We turn to the assertion that N.J.S.A. 20.28-5 is unconstitutional. This section of the Code of Criminal Justice has not previously been interpreted in our courts. Crescenzi says it is both overbroad and void for vagueness in his case because (1) it does not require a showing of specific intent or mens rea (see N.J.S.A. 2C:2-2 b(l)), therefore permitting a conviction “based on protected speech without any showing that defendant had as his specific purpose the result of tampering ...” (2) it does not sufficiently warn of and identify the kind of actions which will give rise to criminal liability.
+N.J.S.A. 2C:28-5 provides in pertinent part:
+a. Tampering. A person commits an offense if, believing that an official proceeding or investigation is pending or about to be instituted, he knowingly attempts to induce or otherwise cause a witness or informant to:
+(1) Testify or inform falsely;
+(2) Withhold any testimony, information, document or thing;
+(3) Elude legal process summoning him to testify or supply evidence; or
+(4) Absent himself from any proceeding or investigation to which he has been
+legally summoned.
+The offense is a crime of the second degree if the actor employs force. Otherwise it is a crime of the third degree. Privileged communications may not be used as evidence in any prosecution for violations of paragraph (2), (3) or (4).
+In this case the jury was expressly charged that in order to find Crescenzi guilty the State was required to prove that Crescenzi “knowingly attempted to induce or otherwise cause a witness or informant to withhold any testimony, information document or thing from the investigating body,” and also that the purpose of his comments (denied by Crescenzi) at the time was to influence behavior of a witness or the withholding of information by an informant. The jury was also instructed that in order to return a guilty verdict it had to find beyond a reasonable doubt that when Crescenzi spoke to the two employees of the maintenance department he knew his comments would also get back to the rest of the men in the shop or that there was a high probability thereof, with the result that it would induce informants or potential witnesses to withhold testimony or information. The trial judge also charged:
+... The defendant’s state of mind, his knowledge, his intention may be gathered through his acts of conduct. That is, you may find that the defendant intended to induce or otherwise caused any witness to withhold information on the basis of all that was said and done at the particular time and place, from all the surrounding circumstances that existed ...
+and that
+The element requires that the defendant purposely perform an act which was a positive step toward inducing a witness to withhold information.
+Thus, the jury was charged both as to purposeful and knowing conduct.
+As evidenced by the language of N.J.S.A. 2C:28-5 a, the crime of tampering includes the words, “knowingly attempts.” Under N.J.S.A. 2C:2-2 b(2)
+A person acts knowingly with respect to the nature of his conduct or the attendant circumstances if he is aware that his conduct is of that nature, or that such circumstances exist, or he is aware of a high probability of their existence. A person acts knowingly with respect to a result of his conduct if he is aware that it is practically certain that his conduct will cause such a result ...
+Inasmuch as the New Jersey tampering statute also uses the word “attempts,” it is worthy of note that the inchoate offense of attempt, under N.J.S.A. 2C:5-1, incorporates a requirement for purposeful action or omission. The trial judge appropriately included this requirement in her charge. See Cannel, Title 2C, 1971 Commentary N.J.S.A. 2C:5-1. See also State v. McAllister, 211 N.J.Super. 355, 362 (App.Div.1986); State v. Battle, 209 N.J.Super. 255, 258-259 (App.Div.1986), certif. den. 105 N.J. 560, 561 (1986).
+Crescenzi was afforded opportunity to present his defense that his statements were opinions made out of concern for his fellow employees. Based on the jury charge in this case, we must assume that the jury nonetheless found that the State proved beyond a reasonable doubt that those statements were made, and that they were made with awareness of their highly probable effect and with a purpose to cause withholding by a witness or informant.
+“... Whether the statements made amount to ‘true threats’ is a question of fact for the jury.” U.S. v. Kalevas, 622 F.Supp. 1523, 1527 (S.D.N.Y.1985). The requisite elements of purpose and knowledge were inferable from the content of the statements and the context in which they were spoken. The jury obviously did not believe that Crescenzi was motivated by concern for the welfare of his co-workers.
+The key, of course, is the jury’s appraisal of the context, as well as the content of a statement. Uttered in one context, an apparently innocent statement such as, “I’d be careful crossing the street if I were you” can be merely helpful advice to a senior citizen. Uttered in another context it may well be correctly perceived by reasonable persons to be intended as a threat.
+The statute is not constitutionally vague because it is sufficiently definite, as interpreted, to give notice that no one may undermine enforcement of criminal justice by attempting to coerce or induce witnesses or informants not to cooperate with law enforcement. U.S. v. Kalevas, supra; State v. Cavallo, 200 Conn. 664, 513 A.2d 646, 651 (1986).
+As to overbreadth, the statute furthers the important governmental interest of preventing intimidation of, and interference with, potential witnesses or informers in criminal matters and easily meets the test of weighing the importance of this exercise of speech against the gravity and probability of harm therefrom. See Nebraska Press Ass’n v. Stuart, 427 U.S. 539, 562, 96 S.Ct. 2791, 2804, 49 L.Ed.2d 683 (1976). When the public interest in discovering the truth in official proceedings is balanced against a party’s right to speak to a particular witness with the intent of tampering, that party’s right is “minuscule.” State of New Hampshire v. Kilgus, 125 N.H. 739, 484 A.2d 1208 (1984); Kilgus v. Cunningham, 602 F.Supp. 735 (D.N.H.1985), aff’d o.b. 782 F.2d 1025 (1st Cir. 1985). As interpreted and enforced herein, N.J.S.A. 2C:28-5 provides ample guidance to law enforcement authorities and full and fair warning of potential criminality of the proscribed actions. State v. Cavallo, supra, 513 A.2d at 651; State v. Carlsen, 638 P.2d 512, 515 (Utah 1981) cert. den. 455 U.S. 958, 102 S.Ct. 1469, 71 L.Ed.2d 676 (1982). See also Town Tobacconist v. Kimmelman, 94 N.J. 85, 120 (1983).
+Affirmed.
