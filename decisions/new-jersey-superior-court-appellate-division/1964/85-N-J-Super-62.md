@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1964-10-07"
+citations: ["85 N.J. Super. 62"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HAZEL H. DOWNING, PLAINTIFF-APPELLANT, v. THOMAS STEWART, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/85/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 509432
+cites_cases: ["26 N. J. 1", "35 N. J. 279", "71 N. J. Super. 347", "74 N. J. Super. 138"]
+---
+
+# Downing v. Stewart
+
+## Majority (Foley, J. A. D.)
+
+The opinion of the court was delivered by
+Foley, J. A. D.
+Plaintiff appeals from an order of the Law
+Division denying her application for an order directing the Unsatisfied Claim and Judgment- Eund Board to pay from the Fund a judgment which she had recovered against defendant, Stewart.
+The determinative issue is whether or not plaintiff complied with the provisions of N. J. S. A. 39:6-65 (b), here applicable, which, as a condition precedent to the right of recovery, requires proof:
+“(b) that [she] gave notice to the board within 15 days of receiving notice that an insurer had disclaimed on a policy of insurance so as to remove or withdraw liability insurance coverage for his claim against a person or persons who allegedly caused him to suffer damages. * * *”
+Plaintiff’s appendix does not contain the affidavit upon which she based her application for payment from the Eund. Therefore, we do not know precisely what facts were presented to the trial court. However, the facts upon which we hold this case turns appear to be agreed upon.
+On October 5, 1961 plaintiff instituted an action against defendant to recover damages for injuries sustained in an automobile accident which occurred on December 10, 1959. Defendant was served with process on October 26, 1961. On October 30 plaintiff’s attorney was advised telephonically by defendant’s attorney that he suspected there might be some difficulty in having the Harleysville Insurance Company (defendant’s carrier) carry on the defense because the accident had never been reported by defendant to the carrier. On November 2 plaintiff’s attorney received from defendant’s attorney a copy of a letter from the insurance carrier addressed to defendant’s attorney and dated November 1, the body of which reads as follows:
+“Pursuant to our telephone conversation of October 31, 1961, in re the above claim, this letter will confirm our reason for disclaiming on the grounds that the report [notice of accident] was not submitted to our company until 21 months after the occurrence, also that we have not offered to defend this matter under any reservation of rights.”
+Plaintiff’s attorney did nothing further in the matter until November 27 when he telephoned a Mr. Trimareo of the insurance company and was informed that the company would not defend the action. Immediately after the conversation with Trimareo the attorney forwarded to the Fund a notice of intention to make claim and a copy of the complaint which he had filed on behalf of plaintiff. His explanation of the delay was that in the meantime he was awaiting written notification of the disclaimer directed to him by the company. On November 29 the attorney wrote to the Fund calling attention to his notice of intention of November 27, and stating that he had been informed orally by the company of the disclaimer, that the company had agreed to confirm it in writing, and that he would forward such writing to the Fund as soon as it was available. On December 2 the attorney was informed by the Fund that the notice of intention had been received by it on November 28. On December 14= plaintiff’s attorney received the written disclaimer from the insurance carrier. He forwarded this to the Fund on the day following. On February 14, 1962 the Fund, through the General Adjustment Bureau, Inc., notified the attorney of its rejection of the claim upon the ground that it had not been filed within 15 days of the notice of disclaimer which had been transmitted to plaintiff’s attorney by defendant’s attorney on November 2.
+N. J. S. A. 39 :6-62 ei seq. is designed to create and maintain a fund to provide a measure of relief to persons who sustain losses or injury inflicted by financially irresponsible or unidentified operators of motor vehicles, where such persons would otherwise be remediless. Douglas v. Harris, 35 N. J. 279, 279 (1961). Taken as a whole, the act is to be liberally construed to advance the remedy it affords, due regard being given to the protection of the Fund against fraud and abuse and to the fulfillment of the essential legislative policy. Ilid.
+The liberality of construction accorded to the statute accents the scope and purposes of the enactment as social legislation, but affords no substitute for proof of compliance with its terms or conditions. See Parrot v. Chiselko, 74 N. J. Super. 138, 142 (App. Div. 1962); Szczesny v. Vasquez, 71 N. J. Super. 347, 358-9 (App. Div. 1962).
+The provision of the act that notice shall be given within a stated time, 90 days after the accident, N. J. S. A. 39 :6-65, as a condition precedent to the right thereafter to apply for payment from the Fund, has been held to be mandatory. Szczesny v. Vasquez, supra, 71 N. J. Super., at pp. 352-3. The same mandate applies to the giving of notice to the Fund after notice of disclaimer has been received.
+It is not our function to legislate; it is our duty to interpret. In doing so we must give effect to the language employed by the legislative body to properly effectuate the legislative design. Dixon v. Gassert, 26 N. J. 1 (1958); Parrot v. Chiselko, supra. In the present instance the language of the statute is clear. It does not provide for notice-to the Fund within a reasonable time; it specifies the period! of time allowed to a claimant to file a notice of intention after-lie has received notice of disclaimer. The statute does not provide for the form or contents of the notice of disclaimer, or by whom it must be conveyed. Eather, the statutory language-indisputably conveys the idea that if knowledge is brought', home to the claimant or his attorney that the insurer disclaims; liability, the time for filing of notice of intention runs fromi that date and ends 15 days thereafter.
+In the present ease, as we have noted, on November 2! plaintiff’s attorney received from defendant’s attorney a copy of the letter from the insurer which unequivocally disclaimed coverage. We deem this to be notice of disclaimer within the contemplation of the statute. Since the claim was not filed until November 27, or 25 days after receipt of notice of disclaimer, we conclude that the Unsatisfied Judgment Fund Board had no alternative but to reject it.
+Affirmed.
