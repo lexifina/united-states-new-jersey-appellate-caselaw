@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1962-09-21"
+citations: ["76 N.J. Super. 287"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY PLAINTIFF-RESPONDENT, v. PATFOL, INC., DEFENDANT-APPELLANT, AND VINCENT SULLIVAN, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/76/cases/0287-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 363912
+cites_cases: ["14 N. J. 319", "70 N. J. Super. 84", "71 N. J. Super. 404"]
+---
+
+# State v. Patfol, Inc.
+
+## Majority (Confoed, S. J. A. D.)
+
+The opinion of the court was delivered by
+Confoed, S. J. A. D.
+The issue here presented is whether the prohibition by N. J. S. A. 39:3-84 of operation on a highway of any “commercial motor vehicle, tractor, trailer or semitrailer * * * the outside width of which is more than 96 inches” is applicable to the dimensions of the vehicle inclusive of load or only to the vehicle itself. The Hudson County Court held that the vehicle as loaded must not exceed the specified dimensions, and sustained fines imposed upon both defendants by the Hudson County District Court notwithstanding the fact that the vehicles of both, exclusive of load, were within the 96-inch limitation. State v. Patfol, Inc., 71 N. J. Super. 404 (1961).
+We are constrained to disagree. In accord: State v. A. & D. Trucking Co., 70 N. J. Super. 84 (Cty. Ct. 1961). We find in other parts of the statutory section involved, as well as in cognate provisions of Title 39 (Motor Vehicles and Traffic Regulations) of the Revised Statutes, regulating trucks and loads, compelling indications that the width limitation here in question is not properly construable as comprehending load overhang.
+Two other paragraphs of section 39:3-84 are particularly significant in this regard. We quote:
+“No commercial motor vehicle drawing or having attached thereto any other such vehicle, nor any combination of vehicles, shall be operated on any highway in this State, except a tractor and semitrailer combination not in excess of a total over-all length, inclusive of load, of 50 feet and a truck and trailer combination not in excess of a total over-all length, inclusive of load, of 50 feet, and also except a vehicle or a combination of vehicles transporting poles, pilings, structural units or other articles incapable of dismemberment the total over-all length of which, inclusive of load, shall not exceed 70 feet, but the provisions of this paragraph shall not apply to a vehicle nor to any combination of vehicles, operated by a public utility as defined in R. S. 48:2-13 which vehicle or combination of vehicles is used by such public utility in the construction, reconstruction, repair or maintenance of its property or facilities.
+Hi * Hi * H: * *
+Every commercial motor vehicle or motor-drawn vehicle used on the public highways carrying loads extending beyond the outside dimensions of the vehicle shall have displayed at the outside extremity of the load a red flag by day, which shall not be less than 18 inches square, and a red light by night, and they shall be so hung as to present a full view to the drivers of approaching vehicles. This red light shall be in addition to the red light provided for in section 39:3-61 of this Title.” (Emphasis supplied)
+It is apparent from the first paragraph quoted that when the Legislature intended, in enacting this piece of legislation, that a dimensional limitation should apply to the vehicle as loaded it was minded to say so specifically, not to act by implication. Thus, we find that while the Legislature made certain limitations as to length specifically applicable to the vehicle inclusive of load, accentuating its intent by the designation “over-all length,” it chose, for whatever reason so motivated, to omit the load qualification in the width limitation. We are not permitted to ignore the resulting-stark contrast in treatment of length and width regulations. Acceptance of the State’s position would practically render superfluous and meaningless the specific references in the paragraph to loads, a result to be avoided if reasonably possible. Abbotts Dairies, Inc. v. Armstrong, 14 N. J. 319 (1954).
+By the second paragraph quoted above, the Legislature showed its aptitude, when so intending, to phrase a policing regulation in terms clearly encompassing load overhangs with respect both to length and width of the vehicle.
+Also, again in the very section here involved, we find weight limitations for such vehicles in terms of “combined weight of vehicle and load.”
+The State seeks to counter the impact of the foregoing considerations by arguing the supposed greater road and traffic hazards of width overhangs of load, as compared with those of length, thus justifying implication of the missing qualification as to load in relation to the width regulation. If the premise is accepted, its relevance goes only to degree, not substance, of hazard, as there are obviously traffic dangers from excessive rear-end or front-end load protrusions, particularly in turning at intersections. Moreover, the premise postulated would seem to argue for at least equal rather than less specificity of draftsmanship in regulations against side load protrusions as against those on the front or rear of a vehicle. The argument is wholly unpersuasive.
+Title 39 is otherwise replete with instances of specific legislative notice and regulation of vehicle load conditions deemed to require police-power control. See, e. g., sections 39:3-84.3 (violations as to weights and measurements of vehicles); 39:3-84.4 (damage to highways or structures by overweight vehicles); 39:4-27 (loading and operation of trailer) ; 39 :4^28 (height limitations of certain vehicles) ; 39:4^56 (delaying traffic prohibited); 39:4-58 (driving with rear or side view obstructed); 39 :4-77 (loading so as to spill prohibited). These provisions have a twofold significance. They evidence the legislative habit of dealing with vehicle-load problems in Title 39 in specific terms rather than by implication. And they show that the Legislature is attending to matters of policy with regard to regulation of vehicle-load hazards, thereby serving as a reminder of the canon that in construing statutes courts are mindful that jurisdiction over policy is peculiarly in the legislative province.
+Einally, we notice that as to each of the kinds of vehicles specified in the width-limitation provision of section 39:3-84, the definitions thereof in N. J. S. A. 39:1-1 are devoid of qualification in terms of load.
+We reach the result here indicated without aid of the principle of strict construction of penal statutes urged upon us by defendants. But see State v. A. & D. Trucking Co., supra (70 N. J. Super., at p. 86).
+The judgments are reversed in both cases.
