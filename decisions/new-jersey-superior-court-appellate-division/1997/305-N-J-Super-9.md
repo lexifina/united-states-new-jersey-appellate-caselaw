@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "1997-10-06"
-citations: ["305 N.J. Super. 9", "701 A.2d 920", "308 N.J. Super. 214", "705 A.2d 1216"]
+citations: ["305 N.J. Super. 9", "701 A.2d 920"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["STATE OF NEW JERSEY, PLAINTIFF-APPELLANT, v. ANTHONY CALIGUIRI, DEFEN
 source_url: "https://static.case.law/nj-super/305/cases/0009-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1183207
-cites_cases: ["107 N.J. 504", "108 S.Ct. 768", "139 N.J. 236", "146 N.J. 576", "148 N.J. 434", "152 N.J. 186", "305 N.J.Super. 9", "363 A.2d 321", "375 A.2d 607", "402 A.2d 217", "402 A.2d 230", "484 U.S. 1038", "527 A.2d 388", "704 A.2d 16", "71 N.J. 85", "73 N.J. 360", "80 N.J. 110", "80 N.J. 84", "98 L.Ed.2d 855"]
+cites_cases: ["107 N.J. 504", "108 S.Ct. 768", "139 N.J. 236", "146 N.J. 576", "148 N.J. 434", "363 A.2d 321", "375 A.2d 607", "402 A.2d 217", "402 A.2d 230", "484 U.S. 1038", "527 A.2d 388", "71 N.J. 85", "73 N.J. 360", "80 N.J. 110", "80 N.J. 84", "98 L.Ed.2d 855"]
 ---
 
 # State v. Caliguiri
