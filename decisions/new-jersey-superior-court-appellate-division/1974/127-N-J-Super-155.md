@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1974-03-15"
+citations: ["127 N.J. Super. 155"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FREDDIE SCHNELL, ELECTRO-PROTECTIVE CORPORATION AND SUPREME SECURITY SYSTEMS, INC., PLAINTIFFS-RESPONDENTS, v. TOWNSHIP OF MILLBURN, A MUNICIPAL CORPORATION, AND WELLS FARGO SIGNAL SYSTEMS, A CORPORATION, DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/127/cases/0155-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 299482
+cites_cases: ["124 N. J. Super. 89", "133 N. J. L. 470", "25 N. J. 317", "63 N. J. 562"]
+---
+
+# Schnell v. Township of Millburn
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiffs instituted this action to set aside a resolution of defendant Township of Millburn (Millburn) which enabled defendant Wells Pargo Signal Systems (Wells Pargo) to provide an alarm panel in the central communication network of the Millburn Police Department. Plaintiffs and Wells Pargo are competitively engaged in the commercial and residential burglar alarm business.
+In 1970 Millburn advertised for bids for construction of a new Police Administration Center, including a communications console. The console was to provide space for a burglar alarm enunciator panel; the township contemplated that a panel would be installed by the burglar alarm industry at no cost to the township. The function of the enunciator panel is to indicate the occurrence of an intrusion of the premises of a burglar alarm subscriber. The console installed in Mill-burn Police Headquarters contained space for two 60-zone enunciator panels.
+On March 10, 1973 Wells Eargo submitted a proposal to install and maintain a 60-zone enunciator panel at its expense. It agreed to make connection facilities available to all alarm companies and their subscribers. It also proposed a $45 installation fee and $5 monthly rental and maintenance fee per subscriber. In addition it expressed the hope “that the town of .Millburn will specify that all alarm connections will utilize this new facility.” In a resolution adopted March 30, 1973, which neither specifies a term during which Wells Eargo may maintain this system nor specifies fees, the township committee accepted the Wells Eargo offer. Wells Eargo installed one 60-zone enunciator panel; we are advised that space presently remains for another such panel.
+On March 30, 1973 plaintiffs Supreme Security Systems, Inc. and Electro-Protective Corporation expressed objections to the township committee to the Wells Eargo authorization without competitive bidding. Both companies were informed on April 30, 1973 that the township considered competitive bidding unnecessary in this circumstance. This action followed. The trial judge found that competitive bidding was required by N. J. S. A. 40:48-5 and declared the resolution null and void.
+The central issue before us is whether Millburn was required to employ the competitive bidding process prior to awarding the privilege to install burglar alarm enunciators. No one contests the power of Millburn to provide facilities for individual burglar alarms.
+A municipality may contract with private persons to provide any service which the municipality is authorized to render. N. J. S. A. 40:48-5. However, that statute also provides that any such contract shall not be let without competitive bidding. And N. J. S. A. 40A:ll-4 provides that every contract for the performance of public work .in excess of $3,500, the cost of which is borne by public funds, shall-be' subject to competitive bidding.
+If a contractor performs a function within the police power of a municipality, it is immaterial that the public will bear the expense directly; the particular arrangement does not alter the basic fact that the work is being performed for' the municipality. Kurman v. Newark, 124 N. J. Super. 89, 93 (App. Div. 1973) certif. den. 63 N. J. 562 (1973); McKim v. South Orange, 133 N. J. L. 470, 474 (Sup. Ct. 1945). To argue that it is within the power of the municipality to provide the convenience and added protection of burglar alarm panels, and that because the municipality is in no wise obligated to provide this service or convenience it is therefore exempt from the requirement of competitive bidding, is to ignore the reason for the existence of competitive bidding. If the purpose of competitive bidding is to guard against favoritism, improvidence, extravagance and corruption, Hillside v. Sternin, 25 N. J. 317, 322 (1957), we fail to see why the fact that the service to be performed by a private contractor is not required by law to be performed by the municipality should exempt it from the competitive bidding requirements of N. J. S. A. 40:48—5 when the cost of the service is passed directly to the consumer and not paid directly out of the municipal treasury. It seems apparent that the same problems as those sought to be prevented or controlled by the Legislature with respect to mandatory services would as readily arise with respect to discretionary services.
+Finally, we find no merit to defendants’ arguments that this action was instituted out of time and that plaintiffs have no standing to bring it. While the complaint was filed more than 45 days after the adoption of the resolution under attack, the delay was caused by the failure of defendant township to reply to plaintiffs’ demand that the matter be placed out for public bidding. Plaintiff Schnell, as a citizen and taxpayer of the township and therefore a potential user of the system, unquestionably has standing.
+Affirmed.
