@@ -1,0 +1,35 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1957-09-16"
+citations: ["46 N.J. Super. 278"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GABRIELE GIORDANO, PLAINTIFF-APPELLANT, v. IRA E. WOLCOTT, SHERIFF OF MONMOUTH COUNTY, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/46/cases/0278-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 433421
+cites_cases: ["101 N. J. L. 7", "135 N. J. Eq. 174", "19 N. J. Misc. 387", "34 N. J. Super. 329", "45 A. L. R. 2d 967", "5 N. J. L. 721"]
+---
+
+# Giordano v. Wolcott
+
+## Majority (Coneoed, J. A. D.)
+
+The opinion of the court was delivered byr
+Coneoed, J. A. D.
+Plaintiff is the holder by assignment of a judgment entered against one Santanello in 1927 in the Asbury Park District Court for $117.14 plus interest and costs.' In 1940 the judgment was recorded in the Monmouth Court of Common Pleas. In Robino v. Santanello, 34 N. J. Super. 329 (App. Div. 1955), this court reversed an order of the Monmouth County Court made in 1954 for the entry of satisfaction thereof based upon a claim by the judgment debtor of previous settlement of the obligation. The reversal was based upon the showing that the alleged settlement was not of the judgment but of a replevin action brought by the plaintiff to recover possession of certain chattels purchased by him in 1941 at a sale on execution of the judgment.
+The order of the Monmouth County Court had been occasioned by the issuance of pluries execution on the judgment August 16, 1954, and the levy by the defendant, Sheriff of Monmouth County, pursuant thereto, on certain personal property of Santanello. Immediately upon entry of the order of the Monmouth County Court, and conformably with its terms, the defendant had released to Santanello the property under levy. After the judgment of reversal in this court plaintiff brought the present action for damages against the defendant, charging the release was wrongful as plaintiff had given notice to the defendant of his intention to appeal the County Court order and that the defendant was obliged in the circumstances to withhold release of the goods impounded, pending an opportunity for plaintiff to file a bond conditioned for the timely prosecution of an appeal or to effectuate a stay.
+On motion, the Monmouth County Court entered summary judgment in favor of the defendant on the sole ground that the original judgment had expired by operation of statutory limitations in 1947, 20 years after its entry in 1927', it being proven that proceedings for the revival of the judgment were never instituted by scire facias or otherwise, and that therefore plaintiff enjoyed no rights in respect thereto in 1954 which might be affected by the action of the defendant complained of. This being, likewise, the only basis upon which the judgment under appeal is justified by the defendant on this appeal, we have not considered other points of vulnerability in the cause of action asserted by the plaintiff.
+Although each of the following cited sections from former Title 2 of the Revised Statutes was revised (but not in substance) in the enactment of revised Title 2A as of January 1, 1952 (L. 1951, 1st sp. sess.} c. 331), they are nevertheless presently controlling, as they were in effect in and prior to 1947, the time when, as contended by defendant, the judgment in question lost its efficacy by limitations.
+R. S. 2:24-6 provided:
+“A judgment in any court of record in this state may be revived by seire facias or an action at law m¡fy be brought thereon within twenty years next after the date thereof. * * *” (See N. J. S. 2A :14-5.)
+R. S. 2:27-317 provided:
+“Execution may issue without revival of the judgment by scire facias at any time within twenty years from its recovery.” (See N. J. S. 24:17-3.)
+These and cognate predecessor statutes have always been considered to create a twenty-year statute of limitations as to judgments in this state. Buchannan v. Rowland, 5 N. J. L. 721, reprint p. 845 (Sup. Ct. 1820); Trustees, etc., Public Schools v. Ott & Brewer Co., 135 N. J. Eq. 174 (Ch. 1944). District courts were courts of record, R. S. 2:8-8, as are the present county district courts (N. J. S. 24:6-7), and judgments entered therein were therefore within the purview of R. S. 2:2¿M>. Moreover, the running of the period of limitations commenced with the entry of the judgment in the district court, not with its recording in the Court of Common Pleas. See Twist v. Woerst, 101 N. J. L. 7, 9 (Sup. Ct. 1925).
+Plaintiffs principal contention is that the effect of the cited statutes was suspended by executions issued on the judgment from time to time between 1927 to 1939 and by a payment on account in 1939.
+The limitation by R. S. 2:24r-6 of revival of judgments to proceedings by scire facias, coupled with the express reference in R. S. 2:27-317 to executions as issuable within 20 years after recovery of judgment without revival, plainly refutes any concept that the issuance of an execution on a judgment would of itself toll the running of the statute. An execution does not rise to a higher status than its underlying judgment and has no independent obligating vitality. See Buchannan v. Rowland, supra (5 N. J. L., at page 735, reprint p. 860).
+Nor will the argument based upon payment withstand analysis. In the well-reasoned opinion in La Salle Extension University v. Barr, 19 N. J. Misc. 387 (D. Ct. 1941), it was demonstrated that the effect of payment as tolling statutes of limitations was historically confined to actions in debt or contract; that the statutory reference saving the effect of payments by a debtor, in the provision requiring an acknowledgement to be in writing in order to toll the statute, is limited in its application to “actions of debt or upon the case grounded on any simple contract,” R. S. 2 :24-9 (see N. J. S. 2A :14-24); and that the only other reference to payment in our limitation statutes is found in R. 8. 2:24-5 (see N. J. S. 2A:14-4), confined to actions upon certain specialties. From these premises it was concluded by the court that pajcment is not efficacious in respect to limitations upon a judgment. We are in agreement with the reasoning and conclusion. Moreover, the result accords with the salutary policy of suppressing the effect of matter dehors the record purported to extend the life of a judgment which would appear dead to one consulting the record in the course of a title examination. We are not persuaded by decisions in other jurisdictions giving a different effect to statutes there controlling. See Annotation, 45 A. L. R. 2d 967, 974 (1956).
+Plaintiff finally argues that the present action is controlled by our prior adjudication, as a matter of res judicata. This contention has no merit for the obvious reason, among others, that the present defendant was not a party to the previous litigation.
+The basis for the determination of the County Court being sound, the summary judgment entered there is
+Affirmed.
