@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1976-03-04"
+citations: ["139 N.J. Super. 565"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. WILLIAM S. HART, SR., DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/139/cases/0565-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 302867
+cites_cases: ["126 Pa. St. 199", "136 N. J. L. 102", "163 F. 313", "17 A. 600", "186 Misc. 548", "24 N. J. 571", "361 U. S. 212", "4 A. L. R. 2d 392", "410 U. S. 1", "61 N. Y. S. 2d 692"]
+---
+
+# State v. Hart
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+An emergency application for leave to appeal was made by defendant from the denial of his motions (a) for further discovery of the grand jury investigation in this matter, (b) for the assigment judge to make an inquiry into the grand jury proceedings, (c) to dismiss the indictment for insufficiency of the proofs before the grand jury and (d) to dismiss the indictment for improper prosecutorial conduct in connection with obtaining the indictment.
+The issues were fully briefed and we heard oral argument on March 2, 1976. After consideration of the matter we stayed the trial on the indictment scheduled for March 3, 1976, granted leave to appeal and have elected to hear the matter on its merits pursuant to R. 2:11-2.
+Since we have decided that the indictment must be quashed because of the conduct of the assistant prosecutor who presented the matter to the grand jury, we do not reach the other issues raised by defendant.
+A grand jury has wide latitude to make inquiry into violations of the criminal law. The scope of it powers reflects its special function to insure fair and effective law enforcement. The proceedings before it are not adversary in nature in which the guilt or innocence of an accused is determined. As provided by R. 3:6-1 et seq., it functions as an independent body with very broad powers. Its hearings are held in secret and only the prosecuting attorney, interpreters when needed, a stenographer and the grand jury clerk may be present while it is in session. No person other than the clerk and the prosecuting attorney may be present when the grand jury is deliberating. Tt may even request the clerk and the prosecuting attorney to leave the jury room during its deliberations.
+The grand jurors are instructed by the assignment judge of each county that the prosecutor will present the evidence to them but that if they need further instructions they should advise the assignment judge thereof through their foreman or clerk. We recognize that there is no impropriety in the prosecutor assisting in the investigation and examination of witnesses; in advising the grand jury as to the admissibility of evidence and the proper mode of procedure and in explaining the testimony with reference to the law of the case.
+In short, it is our considered view that while a prosecutor may assist the grand jury in the general manner above outlined, he may not participate in its deliberations, or express his views on questions of fact, or comment on the weight or sufficiency of the evidence, or in any way attempt to influence or direct the grand jury in its findings — rather, the grand jury must act independently of any outside source. The basic principle involved was snceinctly expressed in United States v. Dionisio, 410 U. S. 1, 93 S. Ct. 764, 35 L. Ed. 2d 67 (1973):
+The Fifth Amendment guarantees that no civilian may be brought to trial for an infamous crime “unless on a presentment or indictment of a Grand Jury.” This constitutional guarantee presupposes an investigative body “acting independently of either prosecuting attorney or judge,” Stirone v. United States, 361 U. S. 212, 218, 80 S. Ct. 270, 273, 4 L. Ed. 2d 252, whose mission is to clear the innocent, no less than to bring to trial those who may be guilty, [at pp. 16-17, 93 S. Ct. at p. 773].
+The same principle has been recognized in State v. Manney, 24 N. J. 571, 581 (1957), and State v. McFeeley, 136 N. J. L. 102, 111 (Sup. Ct. 1947). See also, Commonwealth v. Bradney, 126 Pa. St. 199, 17 A. 600, 601 (Sup. Ct. 1889); People v. Benin, 186 Misc. 548, 61 N. Y. S. 2d 692, 693 (Gen. Sess. 1946); 38 Am. Jur. 2d, Grand Jury, § 33 at 979; 1 Wharton’s Criminal Procedure (12 ed. 1974), § 219, at 485.
+With the above principles in mind we turn to the actions of the assistant prosecutor in this case. After the State had presented its evidence defendant, who had been invited by the prosecutor to appear before the grand jnry, testified to his version of the charges. The grand jury deliberated and voted not to indict defendant. Immediately following the vote, and while the assistant prosecutor was in the grand jury room, one or more of the grand jurors sought his views on the action of the grand jury. He subsequently paraphrased his response thus:
+* * * I thought the action they had taken was wrong. I did express that to the entire grand jury. It was a situation where money had been passed from one individual to another individual and the explanation given [by defendant] was a complete lie.
+Thereafter, the matter came to the attention of the assignment judge who saw fit to instruct the grand jury that the assistant prosecutor’s opinions were not binding on it and that it should act independently thereof. Thereupon the grand jury decided to reconsider the matter and on reconsideration the present indictment was returned.
+As previously indicated, we find the assistant prosecutor’s actions impinged upon the independence of the grand jury and improperly influenced its determination. Once a “no” bill was voted, he should have refused to answer the inquiry of any of the grand jurors. Nor are we able to say the assignment judge’s supplemental charge cured the defect. It would be pure speculation to attempt to gauge its effect on the grand jury. Under the circumstances, the present indictment cannot stand. See United States v. Wells, 163 F. 313, 327-329 (D. C. Idaho, 1908); Annotation, “Presence in grand jury room of person other than grand juror as affecting indictment,” 4 A. L. R. 2d 392, 414 (1949).
+Accordingly, we quash the indictment, and since the statute of limitations has not run against the charges here involved, we direct the prosecutor to present the matter to a new grand jury forthwith.
