@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1985-03-11"
+citations: ["199 N.J. Super. 430"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Judges ANTELL, J.H. COLEMAN and SIMPSON."]
+parties: ["JOHN MADAIO AND LORETTA MADAIO, HIS WIFE, PLAINTIFF-RESPONDENT, v. DOLORES MCCARTHY, DEFENDANT-APPELLANT. ZACHARIAE REALTY, INC., A NEW JERSEY CORPORATION, PLAINTIFF-CROSS-APPELLANT, v. DOLORES MCCARTHY, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/199/cases/0430-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 385779
+cites_cases: ["129 N.J. Eq. 161", "137 N.J. Eq. 249", "140 N.J. Eq. 177", "17 N.J. 12", "22 N.J. 523", "65 N.J. 474"]
+---
+
+# Madaio v. McCarthy
+
+## Majority (ANTELL, P.J.A.D.)
+
+The opinion of the court was delivered by
+ANTELL, P.J.A.D.
+On October 11, 1982 Dolores McCarthy listed certain real estate for sale with Zachariae Realty, Inc., a real estate broker. The original listing was for $195,000, but over a period of time the listing price was reduced to $125,000. There was disagreement in the evidence as to whether McCarthy knew that the listing price was being reduced, but the trial court, sitting without a jury, found that this was done with her knowledge and consent.
+Eventually, an offer to purchase was made by John Madaio and Loretta Madaio for $100,000. McCarthy counter-proposed $110,000 and an agreed price of $105,000 was reached. The various offers and proposals were transmitted between McCarthy and the Madaios by Zachariae.
+On January 12, 1983 two representatives of Zachariae visited McCarthy with a formal contract which she signed in their presence. The same day they delivered the contracts to John Madaio who brought them to his attorney the day following, January 13, 1983, and placed his signature thereon at a luncheon meeting.
+On January 16, 1983 McCarthy informed John Madaio by telephone that she had decided not to proceed with the transaction. The testimony is in disagreement as to the reasons which she gave for wanting to withdraw; however, there is no question but that she stated her intention not to sell under the contemplated contract. Madaio stated that he had already signed the contract and was determined to go ahead with the purchase, but his signed copy of the agreement was not mailed to McCarthy by Madaio’s lawyer until January 18, two days later.
+In these actions, which were consolidated for trial, Madaio sued McCarthy for specific performance and damages and Zachariae sued McCarthy for recovery of its brokerage commission. The trial judge entered judgment for specific performance in favor of Madaio and against McCarthy and also awarded Madaio interest at the rate of 12% upon the $10,000 deposit which he made under the contract and which was being held by the broker. In the broker’s suit against McCarthy, however, he entered judgment in favor of McCarthy on his finding that Zachariae had failed to serve McCarthy’s interest with undivided loyalty in respects not here relevant. McCarthy appeals from so much of the judgment as orders specific performance and the payment of interest on Madaio’s deposit, and Zachariae appeals from so much thereof as denies it the payment of a commission.
+Absent mutuality of obligation and valid consideration, McCarthy’s promise to sell was unenforceable. It was an offer only, not enforceable unless accepted. American Handkerchief Corp. v. Frannat Realty Co., 17 N.J. 12, 17, 19 (1954). The “usual rule” in such case is that the offer may be revoked until accepted. Id. Here, the bargained for consideration was Madaio’s reciprocal written promise to purchase. But this was not even placed in the mails until two days after McCarthy’s revocation, and until received, McCarthy was powerless to enforce Madaio’s promise to buy. To disregard her right of revocation under these circumstances effectually transforms her offer to sell into a gratuitous option to purchase of indefinite duration. See American Handkerchief Corp., 17 N.J. at 17.
+It has long been settled that specific performance of a contract will not be ordered unless defendant was equally positioned to obtain specific performance against the plaintiff. Under the doctrine of mutuality of obligation, “mutual promises must be binding on both parties” unless other consideration is present. Friedman v. Tappan Development Corp., 22 N.J. 523, 533 (1956). “[TJhere must be mutuality.” International Union, &c., v. Elastic Stop Nut Corp., 140 N.J. Eq. 177, 179 (E. & A. 1947). “ ‘[I]f the enforcement of the obligation may not be granted to both contracting parties, it should not be enforced against one party.’ ” Gulvin v. Sunshine Park, Inc., 137 N.J. Eq. 249, 253 (E. & A. 1945), quoting Fiedler, Inc. v. Coast Finance Co., Inc., 129 N.J. Eq. 161, 166-167 (E. & A. 1941). It is said that mutuality is the “sine qua non to a decree for specific performance.” Its test “is whether the ‘remedy’ as well as the ‘obligation’ is mutual.” Id. Although it has been held that the necessary mutuality of obligation can be found in the filing of a complaint for specific performance, that rule is limited in its application by the better authorities to cases of unilateral contracts and in certain other cases under circumstances not here present. Here the parties contemplated only a written bilateral agreement.
+In view of the foregoing determination it becomes unnecessary for us to consider Zachariae’s appeal from the trial court’s disallowance of a broker’s commission. However, we express the view that the trial judge’s conclusion that Zachariae’s breach of fiduciary duty to McCarthy disentitled it to a commission is supported by substantial credible evidence in the record. Rova Farms Resort v. Investors Ins. Co., 65 N.J. 474, 484 (1974).
+The judgment under review awarding specific performance and 12% interest on Madaio’s purchase deposit is reversed. In other respects the judgment is affirmed.
