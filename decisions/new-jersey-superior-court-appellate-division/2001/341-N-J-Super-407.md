@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "2001-06-25"
-citations: ["341 N.J. Super. 407", "775 A.2d 551", "342 N.J. Super. 368", "776 A.2d 884"]
+citations: ["341 N.J. Super. 407", "775 A.2d 551"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. ARLENE E. VOGT, DEFENDA
 source_url: "https://static.case.law/nj-super/341/cases/0407-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1345827
-cites_cases: ["105 S.Ct. 93", "113 S.Ct. 1607", "114 S.Ct. 418", "123 L. Ed.2d 169", "126 L.Ed.2d 364", "133 N.J. 430", "137 N.J. 8", "142 N.J.Super. 259", "151 N.J. 470", "157 N.J. 463", "16 U.S.C.A. § 460", "161 N.J. 332", "164 N.J. 316", "175 A.2d 207", "181 N.J.Super. 34", "187 N.J.Super. 107", "198 N.J.Super.. 175", "199 A.2d 809", "215 F.2d 56", "215 N.W.2d 215", "219 N.J.Super. 103", "220 N.J.Super. 214", "226 N.J.Super. 680", "238 N.J.Super. 179", "257 N.J.Super. 557", "27 L.Ed.2d 78", "294 A.2d 47", "302 N.J.Super. 509", "320 N.J.Super. 174", "320 N.J.Super. 405", "348 U.S. 939", "36 N.J. 93", "361 A.2d 96", "371 U.S. 245", "382 F.2d 992", "393 A.2d 571", "40 U.S.C. § 255", "40 U.S.C.A. § 255", "400 U.S. 842", "405 U.S. 156", "42 N.J. 146", "422 U.S. 205", "426 F.2d 1112", "436 A.2d 550", "453 A.2d 910", "455 U.S. 489", "457 F.Supp. 1170", "469 U.S. 821", "471 A.2d 355", "486 A.2d 912", "494 A.2d 294", "507 U.S. 994", "510 U.S. 959", "518 U.S. 515", "529 A.2d 1047", "529 U.S. 598", "530 F.Supp. 1254", "531 A.2d 1059", "545 A.2d 268", "550 N.W.2d 460", "587 N.Y.S.2d 601", "600 N.E.2d 232", "61 N.J. 296", "618 N.W.2d 306", "627 A.2d 1136", "67 A.L.R.5th 431", "683 F.Supp. 289", "700 A.2d 881", "724 A.2d 234", "734 F.2d 608", "736 A.2d 525", "75 S.Ct. 360", "78 N.J. 174", "80 N.Y.2d 875", "83 L.Ed.2d 39", "838 S.W.2d 60", "91 S.Ct. 86", "928 F.2d 112", "95 N.J. 306", "99 L.Ed. 735", "99 N.J. 552", "994 F.2d 980"]
+cites_cases: ["105 S.Ct. 93", "113 S.Ct. 1607", "123 L. Ed.2d 169", "137 N.J. 8", "151 N.J. 470", "161 N.J. 332", "164 N.J. 316", "175 A.2d 207", "187 N.J.Super. 107", "215 N.W.2d 215", "219 N.J.Super. 103", "220 N.J.Super. 214", "238 N.J.Super. 179", "294 A.2d 47", "302 N.J.Super. 509", "320 N.J.Super. 174", "320 N.J.Super. 405", "36 N.J. 93", "393 A.2d 571", "405 U.S. 156", "422 U.S. 205", "453 A.2d 910", "455 U.S. 489", "457 F.Supp. 1170", "469 U.S. 821", "471 A.2d 355", "494 A.2d 294", "507 U.S. 994", "518 U.S. 515", "529 A.2d 1047", "529 U.S. 598", "530 F.Supp. 1254", "531 A.2d 1059", "550 N.W.2d 460", "587 N.Y.S.2d 601", "600 N.E.2d 232", "61 N.J. 296", "618 N.W.2d 306", "67 A.L.R.5th 431", "683 F.Supp. 289", "700 A.2d 881", "734 F.2d 608", "736 A.2d 525", "78 N.J. 174", "80 N.Y.2d 875", "83 L.Ed.2d 39", "838 S.W.2d 60", "928 F.2d 112", "95 N.J. 306", "99 N.J. 552"]
 ---
 
 # State v. Vogt
