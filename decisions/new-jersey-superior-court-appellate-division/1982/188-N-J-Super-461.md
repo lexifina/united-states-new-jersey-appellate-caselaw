@@ -1,0 +1,25 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1982-12-21"
+citations: ["188 N.J. Super. 461"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. JAMES EDWARD DELTS, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/188/cases/0461-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 907718
+cites_cases: ["183 N.J.Super. 473", "185 N.J.Super. 137"]
+---
+
+# State v. Delts
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Defendant James Edward Delts was indicted by the Somerset County grand jury and charged in the first of two indictments (No. 340-80J) with attempting to acquire or obtain Talwin, a controlled dangerous substance, by misrepresentation and fraud, in violation of N.J.S.A. 24:21-24 and N.J.S.A. 24:21-22 a(3), and in the second (No. 477-80M) with attempting to acquire or obtain Ritalin, a controlled dangerous substance, by misrepresentation and fraud in violation of N.J.S.A. 24:21-24 and N.J. S.A. 24:21-22 a(3), and possessing Talwin in violation of N.J.S.A. 24:21-20 a. Following plea negotiations, defendant entered retraxit pleas of guilty to the three charges. The State, for its part of the plea bargain, agreed to recommend that the maximum sentences imposed not exceed an aggregate of five years, and agreed to stand mute at sentencing. In accordance therewith, the trial judge sentenced defendant to concurrent two- to three-year terms in State Prison on each of the counts of the two indictments and imposed upon defendant a total penalty of $75. Defendant appeals.
+Defendant contends that the sentences are manifestly excessive and unduly punitive and that the trial judge’s analysis of the aggravating and mitigating factors is not supported by the record. He urges us to modify the sentences. The State, on the other hand, claims that the sentences are not manifestly excessive and do not constitute a miscarriage of justice. The State points out, however, that the minimum-maximum sentences imposed upon defendant are illegal and therefore must be corrected. We agree.
+N.J.S.A. 2C:43-1 b of the New Jersey Code of Criminal Justice (Code), which became effective on September 1, 1979, provides:
+b. Notwithstanding any other provision of law, a crime defined by any statute of this State other than this code and designated as a high misdemeanor shall constitute for the purpose of sentence a crime of the third degree. Except as provided in sections 2C:l-4e and 2C:l-5b and notwithstanding any other provision of law, a crime defined by any statute of this State other than this code and designated as a misdemeanor shall constitute for the purpose of sentence a crime of the fourth degree. The provisions of this subsection shall not, however, apply to the sentences authorized by the “New Jersey Controlled Dangerous Substances Act,” P.L.1970, c. 226 (0.24:21-1 through 45), which shall be continued in effect. A sentence imposed upon violation of the “New Jersey Controlled Dangerous Substances Act” shall be governed by this subtitle but shall be subject to the maximum sentence authorized for the relevant offense under said act, or if there is no specific penalty under that act, by imprisonment for not more than 3 years or a fine of not more than $1,000.00 or both, in the case of a misdemeanor or other indictable offenses, or by imprisonment for not more than 6 months or a fine of not more than $500.00 or both, in the ease of a nonindictable offense.
+The sentencing provisions of the Code are generally applicable to convictions for violation of the New Jersey Controlled Dangerous Substances Act, N.J.S.A. 24:21-1 et seq. The only sentencing provisions of the Code that are inapplicable to Title 24 offenses “are those provisions which are specifically and expressly applicable solely to degree-classified offenses and those provisions which prescribe specific terms of imprisonment.” State v. Sobel, 183 N.J.Super. 473, 476 (App.Div.1982). See, also, State v. Tremblay, 185 N.J.Super. 137, 140 (Law Div.1982). Furthermore, N.J.S.A. 2A:164-17, which required that all sentences to State Prison, except sentences for life, be for a maximum and minimum term was repealed by the Code. See N.J.S.A. 2C:98-2. For these reasons, we conclude that N.J.S.A. 2C:43-6, which requires that persons convicted of crimes be sentenced to fixed terms of imprisonment, is applicable to crimes defined by Title 24. Consequently, the sentences imposed upon defendant should have been for fixed terms, and the trial court erred in sentencing defendant to minimum-maximum State Prison terms for the three Title 24 offenses committed after the effective date of the Code.
+Accordingly, the concurrent State Prison terms aggregating two to three years imposed upon defendant are vacated and the matter is remanded to the trial court to resentence him to fixed terms within the scope of the plea agreement. We do not retain jurisdiction.
