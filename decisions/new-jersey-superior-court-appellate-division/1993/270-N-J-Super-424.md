@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1993-12-29"
+citations: ["270 N.J. Super. 424", "637 A.2d 529"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WENDELL A. SELLERS, PLAINTIFF-APPELLANT/CROSS-RESPONDENT, v. STEVEN SCHONFELD, DEFENDANT/THIRD-PARTY PLAINTIFF-RESPONDENT/CROSS-APPELLANT, v. UNITED PARCEL SERVICE, INC., THIRD-PARTY DEFENDANT-RESPONDENT. WENDELL A. SELLERS, PLAINTIFF-APPELLANT, v. ROGER DANTONI AND NICHOLAS MELILLO, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/270/cases/0424-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 611602
+cites_cases: ["110 A.2d 24", "116 N.J. 739", "17 N.J. 67", "29 U.S.C.A. § 185", "563 A.2d 31"]
+---
+
+# Sellers v. Schonfeld
+
+## Majority (MUIR, Jr., J.A.D.)
+
+The opinion of the court was delivered by
+MUIR, Jr., J.A.D.
+In these consolidated cases, plaintiff Wendell Sellers, a former driver for United Parcel Service, Inc. (UPS), appeals from two orders which resulted in dismissal of his complaints against all defendants. The first order granted defendant Steven Sehonfeld’s motion for summary judgment to dismiss the defamation complaint filed against Schonfeld. The second order granted the collective motion of defendants Melillo and Dantoni to dismiss plaintiffs complaint against them for tortious interference with plaintiffs employment on grounds plaintiff failed to state a cause of action upon which relief can be granted. In granting both motions, the trial court relied on documents submitted in support of Schonfeld’s motion. The reliance on “matters outside the pleadings” required the second motion to be treated as one for summary judgment. See R. 4:6-2.
+We reverse. We do so because the trial court relied on facts outside the record that were neither competent nor admissible in the form presented.
+Summary judgment is a vehicle to facilitate resolution of a civil action where there is no genuine issue of material fact. See R. 4:46-2; Judson v. Peoples Bank & Trust Co. of Westfield, 17 N.J. 67, 74, 110 A.2d 24 (1954). Its purpose is to provide a means for piercing the allegations of pleadings to show there is no triable issue of material fact so as to allow resolution of a case or issue as a matter of law. Ibid.
+To accomplish that purpose, the rules provide methods for presenting material outside the record. See R. 4:46-2. One of those methods is by use of an affidavit. Ibid. While the rule does not require submission of affidavits in support of a motion for summary judgment (an alternative that translates the motion into nothing more than one for dismissal on grounds of failure to state a claim upon which relief can be granted, see Printing Mart v. Sharp Elecs., 116 N.J. 739, 746, 563 A.2d 31 (1989)), only the affidavit together with properly certified depositions, answers to interrogatories, or admissions can supply facts outside the record that are not judicially noticeable. See R. 1:6-6. Where the submission is by affidavit, it must be
+made on personal knowledge, setting forth only facts which are admissible in evidence to which the affiant is competent to testify and which may have annexed thereto certified copies of all papers or parts thereof referred to [in the affidavit].
+Thus, if the allegations of pleadings are to be pierced for summary judgment purposes, the affidavits in support are limited to the affiant’s personal knowledge of such facts as he is competent to testify to and as are admissible in evidence. See Pressler, Current N.J. Court Rules, comment on R. 1:6-6 (1994); see generally McCormick on Evidence § 10 (Strong ed., 4th ed. 1992).
+Plaintiffs respective complaints alleged defamatory statements by Schonfeld and tortious interference by Dantoni and Melillo, but outside the scope of their employment. The trial court effectively found (1) no defamation proved; (2) qualified privilege applied to Schonfeld’s alleged defamatory statement; (3) plaintiff failed “to establish any intentional doing of a wrongful act, without justification or excuse” so as to bar a claim for tortious interference; and (4) that in any event the tortious interference claims were barred by the preemption of state law tort claims doctrine under § 301 of the Labor Management Relations Act of 1947, 29 U.S.C.A. § 185(a). The former two conclusions related to the complaint against Schonfeld; the latter two, to the complaint against Dantoni and Melillo. To reach those conclusions, the court relied on facts contained in exhibits attached to the certification supplied by counsel in support of Schonfeld’s motion for summary judgment. That certification failed to comply with the requisites of R. 1:6-6 for providing competent, admissible evidence upon which a grant of summary judgment may be based.
+The certification provided no competent, admissible evidence. Counsel began the certification with the statement, “I am fully familiar with the facts of the matter.” Then, after identifying the nature of the lawsuit against Schonfeld, he stated:
+This Certification is submitted with the annexed Brief and Exhibits in support of defendanf/third party plaintiff Steven Schonfeld’s Motion for Summary Judgment.
+He ended, with, “I hereby certify that the foregoing statements made by me are true.”
+Approximately thirty exhibits were attached to the certification. They included letters and memoranda addressed to plaintiff by UPS employees—“Division Managers”; memoranda from plaintiff to UPS employees; written customer complaints about plaintiff, including one by Schonfeld; reports by UPS employees investigating complaints; arbitration decisions; and other documents, including an uncertified deposition of plaintiff.
+None of the documents were certified as true copies—nor was there any authentication of the documents. See generally, N.J.R.E. 901. Moreover, there is nothing that suggests the certifying attorney had any firsthand knowledge concerning the exhibits or facts contained therein. The documents were at best hearsay, once or more removed. One who has no knowledge of a fact except for what he has read or for what another has told him cannot provide evidence to support a favorable disposition of a summary judgment. The absence of competent, admissible evi-denee precluded resolution of the summary judgments. See Pres-sler, Current N.J. Court Rules, comment on R. 1:6-6 (1994), and the cases cited therein.
+In sum, the trial court improperly relied upon incompetent, inadmissible evidence to resolve both motions. Accordingly, the attendant orders must be vacated and the matter remanded for further proceedings. Our holding, however, is not to be read in any way to prevent resolution of these cases by summary judgment given presentation of competent, admissible evidence as dictated by court rules.
+Reversed.
