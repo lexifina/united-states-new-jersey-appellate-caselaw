@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1951-03-09"
+citations: ["12 N.J. Super. 202"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROBERT W. VOLKSEN, BY HIS GUARDIAN AD LITEM, HANS H. VOLKSEN, AND HANS H. VOLKSEN, INDIVIDUALLY, PLAINTIFFS-APPELLANTS, v. THOMAS H. KELLY, DEFENDANT-RESPONDENT, AND ROBERT K. GARRABRANT, ET AL., DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/12/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 425673
+cites_cases: ["116 N. J. L. 172", "131 N. J. L. 309", "6 N. J. 102"]
+---
+
+# Volksen v. Kelly
+
+## Majority (Peoctoe, J. A. D.)
+
+The opinion of the court was delivered by
+Peoctoe, J. A. D.
+This action was brought to recover damages for injuries to the plaintiff, Robert Volksen, 16 years of age, and the resulting loss to his father, Hans Volksen. The injuries were sustained by the infant plaintiff while riding his bicycle on Roseville Avenue between Sixth and Seventh Avenues, in the City of Newark.
+At the end of plaintiff’s case a judgment of involuntary dismissal was entered in favor of the defendant Kelly, and the ease against the defendant Robert Garrabrant was submitted to the jury which returned a verdict for the plaintiffs. Plaintiffs appeal from the judgment of dismissal.
+The scene of the mishap was a built-up residential area where the street was about 38 feet in width. Cars were parked at both curbs. The infant plaintiff was proceeding in a southerly direction, two or three feet to the left of the line of vehicles parked facing south. It was a clear day, the road was dry, and there was no other traffic in the vicinity. He testified that s when he was abreast of the rear wheel of the parked automobile belonging to the defendant Garrabrant its left door was opened in his path; that he tried to swerve to the left but came in contact with the door, causing him and his bicycle to fall outward; that the Kelly car, which was proceeding south, “came up” suddenly, the right rear fender and bumper striking and carrying him and his bicycle some distance before he was dropped to the pavement. He further testified that the Kelly car was brought to a stop about 27 feet beyond where he lay.
+The defendant Kelly’s wife, called as a witness by the plaintiff, testified that she was in the front seat of the automobile driven by her husband, and when they entered Roseville Avenue, at Sixth Avenue, she saw the infant plaintiff on his bicycle half a block ahead of them; that she was looking “straight ahead”; that, as they proceeded south, “we were riding along and I seen Bobbie on a bicycle and I seen the car door start to come open and I saw Bobbie falling”; that her husband turned the car to the left; that the front of the car did not strike the infant plaintiff, but the right rear of the-car came in contact with him.
+Another witness, Ryan, testified that he saw the infant plaintiff drop from the back fender of the Kelly car at a point 37 feet south of where Mrs. Kelly testified the collision occurred, and that the Kelly car proceeded a distance of more-than 25 feet from where the infant plaintiff lay before it came-to a stop. .
+There was testimony that the infant plaintiff was proceeding at ten miles an hour. There was other testimony from-which it could be inferred that, while he was travelling 150 feet to the point of impact, the Kelly car travelled 750 feet to the same point.
+The issues are (1) whether there was evidence from which-the jury could find that defendant Kelly was negligent, and if so, (2) whether such negligence was a proximate cause of the infant plaintiff’s injuries.
+On a motion for an involuntary dismissal at the end of plaintiffs ease, evidence will not be weighed but all the proofs which support the claim of the party against whom the motion is made must be accepted as true and he is entitled to the benefit of all legitimate inferences which may be drawn therefrom. Where fair-minded men might honestly differ as to the conclusions to be drawn from the proofs, the questions at issue should be submitted to the jury. Vadurro v. Yellow Cab Co. of Camden, 6 N. J. 102, 106 (1950).
+Erom the time and distance within which the Kelly car overtook the infant plaintiff after he was first observed by Mrs. Kelly and from the distance the Kelly car continued after the impact before coming to a stop, it could reasonably be inferred that Kelly was operating his automobile at an excessive speed.
+Defendant contends that no act on his part was the natural and proximate cause of the infant plaintiffs injury; that the proximate cause of the injury was the negligent opening of the door of the Garrabrant car. In Daniel v. Gielty Trucking Co., 116 N. J. L. 172, 173 (E. & A. 1936), it was stated:
+“The mere fact that another person concurs or co-operates in producing the injury or contributes thereto, in any degree, whether large or small, is of no importance, * * *. It is immaterial how many others have been in fault, if the defendant’s act was an efficient cause of the injury.”
+In the present case, when all the circumstances atiending the happening of the accident are taken into consideration, the width of the street, the fact that there was no traffic in the vicinity, that it was a clear day, that defendant Kelly could have seen the infant plaintiff a considerable distance ahead of him before attempting to pass him, that defendant was to the roar of the infant plaintiff at the time of the impact between the latter and the door of the Garrabrant car, the proximity of the Kelly car to the left of the bicycle, the relative distances travelled by the bicycle and the Kelly car from the time the bicycle was first observed by Mrs. Kelly to the moment of impact together with the distance the car travelled after the impact with the infant plaintiff, we conclude it was for the jury to determine whether the inference should be drawn that the defendant Kelly was negligent in the operation of his automobile and that such negligence constituted an efficient cause of the accident.
+The case of McMillan v. Mather, 131 N. J. L. 309 (E. & A. 1944), relied upon by the respondent, is distinguishable. There the defendant’s car and the plaintiff on his bicycle were travelling in the same direction, parallel to each other, three to five feet apart, when the bicycle turned sharply to the left and its rider struck the right front fender of the automobile. The defendant instantly applied his brakes and stopped “within a very few feet” before the rear wheels came in contact with the plaintiff. In the present case, the defendant was overtaking and passing the bicycle and there were facts indicating that he was traveling at an excessive speed.
+Reversed and remanded, the costs to abide the event.
