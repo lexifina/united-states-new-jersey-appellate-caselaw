@@ -1,0 +1,56 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2001-03-14"
+citations: ["338 N.J. Super. 55", "768 A.2d 206"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KENNETH ADLER, AN INFANT BY HIS GUARDIAN AD LITEM, BRUCE ADLER, AND BRUCE ADLER AND JANET ADLER INDIVIDUALLY, PLAINTIFFS-RESPONDENTS, v. SANDY H. CHIN, SOON FOT NOODLE CO., INC, A/K/A GREEN POINT PRODUCT CO. AND SUNG JUN HONG, STATE OF NEW JERSEY, BOROUGH OF ALPINE, BOROUGH OF CRESSKILL, DEFENDANTS, AND CAMDEN FIRE INSURANCE ASSOCIATION, DEFENDANT/THIRD PARTY PLAINTIFF-APPELLANT, v. ALLSTATE INSURANCE COMPANY, THIRD PARTY DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/338/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1192908
+cites_cases: ["153 N.J. 406", "271 N.J.Super. 409", "299 N.J.Super. 426", "337 N.J.Super. 360"]
+---
+
+# Adler v. Chin
+
+## Majority (CARCHMAN, J.A.D.)
+
+The opinion of the Court was delivered by
+CARCHMAN, J.A.D.
+This appeal arises from a conflict between two automobile insurance carriers providing Underinsured Motorist (UIM) coverage. Plaintiff Camden Fire Insurance Association appeals from a judgment of the Law Division determining that the “excess-escape” provision of its UIM coverage and that of defendant Allstate Insurance Company required that a claim brought by Kenneth Adler, plaintiffs insured, be pro-rated between plaintiff and defendant. The trial judge rejected plaintiffs assertion that its UIM coverage was excess to defendant’s UIM coverage. We reverse and conclude that under Magnifico v. Rutgers Casualty Insurance Co., 153 N.J. 406, 710 A.2d 412 (1998), and our earlier decision in Di Ciurcio v. Liberty Mutual Insurance Co., 299 N.J.Super. 426, 691 A.2d 396 (App.Div.1997), defendant’s policy provides primary coverage to Adler and plaintiffs policy is excess.
+This litigation arises as a result of a tragic automobile accident resulting in the death of two teenagers and injuries to others involved in the accident. At the time of the accident, Kenneth Adler, then age fifteen, was a passenger in an automobile owned by Barry L. and Ronnie Feinberg. This vehicle (the host vehicle) was operated by the Feinberg’s son Andrew and insured by defendant. At the time of the accident, Kenneth was being driven to his home where he resided with his parents Bruce and Janet Adler. The Adlers owned a vehicle which was insured by plaintiff. As the Feinberg vehicle was stopped to make a turn, it was struck in the rear by a van operated by Sandy Chin and owned by Soon Fat Noodle Co. After it was struck by the Chin vehicle, the Feinberg vehicle was struck by another vehicle owned and operated by Sung Jun Hong. Both Andrew Feinberg and another passenger in the Feinberg vehicle, Andrew Strasser, died as a result of the accident. Kenneth Adler suffered personal injuries. Four tort actions were filed as a result of the accident, and we are advised that three have settled.
+Plaintiff asserts that defendant is the primary coverage carrier since the “excess-escape” provision of defendant’s policy addressing “other insurance” is not operative when its insured vehicle is the host vehicle involved in the accident. Plaintiff concedes that its “excess-escape” language is essentially the same, but argues that its responsibility is excess to defendant’s primary coverage. We agree that both our decision in Di Ciurcio, supra, 299 N.J.Super. 426, 691 A.2d 396, and that of the Supreme Court in Magnifico supra, 153 N.J. 406, 710 A.2d 412, support this view. The issues before us require that we examine the language of the policies at issue.
+Although he did not delineate the policy language, the trial judge concluded:
+given the “other insurance” clause of the policies in question that the Adler claim must be pro rated as between Allstate and Camden. The court further finds that given the fact that in addition to the Adler claims the Allstate policy has two additional claims against it, the pro ration will be on the balance remaining on the policy after the two other claims have been satisfied.
+We disagree with the conclusion reached by the trial judge.
+In Magnifico, supra, the Supreme Court held, under policy language similar to that of the provisions at issue here, that the host vehicle coverage was primary and the injured party’s own coverage was excess to the primary coverage. 153 N.J. at 416, 710 A.2d 412. See also Royal Ins. Co. v. Rutgers Cas. Ins. Co., 271 N.J.Super. 409, 419-20, 638 A.2d 924 (App.Div.1994). We recently discussed the holding in Magnifico in Hallion v. Liberty Mutual Insurance Co., 337 N.J.Super. 360, 369, 766 A.2d 1224 (App.Div.2001):
+In Magnifico, the Court addressed the issue of UIM coverage under multiple insurance policies.... [PJlaintiff and her husband were passengers in a car owned and driven by Grace DeNichilo. The DeNichilo vehicle collided with a vehicle driven by Frank Cameron and owned by Beverly Manning. The Manning vehicle was insured by [a] State Farm Policy with a liability limit of $25,000.00. CSC Insurance Company insured the DeNiehilo’s car and provided UIM coverage of $250,000.00. Plaintiffs own automobile policy was with Rutgers Casualty Insurance Company which provided UIM coverage of $100,000.00. Plaintiffs insurance policy provided a standard “other insurance” clause which stated “any insurance we provide with respect to a vehicle you do not own shall be excess over any other collectible insurance.” Applying the clear and unambiguous language of the insurance contract, the Court held that the CSC policy provided primary coverage and the Rutgers policy provided excess coverage.
+[Ibid, (citations omitted).]
+Hallion involved facts similar to those in Magnifico and this appeal. In Hallion, plaintiff was injured while driving in an automobile owned by her daughter and insured by CNA. Id. at 863, 766 A.2d 1224. Plaintiff had her own policy issued by Liberty Mutual. Ibid. The minimal liability coverage on the tortfeasor’s vehicle triggered the respective policies’ UIM coverage. Ibid. Applying Magnifico, we concluded:
+Liberty Mutual’s policy provided to plaintiffs contained the standard “other insurance” clause similar to the policy in Magnifico, and the CSC policy of the host vehicle provided UIM coverage to Dale Hallion as a person “occupying” the covered vehicle. Applying the clear policy language, we conclude that CNA provided primary coverage and Liberty Mutual provided excess UIM coverage to plaintiffs.
+[Id. at 371, 766 A.2d 1224.]
+In Di Ciurcio, supra, 299 N.J.Super. 426, 691 A.2d 396, decided prior to Magnifico, we interpreted policy language substantially similar to that appearing in both Magnifico and Hallion. Plaintiff was a passenger in an automobile insured by Liberty Mutual and owned by the father of the driver. Id. at 428, 691 A.2d 396. Following an automobile accident involving another vehicle, plaintiff sought UIM coverage from both Allstate, plaintiffs father’s automobile insurer, and from Liberty Mutual. Id. at 428-29, 691 A.2d 396. Allstate successfully argued that pursuant to its policy’s “excess-escape” provision, its coverage was excess to Liberty Mutual’s primary coverage as insurer of the host vehicle, and we so held. Id. at 428, 433, 691 A.2d 396.
+We find defendant’s argument here that its UIM coverage must be considered pro rata with plaintiffs coverage to be disingenuous. Not only does that argument fly in the face of Magnifico, it is also directly contrary to the position taken by this same defendant in Di Ciurcio in interpreting policy language substantially similar to that in' this case. Particularly irksome is defendant’s inference that Di Ciurcio may have been decided incorrectly because it “came at a time of significant confusion in the area of underinsured motorist coverage,” as is its observation that “Di Ciurcio has yet to be followed in a subsequent case.” Not only is Di Ciurcio a correct statement of the law, it is entirely consistent with both Magnifico and our recent decision in Hallion. Also noteworthy, defendant does not suggest that any language in its or plaintiffs policy compels a different result.
+In sum, we conclude that the trial judge erred in holding that the policies were to considered pro rata. We conclude that plaintiffs policy is excess to defendant’s, which is primary.
+Reversed.
+The Allstate Policy declares a $250,000 UIM coverage limit for any one person injured in any one accident, and $500,000 limit for all persons injured in any one accident. The Allstate Policy's Part C describes its UIM coverage:
+Insuring Agreement
+We will pay damages which an insured is legally entitled to recover from the owner or operator of an uninsured motor vehicle or underinsured motor vehicle where such coverage is indicated as applicable in the Declarations because of:
+1. Bodily injury sustained by an insured and caused by an accident ... “Insured" as used in this Part means: ...
+2. Any other person occupying your covered auto ...
+Other Insurance
+If there is other applicable similar insurance we will pay only our share of the loss. Our share is the proportion that our limit of liability bears to the total of all applicable limits.
+However, any insurance we provide with respect to a vehicle you do not own, or a vehicle owned by you or a family member which is not insured for this coverage under this policy, shall be excess over any other collectible insurance.
+The Camden policy's Part C provides $1,000,000 UIM coverage as amended by its "Uninsured Motorists Coverage-New Jersey” endorsement. The Part C insuring agreement (per the New Jersey endorsement) provides in relevant part:
+Insuring Agreement
+We will pay compensatory damages which an "insured” is legally entitled to recover from the owner or-operator of an "uninsured motor vehicle” or "underinsured motor vehicle” where such coverage is indicated as applicable in the Schedule or Declarations because of:
+1. "Bodily injury” sustained by an "insured” and caused by an accident
+"Insured” as used in this endorsement means:
+You or any "family member” ...
+Other Insurance
+If there is other applicable similar insurance under more than one policy or provision of coverage:
+1. Any recovery for damages for "property damage” or "bodily injury” sustained by an "insured” may equal but not exceed the higher of the applicable limit for any one vehicle under this insurance or any other insurance.
+2. Any insurance we provide with respect to a vehicle you do not own shall be excess over any other collectible insurance.
+3. We will pay only our share of the loss. Our share is the proportion that our limit bears to the total of all applicable limits.
+We also rejected the conclusion reached by the trial judge here that there were two excess policies in effect which required pro-ration. As we observed in Di Ciurcio, “[t]he word “you” in the Liberty policy does not refer to plaintiff.” 299 N.J.Super. at 433, 691 A.2d 396. It refers to the named insured as shown in the declarations and the spouse if a resident of the same household. Ibid. Kenneth Adler is neither of those parties.
