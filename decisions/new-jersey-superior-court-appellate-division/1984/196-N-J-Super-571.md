@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1984-10-29"
+citations: ["196 N.J. Super. 571"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BELLEMEAD DEVELOPMENT CORPORATION AND BELLEMEAD MANAGEMENT CO., INC., PLAINTIFFS-RESPONDENTS, v. DEBORAH SCHNEIDER, INDIVIDUALLY AND AS ORGANIZER OF LOCAL 59, PROFESSIONAL OFFICE WORKERS OF NEW JERSEY, ILGWU/AFL-CIO; LOCAL 59 PROFESSIONAL OFFICE WORKERS OF NEW JERSEY, ILGWU/AFL-CIO; AND JOHN DOE AND JANE DOE, SAID NAMES BEING FICTITIOUS, THEIR TRUE NAMES BEING UNKNOWN TO PLAINTIFFS, SUCH PERSONS BEING OFFICERS, AGENTS, REPRESENTATIVES, MEMBERS AND/OR EMPLOYEES OF THE ABOVE-NAMED ORGANIZATION, AND OTHERS IN ACTIVE CONCERT OR PARTICIPATION WITH IT, DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/196/cases/0571-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 920183
+cites_cases: ["193 N.J.Super. 85", "84 N.J. 535"]
+---
+
+# Bellemead Development Corp. v. Schneider
+
+## Majority (BRODY, J.A.D.)
+
+The opinion of the court was delivered by
+BRODY, J.A.D.
+In State v. Schmid, 84 N.J. 535 (1980), the Court held that Article I, paragraph 6, of the New Jersey Constitution affords the exercise of free speech broader protection than does the First Amendment of the United States Constitution. Schmid requires that a property owner may have to yield a measure of his constitutionally protected private property rights to unwanted expressional activity even though he is not engaged in state action and has not sufficiently devoted his property to public uses to be subject to the First Amendment guarantee. In an opinion reported at 193 N.J.Super. 85, the Chancery Division held that the New Jersey Constitution does not compel the owners of five office buildings in the Meadowlands Corporate Center to admit a union organizer on their properties to distribute leaflets to office workers at building entrances adjacent to employee parking lots. It is undisputed that each building is on a separate lot having direct access to a public roadway. The court issued an injunction barring the activity. We affirm.
+The Schmid framework of analysis requires an initial determination of whether the owner has devoted his property to some public use. If he has, then to strike a balance between the conflicting demands of private property and free speech rights, Schmid requires application of an accommodation test taking three “elements” into consideration. The question to be decided is whether “the purpose of the expressional activity” to be undertaken on the property is “discordant in any sense with both” the “normal use” of the property and the “extent and nature of the public’s invitation to use” the property. Id. at 563, 565. If the expressional activity is compatible with both the private and public uses of the property, the owner will be “required to permit, subject to suitable restrictions, the reasonable exercise by individuals of the constitutional freedoms of speech and assembly.” Id. at 563. Generally, “the more private property is devoted to the public use, the more it must accommodate the rights which inhere in individual members of the public who use the property.” Id. at 562.
+In Schmid the defendant was convicted of trespass for distributing political literature on the campus of Princeton University. He was not affiliated with the University and had been previously denied a permit. The Court, however, noted a University regulation that expressly permitted “[djemonstrations and the distribution of leaflets” by off-campus organizations. Id. at 539. Permitting public uses under that regulation and others was seen by the Court as “a broad public invitation” to use University property for “expressional activities.” Id. at 551. This devotion of University property to some public use constituted the predicate finding that must be made in all cases before a court may weigh whether a particular expressional activity must be accommodated. As stated in Schmid:
+We conclude, therefore, that the State Constitution furnishes to individuals the complementary freedoms of speech and assembly and protects the reasonable exercise of those rights. These guarantees extend directly to governmental entities as well as to persons exercising governmental powers. They are also available against unreasonably restrictive or oppressive conduct on the part of private entities that have otherwise assumed a constitutional obligation not to abridge the individual exercise of such freedoms because of the public use of their property.
+[Id. at 560 (emphasis added)]
+The Court then applied the accommodation test to reverse the conviction.
+The trial judge here made his task unnecessarily difficult because he attempted to apply the accommodation test in a case where no accommodation need be considered because, as he ultimately determined, plaintiffs have not devoted their property to any public use. They therefore need not accommodate the free speech rights of a member of the public even if the subject matter of the speech is related in some way to the normal use of the property.
+The judge’s findings regarding the absence of public use are fully supported by the record and are not seriously disputed. The property was posted against trespassers at the entrance to each parking lot and each building. Plaintiffs employ a staff to enforce its policy against trespassing. Uninvited vendors and others not specifically invited to come on the property are routinely asked to leave. One persistent trespasser was successfully prosecuted. We agree with the trial judge that improved property, posted against trespassers, need not be fenced-in to exclude unwanted expressional activity.
+Although the office buildings are used by many employees, each is there by a specific invitation. The general public is not invited to use the property nor does it.
+Subject to the foregoing modification of the trial judge’s method of analysis, we affirm substantially for the reasons he gave. Defendants’ claim of a common-law right to enter plaintiff’s property to distribute union literature is clearly without merit. R. 2:ll-3(e)(l)(E).
+Affirmed.
