@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1975-05-13"
+citations: ["134 N.J. Super. 107"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HILL HOMEOWNERS ASSOCIATION, A CORPORATION OF THE STATE OF NEW JERSEY, BRUNO BARBARESE AND VELIA BARBARESE, HIS WIFE, AND JOSEPH WEINSTOCK AND HILDA WEINSTOCK, HIS WIFE, AND MARTIN L. HELFGOTT AND ESTHER HELFGOTT, HIS WIFE, PLAINTIFFS-RESPONDENTS, v. ZONING BOARD OF ADJUSTMENT OF THE CITY OF PASSAIC, ELIAS DRAZIN, AS BUILDING INSPECTOR OF THE CITY OF PASSAIC, MAYOR AND COUNCIL OF THE CITY OF PASSAIC, DEFENDANTS, AND HARRY STANFORD, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/134/cases/0107-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 930572
+cites_cases: ["129 N. J. Super. 170", "24 N. J. 154", "29 N. J. 468", "34 N. J. 406", "344 U. S. 237", "49 N. J. 504", "50 N. J. 268", "51 N. J. 162", "51 N. J. Super. 589"]
+---
+
+# Hill Homeowners Ass'n v. Zoning Board of Adjustment
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is a zoning action. In a prerogative writ suit the trial judge set aside, as arbitrary exercises of the zoning power, certain variances granted under the ostensible authority of N. J. S. A. 40:55-39(c) by the board of adjustment of the City of Passaic (board). In addition to this, he included in his opinion, which is published, sweeping dictum broadly criticizing some planning and zoning concepts heretofore thought to be established. 129 N. J. Super. 170.
+We agree entirely that no statutory reasons sufficient to support the grant of the variances appear in the record. This fact is demonstrated by the reasons for the grant as they appear in the record of the board’s action:
+The application be approved as this variance is re — as the variance required is insignificant in proportion to the magnitude of the proposed project. The proposed use is not unreasonable, nor oppressive and blends into the scheme of the SR.DD zone.
+Aesthetically the complex structure would tend to beautify and enhance the area and therefore increases property values.
+Approval will help alleviate a crucial housing shortage and would provide for the health and welfare of the general public.
+It would not impair the safety of the nearby residents and would provide for the promotion of the general welfare of society.
+The granting of this variance would in no way be detrimental [sic] to the public good and will not substantially impair the intent and purpose of the Zoning Ordinance.
+Such is quite obviously not a finding of the prerequisites for a “subsection (c)” variance. Eather it is in effect a rezoning of the parcel in question to allow a “proposed project” thought by the board not to be “unreasonable, nor oppressive.” Even when the underlying motivation is well-intentioned, local zoning action must comply with the statutory requirements. Kohl v. Fair Lawn Mayor and Council, 50 N. J. 268, 275 (1967). Without sufficient record support for a necessary finding of “exceptional narrowness, shallowness or shape * * * 0r * * * exceptional topographic conditions, or * * * other extraordinary and exceptional situation or condition * * *,” the granting of a variance is an arbitrary, act and will be set aside. The trial judge was eminently correct in recognizing this, and we affirm his judgment in this regard. There is no doubt that “hardship personal to the owner which is unrelated to the physical characteristics of the land is not contemplated by subsection (c) and does not constitute sufficient ground for the granting of a variance under that subsection.” Isko v. Livingston Tp. Planning Bd., 51 N. J. 162, 174 (1968).
+Accordingly, it is unnecessary for us to consider the balance of the opinion of the trial judge. If it undertakes to reverse Kozesnik v. Montgomery Tp., 24 N. J. 154 (1957), and its progeny, either expressly or impliedly, with regard to references to the planning board, when authorized by ordinance, for review and recommendations as well as site plan approval (N. J. 8. A. 40:55-1.13; see also Loechner v. Campoli, 49 N. J. 504, 512 (1967)) or in other respects, we register disapproval, for, as pointedly said in Reinauer Realty Corp. v. Paramus, 34 N. J. 406, 415 (1961), “Trial judges are privileged to disagree with the pronouncements of appellate courts; the privilege does not extend to noncompliance.” To the extent it attributes a “less than whole hearted” acceptance of the authority of the planning board to determine site plan approval to the opinion of Justice (then Judge) Hall, writing for the Appellate Division — as it turned out, the Supreme Court affirmance was on his opinion — in Saddle River Country Day School v. Saddle River, 51 N. J. Super. 589 (App. Div. 1958), aff'd o. b. 29 N. J. 468 (1959), we believe the characterization is unsound.
+In any event, since he and we have rejected the action of the board we need not, and indeed should not, here go further. Appropriate is the expression of policy inherent in a statement of the United States Supreme Court in a case where a corporation sought a declaration of its immunity from regulation by a state public service commission:
+But when all of tlie axioms have been exhausted and all words of definition have been spent, the propriety of declaratory relief in a particular ease will depend upon a circumspect sense of its fitness informed by the teachings and experience concerning the functions and extent of * * * judicial power. While the courts should not be reluctant or niggardly in granting this relief in the cases for which it was designed, they must be alert to avoid imposition upon their jurisdiction through obtaining futile or premature interventions, especially in the field of public law. A maximum of caution is necessary in the type of litigation that we have here, where a ruling is sought that would reach far beyond the particular case. * * * [Public Service Commission of Utah v. Wycoff Company, 344 U. S. 237, 243 (1952)]
+We have been advised by the brief of the amici curiae that unrest and uncertainty have already been caused by this intrusion into that which both the Appellate Division and the Supreme Court have heretofore thought to be soundly established law. Onr affirmance must not be considered approbation of any of the dictum in the opinion below.
+Affirmed.
