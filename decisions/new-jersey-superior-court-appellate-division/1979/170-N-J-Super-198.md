@@ -1,0 +1,55 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1979-08-13"
+citations: ["170 N.J. Super. 198"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. CHESTER ZAMORSKY, DEFENDANT-APPELLANT. STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. CHESTER ZAMORSKY, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/170/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 478301
+cites_cases: ["159 N.J.Super. 273", "79 N.J. 485", "79 N.J. 97"]
+---
+
+# State v. Zamorsky
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+The Supreme Court granted the State’s petition for certification and summarily remanded this cause to us for reconsideration in light of its opinion in State in the Interest of R. R., 79 N.J. 97 (1979). See 79 N.J. 485 (1979).
+In each of the above-captioned matters we reversed defendant’s conviction on separate indictments charging him with impairing the morals of a minor. See 159 N.J.Super. 273 (App. Div.1978). One, referred to as Zamorsky I (A-4431-75), involved the alleged molestation of a six-year old female child; the other, referred to as Zamorsky II (A-4443-75), a like offense against another female child of the same age. We dealt only with those assignments of error relating to the trial judge’s determination that each child was competent to testify as a witness (we found no error in that respect), and to the requirement of Evid.R. 18 that “[a] witness before testifying shall be required to take an oath or make an affirmation or declaration to tell the truth under the penalty provided by the law.”
+Specifically, we reversed the conviction in Zamorsky I because of our conclusion that the trial judge’s explanation to the jury of his purpose in interrogating the child prior to her testifying “was such that it may well have suggested to the jury that the trial judge was satisfied from his interrogation that the child would be a credible witness, otherwise he would not permit her to testify.” 159 N.J.Super. at 281. It was our view that this “implied indorsement” of the child’s credibility as a witness was legally prejudicial and of such nature as to have been clearly capable of producing an unjust result. Id.
+The issue in Zamorsky II was the apparently inadvertent failure to have the oath administered to the child after the trial judge determined from the voir dire that she was competent to testify as a witness. Our concept was that no oath at all was given and that the omission was reversible error in view of the mandate of Evid.R. 18. 159 N.J.Super. at 286-287.
+In State in the Interest of R. R., supra, our Supreme Court held that Evid.R. 18 was intended to validate any oath ceremony acceptable at common law, and that so long as the ceremony actually performed evinces a commitment by an infant to tell the truth out of fear of future punishment of any kind, the child is deemed properly sworn. 79 N.J. at 110-111.
+* * * [T]he main purpose underlying the modern oath requirement is that of reminding the witness that he has a special obligation to speak the truth in court. Any ceremony which obtains from an infant a commitment to comply with this obligation on pain of future punishment of any kind constitutes an acceptable common law, and hence a valid Evid.R. 18, oath. It is not necessary that an infant mouth the traditional litany nor comprehend its legal significance. Trial judges are therefore invested with a certain amount of discretion to tailor the traditional litany to fit the circumstances of a particular case. [79 N.J. at 111.]
+Pursuant to the order of the Supreme Court we have reviewed Zamorsky I and Zamorsky II. Since our disposition of the appeal in the former was, as indicated, not grounded in any respect on the manner in which the oath was administered, our reversal of that conviction does not require reconsideration, and stands unchanged. However, our disposition of Zamorsky II must be reexamined.
+As we said earlier, we reversed that conviction because of our belief that no oath at all was administered to the child. We have reviewed the proceedings again in order to determine whether, despite the lack of a formal oath, the voir dire, intended essentially to ascertain the competency of the child witness pursuant to Evid.R. 17, nevertheless contained within it a sufficient commitment by the child to her “special obligation to speak the truth in court” on pain of future punishment to constitute an acceptable common law oath, thus satisfying the requirement of Evid.R. 18. The voir dire by the trial judge follows:
+THE COURT: * * * Now, D-, we are going to have you tell these nice people all about that incident that you told your mother about just a little while ago * * *. But we have to be sure, before Mr. Muivihill asks you any questions, we have to be sure that you tell the truth, you see.
+Now, do you know the difference between telling the truth and not telling the truth? What happens to little girls that don’t tell the truth?
+D_: They get punished.
+THE COURT: Do you go to Sunday School?
+(D_shakes her head.)
+D_: No.
+THE COURT: You go to school, what grade are you in?
+D_: First.
+THE COURT: * * * Does the teacher ever talk about telling the truth?
+(D_shakes her head.)
+THE COURT: * 4 * [I]f you don’t tell the truth, what do they call that?
+D-: Lying.
+THE COURT: Lying, that is right, Lying is what?
+D_: Not telling the truth.
+THE COURT: Is that good or bad?
+D_: Bad. * * *
+THE COURT: * * * So you have to tell everything, when you talk to Mr. Muivihill, you have to tell it all very truthfully any not anything that is not the truth and only things that you remember, not anything that anybody told you, do you understand? If you don’t do that, then it will be very bad; right?
+D_: Yes.
+THE COURT: So you don’t have to worry if you tell the truth, do you?
+D_: No.
+In light of R. R., we now find in the foregoing a sufficient commitment by the child to tell the truth on pain of some kind of punishment, so that, contrary to our former holding, the failure to administer the oath formally did not, in the circumstances, constitute reversible error. Accordingly, we must and do hereby vacate our reversal of the conviction in Zamorsky II.
+It should be noted, however, that we did not intend to imply in Zamorsky that only the traditional or statutory form of oath, affirmation or declaration would satisfy the requirement of Evid.R. 18 that a witness, before testifying, “take an oath or make an affirmation or declaration to tell the truth under the penalty provided by the law.” We did not hold “that a trial court cannot deviate from this form merely because a prospective witness is not an adult.” 79 N.J. at 108. Actually, we chose not to pursue the subject of what constitutes substantial compliance with the requirement, leaving “[fjurther exploration of that difficult issue and its resolution * * * for another day.” 159 N.J.Super. at at 285. Furthermore, we do not understand R. R. to hold that the traditional oath (or, as the case may be, affirmation or declaration) should be dispensed with merely because a child is involved, provided that some other commitment to tell the truth is obtained.
+The point we sought to make in Zamorsky I for the guidance of the trial judge on the retrial was that we saw no need in that case to depart from the traditional oath. It will be recalled that the trial judge there, after the voir dire, expressed the view that the child was not old enough to take an oath and then proceeded to have the child “cross [her] heart and tell the truth.”
+Before an infant may testify as a witness, a two-pronged procedure takes place. First, the trial judge must make inquiry under Evid.R. 17 to determine whether the proposed witness is capable of understanding the duty of a witness to tell the truth. If the child is found to be so capable, then as the Supreme Court emphasized in R. R., 79 N.J. at 108, “[g]iven the unequivocal language of the rule [Evid.R. 18], it is clear that all prospective witnesses — including infants — must be sworn or affirmed prior to the giving of testimony.”
+We do not read R. R. as assuming that a child who is sufficiently aware of his or her moral obligation to tell the truth — a perception which entails a “conceptual awareness of truth and falsehood,” 159 N.J.Super. at 280, would not be capable of comprehending the simple words of an oath. One should not suppose that a child who understands such an abstraction as the moral implications of truthtelling would be mystified by the uncomplicated oath and not perceive it to be a solemn commitment to tell the truth. True, the meaning of the word “oath” itself, or “affirmation” or “declaration,” might be beyond the com; trehension of the child, but a simple explanation by the trial judge undoubtedly should suffice.
+R. R. states that the main purpose underlying the modern oath requirement is to remind the witness of his or her special obligation to speak the truth in court, and that “[a]ny ceremony which obtains from an infant a commitment to comply with this obligation” will do. 79 N.J. at 111. This, of course, is precisely the substance of an oath, affirmation or declaration, all of which are forms of attestation by a witness that he or she will speak the truth. The ceremony — the commitment to tell the truth, is intended to impress upon the witness the solemnity of the occasion and the undertaking. Nothing is to be gained by diminishing or diluting it unless special circumstances require the court to do so. Save only for the occasional case of an infant who may understand the obligation to tell the truth but not the promise to do so, we think that departing from the traditional form of the oath, affirmation or declaration is á practice that ought not to be encouraged. R. R. does not suggest otherwise.
+Having vacated the reversal of the conviction in Zamorsky II, we must now address the contentions advanced by defendant other than those related to the requirements of Evid.R. 17 and 18. They are that (1) the court’s failure to grant his motion for a judgment of acquittal was erroneous; (2) the charge to the jury on “flight” constituted reversible error where there was no actual departure from defendant’s own property nor any intent to avoid accusation or apprehension; (3) the charge on “fresh complaint” constituted plain error, (4) the denial of defendant’s motion for a new trial constituted reversible error where it was required “in the interest of justice,” and (5) the sentence imposed was manifestly excessive and unduly punitive. We have carefully reviewed the record and are completely satisfied that the contentions are essentially without merit, and that, if there was error in any respect, it was not of such magnitude as to require a reversal. B. 2:ll-3(e)(2).
+Our reversal of the judgment of conviction in Zamorsky I is unchanged. We vacate the reversal in Zamorsky II, and now affirm the judgment of conviction in that case.
