@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1955-11-09"
+citations: ["38 N.J. Super. 81"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SERGIO MAINI, AN INFANT, BY HIS GUARDIAN AD LITEM, JOHN MAINI, AND JOHN MAINI, INDIVIDUALLY, PLAINTIFFS-APPELLANTS, v. VIOLET HASSLER, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/38/cases/0081-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 442936
+cites_cases: ["115 N. J. L. 248", "142 N. Y. S. 2d 425", "286 App. Div. 881", "7 N. J. 415"]
+---
+
+# Maini v. Hassler
+
+## Majority (Contobd, J. A. D.)
+
+The opinion of the court was delivered by
+Contobd, J. A. D.
+This appeal is from a judgment for defendant entered upon a jury verdict of no cause for action. The plaintiff, Sergio Maini, a boy of 16, was struck by an automobile being operated by the defendant about 8 p. m. February 15, 1954, while walking in the street near the east curb on Lemoine Avenue in Fort Lee. The street was a one-way north-bound thoroughfare at the point of the accident. There was evidence from which the jury could have found the following facts.
+The plaintiff and a companion had been walking northerly on the easterly sidewalk and went into the street to by-pass a barricade where repairs were being made, about 150 feet soutli of the locus of impact. Plaintiff continued in the street and the other boy walked between the curb and sidewalk. The street was "very dark.” Plaintiff looked back occasionally for cars but was hit by the defendant’s' car, which he did not see, but heard an instant before contact. He sustained an injury to his leg.
+Defendant was driving at a rate of about 20-25 miles per hour, using her bright lights, low beam. She suddenly saw "a small or thin white line” about ten feet in front of her and swerved sharply. After a short distance, sensing she had struck something, she stopped the vehicle, walked back in the dark and found plaintiff sitting in the roadway. She said her high beam headlights were in working order but that she was using the low beam and could see about 75 feet ahead. She said she had previously testified (apparently at a previous trial) that she could see only 2% car lengths ahead.
+A number of asserted trial errors are argued by plaintiffs. We find it necessary to discuss only one. Plaintiffs requested and the trial judge declined to charge the jury concerning the following portion of N. J. S. A. 39:3-60:
+“Every person driving a motor vehicle equipped with multiple-beam road lighting equipment, during the times when lighted lamps are required, shall use a distribution of light, or composite beam, directed high enough and of sufficient intensity to reveal persons and vehicles at a safe distance in advance of the vehicle, * *
+The trial judge did charge concerning certain other statutory traffic regulations, including the unlawfulness of a pedestrian walking in a roadway where sidewalks are provided. He prefaced his reading of the statutes with the appropriate admonition that mere violation thereof did not itself necessarily constitute negligence but might be considered by the jury under the particular circumstances in determining whether either the plaintiff or the defendant was negligent. Included in the regulations he read was N. J. S. A. 39 :3-58, charged at plaintiff’s request, dealing with the requisite specifications of multiple-beam headlights. After reading this provision he charged:
+“There has been- testimony here with regard to the headlights and as to how far ahead you could see.
+As I recall the testimony by the defendant, it was that she had her bright lights low beam, and she testified that she could see approximately 75 feet ahead. That is her estimate of the distance, approximately 75 feet. You take the statute into consideration, together with all the other facts, in weighing the evidence in this case.”
+It appears to us that there was prejudicial error in not including among the statutes charged as aforesaid the provisions of N. J. S. A. 39:3-60, as requested. This section deals directly and pointedly with the most obvious aspect of the negligence arguably imputable to defendant by the proofs. The street was concededly very dark and one critical question for the jury’s resolution was whether the defendant’s use of the low headlight beam rather than the high beam, alone, or in conjunction with the other circumstances, did not constitute negligence in the operation of the car proximately causative of the accident. See Hamilton v. Althouse, 115 N. J. L. 248 (E. & A. 1935); Friedman v. City of New York, 286 App. Div. 881, 142 N. Y. S. 2d 425, 427 (App. Div. 1955). The plaintiffs were entitled to have the jury’s attention brought to the legislative declaration in the cited section of the standard of conduct applicable in this kind of factual situation.
+Defendant argues the request was properly denied because it omitted other portions of the section. We do not agree. The remainder of the section consists only of an exception for the ease where there is an oncoming vehicle within 500 feet and a provision as to the maximum permissible height projection of a high beam. Neither of these was at all relevant under the evidence submitted, and, since the language in reference thereto need therefore not have been included in the statute as charged, Mellon v. Pennsylvania-Reading Seashore Lines, 7 N. J. 415, 423, 424 (1951), its exclusion in the request was no justification for rejection of the request. Nor did the charge as to N. J. S. A. 39 :3-58 cure the rejection. That section deals only with the mechanical specifications of approved multiple-beam headlights. Plaintiffs were not contending that the headlights on defendant’s car failed to meet the specifications. In any ease, N. J. S. A. 39:3-60 declares the here plainly pertinent direction to choose that beam (high or low) which is adequate “to reveal persons and vehicles at a safe distance in advance of the vehicle.” The denial of the requested charge deprived plaintiffs of a substantial right.
+Reversed and remanded for a new trial, costs to abide the event.
