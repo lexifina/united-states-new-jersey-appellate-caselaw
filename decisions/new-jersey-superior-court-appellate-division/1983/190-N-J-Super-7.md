@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1983-06-09"
+citations: ["190 N.J. Super. 7"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ERIC G. HEIGHT, PLAINTIFF-APPELLANT, v. KAWASAKI HEAVY INDUSTRIES, LTD., A FOREIGN CORPORATION, KAWASAKI MOTORS CORP., U.S.A., A/K/A EASTERN KAWASAKI MOTORCYCLE CORP., A DELAWARE CORPORATION, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/190/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 906400
+cites_cases: ["165 N.J.Super. 311", "23 Ill.Dec. 715", "270 F.Supp. 311", "384 N.E.2d 509", "636 P.2d 1287", "66 Ill.App.3d 982", "81 N.J. 50", "87 N.J. 229", "90 N.J. 191", "91 N.J. 386"]
+---
+
+# Height v. Kawasaki Heavy Industries, Ltd.
+
+## Majority (FURMAN, J.A.D.)
+
+The opinion of the court was delivered by
+FURMAN, J.A.D.
+On appeal from a jury verdict of no cause for action and from denial of his motion for a new trial in a products liability case, the single issue raised by plaintiff is that the trial court erred in not instructing the jury on the issue of strict tort liability for defendants’ failure to warn of the hazard of a post-collision fire and burn injuries.
+Plaintiff was operating a motorcycle owned by him and manufactured and distributed by defendants when he crossed the center line of a roadway and collided head-on at a speed of about 40 miles per hour into the front of van. Vaporized or liquid gasoline sprayed on him from the fuel tank and ignited his clothing.
+After a trial of several weeks, the trial court submitted the case to the jury on the issue of strict liability in manufacture and design and refused plaintiff’s request for a charge that the jury might return a verdict in favor of plaintiff if it determined that defendant “did not provide full and adequate warnings concerning the risk of post-collision fires.” The jury answered a special interrogatory in the affirmative that plaintiff’s motorcycle, as designed and distributed, was reasonably fit, suitable and safe for its reasonably intended and anticipated use.
+The feature of defendants’ motorcycle which plaintiff alleged was unreasonably dangerous was the fuel system, in particular the pressure-relief mechanism in the cap of the fuel tank, which was designed to release a small quantity of vaporized or liquid gasoline by venting when pressure built up within the fuel tank upon a heavy impact in a high-speed collision or otherwise. According to undisputed expert testimony on behalf of defendants, the pressure-relief mechanism was a safety device to minimize the danger of an explosion of the fuel tank as the consequence of a crash of the motorcycle. Defendant’s expert graphically stated: “The fuel puff has to be there. You have to have some means of relieving the tank at a relatively low pressure; otherwise, you wind up with a bomb. It’s that simple.”
+On appeal, as we have noted, plaintiff does not challenge the jury determination that there was no design defect in the fuel system or fuel tank. Rather, he contends that he was entitled to a jury instruction that defendants might be found liable for breach of a duty to provide a warning of the hazard of ignition of gasoline spraying onto the clothing of the motorcycle operator in the event of a collision. Plaintiff does not specify a proximate cause relationship between the lack of a warning and the burns suffered by him. Nor was any such relationship established in our view. The trial record is barren of any evidence that a warning would have made the fuel system safer or enabled plaintiff to do anything to prevent his burns other than to avoid a high-speed crash, a mishap involving grave danger of which he had knowledge without a warning.
+Judicial authorities relied on by plaintiff thus are inapposite. All of them recognize liability of the manufacturer or distributor of a product for failure to provide a warning only if the warning would have enabled the user of the product to make it reasonably safe in ordinary use or otherwise to protect himself, Michalko v. Cooke Color & Chem Corp., 91 N.J. 386 (1982); Beshada v. Johns-Manville Products Corp., 90 N.J. 191 (1982); Freund v. Cellofilm Properties, Inc., 87 N.J. 229 (1981); Martinez v. Atlas Bolt & Screw Co., 636 P.2d 1287 (Colo.App.1981); see also Torsiello v. Whitehall Laboratories, 165 N.J.Super. 311 (App.Div.1979), certif. den. 81 N.J. 50 (1979).
+Under the developing law in this field, failure to provide an adequate warning may amount to a design defect subjecting the manufacturer or distributor of a product to strict tort liability. But the manufacturer or distributor has been exempted from strict tort liability for failure to provide a warning of a danger within common knowledge and understanding, 2 Restatement, Torts 2d, § 402A, Comment (j) at 353 (1965); 2 Hursh and Bailey, American Law of Products Liability (2 ed. 1974), §§ 8.14 and 8.15. For example, strict liability has been rejected for failure of a manufacturer to provide a warning that a motor vehicle may skid on a slippery road surface in low gear or upon braking. Zidek v. General Motors Corp., 66 Ill.App.3d 982, 23 Ill.Dec. 715, 384 N.E.2d 509 (Ill.App.1978).
+Assuming a jury determination that the fuel tank of a motor vehicle was reasonably fit, suitable and safe, we do not understand strict products liability law to have imposed an obligation on the manufacturer to provide a warning that the fuel tank might explode in a high-speed crash. See in accord Shumard v. General Motors Corp., 270 F.Supp. 311 (S.D.Ohio 1967). On this appeal a fortiori the undisputed scientific testimony at trial was that the risk of a fuel tank explosion was substantially reduced by the pressure-relief mechanism.
+We affirm.
