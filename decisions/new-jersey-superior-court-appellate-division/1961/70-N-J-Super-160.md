@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1961-10-30"
+citations: ["70 N.J. Super. 160"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HENRY H. KESSLER, APPELLANT, v. JOHN A. KERVICK, TREASURER OF THE STATE OF NEW JERSEY, DEPARTMENT OF THE TREASURY, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/70/cases/0160-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 355338
+cites_cases: ["136 N. J. L. 479", "166 A. 2d 224"]
+---
+
+# Kessler v. Kervick
+
+## Majority (Herbert, J. S. C.)
+
+The opinion of the court was delivered by
+Herbert, J. S. C.
+(temporarily assigned). The appellant applied to the State of New Jersey for a pension under N. J. S. A. 43 :4-l el seq., and his application was denied. He brings that decision here for review upon an agreed statement. R. R. 1 :6-2. He has three statutory qualifications for a veteran’s pension: He is in fact a veteran, having served in the nation’s armed forces in both the first and second world wars; for more than twenty years ho was employed by the State; and he was over sixty-two years old—having been born in 1897—when making the application which he contends should have been granted.
+The State asserts that a fourth qualification is necessary and is missing. The appellant was not a state employee when he reached the age of sixty-two. He had retired from state service in 1941 when he was about forty-four, and did not thereafter re-enter the employ of the State in any capacity.
+Some fourteen years ago the appellant litigated his right to a pension as a war veteran who had been employed by the State for twenty years or more. He lost on the ground the statute provides pensions only for persons sixty-two or older; and he was then about fifty. Kessler v. Zink, 136 N. J. L. 479 (E. & A. 1948). The opinion in that case contains no express comment as to whether a claim to a pension, if presented by the same applicant after his sixty-second birthday, should or should not be honored. The appellant argues that his present application is perfectly consistent with the earlier decision. We are unable to adopt that reasoning.
+In Kessler v. Zink, supra, the court examined carefully N. J. S. A. 43:4r-1, 2 and 3, the legislation upon which the appellant’s claim now depends just as it did in 1948. This language appears in the opinion (at p. 480) :
+“Appellant would isolate the second section; he contends that he is entitled thereunder and that because age is not mentioned therein, age is not a factor. Clearly, not only must the first and second sections be read together, but the two must be read with the third section in order to make sense.”
+In effect the appellant now says that as the second section mentions no age for retirement it is immaterial that he retired when he was younger than sixty-two; that his retirement in 1941 with twenty years of service behind him was subject to and under section two. This overlooks the real effect of section one, the effect given to it in Kessler v. Zink.
+Section one (2V. J. 8. A. 43:4^1) reads:
+“This chapter shall apply to and include persons serving in and honorably discharged from the military or naval service of the United .States, including nurses, in any war in which the United States is or has been engaged and in connection with the American punitive expedition or other intervention campaign or trouble with the Republic of Mexico during the administration of President Woodrow Wilson; provided, such designated persons shall have attained the age of sixty-two years or become incapacitated for the duties of their office or position or employment.”
+Here is a clear definition of legislative scope: “This chapter shall apply to and include persons” who are honorably discharged veterans; “provided, such designated persons shall have attained the age of sixty-two years or become incapacitated * * *” Sections two and three are as much a part of “this chapter” as section one. The highest court of the State has said that all of them must be read together. Eetirement of the veteran is provided for in section two, and section three says that, “A person so retired shall be entitled” to a pension equal to one half of his salary at the time of retirement. To get the pension under section three the employee must have retired under section two. To have so retired he must have had twenty years of service —section two says so—and, under the proviso of section one, must be sixty-two or older, or must have become incapacitated for the duties of his employment.
+There being no question of incapacity when the appellant left the service of the State, it follows that, because he was then under sixty-two, he did not, and could not at that time, retire under and with the benefits of section two of the act. (B. S. 43:L-2). He merely retired at a time when there was a statute on the books which did not in any way affect him, just as one not a veteran might have retired entirely outside the scope of the statute. Though not expressly so held in Kessler v. Zink, supra, that was the effect of the court’s decision that the age requirement of section one is to be read and used when applying section two.
+Counsel for the appellant has cited Opinion To The Governor, 166 A. 2d 224 (R. I. Sup. Ct. 1960—not officially reported) as a precedent supporting pensions for persons who retire after the specified length of service and then subsequently reach the required age. The significant statutory language before the Rhode Island court was, however, quite different from that used in the New Jersey act before us, and considering those differences we think any appearance of conflict in result is easily explained.
+A note is called for to explain our use of the text of N. J. S. A. 43:4-1 which is quoted earlier in this opinion. A somewhat different version is printed in the annual volume for 1944 of the Laws of New Jersey, Chapter 211, p. 749. We have been informed, however, by the Legislative Research Librarian of the State Library that the enrolled copy of the bill, signed by Governor Edge and lodged in the office of the Secretary of State, contains the text which we have quoted. The briefs of counsel show that they used the correct version of the section and in any event the difference between the correct and the incorrect wording, for the purposes of this case, would have no importance. We may add that the statute we have relied on is printed at page 13 of the bound volume of New Jersey Statutes Annotated, issued in 1950, which contains Title 43.
+The denial of the appellant’s application for a pension is affirmed.
