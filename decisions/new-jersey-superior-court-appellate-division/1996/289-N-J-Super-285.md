@@ -1,0 +1,62 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1996-04-10"
+citations: ["289 N.J. Super. 285", "673 A.2d 834"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF/APPELLANT, v. CURTIS BROWN, DEFENDANT/RESPONDENT."]
+source_url: "https://static.case.law/nj-super/289/cases/0285-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 755635
+cites_cases: ["110 N.J. 20", "125 N.J.L.J. 329", "538 A.2d 1235"]
+---
+
+# State v. Brown
+
+## Majority (WALLACE, J.A.D.)
+
+The opinion of the court was delivered by
+WALLACE, J.A.D.
+The State appeals from the dismissal of a 1995 indictment for a 1978 felony murder. A prior indictment returned in 1994 had been dismissed in March 1995. Shortly thereafter, the case was again presented to the grand jury and defendant was indicted for murder in violation of N.J.S.A. 2A:113-1. Defendant moved to dismiss the indictment for prosecutorial misconduct in failing to notify the Assignment Judge of purported evidence of bias or prejudice on the part of two grand jurors. The judge granted the motion and this appeal followed. We affirm.
+The State contends in its brief on appeal that:
+POINT I:
+BEFORE AN INDICTMENT CAN BE DISMISSED, THE EXISTENCE OF PARTIALITY OR BIAS MUST BE DEMONSTRATED. THE INSTANT CASE DOES NOT MEET THE REQUIRED THRESHOLD TO TRIGGER THE COURT’S SCRUTINY UNDER STATE V. MURPHY OR R. 3:6-3(a).
+When the grand jury was installed by the assignment judge, the admonition was given that in the event a juror was not sure whether his or her knowledge or involvement might affect his or her ability to fairly decide the case, that the juror should “ask me, through your foreperson, for advice as to what action is appropriate.” Prior to presenting any testimony in this case the prosecutor asked the grand jurors about their knowledge of any of the individuals involved, as follows:
+PROSECUTOR: Before I had asked if anybody had known of the people I mentioned. Let me add a few more names. I had mentioned Mike Mohel of our office. I had mentioned George Shigo of the CIU Department. There were a number of police officers from Manchester who were involved, who will not be testifying, who worked in the Department back then. Does anyone know any Manchester police officers?
+A GRAND JUROR: I know one, Chief Payne.
+PROSECUTOR: He was not involved. So other than that response, no one knows any members of the Manchester Police Department.
+THE FOREMAN: I know Mike Mohel’s father very well.
+PROSECUTOR: Let’s step outside a minute with the reporter.
+The following then took place outside in the hallway with the prosecutor and the foreman, Juror No. 3.
+PROSECUTOR: We are now outside the Grand Jury Room and Grand Juror No. 3 raised his hand and indicated he knew Mike Mohel’s father. How do you know Mike Mohel’s father?
+THE FOREMAN: I work at Garden State Bank. Mr. Arnold Mohel, his father, is a Director at the bank. He sat on our Trust Committee, which I am a member of as Vice President of the Trust Department. And the Trust Department of the bank also does a lot of trust tax work with Mr. Mohel’s father, which he is the senior partner of Mohel, Vogel & Elliott in Lakewood.
+PROSECUTOR: Do you know his son Michael who will be testifying in this matter?
+THE FOREMAN: No, I don’t.
+PROSECUTOR: Knowing Lieutenant Mike Mohel’s father as well as you do, would that in any way, do you believe, inhibit your ability to fairly and objectively evaluate the evidence that is presented in this particular matter?
+THE FOREMAN: Not at all, sir.
+PROSECUTOR: Do you believe anything about that association would make you give the testimony of Mr. Mohel any greater weight than you would give any other witness who was to come before this Grand Jury?
+THE FOREMAN: No, sir.
+PROSECUTOR: So you are confident you can fairly and objectively deal with what is placed before you and vote according to the evidence presented in this matter?
+THE FOREMAN: That’s correct. I just felt I should go on the record, that it would be proper.
+PROSECUTOR: Thank you.
+The Assignment Judge was not informed of the above-noted exchange between the prosecutor and the grand jurors. The prosecutor then proceeded to call and question Michael Mohel. The grand jury subsequently indicted defendant.
+At the argument on defendant's motion to dismiss the indictment, the judge noted that the Assignment Judge and the Presiding Judge of Criminal had designated him to hear the motion. Following argument, the judge concluded that under State v. Murphy, 110 N.J. 20, 538 A.2d 1235 (1988), the failure of the prosecutor to ask the Assignment Judge to decide whether the two jurors should participate required dismissal of the indictment.
+The prosecutor contends that this case does not meet the required threshold to trigger the court’s scrutiny under State v. Murphy or R. 3:6-3(a).
+Murphy involved a State-wide conspiracy to defraud various insurance companies. Id. at 23, 538 A.2d 1235. In the grand jury proceedings, after the State identified the parties involved and before it presented evidence, one of the jurors disclosed that she was currently employed by one of the companies allegedly victimized by defendant. Id. at 24, 538 A.2d 1235. Upon being questioned, the juror stated that she would not be prejudiced by her employment. Ibid. The prosecutor who had questioned the juror did not inform the Assignment Judge “of the potential conflict of interest and possible bias of the ... grand juror.” Ibid. After the State’s first witness testified, the juror informed the prosecutor that she no longer wished to sit as a juror. Ibid. This conversation was similarly not disclosed to the Assignment Judge despite being chambered just a few blocks away from the courthouse. Ibid. The prosecutor excused the juror. Id. at 25, 538 A.2d 1235. One week later, another grand juror informed the prosecutor that he was concerned because he too was currently employed by another of the companies involved in the ease. Ibid. This communication was also not disclosed to the Assignment Judge. Ibid. Instead, the prosecutor instructed the grand jury foreman to speak to the juror off the record “in order to investigate his potential bias[,]”. and “whether he could render a judgment based solely on the evidence presented----” Ibid. After conducting this inquiry in the presence of the other jurors, the foreman informed the prosecutor that the grand jurors had voted to “ ‘keep him on.’ ” Id. at 26, 538 A.2d 1235. Thereafter, the grand jury returned the indictment and the matter was assigned for trial. Ibid.
+Defendant moved to have the indictment dismissed on the basis of these facts. Ibid. The trial court denied the motion. Id. at 27, 538 A.2d 1235. Defendant was tried and found guilty of conspiracy and theft by deception. Ibid. On appeal, the Supreme Court noted our holding that “ ‘where a prosecutor obtains information which supports a legitimate and colorable basis for believing that a grand juror lacks impartiality, he may not unilaterally decide to allow that juror to remain on the panel.’ ” Ibid, (citation omitted). Nevertheless, we concluded that “because Murphy had not demonstrated prejudice, there was no ‘justifiable basis for vitiating [his] conviction.’ ” Ibid.
+The Supreme Court found that the proper procedures were not followed but concluded that this failure did not taint defendant’s indictment nor did it deprive defendant of a fundamentally fair grand jury proceeding. Id. at 34-35, 538 A.2d 1235. However, in the exercise of its supervisory jurisdiction over criminal procedure, the Court held that future deviations would lead to the dismissal of resulting indictments. Id. at 36, 538 A.2d 1235. The Court established the following guidelines:
+We believe that a prosecuting attorney has the obligation not only to note the existence of possible prejudice or bias on the part of a grand juror but to disclose such circumstances to the court and to afford the court the opportunity to preserve the impartiality of the grand jury proceedings. Accordingly, we now hold that, as an officer of the court, the prosecuting attorney has a responsibility to bring to the attention of the presiding judge any evidence of partiality or bias that could affect the impartial deliberations of a grand juror____ We hold further that upon such a disclosure the court should determine whether such partiality or bias exists and whether it justifies excusal of the grand juror from the particular case being considered or from the panel.
+In the future, ... we shall require that violation of such proceedings by a prosecuting attorney, in the face of evidence of grand juror bias or partiality, will result in dismissal of an indictment prior to trial.
+[Id. at 33, 36, 538 A.2d 1235.]
+The Court then referred the issue of grand juror qualifications to the Criminal Practice Committee. Id. at 36, 538 A.2d 1235. By amendment effective September 1990, subsection (a) of Rule 3:6-3 was added to address the issue of grand juror potential bias. It provides:
+When appropriate, the Assignment Judge shall inquire of potential grand jurors about such aspects of their background as may reveal possible bias or interest in a matter to come before the grand jury. The Assignment Judge shall instruct the grand jury that without the Assignment Judge’s approval no grand juror shall participate in any manner in which that juror has a bias or a financial, proprietary, or personal interest; and if that juror wishes to participate, the jury shall forthwith so inform the prosecutor. The prosecutor shall forthwith inform the Assignment Judge, who shall determine, in camera, whether such bias or interest exists and whether it justifies excusal.
+In the report of the Criminal Practice Committee in support of the new rule, the Committee noted:
+The rule amendment would also require that where a juror has a bias or interest, or the juror has a question about the potential of bias or interest, but wishes to participate, he must advise the prosecutor who will bring this to the attention of the Assignment Judge. The Assignment Judge will then determine whether the bias or interest warrants excusal.
+[125 N.J.L.J. 329, 412 (February 15,1990).]
+The Committee also noted that its recommendation envisioned that the Assignment Judge would consider the prosecutor’s views, if any, when determining whether a juror is biased or has an interest warranting excusal. Ibid.
+We have no doubt that when a potential for bias or interest arises, the prosecutor may make a threshold finding to determine if the facts as presented by the grand juror have the potential for bias or interest. Once a grand juror makes known a basis for questioning his or her ability to proceed due to bias, financial, proprietary or personal interest, the prosecutor must explore whether the situation has the potential for warranting excusal and determine the juror’s position on the issue. If the circumstances appear sufficient to raise a reasonable inference of bias or interest, that minimal threshold is met and the prosecutor must refer the matter to the Assignment Judge for a determination.
+In our view, when the grand jury foreman informed the prosecutor that he knew the father of Lieutenant Mark Mohel, an investigator for the Prosecutor’s Office, it was appropriate for the prosecutor to make further inquiry. Once the foreman expressed that Mohel’s father was a director at the bank where he worked, that Mohel’s father was a member of the Trust Committee and that the Trust Department of which he is Vice President does a “lot of trust tax work with [Lieutenant] Mohel’s father,” the prosecutor should have concluded that the minimal threshold was met and referred the matter to the Assignment Judge.
+With regard to the other juror, we are unable to determine from this record whether that juror’s statement that he knew Chief Payne was sufficient to meet the minimal threshold to show potential bias or personal interest. The prosecutor noted that the Chief was not involved and made no further inquiry concerning the juror’s relationship with Chief Payne or even to merely ask if the juror could be fair and impartial under the circumstances.
+Affirmed.
+Payne was Chief of the Manchester Township Police Department at the time of the murder in 1978, and still serves in that position.
