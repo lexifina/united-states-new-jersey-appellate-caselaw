@@ -1,0 +1,26 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1951-05-10"
+citations: ["13 N.J. Super. 458"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SLOVAK CATHOLIC SOKOL, A CORPORATION OF NEW JERSEY, PLAINTIFF-APPELLANT, v. JOSEPH T. FOTI, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/13/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 444557
+cites_cases: ["10 N. J. Super. 107", "11 N. J. Super. 333", "12 N. J. Super. 243", "3 N. J. 312", "4 N. J. 303", "4 N. J. 383", "5 N. J. 426", "5 N. J. 474", "6 N. J. 269", "6 N. J. 538"]
+---
+
+# Slovak Catholic Sokol v. Foti
+
+## Majority (Wtlliam J. Breyyay, Jr., J. A. D.)
+
+The opinion of the court was delivered by
+Wtlliam J. Breyyay, Jr., J. A. D.
+Plaintiff sued defendant for alleged breach of a written contract to pay plaintiff $398.48. Judgment for defendant was entered in 'Hudson County District Court after trial without a jury. The case is here on a statement of the evidence and findings of fact settled by the trial judge under Rule 1:2—23.
+Plaintiff held a judgment against Veterans Press, Inc. An execution issued and a levy was made upon a bank account standing to the credit of that company. Defendant desired to have the levy lifted, which plaintiff was willing to do upon being paid the sum of $500. Defendant did not have that sum. An agreement was made under which defendant paid plaintiff $101.52 and signed an undertaking “in consideration of the receipt by me of a letter directed to the sheriff ■ * * * to lift the levy * * *, will give to the Slovak Catholic Sokol, the sum of $398.48.”
+On its face, this appears to be an absolute promise to pay the sum specified. However, the statement of evidence recites that the witness on plaintiff’s behalf testified on cross-examination that the undertaking “was drawn so that if the balance of the funds of Veterans Press, Inc., were to be released amounting to approximately $398.00, that after the lifting of the lien and the release of the funds, the plaintiff would be paid the balance of approximately $398.00 remaining in the account of Veterans Press, Inc.” Defendant’s stated version of the understanding is the same, namely, that “it was agreed that if he would pay * * * the sum of $101.52, and the balance out of the monies of the Veterans Press, Inc., which were under levy by the plaintiff * * * this would be satisfactory to the plaintiff.” This evidence fully supported the finding of fact by trial judge “That the defendant never intended to use any of his own money with which to pay the $398.48, it being distinctly understood that this sum would be paid out of the monies to be released from the levy of the plaintiff’s lien on the funds of Veterans Press, Inc.” Steps were taken by plaintiff to release its levy but they were not effective to make the funds of Veterans Press, Inc., available because of the existence of another lien on the account in favor of the United States Government.
+Appellant argues that the trial judge should not have admitted the testimony that the parties contemplated the payment of the obligation out of the funds of Veterans Press, Inc., contending that this had the effect of contradicting or varying the terms of the writing which expressed a general obligation to pay. We cannot consider that argument because it nowhere appears in the settled case that any objection to the admissibility either of the testimony of plaintiff’s witness on cross-examination or of defendant’s testimony was made below. It should be unnecessary so often to repeat that under our new Buies, unless jurisdiction or public policy is involved, the principle persists that in a civil case a party shall not be heard in an appellate court upon a point not raised or considered in the court below. So, in the absence of timely and proper objection at the trial to the admissibility of the challenged evidence, there is no legal error before us on which to ground an appeal however we may view the competency of that testimony. Rules 3 :46 and 7 :1-3; Raab v. American Casualty Co., 4 N. J. 303 (1950); Anderson v. Modica, 4 N. J. 383 (1950); Roberts Electric, Inc. v. Foundations & Excavations, Inc., 5 N. J. 426 (1950); Steffler v. Schroeder, 12 N. J. Super. 243 (App. Div. 1951); Malinauskas v. Public Service Interstate Transportation Co., 6 N. J. 269 (1951); and see Domestic Fuel Co. v. American Petroleum Corp., 6 N. J. 538 (1951); J. B. Wolfe, Inc. v. Salkind, 3 N. J. 312 (1949); Spinning v. Hudson & Manhattan R. Co., 11 N. J. Super. 333 (App. Div. 1951). Compare as to criminal causes Rule 1:2-19(&), as amended; State v. Taylor, 5 N. J. 474 (1950); State v. Bulach, 10 N. J. Super. 107 (App. Div. 1950).
+The principle is, of course, applicable to civil causes where no stenographic record is made and the case is settled under Rule 1 :2-23. It is not suggested here that the settled case does not truly disclose what occurred in the court below. In any eveni, the rights of the parties in such case are to be protected by resort to the procedure under Rule 1:2-26 to correct the record.
+Affirmed.
