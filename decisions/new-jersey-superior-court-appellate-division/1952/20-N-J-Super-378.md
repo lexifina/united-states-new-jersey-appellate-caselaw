@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1952-07-11"
+citations: ["20 N.J. Super. 378"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HELEN KINSLEY AND JOHN KINSLEY, PLAINTIFFS-APPELLANTS, v. WILLIAM VON ATZINGEN, WALTER VON ATZINGEN AND ERNEST ZIMA, DOING BUSINESS AS ATZINGEN WHITEHOUSE DAIRY, AND PHILIP TYSKEWICZ, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/20/cases/0378-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 452015
+cites_cases: ["11 N. J. Super. 254", "110 N. J. L. 6", "13 N. J. Misc. 25", "14 N. J. Super. 94", "158 A. L. R. 1374", "25 N. J. Misc. 162", "8 N. J. 39"]
+---
+
+# Kinsley v. Von Atzingen
+
+## Majority (McGeehan, S. J. A. D.)
+
+The opinion of the court was delivered by
+McGeehan, S. J. A. D.
+After the plaintiffs had completed the presentation of their evidence on all matters other than the matter of damages, in the Hudson County Court, Law Division, the court granted the defendants’ motion for dismissal of the action.
+The plaintiff Helen Kinsley sued for injuries sustained when a piece of a bumper and a bolt and nut from a milk delivery truck crashed through the window of her apartment and struck her; her husband sued for consequential damages., The defendants William Yon Atzingen, Walter Yon Atzingen and Ernest Zima were the owners, and their employee Philip Tyskewicz was the operator, of the milk truck.
+For at least three years prior to the date of the accident, Tyskewicz had been delivering milk to tenants of the apartment house in which the plaintiffs resided. On the day of the accident, he stopped his truck across the street from this apartment house, parked it against the curb about one foot in back of another parked automobile,' left the truck and entered a house on the opposite side of the street. After he had gone into the house, a 13-year-old boy passenger in the truck, who had been standing on the right hand side of the truck a little to the back, moved over to the left hand side and began to “fool” with the mechanism. Shortly thereafter the truck moved forward, struck the parked car immediately in front, breaking oil the tail-light and a mudguard, then moved across the street and hit a tree. The 13-year-old boy then got out and ran away. The truck struck the tree with such force that a part of the bumper and a bolt and nut were thrown through the window of the plaintiffs’ apartment. During the three years prior to the accident, Tyskewicz had the same boy with him on the truck on Saturdays. Sundays and school holidays.
+We are not involved here with any contention that the 13-year-old boy, in starting the truck or driving it, acted as an agent for any of the defendants, that any defendant violated any statute or ordinance, or that there was any negligence in the parking of the truck itself. Compare cases annotated 158 A. L. R. 1374. The plaintiffs state their sole contention as follows: “What we said below and what we repeat here is that the negligence of the defendants was in allowing an irresponsible youngster (boy) in a truck alone with ignition controlled by a button without a lock controlling the ignition.” They argue that they made out a prima facie ease under the rule of law set forth in Restatement, Torts (1934), § 302(6); and in Barbanes v. Brown, 110 N. J. L. 6 (Sup. Ct. 1932); Reti v. Vaniska, 14 N. J. Super. 94 (App. Div. 1951), certif. denied 8 N. J. 39 (1951) ; Smith v. James J. McFeely, Inc., 13 N. J. Misc. 25 (Sup. Ct. 1934).
+“A negligent act may be one which: * * * (b) creates a situation which involves an unreasonable risk to another because of the expectable action of the other, a third person, an animal or a force of nature.” Restatement, Torts (1934), § 302(6). The rule laid down in Sarbanes v. Brown, above, and followed in Reti v. Vaniska, above, is:
+“The general rule is that a person who leaves an automobile in a public street unattended is under a duty to exercise such care in doing so as a person of ordinary prudence would exercise in the circumstances; and failure to exercise such care, whereby the machine by force of gravity, or by some other cause reasonably to be anticipated or guarded against, gets under way and inflicts injury, renders such person liable therefor in an action for damages.” (Italics supplied.)
+The applicable test here, under the authority cited above, is whether, under all the circumstances of the case, the defendant should have reasonably anticipated that an intermeddler, whether passenger or bystander, would probably cause, or attempt to cause, the car to get under way, and if so whether the defendant exercised, such care in the particular circumstances as a person of ordinary prudence would exercise. There was no evidence which could support an inference that this boy had any mischievous tendencies. Cf. Bar-banes v. Brown, above. In fact, the inference is to the contrary, since this boy had accompanied Tyskewicz .on the truck on many occasions during the three years prior to the accident, and there was no evidence that he or anyone else had ever “fooled” with the mechanism during this period. Cf. Lomano v. Ideal Towel Supply Co., 25 N. J. Misc. 162 (Dist. Ct. 1947). The mere parking of an automobile on the street, with keys left in the ignition lock and unattended, is not sufficient to make out a prima facie case. Reli v. Vaniska, above; Saracco v. Lyttle, 11 N. J. Super. 254 (App. Div. 1951). We agree with the trial court that there was no evidence from which fair-minded men could logically infer that Tyskewicz should reasonably have anticipated that the 13-year-old boy would start the car during Tyskewicz’s absence.
+Smith v. James J. McFeely, Inc., above, upon which the plaintiffs rely, is not analogous.
+Judgment affirmed.
