@@ -1,0 +1,46 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1976-01-12"
+citations: ["138 N.J. Super. 425"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HARRY ENGLISH AND INEZ ENGLISH, PLAINTIFFS-APPELLANTS, v. NEWARK HOUSING AUTHORITY, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/138/cases/0425-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 896710
+cites_cases: ["132 N. J. Super. 92", "17 N. J. 350", "47 N. J. 106", "55 N. J. 534", "57 N. J. 439", "6 N. J. 182"]
+---
+
+# English v. Newark Housing Authority
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The narrow question posed on this appeal is whether the Newark Housing Authority is a “public entity” within the meaning of the New Jersey Tort Claims act, N. J. 8. A. 59 :1—3.
+Plaintiff is a tenant in an apartment leased from defendant Authority. He brought this action against the Authority to recover damages for personal injuries sustained when he fell in the leased premises. The trial judge dismissed the action on the ground that the Tort Claims Act barred suits against the Authority for claims entailing a nonpermanent injury and medical expenses of less than $1,000.
+The main ground urged by plaintiff for reversal is that the act was never intended to apply to actions for personal injuries between tenants and landlords. The difficulty with this argument is that it appears to run counter to the clear and specific language of the act and its general purpose.
+The law was long established that the State and its agencies were not subject to suit without the consent of the State having been first obtained. Fitzgerald v. Palmer, 47 N. J. 106 (1966). The doctrine of sovereign immunity was abrogated in Willis v. Dept. of Cons. & Ec. Dev., 55 N. J. 534 (1970), where the court held that the State could, in a proper case, be held liable in tort. However, the court recognized that there were practical reasons for not applying the decision retroactively and postponed its effective date to permit the Legislature to adopt appropriate legislation.
+Thereafter the legislative will was expressed by the enactment of N. J. 8. A. 52:4A-1, which provided, with certain exceptions not pertinent here, that
+* * * no action shall be instituted or continued against the State or any department or agency thereof for the recovery of money damages, whether based on contract or tort, where the cause of action accrues prior to July 1, 1971. [Later amended to cover any tort action accruing prior to July 1, 1972.]
+The validity of this statute as originally enacted was upheld in P. T. & L. Const. Co. v. Comm’r, Dept. of Transp., 57 N. J. 439 (1971). During the moratorium period provided by N. J. 8. A. 52:4A-1 comprehensive legislation dealing with the entire problem of the liability of public entities and public employees was prepared and enacted into law as the New Jersey Tort Claims Act, N. J. 8. A. 59 :1—1 et seq. It seems clear from the language of that act that the Legislature intended to deal with the whole area of sovereign immunity in this one statute.
+The legislative declaration proclaimed, among other things:
+* * * [I]t is hereby declared to be the public policy of this State that public entities shall only be liable for their negligence within the limitations of this act and in accordance with the fair and uniform principles established herein. All of the provisions of this act should be construed with a view to carry out the above legislative declaration. [A. J. S. A. 59 :l-2]
+The legislation also contained the following directive:
+Except as otherwise provided by this act, a public entity is not liable for an injury, whether such injury arises out of an act or omission of the public entity or a public employee or any other person. [A. J. S. A. 59:2-1 (a)]
+The language of the legislation makes it clear that the basic legislative premise is to re-establish immunity for all governmental bodies within its definition of “public entity.” Immunity is all-inclusive within that definition except as otherwise provided by the act.
+N. J. 8. A. 59 :l-3 specifically defines “public entity”:
+“Public entity” includes the State, and any county, municipality, district, public authority, public agency, and any other political subdivision or public body in the State.
+“State” shall mean the State and any office, department, division, bureau, board, commission or agency of the State, but shall not include any such entity which is statutorily authorized to sue and be sued.
+We note that immediately following this section there appears the following comment:
+The definition of “Public Entity” provided in this section is intended to be all inclusive and to apply uniformly throughout the State o£ New Jersey to all entities exercising governmental ftmctions. The intent of this provision is to provide a basis upon which an established body of law may be uniformly applied. :i" * * [Emphasis supplied]
+In light of the legislative definition it is evident that the Newark Housing Authority is a “public entity” and more particularly a “public authority, public agency, and any other political subdivision or public body in the State.”
+In interpreting the meaning of these terms we adopt the analysis of Judge Breslin in Wade v. N. J. Turnpike Auth., 132 N. J. Super. 92 (Law Div. 1915):
+The two definitions, “Public entity” and “State” should be viewed as follows: The former is a greater inclusive grouping based on sovereignty, i. e. political subdivisions; the second is a lesser included grouping based on administrative subdivisions of the State. “State” then is but one of the public entities listed in the former definition. “Public entity” is the general term. “State” is a specific. Each of the parts included under the term “Public entity” has had that sovereignty possessed by the State parcelled out to it, and is to that degree independent of the State, and the equal of the State. The administrative parts that are listed in the meaning of “State”, however, merely share in or are covered by the umbrella of sovereignty which the State has retained, but have no sovereignty of their own. These include offices, departments, divisions, bureaus, boards, commissions and state agencies. The exclusion of parts “statutorily authorized to sue and be sued” is only contained in the latter definition, that of “State”. :1" * * On the other hand, the Turnpike Authority clearly fits under the definition of “Public entities”, namely as a public authority. The New Jersey Turnpike Authority was established in A. J. S. A. 27:23-5 where it is stated that, “The Authority shall be a body corporate and politic and shall have perpetual succession. * * *' [at 97-98; emphasis supplied]
+The nature of a housing authority has been considered on several occasions. In DeVita v. Paterson Housing Auth., 17 N. J. 350, 352 (1955), the court said that N. J. S. A. 55 :14A~1 et seq. was “designed to implement the far-reaching national housing program which contemplated federal loans and subsidies to local housing agencies. 42 U. S. C. A. § 1401, et seq."
+The Legislature has specifically defined “governing body” to mean, in the case of a municipality, “the common council or the board of commissioners or the body managing its affairs.” N. J. 8. A. 55:14A-3(c). The legislative grant of powers provides, in pertinent part:
+Any governing body may, by * *• * ordinance in the ease of municipalities, create a body corporate and politic to be known as the “Housing Authority of . . .” * * Such authority shall constitute an agency and instrumentality of the municipality * * * creating it. * * * [A. J. S. A. 55:14A-4].
+The Local Housing Authorities Law has thus expressly stated that the local housing authority is a separate, independent entity which is “a body corporate and politic” created by the governing body of a municipality or county, exercising public and essential governmental functions, with many other powers. It is also clear that the housing authority is not a subordinate branch of the governing body. It is a unique separate entity, possessing and enjoying many governmental powers and privileges.
+In light of the plain language of both the Local Housing Authorities Law and the New Jersey Tort Claims Act, as well as the eases interpreting those laws, the conclusion is inescapable that the Newark Housing Authority is a “public entity/’ as defined in N. J. 8. A. 59 :1—2. Consequently, the trial judge properly dismissed plaintiff’s action on the ground that the Tort Claims Act was applicable to it.
+We see no need for extended discussion of plaintiff’s challenge to the constitutionality of the Tort Claims Act. A legislative act will not be declared void unless its repugnancy to the Constitution is clear beyond a reasonable doubt. The burden on the party attacking constitutionality is a strong one. See Reingold v. Harper, 6 N. J. 182 (1951). Plaintiff’s brief is devoid of any legal or factual argument to overcome the presumption of validity in this case. Nor has any persuasive argument been advanced that the Legislature, by its passage of the New Jersey Tort Claims Act, exceeded the broad limits of its constitutional power.
+Affirmed.
