@@ -1,0 +1,26 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1982-11-16"
+citations: ["191 N.J. Super. 225"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GARDEN STATE COMMUNITY HOSPITAL, PLAINTIFF, v. IRENE C. WATSON AND PAUL J. WATSON, DEFENDANTS-THIRD PARTY PLAINTIFFS-APPELLANTS, v. HOSPITAL SERVICE PLAN OF NEW JERSEY, (NEW JERSEY BLUE CROSS PLAN), THIRD PARTY DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/191/cases/0225-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 904687
+cites_cases: ["10 Cal.App.3d 376", "141 N.J.Super. 437", "152 N.J.Super. 371", "182 N.J.Super. 237", "190 N.J.Super. 358", "292 N.W.2d 236", "295 N. W.2d 50", "409 Mich. 401", "426 P.2d 173", "473 F.Supp. 984", "577 P.2d 899", "58 Cal.Rptr. 13", "66 Cal.2d 425", "689 F.2d 457", "72 N.J. 63", "89 Cal.Rptr. 78", "96 Mich.App. 464"]
+---
+
+# Garden State Community Hospital v. Watson
+
+## Majority (KING, J.A.D.)
+
+The opinion of the court was delivered by
+KING, J.A.D.
+The dispute in this case resulted from the initial refusal of the Hospital Service Plan of New Jersey (Plan) to pay a hospital bill incurred by plaintiff Irene Watson who was eligible for Blue Cross benefits provided by the Plan as a fringe benefit of her federal employment. After suit was brought against the Watsons by the plaintiff hospital, the Plan relented and paid the $1,088 bill for the 15-day admission in full. By third-party action against the Plan, the Watsons unsuccessfully sought to convince the Law Division judge that they should have a right of action arising from breach of a fiduciary duty and bad faith in failing to pay “fairly and expeditiously” this first-party insurance claim and should recover compensatory and punitive damages for “severe emotional and physical distress” because of “intentional and wrongful conduct.”
+The claim was initially denied because the Plan claimed the services were routine outpatient diagnostic procedures. Upon notification of their right to appeal, the Watsons proceeded unsuccessfully to challenge the denial of benefits before the United States Civil Service Commission. Mrs. Watson was admitted with a history of emotional complaints and the hospital chart stated the diagnosis as “front temporal lobe seizure disorder.” While in the hospital Mrs. Watson was examined physically and received and EKG, EEG, a laboratory work-up, x-rays, and a CAT scan. The EEG showed focal changes consistent with possible seizure disorder. She was discharged and placed on dilantin.
+On this appeal, we conceive that the Watsons are contending for the creation of a new cause of action in this State, namely, the right to recover consequential compensatory damages for emotional and physical distress and punitive damages where an insurance company wrongfully refuses to pay a first-party claim. The Watsons seize upon dictum in Sandler v. Lawn-A-Mat Chemical & Equipment Corp., 141 N.J.Super. 437, 448-450 (App.Div.1976) and Kosce v. Liberty Mutual Ins. Co., 152 N.J.Super. 371, 376 (Law Div.1977), in support of their contention that a wrongful refusal to pay by the Plan created an action for consequential and punitive damages. They also rely on several out-of-state and federal authorities, e.g., Polito v. Continental Casualty Co., 689 F.2d 457 (3rd Cir.1982); Phillips v. Aetna Life Ins. Co., 473 F.Supp. 984 (D.Vt.1979); Crisci v. Security Ins. Co., 66 Cal.2d 425, 58 Cal.Rptr. 13, 426 P.2d 173 (1967); Christian v. American Home Assurance Co., 577 P.2d 899 (Okl.Sup.Ct.1979); N.J.S.A. 17B:30- 13.1, the statute which prohibits “unfair claim settlement practices,” see Sheeran v. Progressive Life Ins. Co., 182 N.J.Super. 237 (App.Div.1981), and the authorities which permit recovery of the amount of an excess verdict where the duty to settle under a policy of liability is breached, e.g., Fireman’s Fund Ins. Co. v. Security Ins. Co. of Hartford, 72 N.J. 63 (1976). Appellants contend that a “special relationship” with “special duties” arises with respect to an accident and health insurance carrier dealing with its insured. See Fletcher v. Western National Life Ins. Co., 10 Cal.App.3d 376, 403-404, 89 Cal.Rptr. 78 (1970).
+Appellants’ attempt to establish what we perceive as a new cause of action for damages for breach of an insurance contract must be directed to our highest court. See Milcarek v. Nationwide Ins. Co., 190 N.J.Super. 358 (App.Div.1983) (1983). We see no clear indication in our current jurisprudence that our Supreme Court would sanction such a cause of action. Michigan’s Supreme Court recently has rejected such a contention. Kewin v. Massachusetts Mutual Life Ins. Co., 409 Mich. 401, 295 N. W.2d 50 (1982); see also Zimmerman v. Michigan Hospital Service, 96 Mich.App. 464, 292 N.W.2d 236 (Ct.App.1980).
+In view of our ruling that Counts Two and Three of the Watsons’ third-party complaint failed to spell out a cause of action for consequential and punitive damages, we find no abuse of discretion by the Law Division judge in issuing a protective order in the Plan’s favor and in refusing to permit further discovery, approximately eleven months after suit was started.
+Affirmed.
