@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1985-11-22"
+citations: ["205 N.J. Super. 407"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ANGELA CORDASCO, PETITIONER-APPELLANT, v. BOARD OF EDUCATION OF THE CITY OF EAST ORANGE, ESSEX COUNTY, RESPONDENT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/205/cases/0407-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 378356
+cites_cases: ["96 N.J. 587"]
+---
+
+# Cordasco v. Board of Education
+
+## Majority (ANTELL, P.J.A.D.)
+
+The opinion of the Court was delivered by
+ANTELL, P.J.A.D.
+Pursuant to N.J.S.A. 18A:29-8, any teaching staff member holding an office, position or employment in any school district of this State shall be entitled to a salary employment increment each year until reaching a specified maximum level. N.J.S.A. 18A:29-14, however, authorizes a local board of education to “withhold, for inefficiency or other good cause, the employment increment, or the adjustment increment, or both, of any member in any year by a recorded roll call majority vote of the full membership of the board of education.” That statute concludes by saying, “It shall not be mandatory upon the board of education to pay any such denied increment in any future year as an adjustment increment.” An adjustment increment is defined by N.J.S.A. 18A:29-6 as
+“in addition to an ‘employment increment,’ an increase of $150.00 granted annually as long as shall be necessary to bring a member, lawfully below his place on the salary schedule according to years of employment, to his place on the salary schedule according to years of employment . . . .”
+Petitioner is a tenured elementary school teacher in the East Orange school system since 1968. During the 1981-1982 school year she was in the 14th step of the then applicable teacher’s salary guide. Because defendant Board of Education voted to withhold her increment for the 1982-1983 school year due to excessive absenteeism, petitioner did not progress to the 15th step during the 1982-1983 school year. Defendant’s action went unchallenged by petitioner.
+Her evaluations for the 1982-1983 school year being satisfactory, petitioner requested that she be placed at the 16th level of the salary guide for the 1983-1984 school year, where she would have been had her employment increment not been withheld for the 1982-1983 year. This request was denied by letter dated June 23, 1983 and petitioner appealed to the Commissioner of Education. An Administrative Law Judge, by decision dated May 10, 1984, recommended that petitioner’s requested relief be granted, but the Commissioner rejected this recommendation and dismissed the appeal. The State Board of Education affirmed the Commissioner and from this determination petitioner now appeals.
+The agency decision is based on the view that the final statement of N.J.S.A. 18A:29-14 that it “shall not be mandatory upon the Board of Education to pay any such denied increment in any future year as an adjustment increment” leaves petitioner’s claim for relief to the exercise of sound discretion by the local board of education. Petitioner’s attack thereon argues that the foregoing statutory language addresses, not the teaching staff member’s right to advancement on the salary guide, but only the. right to reimbursement of the amount of the employment increment withheld, in this case $250. Noting that N.J.S.A. 18A:29-10 directs the payment of an annual adjustment increment to all teaching staff members to bring them to a level on the salary guide appropriate to their training level and years of employment, petitioner argues that the last sentence of N.J.S.A. 18A:29-14 was deemed necessary by the legislature to guard against the possibility that local school boards would eventually repay the full amount of the withheld employment increment in the belief that this was required by N.J.S.A. 18A:29-10.
+We do not discern the legislative intent urged upon us by petitioner. We reject its implications that, (1) local boards are free to restore the amount of withheld increments and that, (2) absent the last sentence of N.J.S.A. 18A:29-14, the legislature could be understood to have authorized the withholding of an increment in one statute and then directing that it be repaid in another. In our view, which coincides with that of the State Board of Education, the questioned language was crafted to ensure that, unlike other cases which might come within the scope of N.J.S.A. 18A:29-10, where an employment increment had been withheld “for inefficiency or other good cause” under N.J.S.A. 18A:29-14, the local board was not obliged to restore the teaching staff member to that station on the salary guide to which her training level and years of employment would otherwise entitle her. We agree with the State Board that petitioner’s remedy may only be found in the favorable exercise of discretion by the local board.
+Our approach accords with the opinion of the Supreme Court in North Plainfield Educ. Ass’n v. Bd. of Educ., 96 N.J. 587 (1984). This decision involved two school teachers whose employment increment had been withheld for a year in which they had taken a sabbatical leave. Although the case dealt with the applicability of a 90 day period of limitations upon the taking of appeals within the Department of Education, the Court nevertheless noted that because the increment had been withheld “the teachers will always lag one step behind,” and that this was “not attributable to a new violation each year, but to the effect of an earlier employment decision . . . .” Id. at 595.
+Affirmed.
