@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1983-07-11"
+citations: ["190 N.J. Super. 340"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EQUITY SAVINGS AND LOAN ASSOCIATION, A NEW JERSEY CORPORATION, PLAINTIFF-RESPONDENT, v. CHICAGO TITLE INSURANCE COMPANY, A MISSOURI CORPORATION, DEFENDANT-APPELLANT, AND TRUNC ENTERPRISES, INC., A NEW JERSEY CORPORATION, PHILIP RABEN, ROBERT THOMAS OPPELT AND STATE OF NEW JERSEY, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/190/cases/0340-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 906448
+cites_cases: ["120 N.J.Eq. 266", "159 N.J.Super. 139", "164 N.J.Super. 130", "70 N.J.Super. 340"]
+---
+
+# Equity Savings & Loan Ass'n v. Chicago Title Insurance
+
+## Majority (BRODY, J.A.D.)
+
+The opinion of the court was delivered by
+BRODY, J.A.D.
+Harvey Goldberg misused his position as an attorney in arranging the placement of two mortgages on the same property. He falsely represented to each mortgagee that its mortgage was a first lien. Their priorities are at issue in this foreclosure suit.
+Goldberg’s machinations began while the property was encumbered by a $12,000 first mortgage to Philip Raben and a $40,000 second mortgage to Valley Savings and Loan Association (“Valley”). In order to obtain a $48,000 mortgage loan from Equity Savings and Loan Association (“Equity”), Goldberg secured a subordination of the Raben mortgage but falsely certified to Equity that he had cancelled the Valley mortgage. In fact, he did not pay the Valley mortgage which by virtue of the subordination became the first mortgage on the property. About a year later Goldberg obtained a $54,000 mortgage loan from Spencer Savings and Loan Association (“Spencer”) for his corporation Trunc Enterprises, Inc. which by then had acquired title to the property. Goldberg disclosed to Spencer only the Valley mortgage and satisfied it out of the proceeds of the Spencer loan. He concealed the Equity and Raben mortgages. When the truth came out, Chicago Title Insurance Co. (“Chicago”) paid Spencer under its policy, took an assignment of the Spencer mortgage and purchased the Raben mortgage. This left the record priorities as follows: Equity, Chicago (Raben) and Chicago (Spencer). The present dispute is between Equity and Chicago. Relying on the state of the record and finding the equities equally balanced, the trial judge concluded that Equity was first. We reverse.
+Since part of the proceeds of the Spencer loan was used to satisfy the Valley mortgage, Chicago, Spencer’s assignee, stands in the shoes of Valley as though the Valley mortgage had been assigned to Spencer instead of cancelled. A refinancing lender whose security turns out to be defective is subrogated by equitable assignment “to the position of the lender whose lien is discharged by the proceeds of the later loan, there being no prejudice to or justified reliance by a party in adverse interest....” Kaplan v. Walker, 164 N.J.Super. 130, 138 (App.Div. 1978); Restatement, Restitution, § 162 at 653 (1937); see also id., § 207 at 838-840 (especially illustration 3).
+The trial judge declined to apply the doctrine of subrogation by equitable assignment because, as he viewed it, there is no equitable reason to give Spencer an advantage over Equity since each was identically defrauded by Goldberg into believing its junior mortgage was first. We disagree. The difference between the two is that while there is no evidence of what Goldberg did with Equity’s money, he used part of Spencer’s money to cancel Valley’s mortgage thereby gratuitously enhancing Equity’s security. Since Spencer’s money was obtained by fraud (the concealment of the Equity and Raben mortgages), Equity’s windfall may be viewed as a product of the money stolen from Spencer. When stolen property or its product can be traced, it must be returned to its true owner. Cf. Restatement, Restitution, § 215 at 866 (1937); Baisch v. Publishers’ Typographic Serv., Inc., 70 N.J.Super. 340 (Ch.Div.1961) (owner of unidentifiable portion of commingled property in hands of receiver not entitled to priority over general creditors). Here the return of Spencer’s money is accomplished through application of the doctrine of subrogation by equitable assignment.
+Equity argues that there can be no equitable assignment because Goldberg was acting as Chicago’s agent and therefore his knowledge of the Equity and Raben mortgages should be imputed to Chicago. Regardless of whether Goldberg was Chicago’s agent, his knowledge of the record is beside the point. If Spencer had actual knowledge of the Equity and Raben mortgages, and nevertheless chose to pay and cancel rather than purchase and take an assignment of Valley’s mortgage, one could infer therefrom that Spencer intended its mortgage to be junior to Equity’s and Raben’s. See Gutermuth v. Ropiecki, 159 N.J.Super. 139, 143-144 (Ch.Div.1977). Because Goldberg’s fraud kept Spencer and Chicago from knowing of the Equity and Raben mortgages, no such inference can be drawn here. See Home Owners’ Loan Corp. v. Collins, 120 N.J.Eq. 266, 268-269 (Ch.1936).
+The mortgage priorities are therefore as follows: (1) Chicago in the amount it paid to satisfy the Valley mortgage, (2) the Equity mortgage, and (3) the Chicago mortgages.
+Reversed and remanded for further proceedings consistent with this opinion.
+§ 215. NECESSITY OF TRACING PROPERTY.
+(1) Except as stated in Subsection (2), where a person wrongfully disposes of the property of another but the property cannot be traced into any product, the other has merely a personal claim against the wrongdoer and cannot enforce a constructive trust or lien upon any part of the wrongdoer’s property.
+(2) Where a broker wrongfully disposes of the securities of a customer, the customer is entitled to claim in substitution therefor securities of the same issue owned by the broker.
