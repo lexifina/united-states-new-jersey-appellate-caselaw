@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1951-01-04"
+citations: ["11 N.J. Super. 97"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HELEN HALL, PLAINTIFF-APPELLANT, v. SIDNEY HALL, DEFENDANT-RESPONDENT, AND ROOSEVELT PARK, INC., A CORPORATION OF THE STATE OF NEW JERSEY, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/11/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 409017
+cites_cases: ["106 N. J. Eq. 537", "109 N. J. Eq. 119", "124 N. J. Eq. 477", "134 N. J. Eq. 513", "136 N. J. Eq. 103", "4 N. J. 374", "81 N. J. Eq. 190", "93 N. J. Eq. 357"]
+---
+
+# Hall v. Hall
+
+## Majority (Freunb, S. J. A. D.)
+
+The opinion of the court was delivered by
+Freunb, S. J. A. D.
+The issue here presented is a narrow one, namely, the date as of which there should be an accounting between the parties, formerly husband and wife, relating to a parcel of real estate purchased as tenants by the entirety.
+On August 1, 1943, the plaintiff and the defendant, then husband and wife, entered into a contract to purchase a dwelling house, presumably two-family, situated on Alta Vista Place, in Perth Amboy, New Jersey. Pursuant thereto, a deed dated October 1, 1943, conveying title to them as husband and wife was deposited in escrow with the South Orange Trust Company to be delivered upon completion of payments required to be made under the contract. The parties had previously been separated, but had resumed cohabitation about five months prior to the date of the contract. The defendant testified that the property was purchased in order to provide a suitable home for his family, but the parties lived together in the property only until October, 1944, when they again separated and subsequently were divorced by final decree of the Court of Chancery dated September 26, 1947. The defendant husband collected the rents and made the payments pursuant to the contract, and upon their completion received the deed on July 29, 1948. Prior to the delivery of the deed, evidently at the request of the defendant and without the consent of the plaintiff, her name was erased from the deed by an employee of the escrow bank, so that the deed conveyed the title to Sidney Hall alone.
+The plaintiff instituted this suit for reformation and an accounting, and after trial, judgment was entered directing reformation and an accounting between the parties from August 1,1943, the date of the contract. The plaintiff appeals from that part of the judgment which directs the accounting, arguing that she is entitled to one-half of all rents collected by the defendant, but is not chargeable with any of the carrying charges of the property paid by the defendant on the ground that they were gifts.
+Upon the execution of the contract, the equitable title to the premises became vested in the plaintiff and the defendant as tenants by the entirety. Upon the entry of the final divorce decree on September 36, 1947, this tenancy was converted into a tenancy in common. The court below correctly stated that expenditures by a husband of his own moneys on property, title to which is taken as tenants by the entirety, are presumed to be gifts, which presumption may, however, be rebutted by proof that they were made with the intention, understanding or agreement that they should not be presumed or considered as gifts. Such proof “must be certain, definite, reliable and convincing, leaving no reasonable doubt of the intention of the parties.” McGee v. McGee, 81 N. J. Eq. 190 (E. & A. 1913); Ringold v. Ringold, 93 N. J. Eq. 357 (Ch. 1922); Mendelsohn v. Mendelsohn, 106 N. J. Eq. 537 (Ch. 1930); Strong v. Strong, 134 N. J. Eq. 513 (Ch. 1944); affirmed, 136 N. J. Eq. 103 (E. & A. 1945).
+We feel, however, that there was error in the application of the rule. There was no convincing proof of an agreement between the parties that the disbursements made by the husband were not to be considered as gifts. In fact, the husband testified as follows:
+“Q. Was there any arrangements for her contributions at the meeting, (referring to a meeting held on November 4, 1946, prior to the divorce), contributions toward the maintenance of the building? A. Nothing whatsoever; nothing at all.”
+In paragraph 10 of the complaint it is alleged “Plaintiff is ready, willing and able to make any and all contributions required by law toward the carrying charges, taxes, insurance, maintenance, repairs and other expenses of the property in question, accruing since September 26, 1947,” and at the trial she so testified. While the plaintiff is not required to contribute toward expenditures made on the property by her husband during coverture, she should make contributions toward such disbursements from and after September 26, 1947.
+Ordinarily,, the husband might be accountable for rents collected by him during coverture. Nobile v. Bartletta, 109 N. J. Eq. 119 (E. & A. 1931); Zanzonico v. Zanzonico, 124 N. J. Eq. 477 (Ch. 1938). However, under the facts of this case, it would be inequitable to require, and the plaintiff is estopped, to demand, that the defendant account for rents collected prior to the date of the final decree of divorce, because in the complaint she made no such claim nor was it advanced at the trial. It appears for the first time in the plaintiff’s brief on appeal. It has often been stated that matters not raised below should not be permitted to be raised on appeal, except where the question goes to the jurisdiction of the snbjeet matter or where a question of public policy is involved. State v. Jones, 4 N. J. 374 (1950).
+The judgment of the court below is modified to the end that the accounting between the parties be from and after September 26, 1947.
