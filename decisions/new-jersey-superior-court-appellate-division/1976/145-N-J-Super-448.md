@@ -1,0 +1,26 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1976-12-14"
+citations: ["145 N.J. Super. 448"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IVA NELL NELSON, PETITIONER-APPELLEE, v. AMERICAN CONTAINER CORP., RESPONDENT-APPELLANT, AND COMMISSIONER OF LABOR AND INDUSTRY, AS CUSTODIAN OF SECOND INJURY FUND, RESPONDENT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/145/cases/0448-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 307331
+cites_cases: ["112 N. J. Super. 6", "122 N. J. Super. 88", "127 N. J. Super. 507", "134 N. J. Super. 117", "19 N. J. 457", "44 N. J. 589", "57 N. J. 603", "62 N. J. 581", "64 N. J. 549", "66 N. J. 111", "68 N. J. 283"]
+---
+
+# Nelson v. American Container Corp.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Respondent-employer, American Container iCorp., appeals from a judgment of the Division of Workmen’s Compensation awarding petitioner-employee, Iva Nell Nelson, total disability. The essential basis of the appeal is the employer’s claim that it was denied a fair opportunity to cross-examine petitioner.
+The employee filed claim petitions with the Division of Workmen’s Compensation alleging work-related accidents on January 16 and June 26, 1969, as a result of which she sustained injuries of the right knee, both legs, "nervous shock and traumatic neurosis.” Eollowing 15 days of hearings, Judge Levine found her to have been permanently disabled as a result of the orthopedic and neuropsychiatric sequelae' of the accidents. He denied, however, her eligibility for benefits under the Second Injury Eund (N. J. S. A. 34:15-95), finding that her injuries had been sustained only ten days apart, were generally of the same in nature, and that the injuries sustained in the first episode had not run their course when the second accident occurred. There is no real challenge here to that holding.
+Petitioner, the first witness in her own behalf, was examined by her attorney on the first day and a half of trial and showed no overt emotional or physical reaction while testifying. Upon the commencement of cross-examination, however, she became ill, as she did on four subsequent occasions when respondent’s attorney attempted to complete the cross-examination. Consequently, the cross-examination was never completed. On the first three occasions petitioner had to be physically removed from the stand while apparently on the verge of fainting. On the last two attempts at cross-examination she exhibited a severe loss of memory in addition to her faintness. On the final such attempt the compensation judge ruled that the witness would be excused without any further efforts being made by respondent to cross-examine her. There is no question from the colloquy between the court and counsel that the judge did not regard her to be intentionally feigning these severe physical and psychological reactions to the attempted cross-examination.
+In addition to the petitioner’s husband, seven doctors testified, four on behalf of petitioner and three on behalf of respondent. There was also placed in evidence a letter opinion of yet another of respondent’s medical experts. There is no disagreement among the experts that petitioner actually suiters from an orthopedic-psychoneurotic condition which, among other things, subjects her to fainting spells and loss of memory, particularly when undergoing stress. It is, therefore, clear that not only did the overwhelming weight of the medical testimony, including that offered by respondent, support the compensation judge’s finding of total disability but it also lent substantial credence to the genuineness of petitioner’s inability to withstand cross-examination.
+We are satisfied from our careful review of this voluminous record that respondent suffered no prejudice by reason of its inability to complete its cross-examination of petitioner. First, it is clear that cross-examination is not an unqualified and unrestricted right. See, e. g., State v. Cranmer, 134 N. J. Super. 117 (App. Div. 1975), certif. den. 68 N. J. 283 (1975) ; State v. Pontery, 19 N. J. 457, 472-473 (1955); State v. Zwillman, 112 N. J. Super. 6, 17 — 18 (App. Div. 1970), certif. den. 57 N. J. 603 (1971). We are further satisfied, viewing this record as a whole, that the compensation judge placed no substantial reliance on petitioner’s direct testimony, which in every material respect was fully corroborated both by her husband, who was extensively cross-examined, and by the weight of the medical evidence.
+The scope of review here is limited to a determination of whether the findings of the compensation judge, given his expertise and opportunity of hearing and seeing the witness, could have reasonably been reached on sufficient credible evidence present in the whole record. Close v. Kordulak Bros., 44 N. J. 589, 598 (1965); Paul v. Baltimore, 66 N. J. 111, 119 (1974); DeAngelo v. Alsan Masons, Inc., 122 N. J. Super. 88, 89 (App. Div. 1973), aff'd o.b. 62 N. J. 581 (1973); Rossnagle v. Capra and Shell Oil Co., 127 N. J. Super. 507, 517 (App. Div. 1973), aff'd o.b. 64 N. J. 549 (1974). Application of that standard of review here requires affirmance of judgment below.
+Affirmed.
