@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1980-05-12"
+citations: ["174 N.J. Super. 284"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN ADAMS AND MARY ADAMS, PETITIONERS-RESPONDENTS, v. WOODBRIDGE SANITARY POTTERY CORP., RESPONDENT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/174/cases/0284-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 290023
+cites_cases: ["104 N.J.Super. 1", "127 N.J.Super. 93", "164 N.J.Super. 203", "39 N.J. 555", "53 N.J. 351", "65 N.J. 555", "66 N.J. 111", "77 N.J.Super. 147", "98 N.J.Super. 410"]
+---
+
+# Adams v. Woodbridge Sanitary Pottery Corp.
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+The principal question in this appeal is whether the dependent of an employee who dies as the result of a compensable accident may be awarded compensation for the unaccrued portion of decedent’s lifetime claim (N.J.S.A. 34:15-12), in addition to an award under her own dependency claim (N.J.S.A. 34:15-13). The judge of compensation entered such an award. We reverse.
+On April 24, 1972 John Adams filed a claim for workers’ compensation, alleging an occupational disease resulting from his prolonged exposure “to dust, dirt and other deleterious substances” during his employment at Woodbridge. Pending that claim, Adams died on October 25, 1972 as a result of his occupational exposure. His wife, Mary, thereupon filed a dependency claim. After finding that John had suffered an occupational injury, the judge of compensation awarded Mary the remaining 418% weeks of her husband’s claim (the initial 31% weeks were awarded to his estate), after which she would receive 450 weeks of benefits under her dependency claim.
+We summarily dispose of Woodbridge’s argument that the judge of compensation’s finding of work-relatedness was unsupported. Paul v. Baltimore Upholstering Co., 66 N.J. 111, 119 (1974). We also reject the claim that the $750 statutory allowance for funeral expenses was improperly granted to Mary. The fact that Mary did not actually deliver the funds to the funeral parlor does not defeat her entitlement under N.J.S.A. 34:15-13(h).
+More substantial is Woodbridge’s argument that the judge permitted a double recovery not contemplated by the statute. Where, as here, death results from the compensable injury, N.J.S.A. 34:15-13 governs the entitlement of decedent’s dependents, such as Mary, she would be entitled to 50% of decedent’s weekly wage, N.J.S.A. 34:15-13(a), as opposed to 662/3% to which decedent himself was entitled during his lifetime. N.J.S.A. 34:15-12(b).
+The judge of compensation relied on N.J.S.A. 34:15-21 which, in pertinent part, reads: “In case of death compensation payments may be made directly to dependents of full age and on behalf of infants to the surviving parent, if any . . . The judge concluded that this provision required that John’s unused benefits be paid to his wife.
+The judge misconstrued N.J.S.A. 34:15-21 by reading it as a source of a right to recover. To the contrary, it merely provides mechanisms for payment to dependents already deemed eligible under other provisions of the act, namely, either N.J.S.A. 34:15-12 (where death was not accident-related) or 34:15-13 (where there was such a relation).
+Mary correctly argues that employees’ benefits and dependency benefits are independent and that the latter are not derived from the rights of the deceased employee. See, e. g., Brown v. General Aniline, 127 N.J.Super. 93, 96 (App.Div.1974), aff’d o. b. 65 N.J. 555 (1974). That each benefit has its own statutory source does not, however, dispose of the issue. For if the legislative intent is that one or the other but not both is recoverable, it is irrelevant that each is independent of the other. The most reasonable construction of the act is that where the death is unrelated to the accident, a dependent is entitled only to those benefits decedent would have received had he lived, pursuant to N.J.S.A. 34:15-12(e). But if (as here) death is causally connected to the accident or occupational injury, a dependent is limited to her dependency claim under N.J.S.A. 34:15-13. See, e. g., Jones v. Badger Mfg. Co., 98 N.J.Super. 410, 419—420 (Cty.Ct.1967), in which the court implicitly approved the compensation court’s deduction of the balance of the unaccrued benefits due decedent under his own award from the amount owing to his widow under her dependency claim.
+On the cross-appeal Mary argues that the compensation court erred in awarding her only $50 for each of her two medical witnesses, urging that the full amount of their fees ($750) should be awarded. Her claim is contrary to N.J.S.A. 34:15-64, which has been interpreted as limiting the fee for a resident medical witness for all services to $50. Wright v. Plaza Ford, 164 N.J.Super. 203, 209-210 (App.Div.1978). We note that while the judge of compensation acknowledged the $50-per-witness limit, he inexplicably awarded a $75 fee to each of petitioner’s two witnesses. The witness fees should be reduced to $50 per witness.
+We affirm that portion of the judgment awarding petitioner 450 weeks of benefits under her dependency claim, and the $750 statutory funeral allowance; that portion of the judgment awarding her the balance of decedent’s claim from the date of his death is reversed, and that portion awarding $75 to each of petitioner’s medical witnesses is reduced to $50 each.
+Although the statute does not expressly limit its scope to work-related death, it has been so construed. See Roberts v. All American Engineering Co., 104 N.J.Super. 1, 7 (App.Div.1968), certif. den. 53 N.J. 351 (1969), and Jones v. N.J. Mfrs. Cas. Ins. Co., 77 N.J.Super. 147, 153 (App.Div.1962), affd o. b. 39 N.J. 555 (1963).
