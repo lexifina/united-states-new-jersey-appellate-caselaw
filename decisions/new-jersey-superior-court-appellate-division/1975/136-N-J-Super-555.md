@@ -1,0 +1,43 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1975-10-27"
+citations: ["136 N.J. Super. 555"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["PAUL SCHEIER, PETITIONER, v. GARDEN STATE FORGE CO., RESPONDENT. AMERICAN MUTUAL LIABILITY INSURANCE COMPANY, RESPONDENT-APPELLANT, v. NEW JERSEY MANUFACTURERS INSURANCE COMPANY, RESPONDENT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/136/cases/0555-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 913054
+cites_cases: ["27 N. J. 398", "29 N. J. 464", "4 N. J. 64", "42 N. J. 308", "44 N. J. Super. 114", "47 N. J. 198", "49 N. J. Super. 187", "53 N. J. Super. 414", "91 N. J. Super. 433"]
+---
+
+# Scheier v. Garden State Forge Co.
+
+## Majority (Kolovsky, P. J. A. D.)
+
+The opinion of the court was delivered by
+Kolovsky, P. J. A. D.
+American Mutual Liability Insurance Company (American) appeals from so much of a judgment entered in the Division of Workmen’s Compensation as adjudged that New Jersey Manufacturers Insurance Company (N. J. M.) is not responsible for any part of the award for partial permanent disability, “75% binaural loss of hearing,” made to petitioner Scheier.
+Scheier had been employed by respondent Garden State Forge Co. from 1950 until May 1969. In February 1970 he filed a claim petition in the Division of Workmen’s Compensation alleging that he had suffered a substantial loss of hearing by reason of his exposure to the loud noises associated with respondent’s forging and foundry industry. As noted above, the Division ruled in his favor. The award has been paid and the propriety -thereof is not challenged on this appeal.
+The only issue on appeal involves a dispute between American, the employer’s workmen’s insurance carrier since April 13, 1962 and N. J. M., which had been the employer’s workmen’s insurance carrier prior to that date.
+American contends that N. J. M., which it had interpleaded as a corespondent, should be required to pay “85% oí the award, including examination, stenographic and counsel fees” because — we quote from the stipulation of facts on the basis of which the dispute was submitted to the Division Judge:
+On April 4, 1962 [one week before American’s policy became effective] a hearing examination of the Petitioner, Paul Scheier, including an audiogram, was conducted by Dr. John F. Scalera of South Plainfield, New Jersey. The hearing examination established a hearing loss of 55.5% in the right ear and 108% [sic] in the left ear.
+In the course of his oral opinion the Division judge stated that American had, on April 4, 1962, “caused a hearing examination of petitioner together with an audiogram to be conducted by Dr. John F. Scalera.” Nothing in the record furnishes any support for that statement. The stipulation of facts gives no indication as to who had requested the examination or why the examination had taken place.
+Further, at oral argument of the appeal N. J. M. did not dispute American’s denial that it had requested the examination. Nor did it challenge American’s assertions that it had learned of Dr. Scalera’s examination and report only after petitioner had instituted these proceedings in February 1970. It had then called for and had examined the personnel file of Garden State Forge Co. relating to petitioner. Found in that file was the report, together with the audiogram, which had been sent to Garden State by its plant physician, Dr. Scalera.
+There is therefore no validity to the suggestion — based on the erroneous assumption that American had ordered the examination and had received the report in April 1962, hut had not informed N. J. M. thereof — that somehow American is now barred or estopped from seeking any contribution from N. J. M.
+In refusing to impose any liability on N. J. M. the Division judge said:
+It is clear that the respondent, Garden State Forge Company is the entity which is responsible for producing this compensable hearing loss. Respondent’s present Workmen’s Compensation carrier seeks to be relieved from the payment of most of respondent’s liability predicated upon a unilateral otological examination conducted some 12 years ago. I reject this position.
+Even though a hearing loss may have been in existence at the time N. J. M. went off the risk and American went on, clearly that hearing loss was aggravated, accelerated or exacerbated by the continuing work effort after American went on the risk. Further, I see no legal justification for assessing an award of disabilty against an insurance company whose responsibility ended more than 12 years ago. If this was so, no insurance carrier could ever be free of potential responsibility allegedly occasioned during its period of coverage, notwithstanding the passage of time, nor the legal defense of statute of limitations.
+The judge’s reference to the statute of limitations is unwarranted. The applicable section of the act relating to occupational diseases, N. J. S. A. 34:15-34, provides that a petition may be filed
+* *■ * within two years after the date on which the employee ceased to be exposed in the course of employment with the employer to such occupational disease as hereinabove defined, or within one year after the employee knew or ought to have known the nature of his disability and its relation to his employment, lohichever period is later in duration. [Emphasis supplied]
+Had petitioner known in 1963 of Dr. Scalera’s findings and of the causal relationship of his deafness to his employment, he could then have instituted an action to recover workmen’s compensation. However, his failure to do so would not be fatal. The statute permits his waiting to institute his action until after he had ceased his employment, as he did here.
+Further, the Division judge erred in his conclusion that merely because petitioner’s hearing loss ivas “aggravated, accelerated or exacerbated by the continuing work effort after American went on the risk,” no liabillty may be imposed on N. J. M.
+The Division judge’s reasoning may be sustained only if the occupational disease here involved, the hearing loss, were in fact a disease
+* s’ * o! a nature which is gradually progressive and does not manifest the kind of tangible bodily injury or impairment which is specifically demonstrable, and cognizable even by a layman, but takes its toll in a general over-all condition of malaise eventually forcing discontinuance of work at the injurious occupation, * * . [Bucuk v. Fdward A. Zusi Brass Foundry, 49 N. J. Super. 187, 206 (App. Div. 1958), certif. den. 27 N. J. 398 (1958)].
+Such a disease, tuberculosis, was that involved in the case upon which N. J. M. relics, Masko v. Barnett Foundry & Machine Co., 53 N. J. Super. 414 (App. Div. 1959), certif. den. 29 N. J. 464 (1959), in support of its contention that the insurer which was on the risk when petitioner’s employment ceased must bear full responsibility without any contribution from a prior insurer.
+However, a hearing loss is not an occupational disease of that nature. McBride v. Royal Laundry Service, Inc., 44 N. J. Super. 114 (App. Div. 1957). Hearing impairment is of a tangible quality, “specifically demonstrable, and cognizable even by a layman,” Bucuk, supra, 49 N. J. Super. at 206, and constitutes a “definite fault akin to a traumatic injury.” Calabria v. Liberty Mut. Ins. Co., 4 N. J. 64, 71 (1950).
+With respect to such occupational diseases, our law holds liable, to the extent of the disability then existing, the “employer or carrier during whose employment or coverage the disease was disclosed * * * by medical examination, work incapacity, or manifest loss of physical function.” Bond v. Rose Ribbon & Carbon Mfg. Co., 42 N. J. 308, 311 (1964). [Emphasis supplied.]
+N. J. M. is therefore responsible for so much of petitioner’s hearing disability as existed and was disclosed by medical examination on April 4, 1962. That will be the limit of its liability since American implicitly concedes that the increase in disability was not due to the natural progress of the disease but rather resulted from continued exposure to loud noises. Cf. Ort v. Taylor-Wharton Co., Division of Harsco Corp., 47 N. J. 198, 206 (1966); Schnaars v. Canfield Oil Co., 91 N. J. Super. 433 (App. Div. 1966).
+Contrary to what American suggests, we deem it inappropriate for us to calculate the proper apportionment of liability as between American and N. J. M. That will be for determination by the Division of Workmen’s Compensation.
+Reversed and remanded for further proceedings consistent with this opinion.
