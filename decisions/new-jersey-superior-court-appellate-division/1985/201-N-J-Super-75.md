@@ -1,0 +1,26 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1985-04-25"
+citations: ["201 N.J. Super. 75"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NEW JERSEY STATE SPECIAL POLICE ASSOCIATION, INC., PLAINTIFF-APPELLANT, AND ROBERT DEGHETTO, INDIVIDUALLY AND ON BEHALF OF ELMWOOD PARK CHAPTER # 29, NEW JERSEY STATE SPECIAL POLICE ASSOCIATION, INC., PLAINTIFFS, v. ATTORNEY GENERAL OF THE STATE OF NEW JERSEY; PROSECUTOR OF BERGEN COUNTY; AND BOROUGH OF ELMWOOD PARK, NEW JERSEY, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/201/cases/0075-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 370674
+cites_cases: ["197 N.J.Super. 78", "65 N.J. 474"]
+---
+
+# New Jersey State Special Police Ass'n v. Attorney General
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+N.J.S.A. 2C:39-5(b) prohibits possession of a handgun without having obtained a permit to carry it. There are numerous exemptions listed in N.J.S.A. 2C:39-6. N.J.S.A. 2C:39-6(a)(7) exempts a regular municipal policeman and a special municipal policeman (special) appointed under N.J.S.A. 40A:14-146 “while engaged in the actual performance of his duties and when specifically authorized by the governing body to carry weapons____” Any police officer not specifically listed as exempt is exempt “while in the actual performance of his official duties.” N.J.S.A. 2C:39-6(e)(l).
+N.J.S.A. 40A:14-146 authorizes a municipal governing body to appoint specials. It provides that no special “shall carry a revolver or other similar weapon when off duty” except a special “appointed by the governing body of any municipality having a population in excess of 300,000____” The City of Newark is the only municipality fitting that description. A special appointed by the Newark governing body who meets the further requirements of the statute “shall be permitted to carry a revolver or other similar weapon when off duty within the municipality where he is employed.” Ibid. See In re Rawls, 197 N.J.Super. 78 (Law Div.1984). In sum, unless he was appointed by the governing body of the City of Newark, a special may not carry a handgun while off duty without having obtained a permit to do so.
+Appellant, a state-wide association of specials, appeals from a judgment declaring that specials appointed by the Borough of Elmwood Park governing body may not carry handguns while privately employed in police-related activity without first obtaining a permit to carry. The issue is largely factual and depends on whether in such employment the specials are “in the actual performance” of their “official duties” or are “off duty.”
+N.J.S.A. 40A:14-146 provides that a special “shall be under the supervision and direction of the chief of police of a municipality wherein he is appointed____” When he is not acting “under the supervision and direction of the chief of police,” a special municipal policeman is not “in the actual performance” of his “official duties” even though he is engaged in police-related activities.
+The kinds of private employment in question are patrolling an apartment complex, being present where cash is handled, and directing traffic off the street and into parking areas. The specials deal directly with all their private employers except the owner of the apartment complex. As a vestige of a time when the police chief assigned specials who were under his supervision and paid by the Borough to patrol apartment complexes, the chiefs secretary, herself a special, is still used as a contact by the owner of the complex that continues to employ specials. The judge found, however, that the chief’s role is now entirely passive. The rosters and the rate of pay for all private employment are established by the local association of specials. The private employers pay the specials and direct their activities. These specific findings and the ultimate finding that the specials are off duty when so employed are fully supported by the record and are therefore not subject to reconsideration on appeal. Rova Farms Resort v. Investors Ins. Co., 65 N.J. 474, 483-484 (1974).
+Plaintiff points out that the Legislature permits certain special policemen to carry a handgun without a permit even though they are hired, supervised and paid by private employers and not by a municipality. The Legislature has authorized certain private employers to appoint and pay their own police officers and special police officers who, without having obtained a permit, may carry a handgun while performing the duties they were appointed to perform. See, e.g., N.J.S.A. 2C:39-6(c)(9) (railway police); N.J.S.A. 18A:6-4.2 et seq. and N.J.S.A. 2C:39-6(c)(1) (school campus police); N.J.S.A. 4:15-1 et seq. and N.J. S.A. 2C:39-6(c)(l) (special police appointed by agricultural fair and exhibition associations to maintain the peace on the fairgrounds and their immediate environs). It does not follow that specials appointed by a municipal governing body under N.J. S.A. 40A:14-146 may by reason of that appointment carry a handgun without a permit while performing police-related work for a private employer.
+Affirmed.
