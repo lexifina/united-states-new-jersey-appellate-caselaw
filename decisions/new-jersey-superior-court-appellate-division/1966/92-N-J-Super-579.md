@@ -1,0 +1,52 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1966-11-18"
+citations: ["92 N.J. Super. 579"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. JOSEPH RANDAZZO, Jr., DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/92/cases/0579-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 308243
+cites_cases: ["12 N. J. 520", "13 N. J. L. 215", "13 S. E. 2d 247", "132 A. L. R. 1309", "132 A. L. R. 1311", "14 L. Ed. 2d 379", "141 P. 293", "154 N. E. 408", "200 S. E. 237", "218 Wis. 75", "22 N. J. Super. 224", "230 Or. 283", "260 N. W. 421", "319 N. C. 212", "32 Cal. App. 2d 31", "324 Ill. 29", "380 U. S. 987", "43 N. J. 369", "44 N. J. 422", "59 Ga. App. 1", "80 Wash. 75", "85 S. Ct. 1359", "89 P. 2d 173", "90 N. J. L. 582"]
+---
+
+# State v. Randazzo
+
+## Majority (Labrecque, J. A. D.)
+
+The opinion of the court was delivered by
+Labrecque, J. A. D.
+Defendant Joseph Randazzo, Jr. appeals from his conviction for false swearing (N. J. S. 2A:131-4).
+Defendant had been engaged in the operation of an auto body shop in Clifton, New Jersey, and had applied for and been denied a zoning variance to permit enlargement of his business at a new location. In a later investigation of alleged corruption in Clifton by the Passaic County grand jury, he was called as a witness as to an alleged attempt to extort money from him in exchange for favorable action by the board of adjustment on his application. Under questioning before the grand jury he denied that money had been demanded of him or that he had so told one Portelli.
+He was subsequently indicted and tried for false swearing. At the trial Portelli testified that defendant had told him that one Bidnik had demanded two or three thousand dollars for favorable action by the board on his application. There was additional testimony that defendant had made a similar statement to at least one other. Portelli, who was a third cousin of defendant, also testified that, at defendant’s request, lie had relayed this information to Ruben Rubinowdtz, a member of the board of adjustment.
+Defendant’s motion for acquittal was denied and he took the stand and, in substance, iterated his denial before the grand jury. The jury found him guilty and the present appeal followed.
+Defendant urges that (1) the State failed to submit proof that defendant wras “duly and regularly sworn” prior to giving the allegedly false testimony to the grand jury, (2) his motions for acquittal at the close of the entire testimony were erroneously denied, and (3) the trial judge erroneously instructed the jury.
+I
+As part of the State’s case, Bernstein, the assistant prosecutor who conducted the examination of defendant before the grand jury, and Weberman, the official reporter, were called as witnesses. Weberman testified that defendant “was called and sworn by the Foreman of the Grand Jury” and that he (Weberman) thereafter made stenographic notes of defendant’s testimony and transcribed them. He identified transcript and testified verbatim as to the questions put to the defendant which were referred to in the indictment, and defendant’s answers thereto. He was not cross-examined.
+The statute, N. J. 8. 2A:131-4, prohibits willfully swearing falsely “in any judicial proceeding” or before “any person authorized by any law of this state to administer an oath and acting within his authority.” The indictment charged that while “duly and regularly sworn as a witness before the grand jury by the foreman thereof,” defendant swore falsely as therein set forth. There can be no doubt as to the authority of the foreman of the grand jury to administer the oath to witnesses testifying before it. N. J. S. 2A :73 — 4. Although he was examined at length as to his testimony before the grand jury, at no time did defendant allege — or even suggest — that he did so while not under oath. Typical is his testimony on direct examination:
+“Q No, and did you appear before the Grand Jury? A I did.
+Q And at that time you were asked if you were willing to give testimony, even though it may incriminate you, weren’t you? A Yes.
+Q And what did you say? A I said, ‘I would be willing to give testimony.’
+Q And were you examined at that time? A Yes. Yes.
+Q By the prosecutor? A Yes.
+Q Before the Grand Jury? A Yes.
+Q And did you give testimony? A Yes.”
+While no New Jersejr case appears to have passed upon the exact point here in issue, in State v. Monetti, 90 N. J. L. 582 (E. & A. 1917), on an indictment for perjury, the court held that upon proof that the witness was sworn by one T. E., who was then foreman of the grand jury, it was unnecessary to further establish the authority of the latter to so act in the absence of some proof to the contrary. And in State v. Siegler, 22 N. J. Super. 224 (App. Div. 1952), affirmed 12 N. J. 520 (1953), this court, in affirming a conviction for false swearing based upon defendant’s signature in an affidavit, commented: “It is significant that defendant does not allege that he was not sworn, nor is there any testimony to that effect.”
+Defendant argues that the State was required to establish that he was sworn to give testimony before a duly constituted grand jury which was engaged in a lawful investigation, and that a lawful oath had been administered to him by a foreman possessing authority so to do. But Bernstein, the assistant prosecutor, testified that he was conducting a probe on behalf of tho prosecutor’s office into alleged corruption in the Clifton city government and identified defendant as one of the witnesses called before the grand jury in the investigation. There was no challenge to the grand jury under II. 11. 3:3-2 (a) or (L), or R. R. 3:5-5, so that the presumption arose that it was duly constituted and qualified. It is conceded that the indictment was returned on September 9, 1964, which was within the legal period of its existence. In the absence of any challenge, it was unnecessary that the State establish that the grand jury was duly impanelled or that the foreman was duly appointed and sworn hv the court.
+Defendant contends that the State failed to establish the form of tho oath administered to defendant and that this omission is fatal.
+It is the general rule that once it is established that an oath was administered and that the witness testified, it is presumed that the oath administered was a lawful one. 3 Underhill, Criminal Evidence (5th ed. 1957), § 824, at p. 1861; see also Annotation, “Necessity and sufficiency of proof, in prosecution for perjury during trial, that oath was administered,” 132 A. L. R. 1311 (1941). Although there is some diversity of opinion, we find that the better reasoned out-of-state cases are opposed to defendant’s contention.
+The facts in the present case somewhat resemble those in Taylor v. State, 59 Ga. App. 1, 200 S. E. 237 (Ct. App. 1938). There, in an appeal from a conviction for subornation of perjury, testimony by the official court stenographer that the witness “was sworn as a witness by Mr. Brant,” was held to he sufficient to establish that a lawful oath had been administered to the witness alleged to have been snborned.
+And in State v. Mann, 319 N. C. 212, 13 S. E. 2d 247, 132 A. L. R. 1309 (Sup. Ct. 1941), on an appeal from a conviction for perjury, it was held that the court stenographer’s notes, which recited that the witness “being duly sworn” testified as stated, were sufficient to warrant a finding by the jury that such witness had testified under oath. The court there noted:
+“If the defendant did not in fact take an oath it was easy for him to inquire what the witness meant when she transcribed his evidence, and made the entry ‘E. L. Mann, being duly sworn.’ The entry is tantamount to a positive statement of the fact of the defendant having been sworn and [being] unchallenged was proper to be submitted to the jury for their consideration.” (219 N. C., at p. 214, 13 S. E. 2d, at p. 248)
+See also People v. Wright, 324 Ill. 29, 154 N. E. 408 (Sup. Ct. 1926); State v. Christenson, 230 Or. 283, 370 P. 2d 240 (Sup. Ct. 1962); State v. Miller, 80 Wash. 75, 141 P. 293, 295 (Sup. Ct. 1914). Compare People v. Macken, 32 Cal. App. 2d 31, 89 P. 2d 173 (D. Ct. App. 1939); Koehler v. State, 218 Wis. 75, 260 N. W. 421 (Sup. Ct. 1935).
+Defendant relies heavily upon Coxe v. Field, 13 N. J. L. 215 (Sup. Ct. 1832). We find it to be inapposite. The portion of the opinion on which defendant relies was clearly obiter dictum, and there was not present in that case proof of the quality here shown that the witnesses had been sworn.
+We accordingly hold that the proofs were adequate to support a finding beyond a reasonable doubt that defendant was duly and regularly sworn by the foreman of the grand jury.
+II
+Defendant next urges that there should have been an acquittal on the additional ground that the State failed to make out a prima facie case. We are satisfied from our examination of the record that this contention is without substance. Portelli, Hahn, defendant’s insurance broker, and the witness Moskal, all gave testimony which, if believed by the jury, established beyond a reasonable doubt the State’s contention that defendant’s denials before the grand jury were false. The motions to acquit on that ground were therefore properly denied. State v. Contursi, 44 N. J. 422, 426 (1965); State v. Van Duyne, 43 N. J. 369, 377 (1964), certiorari denied 380 U. S. 987, 85 S. Ct. 1359, 14 L. Ed. 2d 379 (1965).
+Ill
+Nor do we perceive any error in the charge. Defendant takes exception to the following portion thereof:
+“The State charges that the defendant was sworn by the foreman of the Grand Jury, and I tell you that by law the foreman of the Grand Jury has the legal authority to swear the defendant, and that after being sworn by the foreman of the Grand Jury the defendant then testified wliat is stated in the indictment.”
+We are satisfied that the jury was not confused or misled by the quoted excerpt and that defendant suffered no prejudice from it. The court was doing no more than informing the jury as to what the charge was, while making it clear that the foreman of the grand jury had the legal authority to administer oaths. Considered as a whole, the charge adequately and accurately alerted the jury to the issues to be decided by it and the law applicable.
+The judgment of conviction is affirmed.
