@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1962-06-27"
+citations: ["75 N.J. Super. 400"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF, v. WALTER HATTERER, DEFENDANT-PETITIONER."]
+source_url: "https://static.case.law/nj-super/75/cases/0400-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 362680
+cites_cases: ["12 N. J. Super. 563", "28 N. J. Super. 515", "32 N. J. 501", "32 N. J. Super. 435", "44 N. J. Super. 468", "7 N. J. 137", "9 N. J. 471"]
+---
+
+# State v. Hatterer
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant seeks leave to appeal in forma pauperis from an order of the Cumberland County Court denying his application for a writ of habeas corpus.
+Defendant was indicted for escape from the Leesburg Prison Farm, N. J. S. 2A:10A-6, pleaded not guilty, and later retracted his plea and entered a plea of non vult. He was sentenced to a State Prison term of 12-13 months, to be served consecutively to any sentence he was then serving. Defendant was represented by assigned counsel.
+On March 5, 1962 defendant sought a writ of habeas corpus, claiming that his confinement violated the due process clause of the Fourteenth Amendment of the United States Constitution, the Eighth Amendment because he was “subjected to cruel and inhuman punishment,” and the Fifth Amendment because he had been put in double jeopardy. Counsel was assigned and a hearing held, at which defendant testified. Thereafter the County Court entered the order of denial here under appeal.
+Defendant in his petition for leave to appeal in forma pauperis claims that he has been “punished by prison authorities for the same offense, escape” as he was sentenced for, and this constituted cruel and unusual punishment and subjected him to double jeopardy, in violation of his constitutional rights. He also claims that he was not brought before a magistrate at the time of arrest.
+The sentence defendant was serving at the time he broke prison was imposed by the Camden County Court in August 1957. He and another man had been charged under one accusation with breaking and entering, N. J. S. 2A:94-1 (first count), and larceny N. J. S. 2A:119-2 (second count); and under another accusation with the crime of receiving, N. J. S. 2A:139-1. He pleaded non vult and was sentenced to a State Prison term of 5-7 years on the first accusation and 3-5 years on the second, the sentences to be served concurrently. Defendant was represented by counsel in those proceedings.
+Defendant’s present petition, like his application for the writ of habeas corpus in the Cumberland County Court, is phrased very broadly. It contains no facts that would give us a basis for fairly assessing his claim of deprivation of constitutional rights. Defendant does not indicate the nature and extent of the punishment he alleges the prison authorities have imposed. Whatever the factual situation, however, the doctrine of double jeopardy is not applicable to punishment imposed by prison officials. Double jeopardy has reference to criminal prosecutions only. State v. Labato, 7 N. J. 137, 144 (1951).
+Although the nature and extent of his punishment is left to surmise, defendant characterizes it as cruel and inhuman. If, perchance, he refers to a transfer from one institution to another, such transfer would not necessarily amount to cruel and unusual punishment. In re Zienowicz, 12 N. J. Super. 563, 572 (Cty. Ct. 1951). Nor (assuming another basis for such a claim) would confinement and segregation. McBride v. McCorkle, 44 N. J. Super. 468, 478 (App. Div. 1957). And if the prison authorities have recalculated the time petitioner must serve, he will have to surmount their statutory authority. Eor example, one escaping from his place of imprisonment “shall be required to servo out the whole of the term for which he was originally sentenced, without deducting any of the time he shall have been at large after escaping.” N. J. S. 2A:164-27. In addition, N. J. S. A. 30:4-140, governing good behavior time, gives a prisoner serving a minimum-maximum term certain time credits from both the minimum and maximum for “continuous orderty deportment.” However, it provides that “[i]n case of any flagrant misconduct the board of managers may declare a forfeiture of the time previously remitted, either in whole or in part, as to them shall seem just.” Finally, prisoners who do not work, whether because of illness, unavailable work, vacations, or otherwise, may not be granted worktime allowance under N. J. S. A. 30:4-92. Zink v. Lear, 28 N. J. Super. 515 (App. Div. 1953).
+As for defendant’s claim that he was not arraigned before a magistrate, State v. Smith, 32 N. J. 501, 536 (1960), holds that the right to a preliminary hearing or examination granted an adult charged with crime, as by R. R. 3 :2-3, “is not so vital that the failure to afford it will invalidate an indictment or a conviction. The right was not known at the common law and is not a constitutional requirement.” Furthermore, defendant retracted his not guilty plea to the escape indictment and entered a plea of non vult, so that in any event he may not now press any claim of failure to arraign.
+Finally, defendant would not be entitled to habeas corpus even were he to prevail in his attack upon his conviction and sentence for escape, since he would not be entitled to immediate release. The Camden County sentences imposed in 1957 must still be served. In re Kershner, 9 N. J. 471, 474, 476 (1952). A prisoner may invoke habeas corpus only to attack the judgment under which he is presently confined. State v. Oats, 32 N. J. Super. 435, 439 (App. Div. 1954).
+The application is denied.
