@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1969-06-04"
+citations: ["106 N.J. Super. 157"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. ANTHONY CASALE, DEFENDANT, AND DANIEL DEMICHAEL, APPELLANT."]
+source_url: "https://static.case.law/nj-super/106/cases/0157-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 524300
+---
+
+# State v. Casale
+
+## Majority (Kilkenny, J. A. D.)
+
+The opinion of the court was delivered by
+Kilkenny, J. A. D.
+Daniel DeMichael prosecutes this appeal from an order of the Law Division, entered on December 19, 1968, denying his motion to suppress certain evidence seized by the police and the prosecutor’s investigators on April 22, 1966, in execution of a search warrant, at premises owned by DeMichael, known as 865 Clifton Avenue, in Newark.
+Denial of the motion to suppress was based solely on the ground that DeMichael was “not an aggrieved person” within the meaning of B. B. 3:2A-Q(a). DeMichael’s motion sought only an order to suppress the seized evidence, on the ground that there was an unlawful search and seizure under the warrant and he had “reasonable grounds to believe that the evidence obtained may be used against him in a penal proceeding.” The trial court treated the motion as including also an application by DeMichael for the return of the seized articles and, for that reason, included in its order a denial of the motion to “return” the seized evidence.
+The trial court, in its opinion, properly observed that DeMichael had not asserted that the items seized by the officers were in his possession or claimed by him. It also noted that the articles, which were found in a vent pipe on the roof of DeMichaePs house, were contraband — items used in the crimes of lottery, bookmaking, or both —• and, therefore, not returnable, even if the motion to suppress had been granted. On this appeal, DeMichael asserts no property right in the seized articles and, as in the trial court, makes no claim for a “return” of the seized evidence.
+The basic question for resolution by us is whether, under the particular facts herein, DeMichael had legal standing to move under R. R. 3 :2A-6 (a) for a suppression of the seized evidence. The rule permits a motion to suppress by one “having reasonable grounds to believe that the evidence obtained may be used against him in a penal proceeding.” On the basis of the evidence before us DeMichael was never arrested, indicted or made a defendant in any penal proceeding. He has not been threatened with being made a party to any penal proceeding, although more than three years have elapsed since the seizure. One Anthony Casale has been in-dieted and is awaiting trial in connection with the evidence seized. In the trial court, on the hearing of the motion, the assistant prosecutor, on behalf of the State, stated that “no charge has been made against Mr. DeMichael * * * none is intended. * * * That is the State’s position, your Honor.” We have been similarly assured by the State.
+We are mindful that the statutory limitation of criminal prosecutions in the case of offenses not punishable with death is five years. N. J. S. 3A :159~2. Gambling, bookmaking, games of chance or lotteries are also expressly made subject to the five-year limitation. N. J. S. 2A :159-4. Therefore, it is still possible for defendant to be indicted. However, it cannot reasonably be said herein, either as of now or as of the time of the trial court’s disposition of the motion, that DeMichael is “threatened” with any penal proceeding, or has “reasonable grounds to believe that the evidence obtained may be used against him in a penal proceeding.” Absent such a showing and absent the existence of any pending penal proceeding against DeMichael, the facts herein do not meet the requirements for legal standing under R. R. 3 :%A-6(a).
+We leave open the question as to what would be sufficient to give legal standing. We decide only that DeMichael did not have it here.
+We recognize that when DeMichael did make his motion, returnable originally on July 29, 1966, he personally may have then entertained “reasonable grounds to believe” that the evidence seized might be used against him in a penal proceeding. The warrant was directed to a portion of premises owned by him, was executed against his premises and, presumably, incriminating evidence of a lottery operation was found in a vent pipe on the roof of his property. But the long delay in the court's disposition of the motion — the matter not being heard until November 1, 1968 and the order not made until December 19, 1968 — has eliminated any real “threat” of penal prosecution and has annihilated any “reasonable grounds to believe” that the evidence will be used against him in a penal proceeding. To this, we add the State's assurances.
+We appreciate that such a long delay in disposing of a motion might prejudice a potential defendant. Here, we are told that DeMichael still had, when the court denied the application, a number of witnesses available to testify in support of his motion, with a fresh recollection of what they knew and saw. He fears that such witnesses may not later be available if he is eventually indicted near the end of the limitations period. But we need not now decide what may turn out to be a moot question.
+We conclude that, as of the time of the hearing of the motion and the order under review, DeMichael did not, under the facts of this case, have the necessary legal standing under R. R. 3:2J-6(a) to have a hearing on the merits of his motion. The trial court’s disposition was proper.
+The order under review is accordingly affirmed. No costs.
