@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1991-10-10"
+citations: ["251 N.J. Super. 144", "597 A.2d 559"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELSA DENNERY, APPELLANT, v. PASSAIC VALLEY REGIONAL HIGH SCHOOL BOARD OF EDUCATION, DISTRICT NO. 1, RESPONDENT."]
+source_url: "https://static.case.law/nj-super/251/cases/0144-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 361700
+cites_cases: ["109 N.J. 514", "110 N.J. 512", "218 N.J.Super. 510", "221 N.J.Super. 239", "447 A.2d 140", "528 A.2d 73", "534 A.2d 93", "537 A.2d 1300", "541 A.2d 1371", "90 N.J. 63"]
+---
+
+# Dennery v. Passaic Valley Regional High School Board of Education
+
+## Majority (ANTELL, P.J.A.D.)
+
+The opinion of the court was delivered by
+ANTELL, P.J.A.D.
+In reorganizing its guidance services in 1986, respondent eliminated the position of guidance counsellor and established in its place the position of class supervisor. At that time, petitioner had 24 years service as a guidance counsellor in the school system. In 1988 she obtained a supervisor’s certificate to qualify for the new class supervisor position. In addition to the supervisor’s certificate, she had been certified as a teacher of Business and English, for student personnel services, and as a learning disability consultant. She also obtained a certificate as director of student personnel in 1989. Her credentials notwithstanding, petitioner’s application for the position of Supervisor, Class of 1992, was rejected. Instead, respondent appointed an applicant from out of the district who had never held such a position previously and who had no tenure in any position in respondent’s school district.
+Petitioner appeals the determination by the State Board of Education that her position was terminated in good faith and that her tenure rights were not violated by respondent’s failure to appoint her to the position of class supervisor. She contends that her case is governed by our decisions in Capodilupo v. W. Orange Tp. Ed. Bd., 218 N.J.Super. 510, 528 A.2d 73 (App.Div.1987), certif. denied, 109 N.J. 514, 537 A.2d 1300 (1987), Bednar v. Westwood Bd. of Educ., 221 N.J.Super. 239, 534 A.2d 93 (App.Div.1987), certif. denied, 110 N.J. 512, 541 A.2d 1371 (1988), and Grosso v. Bd. of Educ. of New Providence, decided by the State Board of Education, March 9, 1990.
+In Capodilupo, petitioner was terminated as a secondary school physical education teacher pursuant to a reduction in force (RIF) of its teaching staff. He claimed entitlement to one of two elementary school physical education teaching positions which were then held by two non-tenured employees who had been retained notwithstanding the RIF. The State Board of Education sustained petitioner’s position and we affirmed.
+Mr. Capodilupo had been employed in the school system for five school years teaching secondary school physical education classes. His teaching certificate endorsements were for both elementary and secondary school physical education and he had acquired tenure, though he had never taught in the elementary schools.
+Thus, he was a tenured teacher seeking reinstatement to a position for which he was certified, but in which he had acquired no demonstrable experience. Both of the candidates whom he sought to replace had experience in the elementary school position and were certified, but had not acquired tenure. [Capodilupo, 218 N.J.Super. at 513, 528 A.2d 73.]
+In resolving that appeal we wrote as follows:
+A tenured teacher, however, is entitled to retention as against a non-tenured teacher under the tenure law. To hold otherwise would be to defeat the purpose of tenure which was to give a measure of security to teachers after the prescribed number of years of service. [Capodilupo, 218 N.J.Super. at 514-15, 528 A.2d 73.]
+In Bednar, petitioner was a tenured teacher holding an instructional certificate with a comprehensive subject field endorsement in art. After 17 years as a full-time elementary school art teacher, he was reduced in position to that of a part-time elementary school art teacher. His claim to an art teaching position in the high school was rejected by the State Board of Education in that case, and we reversed. In doing so we concluded that petitioner’s tenure as an art teacher with experience limited to elementary school teaching entitled him to the secondary school job held by a non-tenured art teacher with experience in the specific category of secondary school art. We reiterated the long-held view that the tenure law “should be liberally construed to further its beneficial purpose of affording security to teaching staff who meet its standard of length of service,” Bednar, 221 N.J.Super. at 241, 534 A.2d 93 (citing Spiewak v. Rutherford Bd. of Ed., 90 N.J. 63, 74, 447 A.2d 140 (1982)).
+In Grosso, the State Board concluded that “tenure protection attaches to all endorsements upon a teacher’s instructional certificate, not just those under which the individual has actually served for the requisite period....” Grosso, at 5. It asserted that the “scope of the position in which a teacher may be entitled to tenure protection is merely limited, by the scope of his or her endorsements.” Id.
+Respondent seeks to differentiate those precedents from this case for the reason that here petitioner has two separate certificates, not, as in those cases, a single certificate with multiple endorsements. In our view, the distinction is not meaningful. In the foregoing cases a tenured teacher, certified, but without experience, to teach in a specific category was given preference to a position held by a non-tenured experienced teacher. We perceive no substantive difference arising from the fact that in the case before us petitioner’s credentials are set forth in two separate certificates rather than a single certificate with multiple endorsements. Furthermore, it is clear to us that the position of class supervisor encompasses a substantial amount of the work performed by petitioner while she was in the position of guidance counsellor. Moreover, petitioner has been certified for that limited aspect of the new position which involves “tasks beyond the guidance counsellor’s historic functions.”
+Reversed.
