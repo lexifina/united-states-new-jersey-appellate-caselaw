@@ -1,0 +1,35 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1986-03-20"
+citations: ["209 N.J. Super. 93"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BELLEVILLE EDUCATION ASSOCIATION, PLAINTIFF-RESPONDENT, v. BELLEVILLE BOARD OF EDUCATION, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/209/cases/0093-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 384526
+cites_cases: ["146 N.J.Super. 457", "55 N.J. 409", "78 N.J. 144", "81 N.J. 582"]
+---
+
+# Belleville Education Ass'n v. Belleville Board of Education
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Defendant board of education appeals from judgment ordering that Frances Galloway as a beginning regular teacher be paid at the sixth step of the salary guide for the 1983-84 school year, with credit for her five years of contractual public school teaching experience in another school district. That decision accords both with the collective negotiations agreement between the parties and with the arbitrator’s award in Galloway’s favor in nonbinding arbitration, an award with which defendant did not comply. We affirm.
+Before us defendant raises two issues: primary jurisdiction in the Commissioner of Education; and waiver by Galloway as a consequence of her former employment with defendant as a basic skills instructor subject to the terms of the separate agreement between defendant and the basic skills instructors’ association, which barred credit for prior teaching experience elsewhere. Both issues are palpably without merit.
+We agree substantially with the reasons stated by Judge Landau in his oral opinion of May 13, 1985. Because our result in affirming judgment below conflicts with reported school law decisions by the Commissioner of Education, we set out our reasoning for rejecting defendant’s argument of primary jurisdiction in the Commissioner and not in the courts.
+The governing statute is N.J.S.A. 18A:29-9, which provides:
+Whenever a person shall hereafter accept office, position or employment as a member in any school district of this state, his initial place on the salary schedule shall be at such point as may be agreed upon by the member and the employing board of education.
+N.J.S.A. 18A:29-9 was enacted in 1954 prior to the enactment in 1968 of N.J.S.A. 34:13A-5.3 et seq., which implements the right of public employees under the State Constitution of 1947, Article I, paragraph 19, to negotiate collectively. In Reilly v. Bd. of Ed. of Kearny, 1985 S.L.D. (slip opinion at 4-5) and in Shulman v. Bd. of Ed. of Morris School Dist., 1985 S.L.D. (slip opinion at 13), the Commissioner concluded that, because a dispute arising under N.J.S.A. 18A:29-9 implicates an individual, not a collective, agreement, it is a school law dispute. In Shulman, he stated:
+There is a statutory provision in N.J.S.A. 18A:29-9 which specifically deals with initial placement on a salary schedule; hence, issues arising out of that statute do in fact fall under the jurisdiction of the Commissioner.
+********
+Further, the Commissioner is constrained to emphasize that the language of the statute is clear and unambiguous that decision-making with respect to initial salary placement is solely based upon agreement reached between the prospective employee and the board of education, not as a result of a collective bargaining agreement.
+The Commissioner’s conclusion is untenable. In employment units, such as Galloway’s, with a collective negotiations representative, such as plaintiff, agreements as to terms and conditions of employment should be and are collective, not individual. Strong legislative policy favors collective negotiations, Lullo v. Intern. Assoc. of Fire Fighters, 55 N.J. 409, 425-426 (1970). The collective negotiations agreement governing Galloway’s employment provides specifically for credit for prior public school teaching experience.
+As recognized in N.J.S.A. 18A:29-9, placement on the salary guide is not a managerial prerogative but, rather, is subject to agreement. It is a term and condition of employment and, as such, within the scope of negotiability. The scope of negotiability coincides with the scope of grievability or arbitrability, Bd. of Ed. of Woodstown-Pilesgrove v. Woodstown-Pilesgrove Regional Ed. Assn., 81 N.J. 582, 588 (1980). Upon refusal of a board of education, as here, to comply with nonbinding arbitration, the forum for enforcement is in the courts, not before the Commissioner of Education, see Ridgefield Park Ed. Assn. v. Ridgefield Park Bd. of Ed., 78 N.J. 144, 154 (1978). That arbitration is nonbinding does not convert a dispute within the scope of arbitrability into a school law dispute subject to the Commissioner’s primary jurisdiction.
+Moreover, the only dispute in this proceeding is legal: interpretation of two collective negotiations agreements, those between defendant and plaintiff and between defendant and the basic skills instructors association. As we said in S. Orange-Maplewood Ed. Assn. v. Bd. Ed. S. Orange, 146 N.J.Super. 457, 460 (App.Div.1977):
+The issue on this appeal is whether the lower court, rather than the Commissioner, had jurisdiction to interpret and enforce these contractual provisions. We conclude that the court had jurisdiction,____
+We note defendant’s alternative challenge to the court’s jurisdiction that plaintiff waived its right to proceed in court by filing a petition with the Commissioner. But plaintiff’s petition dealt with a separate and unrelated issue in a subsequent school year: Galloway’s claim of violation of tenure rights by virtue of her transfer back to a basic skills instructor’s position for the 1984-85 school year. That alternative argument is specious.
+Defendant’s second argument of waiver by Galloway is likewise specious. Under the basic skills instructor’s agreement, in taking employment as a basic skills instructor she waived any entitlement to credit for prior teaching experience in another school district. For 1983-84, the school year in issue, her employment as a basic skills instructor was discontinued upon her transfer to the regular teaching staff; her terms and conditions of employment became subject to the collective negotiations agreement between defendant and plaintiff. Nothing in the agreement between defendant and the basic skills instructors’ association specifically or by implication bound a basic skills instructor to a continuing waiver of prior credits upon transfer to the regular teaching staff. The words “any movement to a full year teaching position [regular teaching staff] shall be a lateral move on the guide” were deleted from a draft of that agreement prior to its formal execution. Upon transfer to the regular teaching staff, a former basic skills instructor is a new appointee within the meaning of the article in the collective negotiations agreement between the parties to this appeal, which provides for credit to new appointees for prior public school teaching experience in another district.
+We affirm.
