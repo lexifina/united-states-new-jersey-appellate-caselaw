@@ -1,0 +1,36 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1956-11-20"
+citations: ["42 N.J. Super. 488"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SPORTSMAN 300, TRADING AS SPORTSMAN 300, APPELLANT, v. BOARD OF COMMISSIONERS OF THE TOWN OF NUTLEY AND THE DIVISION OF ALCOHOLIC BEVERAGE CONTROL, RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/42/cases/0488-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 384128
+cites_cases: ["12 N. J. Super. 449", "135 N. J. L. 502", "137 N. J. L. 252", "15 N. J. 498", "20 N. J. 373", "21 N. J. 574", "30 N. J. Super. 472"]
+---
+
+# Sportsman 300 v. Board of Commissioners
+
+## Majority (Per Curiam.)
+
+The opinion of the court was delivered
+Per Curiam.
+The appellant conducts a tavern at No. 173 Pranklin Avenue in the Town of Nutley, Essex County, where it vends alcoholic beverages in pursuance of a plenary retail consumption license.
+Officiating in their capacity as the municipal excise board, the commissioners after a complaint and hearing resolved on March 6, 1956 that the license of the present appellant be suspended for a period of ten days, effective March 18, 1956 at 1:00 p. m. Prom that action an appeal was prosecuted by the licensee to the Director of Alcoholic Beverage Control, Department of Law and Public Safety.
+The conventional .proceedings de novo were pursued in conformity with Rules 6 and 14 of State Regulations No. 15, and the Director upon consideration of all the facts and circumstances disclosed by the evidence concluded that the determination of the municipal commissioners was not arbitrary and capricious, that it be affirmed, and that the ten-day suspension theretofore imposed be restored and reimposed to commence at 2:00 A. M. June 11, 1956 and terminate at 2:00 A. M. June 21, 1956.
+The disciplinary proceedings against the appellant were originated by a charge dated February 10, 1956 made by the town board of commissioners that on January 18, 1956 and on January 19, 1956 the licensee had sold alcoholic beverages to one John Benfield, a person under the age of 21 years, and permitted the consumption thereof by the minor in the licensed premises in violation of Rule 1 of State Regulations No. 20, which reads as follows:
+“Rule 1. No licensee shall sell, serve or deliver or allow, permit or suffer the sale, service or delivery of any alcoholic beverage, directly or indirectly, to any person under the age of twenty-one (21) years or to any person actually or apparently intoxicated, or allow, permit or suffer the consumption of any alcoholic beverage by any such person in or upon the licensed premises.”
+The evidence generates no doubt whatever that on the stated occasion Benfield was only 20 years of age and that he was served beer and wine, indeed of such a quantity as to prostrate him upon his departure from the tavern. The evidence revealed that the bartender and Benfield were personal acquaintances and warranted the reasonable inference that the bartender had previously learned from Benfield’s father that his son was a minor. Thus there was an adequacy of proof that Rule 1 itself was violated.
+There is, however, a statute (N. J. S. A. 33 :l-77) declaring that any one who sells any alcoholic beverage to a minor shall be guilty of a misdemeanor. The cited statute, however, contains the following proviso:
+“* * * that the establishment of all of the following facts by a person making any such sale shall constitute a defense to any prosecution therefor; (a) that the minor falsely represented in writing that he or she was twenty-one (21) years of ago or over, and (b) that the appearance of the minor was such that an ordinary prudent person would believe him or her to be twenty-one (21) years of age or over, and (c) that the sale was made in good faith relying upon such written representation and appearance and in the reasonable belief that the minor was actually twenty-one (21) years of age or over.”
+It has been the inveterate practice of the Director of the Division of Alcoholic Beverage Control to recognize the legislative intent expressed in the enactment and, by analogy, to permit the statutory proviso similarly to constitute a defense to a like charge in the disciplinary proceedings conducted in the Division. Caruso v. Jersey City, Bulletin 694, Item 1; Re Butera, Bulletin 606, Item 4; Roey v. Hock, Bulletin 758, Item 2.
+The agency has not, however, considered that “a false representation in writing by the minor” was intended to embrace such writings as a driver’s license, a draft card, or a social security card. We quote from the decision in Re Wedemeyer, Bulletin 1050, Item 8:
+“Experience in cases similar to this indicates that for some reason licensees or their agents are reluctant to ‘embarrass’ a minor by requiring him to reduce to writing his name, age and address. If licensees are willing to use their own methods of determining the age of a minor, rather than follow the statute, they do so at their peril and must accept the consequences of their own neglect. It would appear no more difficult for the licensee to follow the statutory requirement of having the patron sign a representation of his age than asking him to produce a draft card, driver’s license or similar document for the licensee’s purported examination. Where the licensee follows the statutory method, there is always the desirable and substantial possibility that the patron, if a minor, will refuse to commit himself to writing and will leave the establishment.”
+Administrative interpretations are accorded significance and are not lightly overruled. Kravis v. Hock, 137 N. J. L. 252 (Sup. Ct. 1948); Eskridge v. Division of Alcoholic Beverage Control, 30 N. J. Super. 472, 478 (App. Div. 1954).
+Courts cannot ascribe to the literal import of the phraseology of the statute a broadly inflated circumference in an administrative disciplinary prosecution where the common judicial realization is that the prevention of sales of intoxicating liquor to minors not only justifies but necessitates the most rigid control. Hudson Bergen County Retail Liquor Stores Ass’n v. Board of Com’rs of City of Hoboken, 135 N. J. L. 502 (E. & A. 1947); In re Schneider, 12 N. J. Super. 449, 456 (App. Div. 1951); Mazza v. Cavicchia, 15 N. J. 498, 505 (1954); Butler Oak Tavern v. Division of Alcoholic Beverage Control, 20 N. J. 373, 384 (1956); Guill v. Mayor and Council of City of Hoboken, 21 N. J. 574, 584 (1956).
+We have no hesitancy in stating that in our opinion to constitute the statutory defense to such a prohibited sale, the accused must establish not some but all of the factual elements enumerated in the enactment relating thereto. This exculpatory requirement the appellant failed to meet by adequately supporting evidence.
+In the present occurrence as described by the credible evidence there was no proof from which it could be rationally deduced that in the sale of liquor to Benfield the bartender relied in good faith upon a false representation in writing by Benfield that he was 21 years of age or over.
+The decision of the Director is affirmed.
