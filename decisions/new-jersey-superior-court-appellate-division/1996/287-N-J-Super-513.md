@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1996-02-27"
+citations: ["287 N.J. Super. 513", "671 A.2d 603"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BJM INSULATION & CONSTRUCTION, INC., PLAINTIFF-RESPONDENT, v. CONSTANCE EVANS, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/287/cases/0513-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 751934
+cites_cases: ["138 N.J. 2", "187 N.J.Super. 465", "188 N.J.Super. 30", "455 A.2d 1134", "455 A.2d 508", "647 A.2d 454"]
+---
+
+# BJM Insulation & Construction, Inc. v. Constance Evans
+
+## Majority (KESTIN, J.A.D.)
+
+The opinion of the court was delivered by
+KESTIN, J.A.D.
+Defendant appeals from an order of the trial court denying her application for an award of counsel fees and costs pursuant to the Consumer Fraud Act, N.J.S.A 56:8-19. We reverse.
+Plaintiff sued defendant alleging that she had breached certain home repair contracts. Defendant denied the allegations of breach and asserted, in defense, that plaintiff had violated the Consumer Fraud Act, N.J.S.A 56:8-1 to -20, and the Door-to-Door Home Repair Sales Act, N.J.S.A 17:16C-95 to -103. After a period for discovery, defendant moved for summary judgment. The motion was granted and the complaint was dismissed with prejudice in an order noting that plaintiff had been found to be in violation of the statutes cited by defendant. The motion for counsel fees and costs was made subsequently.
+N.J.S.A. 56:8-19 provides:
+Any person who suffers any ascertainable loss of moneys or property, real or personal, as a result of the use or employment by another person of any method, act, or practice declared unlawful under this act or the act hereby amended and supplemented may bring an action or assert a counterclaim therefor in any court of competent jurisdiction. In any action under this section the court shall, in addition to any other appropriate legal or equitable relief, award threefold the damages sustained by any person in interest. In all actions under this section the court shall also award reasonable attorneys’ fees, filing fees and reasonable costs of suit.
+Defendant argues on appeal that an award of attorneys’ fees is mandated by the statute in favor of a party who has established a violation of the Consumer Fraud Act. Plaintiff argues, in response, that counsel fees are discretionary under the Act, that they should be awarded only where a party has sustained an ascertainable loss, and that, in any event, before a party may qualify for a counsel fee award under the Act, the particulars of a fee agreement between the claimant and her attorney must first be established.
+Since Cox v. Sears Roebuck & Co., 138 N.J. 2, 647 A.2d 454 (1994), cited by neither party, the question of whether a trial judge has the discretion to deny counsel fees to a successful claimant of Consumer Fraud Act protection is no longer an open one.
+[A]n awai-d of treble damages and attorneys’ fees is mandatory under N.J.S.A. 56:8-19 if a consumer-fraud plaintiff proves both an unlawful practice under the Act and an ascertainable loss. The use of the word “shall” in the statute suggests as much. [Skeer u. EMK Motors, 187 N.J.Super. 465, 469, 455 A.2d 508 (App.Div. 1982); Ramanadham v. New Jersey Mfrs. Ins. Co., 188 N.J.Super. 30, 32-33, 455 A.2d 1134 (App.Div.1982).] Moreover, the legislative history indicates that the provision for attorneys' fees was intended to impose on the defendant in a private action “a greater financial penalty [than in an action brought by the Attorney General] and * * * [to ensure] that the financial cost to the private plaintiff was minimized and compensation maximized.” Skeer, supra, 187 N.J.Super. at 471, 455 A.2d 508.
+[Cox v. Sears Roebuck & Co., supra, 138 N.J. at 24, 647 A.2d 454.]
+For the purposes of eligibility for payment of reasonable attorneys’ fees and costs, the Consumer Fraud Act makes no distinction between a person who raises the Act’s provisions in an affirmative claim and one who pleads it as a defense.
+Also on the authority of Cox v. Sears Roebuck & Co., supra, 138 N.J. at 24-25, 647 A.2d 454, we reject plaintiffs argument that a litigant is not entitled to counsel fees and costs under the Act unless that person has suffered an “ascertainable loss” apart from her attorneys’ fees and costs. This reading not only departs from the plain sense of the Act in the light of its policy to ensure that the financial burden to one who claims that Act’s protection is minimized, ibid., but it is also at variance with the expressed terms of the provision authorizing an award of reasonable attorneys’ fees and costs, as well as filing fees, N.J.S. A 56:8-19. Clearly, the reasonable counsel fee associated with raising a meritorious claim under the Act is an obligation owed by the claimant. As such, it is as ascertainable a loss as any other out-of-pocket expense resulting from a violation of the Act’s terms, specially treated only in the respect that it is not subject to the trebling for which other losses qualify.
+Plaintiffs argument that it ought not to be chargeable with an attorney’s fee that may not be payable, is accompanied by the suggestion that defendant’s attorney may be representing her at a reduced rate or pro bono publico. Whether or not defendant’s attorney might choose to waive a portion of the fair recompense for his services, or even all of it, is none of plaintiffs business. Defendant has incurred the obligation; and the statute simply requires that the obligation be discharged by plaintiff. The statutory measure of “reasonable attorneys’ fees, filing fees and reasonable costs of suit” assures that the party charged will not be required to pay more than is fairly due for effort reasonably expended. It is a determination a trial judge is eminently qualified to make, whether or not assisted by the terms of a retainer agreement between the successful claimant and her attorney.
+Plaintiff argues further that any obligation it may have to pay defendant’s counsel fees and costs should be forgiven because its violation of the Consumer Fraud Act was only “technical”. There is only one answer to this argument. For this purpose or any other, the Consumer Fraud Act makes no distinction between “technical” violations and more “substantive” ones.
+The order denying defendant’s application for an award of counsel fees and costs is reversed. The matter is remanded to the trial court for a determination and award of reasonable attorney’s fees and costs.
