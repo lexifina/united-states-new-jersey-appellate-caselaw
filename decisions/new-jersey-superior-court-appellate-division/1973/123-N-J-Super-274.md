@@ -1,0 +1,40 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1973-03-28"
+citations: ["123 N.J. Super. 274"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STEVEN SENTE, PLAINTIFF-APPELLANT, v. MAYOR AND MUNICIPAL COUNCIL OF THE CITY OF CLIFTON ET AL., DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/123/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 297225
+cites_cases: ["17 N. J. 67", "58 N. J. 576"]
+---
+
+# Sente v. Mayor of Clifton
+
+## Majority (Pee Curiam.)
+
+Pee Curiam.
+This appeal involves a challenge to the validity of an ordinance of the City of Clifton establishing minimum floor space requirements for housing units.
+The ordinance, as amended in February 1970, provides in pertinent part:
+Space use and location requirements.
+No person sliall occupy or let to another for occupancy any dwelling or dwelling unit for the purpose of living therein, which does not comply with the following requirements:
+(a) Every dwelling unit shall contain at least 150 square feet of floor space for each occupant thereof up to a maximum of two occupants and at least 100 additional square feet of floor space for every additional occupant thereof, the floor space to be calculated on the basis of total habitable area.
+Prior to the 1970 amendment the ordinance required 150 square feet for the first occupant and 100 square feet for each additional occupant.
+Plaintiff Sente’s action was prompted by Clifton’s attempt to enforce the ordinance, the effect of which would have been to require him and his family to move from their 4y2-room garden apartment. That apartment had 540 square feet of living space. The amended ordinance requires 800 square feet of living space, since it was occupied by plaintiff, his wife, and five children.
+In October 1970 the city housing director informed plaintiff that there would he a six-month grace period on enforcement of the ordinance to allow him and others similarly situated to relocate.
+The matter came before the trial court on motion and cross-motion for summary judgment. Plaintiff’s counsel represented to the court that plaintiff, who was superintendent of the garden apartment complex in which his apartment was located, received his quarters rent-free in addition to his monthly wages, and that if he was obliged to move he would undoubtedly lose his job as superintendent. He also represented that plaintiff’s wife suffered from an unspecified emotional problem, which, upon a doctor’s recommendation, required that he he with her as much as possible. He acknowledged that plaintiff’s five children shared the two bedrooms of the apartment and that the parents slept on a sofa-bed in the living room. He also conceded on oral argument that “Mrs. Sente realizes right now that her apartment is not adequate for her and her five children.”
+The court had before it an affidavit of defendants’ expert affirming the existence of a correlation between a minimum dwelling space requirement and health, and also affirming the reasonableness of the particular minimum space requirements of the Clifton ordinance. The affiant asserted that the standards of this ordinance were substantially in accord with those recommended by the New Jersey State Housing Code, a proposed model housing code advocated jointly by the Department of Conservation and Economic Development and the Department of Health of the State of New Jersey. Defendants also note that a suggested form of ordinance by the United States Public Health Service has similar requirements. Plaintiff offered no expert evidence to counter these affirmations, although the trial court granted plaintiff 60 days in which to present competent authority to refute them. Upon plaintiff’s failure to do so, the trial court granted Clifton’s motion for summary judgment.
+Several events have transpired since the plaintiff filed his notice of appeal from the summary judgment, entered March 29, 1972, which may have a bearing on this appeal. Plaintiff’s wife gave birth to another child, with the result that plaintiff’s family consists of eight persons. Of greater significance is the fact that plaintiff was discharged as superintendent of the garden apartment complex and that, as a result of eviction proceedings brought against him by the apartment owner in October 1972, he and his family relocated in Lodi, New Jersey. Plaintiff has filed a supplemental affidavit in which plaintiff’s wife asserted her belief that the discharge and eviction proceedings were the result of pressure from the city in its attempt to enforce the living space requirements of the ordinance.
+We observe at the outset that the issue here presented may now be moot because plaintiff is no longer a resident of the municipality. However, where the public interest warrants a resolution of an issue despite its mootness, the court may decide the matter on the merits. John F. Kennedy Memorial Hosp. v. Heston, 58 N. J. 576, 579 (1971).
+We believe this to be such a case.
+We are satisfied that the municipality possessed the authority to adopt the challenged ordinance under the police power conferred upon all municipalities. Plaintiff argues that municipalities may make and enforce housing space regulations pursuant to N. J. 8. A. 40 :48-2.3. That statute authorizes municipal authorities to order the repair, closing or demolition of any building found to be unfit for human habitation. We need not determine its applicability here, however, since N. J. 8. A. 40 :48-2 provides a sufficient basis fox this municipal action:
+Any municipality may make, amend, repeal and enforce such other ordinances, regulations, rules and by-laws not contrary to the laws of this state or of the United States, as it may deem necessary and proper for the good government, order and protection of persons and properly, and for the preservation of the public health, safety and welfare of the municipality and its inhabitants, and as may be necessary to carry into effect the powers and duties conferred and imposed by this subtitle, or by any law.
+In our view, housing space limitations present fundamental policy decisions for determination by municipal governing units. Health regulations are of the utmost consequence to the general welfare, and if they are reasonable, impartial and not against the general policy of the State, they must be submitted to by individuals for the good of the public, irrespective of pecuniary loss. See 39 Am. Jur. 2d, Health, § 20 at 356 (1968). The record, as well as common sense, affirms the existence of a correlation between minimum dwelling space requirements and health.
+The ordinance is not in conflict with state law. Quite the opposite. The existence of the State Housing Code indicates a desire on the state level to have municipalities adopt uniform regulations. Nor are we convinced that the particular space requirements adopted by the mnnicipality in this case are arbitrary or unreasonable.
+Quite apart from the fact that every ordinance is cloaked with a presumption of validity, plaintiff offered no evidence to challenge its reasonableness — despite the court’s action in allowing plaintiff an additional period of time within which to supply evidence to rebut that of defendants’ expert before entry of the judgment. Summary judgment was thus proper since no genuine issue of fact existed. R. 4:46-2; Judson v. Peoples Bank and Trust Co. of Westfield, 17 N. J. 67, 75 (1954).
+We see no substance in plaintiff’s additional constitutional arguments. The argument that the ordinance in question fosters compulsory or indirect birth control, abortion or sterilization programs is very tenuous. It is not demonstrated that its effect is to unlawfully discriminate against any social, economic or ethnic group. It is plainly a health measure.
+There is no constitutional right to live in a habitation which has less area than the minimum standard required for the maintenance and preservation of the occupants’ health.
+Affirmed.
