@@ -1,0 +1,25 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1967-03-22"
+citations: ["94 N.J. Super. 288"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDNA Mac LEAN, JOHN Mac LEAN, MARION CHAPMAN AND STANLEY CHAPMAN, PLAINTIFFS-RESPONDENTS, v. PLANNING BOARD OF THE TOWNSHIP OF BRICK, DEPENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/94/cases/0288-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 518194
+cites_cases: ["75 N. J. Super. 305", "91 N. J. Super. 540"]
+---
+
+# Mac Lean v. Planning Board of Brick
+
+## Majority (Per Curlui.)
+
+Per Curlui.
+Plaintiffs inherited an oceanside tract of land in Brick Township with dimensions of approximately 670' x 88k The short dimension fronts on Route 35 and the tract extends easterly to the Atlantic Ocean. About 16 years ago, before adoption of the existing requirements of the municipal zoning ordinance for minimum lot size, setbacks and side and rear yards, four bungalows were erected for summer occupancy on the tract and have been seasonally occupied by tenants. Access to the easterly three bungalows is afforded by a private 20' driveway, 10' belonging to plaintiffs and 10' to property owners to the south. The municipality recently paved the driveway after installing utilities.
+Having prospective purchasers for the separate bungalows, plaintiffs submitted a subdivision application to the defendant planning board. The map submitted by plaintiffs sets out the bungalows on lots apparently suited to the location of the structures thereon, with approximate 62' frontages for three of the lots and one narrower. The application was denied without a statement of reasons, upon the basis of an opinion by counsel to the board.
+In this action to compel the board to approve the application the trial court filed an opinion captioned “Decision and Judgment” which, without directing any action, declared “the plaintiffs may as a matter of law convey these dwellings as separate lots without being in violation of the ordinances of the Township of Brick.” In so doing the court relied upon our decision in Beers v. Bd. of Adjust, of Wayne Tp., 75 N. J. Super. 305 (App. Div. 1962). In a comparable situation there the planning board had denied the application for subdivision for the sole reason that it would violate the zoning ordinance as to minimum lot sizes, etc. A consequent application to the board of adjustment for variance was likewise denied. Upon judicial review of the latter action, and in the context of what had transpired, we held the property owner entitled as a matter of law to convey the bungalows separately by deed descriptions of suitable curtilages by virtue of the prior nonconforming use of the structures as dwellings and the incidental right of alienability thereof.
+To the extent of the foregoing holding plaintiffs have a similar substantive right as prior nonconforming users to convey the present bungalows to separate buyers insofar as anything to the contrary may be sought to be based on the ordinance specifications as to minimum lot size, frontage, setbacks, etc. However, the situation here differs from that in Beers in one important respect. In Beers, all the subdivided lots fronted on public streets. Here they do not. To the extent that the board has statutory jurisdiction and responsibility to assure proper access to each of the rear bungalows, N. J. S. A. 40:55-1.20, within the reasonable capacity of plaintiffs to do so under the existent circumstances, the board ought to be afforded an opportunity to propose reasonable steps in that regard to plaintiffs (0. g., by an effort to achieve a public dedication of the roadway jointly with the other property owners to the south), as a condition for approval of the subdivision. If, as suggested by the board on this appeal, it requires information from plaintiffs as to drainage, it may request it. However, in exercising its jurisdiction the board may not impose requirements not reasonably feasible or which would in effect destroy plaintiffs’ nonconforming rights as declared in Beers.
+Concerning the easternmost lot, which defendant contends can be rendered more in conformance with zoning size requirements by use of plaintiffs’ remaining land, this is subject matter appropriately for cognizance by the board of adjustment. After the planning board acts on the subdivision application, its permissive determination should properly be made conditional on plaintiffs’ securing from the board of adjustment a variance in respect of lot sizes, setbacks, yards, etc. Cf. Imperato v. Zoning Bd. of Adjust, of Tenafly, 91 N. J. Super. 540 (App. Div. 1966). But that body will in that regard similarly be guided by plaintiffs’ substantive rights as nonconforming users, agreeably with the decision in Beers.
+Reversed and remanded to the planning board for further proceedings consistent with this opinion. No costs.
