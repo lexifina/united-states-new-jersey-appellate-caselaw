@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1980-03-24"
+citations: ["173 N.J. Super. 55"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GOLOMORE ASSOCIATES, AND E. J. CROSBY COMPANY, INC., PLAINTIFFS-APPELLANTS, v. NEW JERSEY STATE HIGHWAY AUTHORITY AND EDWARDS & KELCEY, INC., DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/173/cases/0055-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 289222
+cites_cases: ["109 N.J.L. 229", "233 U.S. 165", "253 U.S. 1", "423 P.2d 545", "423 P.2d 551", "465 P.2d 148", "51 Haw. 529", "56 Cal.Rptr. 473", "56 Cal.Rptr. 479", "65 Cal.2d 777", "65 Cal.2d 787", "76 A.L.R. 268", "9 Ariz.App. 564"]
+---
+
+# Golomore Associates v. New Jersey State Highway Authority
+
+## Majority (FRANCIS, J. A. D.)
+
+The opinion of the court was delivered by
+FRANCIS, J. A. D.
+Plaintiff Golomore Associates contracted to perform certain excavation work for the New Jersey Highway Authority.
+In turn, Golomore subcontracted with E. J. Crosby Co., Inc. (Crosby) to perform part of the work. After starting work Crosby and Golomore discovered that the elevations shown on the contract drawings were incorrect, in that they were depicted as higher than they actually were. The result was that less fill material would be available on the job site than was originally anticipated, while in other areas more fill than was originally estimated was required to bring the various grades up to the levels specified in the contract.
+Crosby and Golomore brought suit against the Authority on the ground that the elevations were warranties on which plaintiffs had relied in preparing their bids. Plaintiffs also named Edwards & Kelcey, Inc. (Edwards) as a defendant on the theory that Edwards had been negligent in incorporating inaccurate survey data into the project specifications, which data had been supplied to the Authority by another firm. In addition, plaintiffs sought damages from both defendants for costs incurred in removing wet material which was not indicated in the specifications or plans. Summary judgments were entered on the separate motions of each defendant, from which plaintiffs now appeal.
+It is a settled rule that contractors may recover damages for additional costs despite general disclaimers by a governmental body if unintentionally false statements in the contract drawings upon which a contract bid is based appear as positive averments of fact and not simply as suggestions or estimates. United States v. Atlantic Dredging Co., 253 U.S. 1, 11, 40 S.Ct. 423, 437, 64 L.Ed. 735, 738 (1920); Howland v. Asbury Park, 109 N.J.L. 229 (E. & A.1932); Annotation, “Right of public contractor to allowance of extra expense ... if conditions had been as represented by the plans and specifications.” 76 A.L.R. 268, 269-270 (1932). Where a public contract provides the results of tests of soil or other conditions, and does not purport to describe actual conditions, or fairly disclaims any responsibility for such descriptions, a contractor is not justified in relying on such information without independent investigation. Wunderlich v. State, 65 Cal.2d 777, 56 Cal.Rptr. 473, 423 P.2d 545 (Sup.Ct.1967). But if the contract contains a positive statement of the conditions to be encountered, which is actually in error, then a contractor who relies thereon may recover for breach of implied warranty. E. H. Morrill Company v. State, 65 Cal.2d 787, 56 Cal.Rptr. 479, 423 P.2d 551 (Sup.Ct.1967).
+In our view, the elevations stated on the contract drawings were positive averments which purported to actually describe the land. These were not simply test results, which may have alerted the contractor of need for further inquiry, nor were they estimates which the contractor was required to prepare for itself. In fact, plaintiffs did prepare their own estimates of the quantity of material to be excavated. In doing so, however, they necessarily relied on the accuracy of the survey data supplied by the Authority and its engineers. Hollerbach v. United States, 233 U.S. 165, 171-173, 34 S.Ct. 553, 58 L.Ed. 898, 901 (1914); Ashton Company Inc., Contr. & Eng. v. State, 9 Ariz.App. 564, 454 P.2d 1004 (Ct.App.1969).
+Accordingly, we reverse those portions of the summary judgments which dismissed plaintiffs’ claims against all defendants with respect to the alleged errors in elevations.
+Summary judgment was also granted by a different judge below in favor of Edwards & Kelcey, Inc. against both plaintiffs on the judge’s erroneous determination that plaintiffs had the same obligation to make their own evaluations as they related to the furnished elevations. Having ruled to the contrary, we likewise vacate the summary judgment in favor of Edwards & Kelcey, Inc.
+We conclude, however, that plaintiffs have failed to state a claim with respect to the additional costs of removing unanticipated wet material. The specifications at issue made no mention of whether such conditions would be encountered. Even if the absence of such statements might have been significant because it is customary in the industry to note such factors, plaintiffs cannot overcome the specific disclaimer in the specifications for any information concerning subsurface conditions. That defendants might have provided for separate and increased payments for such work if they had anticipated the condition is of no moment where there has been a specific disclaimer, and no information to the contrary has been withheld. J. A. Thompson & Son, Inc. v. State, 51 Haw. 529, 465 P.2d 148, 151 (Sup.Ct. 1970).
+Since this matter must be remanded for trial, we note that the trial judge correctly held that plaintiff Crosby is barred from pursuing any claim against the Authority by the terms of its contract. We express no opinion, however, with regard to the standing of either plaintiff to pursue claims against defendant Edwards. That matter is for the trial court’s determination in the first instance.
+Remanded for proceedings consistent with this opinion.
