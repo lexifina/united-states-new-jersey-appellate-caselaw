@@ -1,0 +1,37 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1977-10-06"
+citations: ["153 N.J. Super. 152"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NEW JERSEY STATE POLICEMEN’S BENEVOLENT ASSOCIATION LOCAL #42 A/K/A THE LINDEN POLICEMEN’S BENEVOLENT ASSOCIATION, PLAINTIFFS-APPELLANTS, v. NEW JERSEY STATE HEALTH BENEFITS COMMISSION, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/153/cases/0152-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 295751
+cites_cases: ["12 N. J. 379", "82 N. J. Super. 36"]
+---
+
+# New Jersey State Policemen's Benevolent Ass'n Local #42 v. New Jersey State Health Benefits Commission
+
+## Majority (Antell, J. A. D.)
+
+The opinion of the court was delivered by
+Antell, J. A. D.
+Plaintiff, as exclusive majority representative of policemen employed by the City of Linden, negotiated a collective bargaining agreement whereby Linden was to pay the premiums for medical-hospitalization insurance coverage for policemen retiring on or after January 1, 1975 provided they met certain conditions of eligibility. Such coverage was not made available to those policemen who, though otherwise eligible, retired before that date.
+The benefits in question are provided under the New Jersey State Health Benefits Program Act, N. J. S. A. 52:14-17.25 et seq. Acting thereunder, participating public employers such as Linden may purchase coverage for their employees through the State Health Benefits Commission on specified terms and conditions. This appeal is from a determination of the Commission precluding implementation of the plan negotiated by plaintiff and Linden. The reason for its determination is that coverage is made available only to some, and not all, eligible retired employees and their dependents. At issue in connection therewith is the validity of N. J. A. C. 17:9 — 5.5, promulgated by the Commission. This regulation provides:
+A local employer will satisfy the requirements of Chapter 88, P.L., 1974 by adopting a resolution designed to:
+(a) Apply to all eligible present and future pensioners of the employer and their dependents.
+* * * * * * * *
+The enabling act provides a mechanism for the Commission to negotiate, for the benefit of state and local government employees, health benefit contracts with private insurance companies. Participation in the State Health Benefits Program (hereinafter SHBP) is made available to local government units at their voluntary election. N. J. S. A. 52: 14-17.34 to 17.45. Authority to provide these benefits to retired employees is found in N. J. 8. A. 52 :14-17.32, 17.34 and 17.38. The employer participates in the program “subject to and in accordance with the rules and regulations of the Commission relating thereto.” N. J. S. A. 52:14-17.37. Critical to this controversy is the following provision of N. J. S. A. 52:14-17.28:
+The commission shall not enter into a contract under this act * * * unless coverage is available to’ all eligible employees * * *.
+The Legislature’s longstanding interest in assuring equality of treatment for all public employees is further shown by N. J. S. A. 40A:9-15. This statute requires local employers entering into health benefits contracts for its employees to file copies thereof with the Commission. It also directs that the Commission report not less than every two years to the Governor and the Legislature as to these contracts,
+* * * and shall make such recommendations concerning said contracts and the coverage thereunder as it deems appropriate to achieve uniformity of coverage and benefits for employees throughout the State.
+The Commission’s rule-making power is found in N. J. S. A. 52:14-17.27 which directs that the Commission establish rules and regulations “as may be deemed reasonable and necessary for the administration of this act.” Furthermore, N. J. S. A. 52:14-17.36 specifically authorizes that body “to prescribe rules and regulations satisfactory to the carrier or carriers under which employers may participate in the health benefits program provided by that act.”
+Obviously, the regulation under attack reflects the Commission’s response to a wide range of administrative and cost factors which play a part in negotiating contract terms with a carrier. Taking this into account, together with the clearly stated interest of the Legislature in assuring equality of treatment for all eligible employees, we conclude: (1) the regulation under which the Commission acted was “reasonable and necessary” for the administration of the act; (2) the Commission’s determination that the SHBP contract may not be implemented because it discriminates between “eligible employees” who retired after January 1, 1975 and those who retired before that date is supported both by statute and regulation.
+Plaintiff argues that the language of N. J. S. A. 52:14-17.38, authorizing coverage for “a” retired employee and his dependents manifests an intent that SHBP benefits may be provided for selectively chosen employees and need not be made available to all. We find nothing in the logic of this argument to overcome the clear legislative expressions to the contrary.
+Plaintiff also contends that the action below contravenes the provisions of N. J. S. A. 52:11 — 17.29(F). Under this statute the Commission is authorized to purchase contracts
+*' * *' to provide drug prescription and other health care benefits or authorize the purchase of a contract or contracts to provide drug prescription and other health care benefits as may be required to implement a duly executed collective negotiations agreement or as may be required to implement a determination by a public employer to provide such benefit or benefits to employees not included in collective negotiations units.
+This paragraph of the statute pertains only to optional lesser coverages. Drug prescription coverage is one. The phrase, “other health care benefits,” must be read in light of the rule of ejusdem generis by which general words following words of more specific meaning in a statute are “ ‘construed to embrace only objects similar in nature to those enumerated by the antecedent specific words/ ” Salomon v. Jersey City, 12 N. J. 379, 389 ,(1953). The term, “other health care benefits,” is not intended to include those basic coverages provided in N. J. S. A. 52:14-17.29(A) (1) and (2) and which are the subject of this controversy. Section 17.29(E), therefore, does not relieve the public employer from conforming with the requirements of N. J. A. C. 17:9-5.5 and N. J. S. A. 52:14-17.28 where the coverage provided by the contract is for basic and major medical and hospital benefits.
+Finally, plaintiff contends that the determination below and the regulation under review are in conflict with the public policy expressed by the New Jersey Employer-Employee Eelations Act, N. J. S. A. 34:13A-1 et seq. whereby terms and conditions of employment, including health insurance benefits, are made mandatorily negotiable. The argument overlooks the fact that municipal employers have no authority to provide these benefits to their retired employees except under the State Health Benefits Program Act. Cf. Riddlestorffer v. Rahway, 82 N. J. Super. 36, 56 (Law Div. 1963). The terms under which these may be negotiated are therefore limited to those specified by that act.
+Affirmed.
