@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1958-05-26"
+citations: ["50 N.J. Super. 283"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM LEWIS, PETITIONER-RESPONDENT AND CROSS-APPELLANT, v. WALTER SCOTT & CO., INC., RESPONDENT-APPELLANT AND CROSS-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/50/cases/0283-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 441579
+cites_cases: ["1 N. J. Super. 39", "115 N. J. L. 43", "116 N. J. L. 92", "119 N. J. L. 484", "125 N. J. L. 533", "137 N. J. L. 244", "26 N. J. Super. 404", "27 N. J. 75", "49 N. J. Super. 60", "86 N. J. L. 266"]
+---
+
+# Lewis v. Walter Scott & Co.
+
+## Majority (Conford, J. A. D.)
+
+The opinion of the court was delivered by
+Conford, J. A. D.
+In this workmen’s compensation case the employer appeals from the affirmance in the Union County Court of an award in favor of petitioner, contending that as a matter of law the accident did not arise out of and in the course of the employment. Petitioner cross-appeals, asserting the inadequacy of the award of counsel fees for services in the County Court.
+The matter was decided on the basis of stipulated facts. Petitioner was injured when he slipped and fell on an icy sidewalk while walking on his way to work from the employees’ parking lot to the employees’ entrance of the building in which he worked. He had come to the parking lot at 6:45 a. M. in a car in which he rode to work as a “car pool” member. The work day began at 7:00 A. M. The only means of access from lot to building was along the public sidewalk on which the accident happened.
+The issue here is narrow. Respondent concedes that had petitioner sustained his injury in the parking lot the accident would be compensable, facilities provided by the employer for such a mutually beneficial purpose being regarded as a part of the employment premises. Buerkle v. United Parcel Service, 26 N. J. Super. 404 (App. Div. 1953); cf. McCrae v. Eastern Aircraft, 137 N. J. L. 244 (Sup. Ct. 1948). But it argues that while he was on the public sidewalk he was out of the course of the employment.
+An accident arises “in the course of” employment when it occurs within the period of the employment and at a place where the employee may reasonably be. It arises “out of” the employment when the risk of such an occurrence is reasonably incident to the employment. Belyus v. Wilkinson, Gaddis & Co., 115 N. J. L. 43, 47 (Sup. Ct. 1935), affirmed per curiam 116 N. J. L. 92 (E. & A. 1936); Crotty v. Driver Harris Co., 49 N. J. Super. 60, 66 (App. Div. 1958), certification denied 27 N. J. 75 (1958).
+Under the premise of the correctness of the cases holding that an accident in a parking lot is compensable, the period of petitioner’s employment on the day in question must be regarded as having begun when he arrived at the lot. Absent any deviation therefrom there is no rational justification for any hypothesis that the period of the employment was interrupted during the time when petitioner was proceeding by the only available route from the lot to the building in which his duties were to be performed. While on the sidewalk during that passage he was at a place where he might “reasonably be/’ in relation to the employment. In principle, therefore, the accident occurred in the course of the employment.
+There is, moreover, no conceptual difficulty in finding that the injury arose out of the employment. If the time and place of the accident were in the course of the employment, as we have held they were, an injury due to a defective or seasonably dangerous condition of the sidewalk was clearly a risk reasonably incidental to traversal thereof, and, therefore, to the employment itself as requiring such traversal from an employer-maintained parking facility to the employment building proper.
+It is contended by respondent that since the accident took place on a public sidewalk over which respondent exercised no control and as a result of a hazard not connected with the employment, the occurrence is not sufficiently work-connected to be regarded as arising out of the employment. Analytically, it is obvious that control of the locus of injury is irrelevant. For example, a salesman driving a car on a public street while on his employer’s business, who is injured in a collision with another car, may have compensation notwithstanding the place of accident and the contribution of the other car to the casualty are beyond the scope of the employer’s control and off his premises. Cf. Zabriskie v. Erie R. Co., 86 N. J. L. 266 (E. & A. 1914).
+The line of cases excluding compensation while going to or coming from work, Gullo v. American Lead Pencil Co., 119 N. J. L. 484 (E. & A. 1938), is inapplicable because the petitioner must be regarded as having arrived at work once he entered the parking lot.
+The present case falls naturally within the scope of the broad rule that compensation is awarded when the accident occurs while the employee is travelling along or across a public road between two portions of his employer’s premises while pursuing his duties or doing something reasonably incidental thereto. 1 Larson, Workman’s Compensation (1952), § 15.14, pp. 199, 200; Zabriskie v. Erie R. Co., supra; cf. Cossari v. L. Stein & Co., 1 N. J. Super. 39, 42 (App. Div. 1948); Popovich v. Atlantic Products Corp., 125 N. J. L. 533, 535 (Sup. Ct. 1941).
+We conclude the award should be affirmed insofar as the liability phase is ’ concerned)
+Petitioner complains that the $350 awarded as counsel fee is grossly inadequate. There had been an award of $1,000 counsel fee in the Division of Workmen’s Compensation. The argument rests almost entirely on the ratio of the fee to the amount of the award (about 5%) and the court is asked to take into consideration the fact that an allowance of counsel fee in compensation is entirely contingent upon success.
+We have perused the briefs submitted to the County Court. They contain substantially the same material as was presented before us. Presumably a counsel fee will also be awarded petitioner for the work on this appeal. The issue was solely one of law, and relatively uncomplicated. While we might as trial judges possibly have appraised the' value of the legal services differently) we cannot say that the amount of the award, in the light of our limited information as to the amount of work done and all other material circumstances, is so inadequate as clearly to manifest á mistaken exercise of discretion by the County Court.
+The judgment is affirmed in' all respects. Costs to petitioner; no costs to respondent.
