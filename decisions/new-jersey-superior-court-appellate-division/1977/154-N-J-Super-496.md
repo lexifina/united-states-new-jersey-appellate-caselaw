@@ -1,0 +1,36 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1977-12-13"
+citations: ["154 N.J. Super. 496"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HILL MANOR APARTMENTS, PLAINTIFFS-RESPONDENTS, v. HENRIETTA STOKES ET AL., DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/154/cases/0496-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 872412
+cites_cases: ["142 N. J. Super. 429", "143 N. J. Super. 222", "147 N. J. Super. 303", "24 C. F. R. § 403", "24 C. F. R. § 403.5", "24 C. F. R. § 403.6", "24 C.F.R. § 403", "24 C.F.R. § 403.5", "303 F. Supp. 677", "322 F. Supp. 1126", "362 F. Supp. 581", "40 Fed. Reg. 49318", "410 F. Supp. 1314", "412 F. Supp. 615", "420 F. Supp. 1291", "424 F. Supp. 984", "425 F. Supp. 151", "552 F. 2d 2", "558 F. 2d 179", "558 F. 2d 612", "71 N. J. 451"]
+---
+
+# Hill Manor Apartments v. Henrietta Stokes
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant tenants in this appeal challenge the validity of certain regulations (24 C.F.R. § 403 et seq.; 40 Fed. Reg. 49318) adopted by the Department of Housing and Urban Development (HUD) and question whether they preempt the Newark Kent Control Ordinance (Revised Ordinance 15:9B-1 et seq.).
+Plaintiff Hill Manor Apartments is a 21-story apartment complex constructed in 1970. It consists of 426 units and is owned by the Newark Community Housing Corporation, a limited dividend corporation. Federal financial assistance was utilized in the construction of these apartments, with the mortgage being insured by HUD pursuant to § 221(d) (3) of the National Housing Act, 12 U. S. C. A. § 1715l (d)(3). This mortgage has been assigned to HUD.
+The relationship between HUD and plaintiff is governed by a regulatory agreement.
+On November 27, 1974 plaintiff served the tenants with notice of a 27% rent increase, which had been approved by HUD, to be effective January 1, 1975.
+At that time there was in effect a Newark rent control ordinance (Revised Ordinance 15:9B-1 et seq.), which allowed a 5% rent increase automatically, but any request for an additional rent increase had to be granted by the Rent Control Board after a hearing.
+This attempt by plaintiff to increase the rent was challenged by the tenants in the Superior Court of New Jersey. That court restrained all but 5% of the increase and ordered a hearing before the Newark Rent Control Board.
+The Newark Rent Control Board held a hearing on April 25, 1975 and granted an 11% rental increase, effective July 1, 1975, pursuant to the hardship section of the rent control ordinance.
+While these proceedings were pending HUD promulgated 24 C. F. R. § 403.5 et seq., which purports do exempt all unsubsidized insured housing projects from local rent control. This regulation became final October 22, 1975.
+We pass interim, irrelevant proceedings and proceed to October 22, 1975, the day the HUD regulation became final. Plaintiff, on that date, served notice of intention to increase all rents by 25% and invited comments from the tenants in accordance with the procedure established by the new regulation. 24 C. F. R. § 403.6. The tenants submitted 170 letters and a cover letter outlining the position of the tenants’ association opposing the increase.
+On December 29, 1975 plaintiff gave the tenants notice to quit and made a demand for possession, coupled with a 25% increase in rent, effective February 1, 1976.
+On April 13, 1976 plaintiff instituted summary dispossess actions against those tenants (defendants herein) who had not paid their rent, including all the increases. Summary judgment was entered in the county district court in favor of plaintiff, and defendant tenants prosecute this appeal from that decision. Defendants attack the judgment on two bases, contending, first, that HUD regulations 24 C. F. R. §§ 403.5 and 403.6 are void as violative of the Tenth Amendment to the U. S. Constitution; that they constitute an exercise of undelegated authority and are not supported by findings necessary to justify their promulgation; and, second, the Congress did not intend to preempt state and local rent control laws by virtue of § 221(d) (3) of the National Housing Act, 12 U. S. C. A. § 1715l (d)(3).
+Defendants rely on a line of cases decided prior to the adoption of the regulation in question which held that the National Housing Act was not a rent control mechanism and, accordingly, there was no federal preemption prohibiting effective local control of rents where HUD had a financial interest. Examples of such cases are: Stoneridge Apartments Company v. Lindsay, 303 F. Supp. 677 (S. D. N. Y. 1969); Helmsley v. Fort Lee, 362 F. Supp. 581 (D. N. J. 1973); Druker v. Sullivan, 322 F. Supp. 1126 (D. Mass. 1971); Druker v. City of Boston, 410 F. Supp. 1314 (D. Mass. 1976), vacated and rem’d 552 F. 2d 2 (1 Cir. 1977), reh’g den. 558 F. 2d 612 (1 Cir. 1977); see Overlook Ter. v. West New York Rent Control Bd., 71 N. J. 451, 466 (1976).
+Subpart B of 24 C. F. R. § 403 pertains to unsubsidized insured projects or projects where HUD holds the mortgage. Here HUD holds the mortgage of Hill Manor Apartments.
+24 C. F. R. § 403.5 provides that HUD will preempt local regulation of rents when the Department determines that such regulation would jeopardize the Department’s economic interest in the project. The procedure for effecting a preemption is detailed in § 403.6. The parties do not contend that the procedures thus established were not followed here.
+Since promulgation of these regulations the developing case law has consistently upheld their validity over the same objections now raised by defendants, and the courts have held that when the Office of Loan Management of HUD has issued “a, formal certification that it has preempted local rent controls as to [specified] rents in order to protect the Department’s economic interest in the project * * 24 C. F. R. § 403.6(e), such local rent controls have been preempted. Levin-Sagner-Orange v. Orange Rent Leveling Board, 142 N. J. Super. 429 (Law Div. 1976), aff’d o.b. 147 N. J. Super. 303 (App. Div. 1977); Edgemere at Somerset v. Johnson, 143 N. J. Super. 222 (Cty. D. Ct. 1976); Argo v. Hills, 425 F. Supp. 151 (E. D. N. Y. 1977); City Boston v. Hills, 420 F. Supp. 1291 ,(D. Mass. 1976); Glasco v. Hills, 412 F. Supp. 615 (D. N. J. 1976), aff’d 558 F. 2d 179 (3 Cir. 1977); accord, Overlook Ter. v. West New York Rent Control Bd., supra 71 N. J. at 467; 515 Associates v. Newark, 424 F. Supp. 984 (D. N. J. 1977).
+We are in complete accord with the holding of these later cases and the judgment of the county district court is affirmed.
+24 C.F.R. § 403.5 provides that: The Department will generally not interfere in the regulation by a local rent control board (hereinafter referred to as board) of rents for unsubsidized projects with mortgages insured or held by HUD. However, HUD will preempt the regulation of rents for such a project when the Department determines that the delay or decision of a board, or other authority regulating rents pursuant to state or local law, jeopardizes the Department’s economic interest in the project.
