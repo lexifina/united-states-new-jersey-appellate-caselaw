@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1993-06-14"
+citations: ["265 N.J. Super. 471", "627 A.2d 1151"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF, v. JOSEPH S. KEMPROWSKI, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/265/cases/0471-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 422338
+cites_cases: ["107 S.Ct. 353", "11 U.S.C.A. § 523", "132 N.J. 159", "163 N.J.Super. 110", "236 N.J.Super. 166", "238 N.J.Super. 219", "394 A.2d 362", "404 A.2d 1148", "479 U.S. 36", "564 A.2d 1213", "623 A 2d 1355", "81 N.J. 48"]
+cites_law: ["united-states/federal/usc/title-11/523.md"]
+---
+
+# State v. Kemprowski
+
+## Majority (ANTELL, P.J.A.D.)
+
+The opinion of the court was delivered by
+ANTELL, P.J.A.D.
+On October 4, 1983, defendant retracted his plea of not guilty previously entered and pled guilty to charges of theft, under N.J.S.A. 2C:20-9 and N.J.S.A. 2C:20-4. As part of his sentence, the court placed him on five years probation and ordered him to make full restitution to the victims of his crimes. To Stanley Bresticker he was ordered to pay $58,000, and to Karl Wagner, he was ordered to pay $65,000. Nearly the full amount of these obligations remains unpaid.
+On January 13, 1989, defendant’s probation was extended, and on January 13, 1990, it was terminated. At the direction of the court, on January 3, 1990, a civil judgment, consented to by defendant, was entered in favor of the State for the amount of the unpaid balances. On January 7,1991, defendant filed a Chapter 7 Petition in Bankruptcy. The question then came before the bankruptcy court as to whether these outstanding obligations (which had been listed by defendant in his Petition for Discharge) were dischargeable in bankruptcy.
+Under Kelly v. Robinson, 479 U.S. 36, 107 S.Ct. 353, 93 L.Ed.2d 216 (1986), it was decided that a criminal restitution obligation is not dischargeable in bankruptcy under 11 U.S.C.A. § 523(a)(7). Thus, defendant filed a motion in this cause seeking a declaration that the consent judgment and the restitution obligation were no longer part of defendant’s criminal sentence. Wagner and Bresticker, with the State’s consent, now appeal from the Law Division’s determination that because defendant’s term of probation had expired, the restitution orders “no longer remain as part of a criminal sentence imposed in a State Criminal Court.”
+The consent civil judgment was undoubtedly entered at the instance of the court as an additional safeguard for the benefit of the victims. It clearly does not alter the character of the underlying restitution obligation as part of a criminal sentence. N.J.S.A. 2C:43-2b(l) makes it clear that the order of restitution has a separate existence of its own as a criminal sentence. It provides that a court may sentence a defendant “[t]o pay a fine or make restitution authorized by Section 2C:43-3.” That section of the statute imposes no requirement for a term of probation. Furthermore, N.J.S.A. 2C:44-2b directs that a court “sentence a defendant to pay restitution in addition to a sentence of imprisonment or probation” under circumstances thereafter specified. See State v. Newman, 132 N.J. 159, 623 A 2d 1355, 1358 (1993). JOHN M. CANNED, N.J. CRIMINAL CODE ANNOTATED, Comment N.J.S.A. 2C:43-2, at 694 (1992-93 Edition), interprets the statute to mean that “[f]ines and compelled restitution may also be imposed either as complete sentences or in combination with other sentences[.]” N.J.S.A 2C:43-3 expressly states: “A person who has been convicted of an offense may be sentenced to pay a fine, to make restitution, or bothL-T’
+In State v. Zeliff, 236 N.J.Super. 166, 564 A.2d 1213 (App.Div.1989), defendant was sentenced to three years probation based upon his plea of guilty to theft. The probation was conditioned upon his making restitution payments and performing community service. Defendant was thereafter found guilty of a probation violation for failure to perform the conditions, and he was then sentenced to a custodial term. Defendant appealed on his claim that the court improperly continued his restitution obligation after terminating probation and imposing a custodial term. Id. at 168, 564 A.2d 1213. In rejecting this argument, the court stated that “N.J.S.A. 2C:44-2 makes clear that restitution may be imposed in addition to either a sentence of imprisonment or a sentence of probation.” Id. at 171, 564 A.2d 1213. It thereby confirmed that restitution is a separate sentence in and of itself, not dependent upon the viability of a term of probation.
+In State v. Joseph, 238 N.J.Super. 219, 569 A.2d 819 (App.Div.1990), defendant appealed from an order requiring him to make payments against the balance of his fine after the expiration of probation. The court rejected that contention and held that the court had the power to order defendant to pay the fine as part of the criminal sentence even though his probationary period had expired. The court held that:
+“because the remedies provided in N.J.S.A 2C:46-2 are entirely unrelated to defendant’s probation, they may be exercised at any time. In short, we read N.J.S.A. 2C:45-2c and N.J.S.A. 2C:46-2 as alternative remedies for collection exercisable by the [S]tate after the expiration of defendant’s probationary period.” Id. at 223, 569 A.2d 819.
+State v. Blassingale, 163 N.J.Super. 110, 394 A.2d 362 (App.Div.1978), certif. dismissed, 81 N.J. 48, 404 A.2d 1148 (1979), decided before enactment of the present Criminal Code, is also on point. There, although the court held that notwithstanding the court’s lack of power to further extend a defendant’s probationary period under the° circumstances there presented,
+[i]t is our opinion that the order for payments by way of restitution need not be coextensive with the period of probation. Accordingly, while defendant’s probation will be for two years, conditioned upon her paying $30 a month for that two-year period, her obligation to pay the $1,800 [the balance of restitution owing] will nevertheless continue beyond said two-year period notwithstanding it may not thereafter be enforced through the medium of revocation of probation.
+[Id., 163 N.J.Super. at 116, 394 A.2d 362.]
+We conclude that the orders for restitution herein imposed as part of defendant’s criminal sentence remain intact as part of that sentence, regardless of the fact that defendant’s period of probation has expired. The Law Division’s determination to the contrary is accordingly reversed.
+Their standing to take this appeal has not been challenged.
