@@ -1,0 +1,66 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2003-06-09"
+citations: ["361 N.J. Super. 99", "824 A.2d 247"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["YOLANDA MARTINEZ, APPELLANT, v. SILVERLINE, RESPONDENT."]
+source_url: "https://static.case.law/nj-super/361/cases/0099-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 349326
+cites_cases: ["186 N.J.Super. 316", "452 A.2d 678", "469 A.2d 22", "95 N.J. 105"]
+---
+
+# Martinez v. Silverline
+
+## Majority (SKILLMAN, P.J.A.D.)
+
+The opinion of the court was delivered by
+SKILLMAN, P.J.A.D.
+The issue presented by this appeal is whether a worker who has all five fingers amputated in an industrial accident is entitled to the additional workers’ compensation benefits provided under N.J.S.A. 34:15-12(c)(21) for amputation of a “hand.” We conclude that the Workers’ Compensation Act treats the amputation of all five fingers on a hand as equivalent to amputation of the hand and therefore petitioner is entitled to this additional benefit.
+Petitioner was using a circular saw to cut a piece of aluminum during the course of her employment with respondent Silverline, when the glove on her right hand became caught in the saw. As a result, all five fingers on her right hand were amputated at the proximal interphalangeal joint, which is the joint nearest the hand. The doctors who attended petitioner attempted to reattach her fingers but were unsuccessful.
+Petitioner filed a claim for workers’ compensation benefits. The parties entered into a settlement agreement under which petitioner was awarded the costs of her medical treatment and temporary disability benefits. The parties also agreed that petitioner was entitled to 15% partial, permanent disability for psychiatric disability and 100% partial, permanent disability for loss of her right hand, which totaled 335 weeks of partial, permanent benefits. However, they were unable to reach agreement concerning petitioner’s entitlement to the 30% “amputation bonus” for loss of a hand provided by N.J.S.A. 34:15-12(c)(21). Consequently, the parties submitted the issue of petitioner’s entitlement to this additional benefit to a judge of compensation for decision. The judge concluded that because “the loss of fingers is not specifically mentioned in [N.J.S.A. 34:15-12(c)(21)],” petitioner was not entitled to an amputation bonus.
+N.J.S.A. 34:15-12(c)(21) provides in pertinent part:
+Amputation between the elbow and the wrist shall be considered as the equivalent of the loss of a hand and amputation at the elbow shall be considered equivalent to the loss of the arm. Amputation between the knee and ankle shall be considered as the equivalent of the loss of a foot, and amputation at the knee shall be considered equivalent to the loss of the leg. An addition,al amount of 30% of the amputation award shall be added to that award to compute the total award made in amputations of body members, provided, however, that this additional amount shall not be subject to legal fees.
+(Emphasis added.)
+The final sentence of N.J.S.A. 34:15-12(c)(21), providing for the amputation bonus at issue in this appeal, was added to this subsection as part of a comprehensive package of amendments to the Workers’ Compensation Act (the Act), N.J.S.A. 34:15-1 to - 142, enacted in 1980, L. 1979, c. 283. According to the Sponsor’s Statement, the primary purpose of these amendments was to “make available additional dollars for benefits to seriously disabled workers while clarifying and tightening awards of compensation benefits based upon insignificant permanent partial disabilities.” Sponsor’s Statement'to S. 802 of1979.
+In Trinter v. Esna Div., 186 N.J.Super. 316, 452 A.2d 678 (App.Div.1982), we held that entitlement to the amputation bonus provided by N.J.S.A. 34:15-12(c)(21) is limited to the amputation of a hand, arm, foot or leg and therefore cannot be claimed by a worker who has a finger amputated. We concluded that even though the term “body member” used in the final sentence of N.J.S.A. 34:15-12(c)(21) ordinarily would include a finger, “reading § 12(c) as a whole in conjunction with the available legislative history requires a construction that the term as used in § 21 is only meant to refer to hands, arms, feet and legs.” Id. at 318, 452 A.2d 678. In reaching this conclusion, we considered it significant that the provision for an amputation bonus was added to a subsection of N.J.S.A. 34:15-12(c) which deals exclusively with amputations of the hand, arm, foot and leg:
+Given the paragraph structure of § 12(e) and the division of topics among those paragraphs, the logical conclusion is that if the added sentence was to apply to body members other than hands, arms, feet and legs (the members treated in the first sentence of paragraph (21)), it would have been set off in a numbered paragraph of its own.
+[Id. at 319-20, 452 A.2d 678.]
+We also noted that this construction of N.J.S.A. 34:15—12(c)(21) was consistent with the general intent of the 1980 amendments to provide increased benefits only to the most seriously injured workers:
+[T]he number of weeks of compensation to be paid for amputation of a thumb, ■finger or toe was not changed by the 1980 amendments. N.J.S.A. 34:15-12(c)(1) to (7). The number of weeks of compensation to be paid for loss of a hand, arm, foot or leg, however, was increased by the 1980 amendments. This comports with the expressed intent of the Legislature to make increased awards to “more seriously injured workers.”
+[Id. at 320-21, 452 A.2d 678.]
+Although it is clear under Trinter that petitioner would not be entitled to an amputation bonus if her accident had resulted in the amputation of only one of her fingers, N.J.S.A. 34:15—12(c)(8) provides for an award of the same partial, permanent benefits for amputation of a “thumb and first and second fingers ... or four fingers” as for a hand. N.J.S.A. 34:15—12(c)(1) to (11) establishes the following schedule for partial, permanent disability benefits for “lost members”: o
+Number of Weeks’
+Lost Member Compensation
+1. Thumb............................................... 75
+2. First finger (commonly Called index finger)............... 50
+3. Second Finger......................................... 40
+4. Third finger........................................... 30
+5. Fourth Finger (commonly called little finger).............. 20
+6. Great toe............................................. 40
+7. Toe, other than a great toe.............................. 15
+8. Hand, or thumb and first and second fingers (on one hand) or four fingers (on one hand)................245
+9. Arm..................................................330
+10. Foot .................................................230
+11. Leg..................................................315
+Thus, under this statutory scheme, a worker such as petitioner, who has all five fingers on one hand amputated, is awarded the same partial, permanent benefits provided for loss of a hand under N.J.S.A. 34:15-12(c)(8) rather than the lesser benefits that would be awarded for loss of each of the individual amputated fingers under N.J.S.A. 34:15-12(c)(1) to (5). The question, therefore, is whether the legislative determination that the loss of all (or nearly all) fingers on a hand should be treated as equivalent to loss of the hand applies only to the calculation of partial, permanent benefits under N.J.S.A. 34:15-12(c)(1) to (5) and (8), or also extends to the amputation bonus provided by N.J.S.A. 34:15-12(c)(21).
+As indicated by the previously quoted sponsor’s statement, one of the primary objectives of the 1980 amendments to the Act was to provide additional benefits to the most seriously disabled workers. The Legislature viewed the amputation of a major body member, including a hand, as a prime example of a serious disability for which there should be such increased benefits. The joint statement appended to the committee substitute for the senate and assembly bills, enacted as chapter 283 of the Laws of 1979, specifically noted:
+Calculated on the basis of the statewide average weekly wage used to determine 1979 awards, maximum awards to workers for work-related amputations would increase by approximately these amounts: arm — $12,000.00 to $55,340.00; leg— $11,000.00 to $52,825.00; hand — $9,200.00 to $33,440.00; and foot — $8,000.00 to $28,100.00---- New Jersey’s rank among the 48 contiguous states for these maximum amputation awards would improve as follows: arm, 47th to 6th; leg, 47th to 5th; hand, 47th to 13th; and foot, 46th to 13th.
+To provide these' additional benefits to workers who suffer work-related amputations, the Legislature amended N.J.S.A 34:15-12(c) in two ways. .First, it increased the number of weeks of partial, permanent disability benefits for loss of a hand, arm, foot or leg, as follows:
+Lost Member Number of Weeks’
+Compensation
+& Hand, or thumb and first and second fingers (on one hand) or four fingers (on one hand)...........[230] 245
+9. Arm.............................................[300] 330
+10. Foot ............................................[200] 230
+11. Leg.............................................[275] 315
+Second, it added the final sentence to N.J.S.A. 34:15-12(c)(21) which provides an amputation bonus for an amputation of any of those same four major body members. Since the Legislature added the provision for an amputation bonus for an amputation of a major body member at the same time it increased the partial, permanent disability benefits awardable for loss of those same members, it is reasonable to conclude that the Legislature intended “hand” to have the same meaning for purposes of determining eligibility for an amputation bonus under N.J.S.A. 34:15-12(c)(21) as for partial, permanent disability benefits under N.J.S.A. 34:15-12(c)(8).
+This conclusion is supported by the 1973 Report of the Workmen’s Compensation Law Study Commission, which originally recommended the provision for an additional benefit for an amputation of a major body member. This report stated in pertinent part:
+Experience has shown that the loss of any three fingers of the same hand actually constitutes a very serious restriction to a worker as a functioning unit and is comparable to loss of use of the entire hand. The Commission therefore recommends that R.S. 34:15-12(e)8 be amended to read “hand or any 3 fingers on one hand.”
+Recognizing that loss of a major member by amputation ... constitutes a loss greater than total loss of use of that member, the Commission recommends that amputation of any major member, including the hand as defined above, .. be compensated by allowing an additional 25% of the benefits provided in the schedule for the particular member.
+[Report of the New Jersey Workmen’s Compensation Study Commission, pp. 8-9 (1973) (Emphasis added).]
+Although the amendment of N.J.S.A. 34:15-12(c)(21) to provide additional workers’ compensation benefits for amputations of body members was not enacted until seven years later, the 1980 amendments to the Act, including the amendment to N.J.S.A. 34:15-12(c)(21), were largely based on the recommendations contained in this report. See Perez v. Pantasote, Inc., 95 N.J. 105, 112-14, 469 A.2d 22 (1984). Therefore, this report reinforces our conclusion that “hand” as used in N.J.S.A. 34:15-12(c)(21) should be interpreted to have the same meaning as under N.J.S.A. 34:15-12(c)(8).
+We reject respondent’s argument that this interpretation of “hand” as used in N.J.S.A. 34:15—12(c)(21) is inconsistent with the first sentence of N.J.S.A. 34:15-12(c)(21), which states: “Amputation between the elbow and the wrist shall be considered as the equivalent of the loss of a hand and amputation at the elbow shall be considered equivalent to the loss of the arm.” The apparent purpose of this provision, which predated the 1980 amendments to the Act, was to provide legislative guidance concerning the circumstances under which a worker is entitled to the partial, permanent benefits for loss of an arm provided under N.J.S.A. 34:15—12(c)(9), rather than the lesser benefits provided under N.J.S.A. 34:15-12(c)(8) for loss of a hand. Thus, the first sentence of N.J.S.A. 34:15-12(c)(21) serves a purpose similar to N.J.S.A. 34:15—12(c)(8), which describes the circumstances under which a worker is entitled to partial, permanent benefits for loss of a hand rather than the lesser benefits provided for the loss of individual fingers under N.J.S.A. 34:15-12(c)(1) to (5). Therefore, we conclude that a worker such as petitioner, who suffers a work-related amputation of fingers that qualifies for an award of benefits for loss of a hand under N.J.S.A 34:15-12(c)(8), also qualifies for an award of an amputation bonus under N.J.S.A 34:15—12(c)(21).
+Accordingly, the final decision of the judge of compensation denying petitioner’s claim for an amputation bonus is reversed and the case is remanded for a determination of the amount of that bonus.
+Although these amendments were part of the laws of 1979, they were not signed into law by the Governor until January 10, 1980, and therefore are commonly referred to as the 1980 amendments to the Act.
