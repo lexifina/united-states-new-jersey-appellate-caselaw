@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1952-10-02"
+citations: ["21 N.J. Super. 517"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TOWNSHIP OF PEQUANNOCK, PLAINTIFF-RESPONDENT, v. GEORGE DE WILDE, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/21/cases/0517-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 453062
+cites_cases: ["1 N. J. 184", "1 N. J. 509", "10 N. J. 165", "11 N. J. Misc. 613", "126 N. J. L. 516", "15 N. J. Super. 310", "3 N. J. Super. 222", "7 N. J. 1", "9 N. J. 405"]
+---
+
+# Township of Pequannock v. De Wilde
+
+## Majority (Ebeund, J. S. C.)
+
+The opinion of the court was delivered by
+Ebeund, J. S. C.
+George De Wilde was convicted by the Municipal Court of the Township of Pequannock and, on appeal, by the Morris County Court for violation of the local zoning ordinance in that he erected a smokestack 50 feet in height when the ordinance limited the height to 40 feet.
+On this appeal, the sole issue is the validity of the zoning ordinance in restricting the height of smokestacks to 40 feet. The appellant argues that such a restriction is an arbitrary and capricious exercise of the power of the municipality to regulate the height of structures.
+Eor 28 years the defendant and his father have been in the greenhouse business in a residential zone of the Township of Pequannock. In October 1950 the defendant obtained a building permit to erect an additional greenhouse. Although neither the application for the building permit nor the permit itself made any reference to a smokestack, the defendant nevertheless erected a smokestack 50 feet in height.
+The Legislature has expressly empowered a municipality to regulate structures, and R. 8. 40 :55—30, as amended by chapter 305 of the Laws of 1948, provides: “The authority conferred by this article shall include the right to regulate and restrict the height * * * of buildings, and other structures. * * *” Pursuant to legislative authority, the municipality adopted a zoning ordinance, section III of which reads as follows:
+“In a Residence Zone no building or premises shall be used and no building shall be erected or altered which is arranged, intended or designed to be used except for one or more of the following uses:
+* £ ijs :¡c ' ¡l: sjs *
+5. Farming (except poultry farming and stock farming), truck gardening or nurseries, green house business where already established and/or on adjoining property now owned by the present operator, in which case maximum building area shall not apply, except Eront line setback, provided that smokestacks do not exceed 40 feet in height.”
+It is well settled that a municipality in the interests of the general welfare and to further the advancement of a community may restrict the use of property, particularly in residential areas, so long as the restrictions are reasonably designed and promotive of the interests of the public at large. Guaranty Construction Co. v. Bloomfield, 11 N. J. Misc. 613, 615 (Sup. Ct. 1933); Duffcon Concrete Products v. Borough of Cresskill, 1 N. J. 509 (1949); Point Pleasant Beach v. Point Pleasant Pavilion, 3 N. J. Super. 222 (App. Div. 1949); Lionshead Lake, Inc. v. Township of Wayne, 10 N. J. 165 (1952). In the recent Lionshead Lake case, Chief Justice Vanderbilt pointed out that recent constitutional and statutory changes in our law have rendered inapplicable the decision of the former Court of Errors and Appeals in Brookdale Homes, Inc. v. Johnson, 126 N. J. L. 516 (E. & A. 1941), and the reasoning of the dissenting opinion of Justice Heher has been adopted. The Chief Justice said:
+“We are bound by these changes in our organic law and accordingly this court in Schmidt v. Board of Adjustment of the City of Newark, 9 N. J. 405 (1952) has held that so long as the zoning ordinance was reasonably designed, by whatever means, to further the advancement of a community as a social, economic and political unit, it is in the general welfare and therefore a proper exercise of the zoning power. The underlying question before us is whether in the light of these constitutional and legislative provisions the zoning ordinance of the defendant township is arbitrary and unreasonable. That question, moreover, must be answered in the light of the facts of this particular case.”
+A zoning ordinance carries with it a presumption of reasonableness and validity, and the burden of proving otherwise is on the person who attacks the ordinance. Oliva v. Garfield, 1 N. J. 184, 193 (1948).
+The appellant argues that since a zoning restriction must bear a substantial relation to the health, morals or general welfare of the public in its proper sense, B. S. 40:55—33, the restriction limiting to 40 feet the height of greenhouse smokestacks is arbitrary. To this end, he produced as witnesses a number of neighbors, who testified that no smoke, fumes or odors emanated from the smokestack, that it was not in any way offensive to them. However, the validity of a zoning restriction is not to be determined by whether or not its violation is inoffensive to the neighbors. Clearly, the officials of the municipality may fix a limitation and there is no evidence that a limitation of 40 feet is unreasonable. Inevitably, wherever the line be drawn, situations immediately beyond it will be affected, but that, without more, does not render invalid the drawing of a line which otherwise cannot be said to be arbitrary. Borough of Lincoln Park v. Cullari, 15 N. J. Super. 310, 314 (App. Div. 1951).
+The appellant sought to prove by the testimony of a heating engineer that a smokestack 40 feet in height would not be adequate for the new heating system he was installing. However, in this regard the evidence is not convincing—in fact, there was testimony that a different type of heating unit which would require only a 40-foot stack could have been installed. But whether or not the heating system which was installed required a 50-foot .smokestack is immaterial—the erection of a stack exceeding 40 feet in height was in direct violation of the restriction of the zoning ordinance.
+The appellant conducts his greenhouse business in a residential zone, and by virtue of an exception in the zoning ordinance was permitted to erect an additional greenhouse. If a 50-foot smokestack was in fact necessary, Ms recourse was to apply to the local board of adjustment for a variance or for an amendment to the ordinance. Wright v. Vogt, 7 N. J. 1 (1951); Lionshead Lake, Inc. v. Township of Wayne, supra. The appellant failed to follow either of these procedures, but instead chose to disregard the restriction in the ordinance and erect a smokestack in violation thereof.
+The judgment of conviction is affirmed.
