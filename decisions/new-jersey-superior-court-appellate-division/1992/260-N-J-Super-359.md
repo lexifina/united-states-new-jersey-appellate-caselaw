@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1992-12-01"
+citations: ["260 N.J. Super. 359", "616 A.2d 952"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RITA RYAN, PETITIONER-APPELLANT, v. STATE HEALTH BENEFITS COMMISSION, RESPONDENT-APPELLEE."]
+source_url: "https://static.case.law/nj-super/260/cases/0359-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 316341
+cites_cases: ["267 A.2d 527", "405 A.2d 788", "458 A.2d 106", "56 N.J. 567", "81 N.J. 233", "92 N.J. 550"]
+---
+
+# Ryan v. State Health Benefits Commission
+
+## Majority (R.S. COHEN, J.A.D.)
+
+The opinion of the court was delivered by
+R.S. COHEN, J.A.D.
+Rita Ryan was insured under the State Health Benefits Plan (SHBP). She was in an accident on January 8, 1989, while driving her car the insurance on which had expired some months earlier. Ryan’s husband was killed, and she suffered serious injuries. Her medical bills exceed $80,000. The administrators of SHBP denied payment on the ground that the expenses should have been covered by the Personal Injury Protection provision of Ryan’s auto policy.
+Ryan’s appeal was denied by the State Health Benefits Commission. It was then transmitted to the Office of Administrative Law, where the Administrative Law Judge found the exclusionary provisions relied on for nonpayment to be ambiguous and thus ineffective. The final Commission decision rejected the ALJ’s initial decision and affirmed the Commission’s earlier determination. We reverse.
+The exclusion at issue declines payment for government plan charges. The language is:
+(c) to the extent that the service or supply, or any benefit for the charge, is provided by any law or governmental plan under which the patient is or could be covered. This (c) applies (i) to Medicare and (ii) to “no-fault” medical or dental coverage when required in contracts by a motor vehicle law or similar law. This (c) applies to that “no-fault” coverage to the extent provided for the covered person. But this does not apply to a State plan under Medicaid.
+The Commission reasoned that the exclusion applied to expenses for which Ryan could have been covered by PIP, if she had maintained insurance coverage for her car. The Commission rejected the conclusion that the exclusion was ambiguous, but said further that, even if it were ambiguous, an exclusionary interpretation was necessary because it was the only one conforming to state law and public policy.
+The Commission said that the first sentence of subsection (c), the one beginning “to the extent ...,” clearly excludes expenses covered by PIP provisions in policies under which the patient is or could be covered, and not only under policies that are actually available and expenses actually paid to the patient. The third sentence, “This (c) applies to that ‘no-fault’ coverage to the extent provided for the covered person,” according to the Commission, “must be interpreted in accordance with the clear meaning of the first sentence.” That interpretation, according to the Commission, is that the third sentence applies only to situations in which there is PIP coverage. Only that interpretation, according to the Commission, gives effect to the entire government plan exclusion. Moreover, the Commission con-eluded, only exclusion of all expenses coverable by PIP would comport with SHBP rate structures, which assumed exclusion of all PIPable expenses.
+We disagree with the conclusions of the Commission. To the reasonably alert reader, the two sentences seem directly opposed if the first one excludes benefits that could have been purchased, but were not. The third sentence seems clear. It excludes benefits available from PIP coverage “to the extent provided for the covered person.” The drafters may have intended something else, but the words appear to limit excludability to benefits actually available to the insured person. The Commission’s interpretation, that the sentence applies only where PIP coverage exists, and operates to limit exclusion to the extent of benefits provided, is not outrageous, but also not necessary or apparent. If that is what the sentence means, it introduces still more uncertainty in its use of the words “provided for the covered person.” Who is the provider? If it is an insurance company, the extent of PIP coverage it provided was nil. If it is the vehicle owner who buys the insurance policy, then the extent of self-provided PIP coverage still is nil; the extent of coverage for others is similarly nonexistent. The Commission’s interpretation would bar SHBP benefits to an additional insured who has no personal control over the existence or extent of available PIP benefits.
+Other parts of the SHBP confirm the confusion. In the 53-page explanation of the SHBP contained in the record, there is a statement of the exclusion of PIP expenses
+... if such services are eligible for payment under the [PIP] ... provisions of a New Jersey motor vehicle insurance contract____ This exclusion applies whether or not a proper and timely claim for payment for these services is made____
+There is no hint that “a New Jersey motor vehicle insurance contract” includes not only a real, existing contract, but also a phantom contract that could have been bought but was not. Also, the final sentence, excluding covered but not claimed PIP expenses, gives a ready explanation of the “is or could be covered” language in the exclusion which contradicts the Commission’s reading.
+Exclusionary language in an insurance contract is strictly interpreted. Butler v. Bonner & Barnewall, Inc., 56 N.J. 567, 576, 267 A.2d 527 (1970). The SHBP is no different. It deals with the same kinds of consumers of insurance protection, who accept what is available and try to find its meaning. An ambiguity exists where the policy language is so confusing that the average policy holder cannot make out the boundaries of coverage. Weedo v. Stone-E-Brick, Inc., 81 N.J. 233, 247, 405 A.2d 788 (1979). Policy language that supports two interpretations should be read to favor coverage. Lundy v. Aetna Cas. & Sur. Co., 92 N.J. 550, 559, 458 A.2d 106 (1983).
+Insurers desiring to exclude claims otherwise payable, on the ground that they could have been but were not covered by other insurance, have to do so plainly and not in language subject to various reasonable interpretations. The exclusionary language here disputed can be read as defendant contends, or, equally reasonably, as plaintiff contends. In those circumstances, our duty is to interpret the language strictly against its proponent.
+Reversed.
