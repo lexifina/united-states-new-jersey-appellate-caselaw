@@ -1,0 +1,37 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1971-01-21"
+citations: ["113 N.J. Super. 152"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. WILLIAM B. EBRON, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/113/cases/0152-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 343606
+cites_cases: ["111 U. S. 624", "19 L. Ed. 2d 852", "367 U. S. 643", "378 U. S. 108", "381 U. S. 214", "389 U. S. 1054", "392 U. S. 40", "393 U. S. 410", "50 N. J. 16", "52 N. J. 110", "88 S. Ct. 805"]
+---
+
+# State v. Ebron
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant appeals from a judgment of conviction of a four count indictment under N. J. S. A. 24:18-4. He was sentenced to the New Jersey Reformatory for Males and fined $100.
+On January 4, 1968 officers from the Newark Narcotic Squad executed a search warrant at premises located at 86 West Kinney Street. In the basement apartment, in which the defendant was in bed, they found a quantity of heroin, cocaine, marijuana and methadone. They also found hypodermic needles with syringes and some Tuinal capsules.
+Before the trial the defendant moved to suppress the evidence seized as a result of the execution of the search warrant, arguing, among other things, that probable cause had not been shown for the issuance of the search warrant. The motion was denied.
+The affidavit upon which the search warrant was issued was made by Arthur Gockeler, a member of the Narcotic Squad. He stated:
+I Arthur Gockeler, have just and reasonable cause to suspect and believe that the following goods, to wit, narcotic drugs, and paraphernalia used in connection with the sale or possession of narcotics are concealed in the premises known and designated as 86 W. Kinney St., whole house, City of Newark, and I have further just and reasonable cause to suspect and believe that the aforesaid premises is being used in connection with a violation of law commonly known and stated as the sale or possession of narcotics, contrary to the statute in such case made and provided.
+And the deponent states that the statement above recited is based upon the following facts.
+1. I have received information from reliable sources and also from an informer who has proved reliable in the past that William and Sandy Ebron are selling narcotics from their mother, Emma Dee Lynn’s house at 86 W. Kinney St. Mrs. Lynn is currently appealing a [sic] 8-10 year jail sentence for possession of narcotics.
+2. The undersigned in company with Dets. Wainen, Jackson, Decker, Petrillo and Pariso, surveilled the premises at 86 W. Kinney St., on the following dates: Jan. 2, 1968 from 1:00 P.M. to 3 :30 P.M., Jan. 3, 1968 from 12:00 p.m. to 2:30 p.m:. and on Jan. 4, 1968 from 11:00 a.m. to 2:00 p.m:. During these times known narcotic offenders observed entering and leaving these premises were: Ruby Gunther, NR+fc 388, Yvonne Raddals, NR^£ 1690, Willa Mae Dungee, NR# 369, Ella Langry, NR^ 1368, Charles Dunn NR^jt 581, Martha Dennis, NR^t 1567, and William Levinson NR^t 50.
+On the basis of the facts disclosed above deponent states that he has ample reason to believe that the premises known and designated as 86 AY. Kinney St., whole house, is being- used in violation of law commonly known and stated as the sale or possession of narcotic drugs, contrary to the statute in such case made and provided.
+We realize that the County Court in considering the motion to suppress was required to pay substantial deference to the finding of probable causo made by the magistrate. State v. Kasabucki, 52 N. J. 110, 117 (3968). We approach the consideration of whether probable cause existed for the issuance of the search warrant with full deference to the philosophy expressed in State v. Davis, 50 N. J. 16 (1967), cert. den. 389 U. S. 1054, 88 S. Ct. 805, 19 L. Ed. 2d 852 (1968). Our scrutiny, however, must be directed to whether a proper showing of probable canse was made to the magistrate to justify the issuance of the search warrant under the Fourth Amendment of the United States Constitution. Mapp v. Ohio, 367 U. S. 643, 81 S. Ct. 1684, 6 L. Ed. 2d 1081 (1961); Robb v. Connolly, 111 U. S. 624, 637, 4 S. Ct. 544, 551, 28 L. Ed. 542 (1883). We cannot consider the result of the search; rather, our inquiry is limited only to the factors presented to the magistrate. Aguilar v. Texas, 378 U. S. 108, 84 S. Ct. 1509, 12 L. Ed. 2d 723 (1964).
+The conclusion in the affidavit submitted to the magistrate was based upon but two points: (1) information received “from reliable sources and also from an informer who has proved reliable in the past,” and (2) limited surveillance of the premises during which times “known narcotic offenders [were] observed entering and leaving these premises.”
+The affidavit upon which the search warrant was based was fatally deficient. The mere statement that information has been received from a reliable informant who has proved reliable in the past is insufficient. Even assuming corroboration of reliability, the affidavit must in addition show “a sufficient statement of the underlying circumstances from which the informer concluded” that narcotics were concealed on the premises. Spinelli v. United States, 393 U. S. 410, 416, 89 S. Ct. 584, 589, 21 L. Ed. 2d 637 (1969). Without such a statement the magistrate had no way of telling whether the information was not mere rumor.
+In Spinelli the court stated:
+We are not told bow the FBI’s source received Ms information— it is not alleged that the informant personally observed Spinelli at work or that he had ever placed a bet with him. Moreover, if the informant came by the information indirectly, he did not explain why his sources were reliable. Cf. Jaben v. United States, 381 U. S. 214, 85 S. Ct. 1365, 14 L. Ed. 2d 345 (1965). In the absence of a statement detailing the manner in which the information was gathered, it is especially important that the tip describe the accused’s criminal activity in sufficient detail that the magistrate may know that he is relying on something more substantial than a casual rumor circulating in the underworld or an accusation based merely on an individual’s general reputation. [393 U. S. at 416, 89 S. Ct. at 589.]
+Uor is the affiant’s statement that he had seen known narcotic offenders enter and leave the premises, consisting of three separate apartments, a sufficient showing of probable cause. The surveillance might be useful to bolster the reliability of the informer, but it cannot supply the omission of a showing of the underlying circumstances needed to support the tip. Spinelli, supra, at 417, Sibron v. New York, 392 U. S. 40, 62, 88 S. Ct. 1889, 20 L. Ed. 2d 917 (1968).
+The affidavit in this case fails to meet the standards established by the United States Supreme Court in Spinelli.
+The other points raised on appeal by defendant, that the search warrant was improperly executed and that the indictment should have been dismissed on the principles of double jeopardy, res judicata or collateral estoppel, are without merit. We need not consider whether the trial judge erred in denying the motion for a judgment of acquittal and the motion for a new trial.
+The judgment of conviction and the order denying the motion to suppress are reversed, and the matter is remanded to the Essex County Court for appropriate disposition therein.
