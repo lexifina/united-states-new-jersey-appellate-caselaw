@@ -1,0 +1,48 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1985-02-06"
+citations: ["198 N.J. Super. 569"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-APPELLANT, v. MARTO RODRIGUEZ AND ROLANDO RODRIGUEZ, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/198/cases/0569-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 719452
+cites_cases: ["104 S.Ct. 3405", "145 N.J.Super. 27", "18 L.Ed.2d 1351", "219 A.2d 324", "388 US. 913", "430 U.S. 985", "48 N.J. 138", "52 L.Ed.2d 379", "549 F.2d 15", "82 N.J. Super. 499", "87 S.Ct. 2106", "91 N.J.Super. 457", "97 S.Ct. 1682"]
+---
+
+# State v. Rodriguez
+
+## Majority (SHEBELL, J.A.D.)
+
+The opinion of the court was delivered by
+SHEBELL, J.A.D.
+Defendants, indicted for possession of a controlled dangerous substance, cocaine, in violation of N.J.S.A. 24:21-20a(2) and possession of cocaine with intent to distribute in violation of N.J.S.A. 24:21-19a(1) and N.J.S.A. 24:21-19b(2), moved to suppress evidence seized as a result of the execution of a search warrant. Defendant Marto Rodriguez also moved “for a hearing to determine and resolve the issue of the truthfulness of the warrant affidavit” and for disclosure of “the identity of the informers referred to in the warrant affidavit.” The motion judge found that “the search warrant issued was too general in that it did not describe the actual premises____” We granted the State leave to appeal the suppression order and we now reverse.
+Officer Geddes of the Elizabeth Police Department applied for the search warrant based upon his affidavit that he had received information from a reliable informant that controlled dangerous substances were being distributed from the second floor apartment at 438 Broadway, Elizabeth, New Jersey, by a Spanish male who resided there. This informant made a controlled buy from that individual at the apartment. A second reliable informant stated he had personal knowledge that a Spanish male was distributing controlled dangerous substances from the premises of 438 Broadway, Elizabeth, New Jersey, and that he “believes the premises of 438 Broadway, Elizabeth is distributing quantities of controlled dangerous substances to such an extent that the premises is heavily guarded by six (6) large dogs.” Geddes further inserted in the affidavit that he personally conducted surveillances of the premises on four occasions and observed a male who fit the description given by the informant. Geddes believed this male to be Marto Rodriguez.
+The affiant stated that information from the City Tax Office showed “the premises of 438 Broadway is owned by a Marto Rodriguez”; information received from the “Elizabeth Gas and Public Service Electric & Gas Company” indicated “the second floor apartment is occupied by Marto Rodriguez and that the first floor apartment has been vacant since December 5, 1983,” and information received from “a check of the telephone listing for 438 Broadway, Elizabeth, New Jersey reveals that there is telephone service in the same residence listed to Marto Rodriguez.”
+The search warrant authorized the search of an “unidentified Spanish male” and the premises at “438 Broadway, Elizabeth, New Jersey.” This was in keeping with the last paragraph of the affidavit which stated:
+[b]ased upon the foregoing and upon my training, education and experience, I have probable cause to believe and I do believe that located upon the person of a Spanish male, name unknown, whose description has been set forth, and within the premises located at 438 Broadway, Elizabeth, New Jersey, there will be found controlled dangerous substances____
+Execution of the search warrant resulted in controlled substances being found in the first floor apartment.
+In support of the motion to suppress defendant Rolando Rodriguez offered the affidavit of his mother Zeida Rodriguez which stated:
+... My son Roland Rodriguez resided in the first floor apartment and had been living there for at least five years last past.
+3. The first floor apartment to the premises, where my son resided and still resides, is a separate apartment independent from the second floor apartment where Marto Rodriguez lives. It has a separate gas meter. It has a separate electric meter, it has a separate telephone number.
+4. The apartment on the first floor has its own entrance and its own exit. The front door connects to the hallway and the back door connects to the backyard.
+5. The property was purchased and registered with the City of Elizabeth as a two family dwelling____
+8. Also attached is a copy of the computerized electric bill showing the readings on the meter at various times. The property was not vacant in December, as the Affidavit of the investigators who requested a warrant for the second floor apartment shows.
+9. There is a mailbox in the premises showing that the residents of the 1st • floor apartment were ‘Sonia Garcia, Lazaro Rodriguez, Rolando Rodriguez and R. Rodriguez.’ ...
+10. Copies of bills and receipts from the telephone company and the local Cable TV which are attached hereto, also show that the first floor apartment was a separate residence from that of the occupant on the second floor.
+The “computerized electric bill” attached to Zeida’s affidavit reflects however that a final bill was submitted by the Public Service Electric and Gas Company on December 2, 1983 and that thereafter there was a sales adjustment on December 27, 1983 and a credit for the full balance due on the bill on January 19, 1984. This confirms rather than contradicts the affidavit of Geddes that Public Service Electric and Gas Company indicated that the first floor apartment had been vacant since December 5, 1983. The remaining attachments do not appear to be helpful on the issue.
+Defendants contend that there was no probable cause for the issuance of the warrant to search the first floor apartment and that the reviewing judge was correct in his determination that the search warrant was overly broad.
+Defendants cite United States v. Hinton, 219 A.2d 324 (7th Cir.1955) wherein the court stated:
+For purposes of satisfying the Fourth Amendment, searching two or more apartments in the same building is no different than searching two or more completely separate houses. Probable cause must be shown for searching each house or, in this ease, each apartment. [Id. at 325-26]
+They also cite State v. Ratushny, 82 N.J. Super. 499 (App.Div.1964), which holds that:
+A warrant which describes an entire apartment building when cause is shown for searching only one apartment is void ... [for failure to] comply with the language of Fourth Amendment [, and] ... [f]or purposes of particularization separate apartments are the same as separate dwellings. [Id. at 505 (citations omitted) ]
+Ratushny is helpful in that the particular language employed therein points up factors to be considered. It is stated:
+... [W]here the premises reasonably believed to house illegal activity are known or reasonably should have been known by the police to be premises being utilized for the occupancy of more than one family, the search warrant must contain as specific a description of the particular area to be searched as the nature of the circumstances reasonably permit. [Id. at 506 (emphasis added)]
+The opinion continues:
+... Where, however, such information is not known, and the police are justified in not inquiring for fear of alerting a suspect, a more general limitation will suffice. If this is the case, the circumstances should be disclosed in the affidavit. [Id.\
+The warrant application specifically points out that there are two apartments on the premises and that an investigation reveals that the owner lives in the second floor apartment and that the first floor apartment is vacant. This we find to be based upon reasonable inquiry considering the drug activity and the security measures of the occupants. We conclude that police inquiry upon the premises was not required for fear of alerting the suspect.
+We do not find the warrant to be “too general.” It is reasonable to infer that an owner-occupier of a two family house who has one apartment vacant has access to that apartment and may stash contraband upon any portion of the entire premises. This is not a case where it was known or reasonably should have been known that there were occupied apartments upon the premises other than the apartment where the illegal activity was being conducted. There is no reason to conclude either from the facts contained in the warrant affidavit or from the defense affidavit that the police reasonably should' have known that the first floor apartment was occupied. See State v. Hendricks, 145 N.J.Super. 27, 32-34 (App.Div.1976); State v. Aiello, 91 N.J.Super. 457, 467-68 (App.Div.1966), certif. den. 48 N.J. 138 (1966), cert. den. 388 US. 913, 87 S.Ct. 2106, 18 L.Ed.2d 1351 (1967).
+The issuing judge was not misled by an affidavit that the affiant knew was false or would have known was false except for his reckless disregard of the truth. See United States v. Leon, 468 US. -,---, 104 S.Ct. 3405, 3421-22, 82 L.Ed.2d 677, 698-99, (1984). Nor do we find the warrant to be facially deficient by failing to particularize the apartments to be searched as the affidavit supports the issuance of a warrant to search the entire premises. See United States v. Gusan, 549 F.2d 15 (7th Cir.1977), cert. den. 430 U.S. 985, 97 S.Ct. 1682, 52 L.Ed.2d 379 (1977).
+We reverse the order to suppress.
