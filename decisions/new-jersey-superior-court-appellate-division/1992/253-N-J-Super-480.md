@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1992-02-05"
+citations: ["253 N.J. Super. 480", "602 A.2d 290"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CLARENCE MONTGOMERY, PETITIONER-RESPONDENT, v. ABEX CORP., DIVISION OF SIGNAL STAT, RESPONDENT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/253/cases/0480-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 308064
+cites_cases: ["121 N.J.L. 366", "122 A. 343", "122 N.J.L. 379", "122 N.J.L. 442", "175 A.2d 665", "194 N.J.Super. 27", "2 A.2d 470", "231 N.J.Super. 353", "475 A.2d 1278", "475 A.2d 544", "5 A.2d 490", "5 A.2d 691", "555 A.2d 716", "70 N.J.Super. 422", "96 N.J. 220", "99 N.J.L. 280"]
+---
+
+# Montgomery v. Abex Corp.
+
+## Majority (THOMAS, J.S.C.,)
+
+The opinion of the court was delivered by
+THOMAS, J.S.C.,
+temporarily assigned.
+Respondent, Abex Corp., Division of Signal Stat, (Abex) appeals from a decision of the Workers’ Compensation Court which ordered partial double payment of benefits previously awarded to petitioner, Clarence Montgomery. We reverse and remand.
+The facts are not in dispute. Montgomery sustained a work-related injury in 1980 and on January 16, 1985 was awarded 450 weeks of benefits at $141.68 per week totaling $63,756.00. This award was amended on May 3, 1985 to reflect previous payments of $5,640.00. If paid in correct amounts, the weekly payments would have continued until November 8,1991. Abex mistakenly overcalculated the amount of weekly payments and paid the total award in years instead of 9 years. Abex stopped making payments on May 4, 1990. Montgomery moved successfully, to compel the continuance of weekly payments until November 8, 1991, the original termination date. The Judge of Compensation reasoned as follows:
+We have—a mistake was made here and the money was paid and you can say either too soon and too much in the earlier period and then we have the choice between two evils that we can accept. We can accept one, we have to receive one, we either accept that the carrier stands a loss by paying twice or we accept the evil that the Petitioner goes without benefits during a period that the judgment intended to have benefits and with the type of Statute that the Workers’ Compensation Statute is, to relieve injured workers and that their families from the consequences of work-connected disability, the Statute has to be liberally interpreted to bring about that event and where the Petitioner has not contributed in any way to bring about the causation of the premature payments, then we select which evil is more endurable. I think in the context of the Workers’ Compensation law, the evil of the carrier paying twice is more acceptable than the evil of the Petitioner going without funds from May 4, 1990 to April 8, 1991. The provision of permanent disability benefits is not to compensate for pain and suffering. The provision of permanent disability benefits is to compensate for loss of function—loss of bodily function and the legislature decided 80 or so years ago to provide for a periodic payment for the loss of function. They presumably felt that during such a period of time, the Petitioner would be unable to cope with his lossed [sic] function, but that beyond that he would have found some means of coping and I have to respect that policy____
+Abex has been making payments pursuant to the order.
+In support of the judge’s reasoning, Montgomery has cited King v. Western Electric Co., 122 N.J.L. 442, 5 A.2d 490 (Sup.Ct.1939) and Verra v. Mayor and Council of Hoboken, 70 N.J.Super. 422, 175 A.2d 665 (App.Div.1961). King was not an overpayment case and in Verra, we see an early expression by this court that recovery for overpayments related to workers’ compensation may be obtained in an action-at-law. Neither support the proposition that weekly payments must be made over the full original term notwithstanding earlier full payment.
+Rigid enforcement of a payment schedule may be contrary to general principles of equity. Without doubt, it is contrary to our Supreme Court’s expression in Young v. Western Elec. Co., Inc., 96 N.J. 220, 475 A.2d 544 (1984) that “... an underlying theme of the workers’ compensation law is that there should not be duplicative payments for the same disability.” Id. at 231, 475 A.2d 544.
+Montgomery’s reliance upon Levins v. Fulton Specialty Co., 99 N.J.L. 280, 122 A. 343 (E. & A.1923) and DiMeglio v. Slonk Construction Co., 121 N.J.L. 366, 2 A.2d 470 (Sup.Ct.1938) affd. 122 N.J.L. 379, 5 A.2d 691 (E. & A.1939) is also misplaced. These cases only hold that the Workers’ Compensation Court is statutorily without power to order restitution for overpayment of benefits. In any event, the validity of these cases has been in doubt for some time. See Verra v. Mayor & Council of Hoboken, supra, 70 N.J.Super. 422, 175 A.2d 665 and New Jersey Manufacturers Ins. Co. v. Blau, 194 N.J.Super. 27, 475 A.2d 1278 (App.Div.1984).
+These cases were more recently reviewed in Hajnas v. Engelhard Mineral & Chemical Co., 231 N.J.Super. 353, 555 A.2d 716 (App.Div.1989). In Hajnas, defendant brought a motion before the Division seeking reimbursement for over-payments based upon plaintiff’s undisclosed changed circumstances. The motion was denied based upon DiMeglio. We reversed and remanded outlining a method whereby defendant could recover in a faultless overpayment situation. We adopt that procedure here. The order below is reversed. The case is remanded to determine whether Montgomery has been unjustly enriched and to make factual findings as to the payments made and the amount of overpayment. If a finding of unjust enrichment is made, the Company may then proceed summarily, pursuant to R. 4:67-1, et seq. to collect the overpayment.
