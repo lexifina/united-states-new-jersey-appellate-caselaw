@@ -1,0 +1,44 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2002-03-08"
+citations: ["348 N.J. Super. 613", "792 A.2d 558"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KATIE WOODS, PLAINTIFF-APPELLANT, v. SHOP-RITE SUPERMARKETS, VILLAGE SUPERMARKETS, INC. T/A SHOP-RITE OF SOUTH ORANGE # 245, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/348/cases/0613-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 409723
+cites_cases: ["151 N.J.Super. 71", "153 N.J. 218", "165 N.J. 132", "325 N.J.Super. 112", "329 N.J.Super. 125", "339 N.J.Super. 337", "376 A.2d 563", "754 A.2d 1209"]
+---
+
+# Woods v. Shop-Rite Supermarkets
+
+## Majority (SKILLMAN, P.J.A.D.)
+
+The opinion of the court was delivered by
+SKILLMAN, P.J.A.D.
+The issue presented by this appeal is whether oral notification of an intention to demand a trial de novo following an arbitration award constitutes substantial compliance with the requirement that such a demand be served on the opposing party.
+On July 18, 2000, this personal injury action, which arose out of a slip and fall in one of defendant’s supermarkets, was arbitrated in accordance with Rule 4:21A. The arbitrator determined that both parties were responsible for the accident, and assigned 80% liability to the defendant. The arbitrator also determined that plaintiffs damages were $50,000. Accordingly, the arbitrator entered a molded arbitration award in favor of plaintiff for $40,000 exclusive of prejudgment interest. On July 27, 2000, plaintiff filed a demand for a trial de novo. However, plaintiff failed to serve the demand upon defendant.
+On September 20, 2000, defendant moved to dismiss plaintiffs complaint with prejudice on the ground that plaintiff had failed either to serve a demand for a trial de novo or to file a motion for confirmation of the arbitration award. The motion was supported by a certification of defendant’s counsel, who stated that he first learned plaintiff had filed a demand for a trial de novo when he called the Essex County Court House on September 15, 2000, to inquire about the status of the case.
+Plaintiffs counsel submitted a certification in opposition to the motion which admitted that defendant’s counsel “was inadvertently not provided with a copy of’ the demand for a trial de novo. In addition, plaintiffs counsel alleged that he told defendant’s counsel immediately after the end of the arbitration hearing that “we would definitely de novo the award.” Defendant’s counsel filed a reply certification denying that such a conversation occurred.
+The trial court granted defendant’s motion to dismiss, noting that Rule 4:21A-6(b)(1) requires a demand for a trial de novo not only to be filed with the court but also to be served on all other parties to the action, and that this court held in Jones v. First Nat’l Supermarkets, Inc., 329 N.J.Super. 125, 746 A.2d 1072 (App.Div.), certif. denied, 165 N.J. 132, 754 A.2d 1209 (2000), that this requirement should be strictly enforced. The court stated that even if plaintiffs counsel told defendant’s counsel that he planned to demand a trial de novo, this did not shift the burden to opposing counsel “to ferret out” whether such a demand actually had been filed. Plaintiff filed a motion for reconsideration of the dismissal of her complaint, which the trial court also denied.
+Rule 4:21A-6(b) provides in pertinent part:
+(b) Dismissal. An order shall be entered dismissing the action following the filing of the arbitrator’s award unless:
+(1) within 30 days after filing of the arbitration award, a party thereto files with the civil division manager and serves on all other parties a notice of rejection of the award and demand for a trial de novo and pays a trial de novo fee as set forth in paragraph (e) of this rule; or
+(3) within 50 days after the filing of the arbitration award, any party moves for confirmation of the arbitration award and entry of judgment thereon.
+[Emphasis added.]
+In Jones v. First Nat’l Supermarkets, Inc., supra, 329 N.J.Super. at 127, 746 A.2d 1072, we held that because “[t]he express language of R. 4:21A-6(b)(1) provides that both filing and service of the demand must be accomplished within thirty days of the entry of an arbitration awardf,] ... the requirement of [such] service should be strictly enforced.” However, in Corcoran v. St. Peter’s Med. Ctr., 339 N.J.Super. 337, 339, 771 A.2d 707 (App.Div.2001), we also held that “the substantial compliance doctrine applies to service of a demand for a trial de novo.”
+A party asserting substantial compliance with the requirements of a statute or court rule must show:
+(1) the lack of prejudice to the defending party; (2) a series of steps taken to comply with the statute [or rule] involved; (3) a general compliance with the purpose of the statute [or rule]; (4) a reasonable notice of petitioner’s claim, and (5) a reasonable explanation why there was not a strict compliance with the statute [or rale].
+[Alan J. Cornblatt, P.A. v. Barow, 153 N.J. 218, 239, 708 A.2d 401 (1998) (quoting Bernstein v. Board of Trs. of Teachers' Pension & Annuity Fund, 151 N.J.Super. 71, 76-77, 376 A.2d 563 (App.Div.1977)).]
+In Corcoran, we held that a defendant which mistakenly served its demand for a trial de novo upon plaintiffs original counsel instead of its substituted counsel had substantially complied with the service requirement of the court rule. We concluded that
+defendant took a “series of steps” to comply with N.J.S.A. 2A:23A-26 and Rule 4:21A-6(b)(1) by both filing and serving its demand within the prescribed thirty day time, and that those actions constituted “general compliance with the purpose of the statute!,]” which is to require a prompt demand for a trial de novo in cases subject to mandatory arbitration.
+[Id. at 343-44, 771 A.2d 707 (citations omitted).]
+We also concluded that defendant provided a
+“reasonable explanation” for its failure to strictly comply with the service requirement. Even if defendant’s counsel received a fully executed and filed substitution of attorney in April 1999, it is easy to understand how a secretary assigned responsibility for serving a copy of a demand for a trial de novo could mistakenly mail the document to a party’s original attorney, whose name would appear on the first pleading and probably also the cover of the case file.
+[Id. at 344, 771 A.2d 707.]
+In contrast, plaintiff did not take any steps to satisfy the requirement that a demand for a trial de novo be served upon the opposing party. Plaintiff did not simply make a mistake in serving its demand upon an opposing party’s prior attorney; it completely failed to serve the demand upon anyone. Even if plaintiffs counsel gave his adversary oral notice of an intention to file a demand for a trial de novo, this would not constitute substantial compliance with the service requirement. It is not unusual for an attorney or party to express an intent to take further legal action immediately after a hearing or trial but then, after an opportunity for further reflection, to have a change of mind. Consequently, such an expression of future intent is not equivalent to notice that further legal action actually has been initiated. Moreover, oral notice is not an adequate substitute for service of a written pleading. As this case illustrates, a person’s recollection of giving or receiving oral notice may be fallible, and if we were to hold that oral notice could constitute substantial compliance with a service requirement, this would necessitate an evidentiary hearing any time there was a dispute as to whether such notice had been given. Therefore, we conclude that the oral notice plaintiffs counsel allegedly gave defendant’s counsel of an intent to file a demand for a trial de novo did not constitute “a series of steps taken to comply” with the service requirement or “general compliance with the purpose” of this requirement. Cornblatt, supra, 153 N.J. at 239, 708 A.2d 401.
+Furthermore, plaintiff failed to provide “a reasonable explanation why there was not a strict compliance” with the service requirement. Ibid. In fact, the certification plaintiff submitted in opposition to defendant’s motion to dismiss did not include any explanation for the failure to serve the demand for a trial de novo upon defendant.
+Affirmed.
+We note that plaintiff did not seek an extension of time to move for coniirmation of the arbitration award as alternative relief in the event the trial court concluded she was not entitled to a trial de novo. See Allen v. Heritage Court Assocs., 325 N.J.Super. 112, 737 A.2d 1158 (App.Div.1999). Plaintiff's counsel confirmed at oral argument before us that he deliberately elected not to seek such relief.
