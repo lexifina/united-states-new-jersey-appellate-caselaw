@@ -1,0 +1,26 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1950-04-17"
+citations: ["7 N.J. Super. 188"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DOMINICK T. ALBANESE, PLAINTIFF-RESPONDENT, v. GABRIEL MACHETTO, RALPH R. FEIGELSON, JOSEPH J. JIALDNI, LOUIS A. AXT, HARRY BUESSER, INDIVIDUALLY AND AS THE BOARD OF COMMISSIONERS OF THE TOWNSHIP OF NORTH BERGEN IN THE COUNTY OF HUDSON, AND GERALD CAPASSO, FRANK CAPASSO, ANTHONY ROTONDO, DOMINICK ROTONDO, MICHAEL ALBANESE, DOING BUSINESS UNDER THE FIRM NAME AND STYLE OF HUDSON SANITATION CO. DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/7/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 359972
+cites_cases: ["1 N. J. Super. 163", "110 N. J. L. 370", "41 N. J. L. 332", "82 N. J. L. 266"]
+---
+
+# Albanese v. Machetto
+
+## Majority (Colie, J. A. D.)
+
+The opinion of the court was delivered by
+Colie, J. A. D.
+Gabriel Machetto and four named individuals comprising the Board of Commissioners of the Township of North Bergen, together with Gerald Capasso and four other individuals doing business under the name of Hudson Sanitation Co. appeal from a judgment in favor of Dominick T. Albanese which set aside the award to the Hudson Sanitation Co. of a contract for the 'removal of garbage in the Township of North Bergen. Hudson Sanitation Co. was the low bidder.
+The plaintiff, Dominick T. Albanese, a taxpayer and resident of the township, filed a complaint seeking to set aside the award of the contract upon the ground of failure to comply with the specifications. The defendants answered the complaint and thereafter plaintiff moved for summary judgment. Upon the motion, the court below had before it affidavits of both plaintiff tad the defendants. The ground upon which summary judgment was entered was the failure of Hudson Sanitation Co. to meet the requirement of the written proposal that “each proposal must be accompanied by * * * a certificate from a surety company * * * that said company will provide the bidder with a bond required by the contract, should the bidder be awarded the contract.” Hudson Sanitation Co. did not furnish the prescribed certificate hut in lieu thereof its bond for $5,000 with Royal Indemnity Company as surety thereon, conditioned that it as principal would, if its bid was accepted, “enter into a contract for the completion of said work and give the required bond with good and sufficient surety for the faithful performance thereof.” Thereafter, a completion bond in the sum of $74,900 was tendered the municipality with the same company as surety thereon.
+In addition to the ground upon which the court below based its action, we point out that the bidder did not comply with another requirement of the specifications in that it did not “submit satisfactory proof of evidence of ownership or leases for five trucks suitable for the removal of the garbage specified herein.” We discern no difference in principle between the failure to comply with the requirement of evidence of ownership and leases in the instant case and the failure to furnish proof of ownership of a dumping ground or a lease therefor which was held to be a non-compliance with the specifications in Tufano v. Cliffside Parle, 110 N. J. L. 370 (Sup. Ct. 1933).
+The Board of Commissioners of the municipality was without authority to waive any substantial variance between the specifications and the proposal submitted. We think that the two cited particulars in which Hudson Sanitation Co. failed to comply with the specifications were substantial in that they went to the question of the ability of the bidder to carry out the obligations under the contract to remove the garbage. Tufano v. Cliffside Park, supra. Cf. Hornung v. West New York, 82 N. J. L. 266 (Sup. Ct. 1911).
+The status of the plaintiff, a taxpayer of the municipality, to maintain the present action is strongly attacked. The prerogative writs have long been available to private persons to remedy wrongful acts of public officials when such person is one of a class of persons most directly affected in their enjoyment of public rights and the public convenience will be subserved thereby. Ferry v. Williams, 41 N. J. L. 332 (Sup. Ct. 1879); Schwartz v. Essex County, etc., 129 Id. 129 (Sup. Ct. 1942); affirmed, 130 Id. 177 (E. & A. 1943). There can be no serious dispute but that the awarding of the contract herein was a wrongful act in the sense that it thwarted the legislative mandate as expressed in R. S. 40 :50 — 1 and 40:66-4 as amended. In Haines v. Burlington Go. Bridge Comm., 1 N. J. Super. 163 (App. Div. 1949), Judge Jacobs said that “broad and wholesome recognition of taxpayers’ suits as an effective means for restraining official misconduct is found not only in our own State but in other States throughout the country.” We are of the opinion that the plaintiff has a sufficient status to prosecute the present suit. To hold otherwise would result in circumventing the public policy of the State with reference to public bidding on municipal contracts since there would be no one to press the objection to the action under review.
+The judgment is affirmed.
