@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1973-11-12"
+citations: ["125 N.J. Super. 420"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DONALD FORD AND ADELE FORD, APPELLANTS, v. ROSE DEITELBAUM MIMKON, RESPONDENT."]
+source_url: "https://static.case.law/nj-super/125/cases/0420-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 298713
+cites_cases: ["61 N. J. 89"]
+---
+
+# Ford v. Mimkon
+
+## Majority (Halpern, P. J. A. D.)
+
+The opinion of the court was delivered by
+Halpern, P. J. A. D.
+The narrow issue on this appeal is whether a grandparent has the legal right to visit with her seven-year-old granddaughter (her deceased daughter’s child) when the natural father, and his second wife who has legally adopted the child, refuse to permit it.
+Eespondent Eose Mimkon was the mother of Joan Ford who died on November 24, 1970. Jill Ford was born to appellant Donald Ford and Joan Ford on July 2, 1966. The Fords separated prior to Jill’s birth and were divorced in November 1968. Eespondent resided with her daughter and Jill from the date of Jill’s birth to the date of Joan’s death, at which time Donald Ford took custody of Jill. In June 1969 Donald Ford married appellant Adele Ford. On August 13, 1971 a judgment was entered granting the adoption of Jill to Adele.
+Fo useful purpose would be served in setting forth the various court proceedings instituted by respondent, following Joan’s death, to obtain the legal right to visit with Jill. Suffice it to say, the trial court found it to be for the best interest of Jill that respondent have the right to visit Jill. It based its decision on N. J. S. A. 9:2-7.1, effective February 1, 1972, which provided:
+Where either or both of the parents of a minor child, residing within this State, is or are deceased, a grandparent or the grandparents of such child, who is or are the parents of such deceased parent or parents, may apply to the Superior Court for a writ of habeas corpus to have such child brought before such court; and on the return thereof, the court may make such order or judgment, as the best interest of the child may require, for visitation rights for such grandparent or grandparents in respect to such child.
+It further held that the provisions of our adoption statute, N. J. S. A. 9 :3-17 et seq., as amended in 1953, did not “override” N. J. S. A. 9 :2-7.1, but that the statutes should be read in pari materia. So construed, it granted visitation rights to respondent. This appeal followed.
+Before dealing with the issues in this case, we should fake note that N. J. S. A. 9 :2-7.1 was amended, effective May 2, 1973, to provide
+Where either or both of the parents of a minor child, residing within this State, is or are deceased, or divorced or living separate and apart in different habitats, regardless of the existence of a court order or agreement, a grandparent or the grandparents of such child, who is or are the parents of such deceased, separated or divorced parent or parents, may apply to the Superior Court, in accordance with the Kules of Court, to have such child brought before such court; and the court may make such order or judgment, as the best interest of the child may require, for visitation rights for such grandparent or grandparents in respect to such child.
+Thus, as is indicated in the Committee Statement attached to the statute, grandparents’ visitation rights were expanded, and jurisdiction placed in the Superior Court under rules of court rather than by habeas corpus.
+We disagree with the trial court’s interpretation of N. J. S. A. 9:2-7.1 and N. J. S. A. 9:3-17 et seq. The clear intent of the Legislature, as expressed in the statement of public policy in the adoption statute, was to protect the adopted child from interference by his natural parents after he has been established in his adoptive home; and to protect the adopting parents from later disturbance of their relationship with the child by the natural parents. N. J. S. A. 9:3-17. If the natural parents are barred from visitation rights with their own child after adoption, it makes little sense to say that the Legislature intended, however, to give such rights to grandparents.
+Other provisions in the adoption statute support our views that after adoption the adopting parents may refuse to permit a grandparent to visit with a grandchild despite the special visitation rights given to grandparents under N. J. S. A. 9 :2-7.1. The term "parent” is defined as meaning a natural parent or a parent by adoption. N. J. S. A. 9 :3-18(f). Adoption is only to be granted where it is in the best interests of the child. N. J. S. A. 9 :3-27(C). The judgment of adoption terminates all relationships between the child and his natural parents — it establishes the same legal relationship between the child and its adopting parents as though born to the adopting parents in lawful wedlock. N. J. S. A. 9 :3-30(A) and (B).
+We have recognized the drastic and final nature of a judgment of adoption, and trial courts have been made aware that even a nonconsenting natural parent may be "permanently cut off from all parental rights and benefits, tangible and intangible, including even the privilege of seeing and visiting his child, as if it were never his, S: *** In re Adoption of Children by D, 61 N. J. 89, 92-93 (1972). In short, grandparents’ rights of visitation with grandchildren can rise no higher than the rights afforded natural parents after an adoption has taken place. Such a holding in no way dilutes the rights given grandparents under N. J. S. A. 9 :2-7.1 to visit with their grandchildren, if such is for the child’s best interest, and the necessary facts exist so as to make the statute applicable.
+Respondent points to an Assembly bill which attempted to add on to N. J. S. A. 9 :2-7.1, at the time of its passage, that grandparents’ visitation rights were to be terminated automatically in the event of an adoption. Respondent argues that the Legislature’s failure to enact the added provision indicates it intended to give grandparents visitation rights where adoption has taken place. We disagree. It would be pure speculation to arrive at that conclusion. It could just as well be said that the Legislature felt the attempted addition was superfluous in view of the clear language to the contrary in the adoption statute.
+We are not insensitive to the bitter feelings which our decision will evoke from respondent and other persons similarly situated. However, the adoption statute makes it crystal clear that appellants must be given the opportunity of exercising their best judgment in doing that which they believe essential for Jill’s best interests.
+The judgment granting visitation to respondent is reversed.
