@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1952-08-25"
+citations: ["21 N.J. Super. 167"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EDISON HEDGES, RESPONDENT, v. HOUSING AUTHORITY OF THE CITY OF ATLANTIC CITY, APPELLANT."]
+source_url: "https://static.case.law/nj-super/21/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 453115
+cites_cases: ["120 N. J. L. 246", "123 N. J. L. 116", "312 Mass. 371", "44 N. E. 2d 648", "67 N. J. L. 324", "7 N. J. 102", "76 N. H. 311", "82 A. 839", "9 N. J. Super. 294", "91 N. J. L. 160"]
+---
+
+# Hedges v. Housing Authority
+
+## Majority (Bigelow, J. A. D.)
+
+At the conclusion of the argument, the Court conferred and then affirmed the judgment for the reasons stated orally by
+Bigelow, J. A. D.
+My colleagues and I are agreed on the decision of the appeal.
+The defendant, Housing Authority of Atlantic City, appeals from the judgment in a negligence action rendered by the Atlantic County District Court. The questions are whether there was evidence of negligence to support the verdict and whether the verdict was excessive.
+The Housing Authority owns and manages a group of apartment houses which are surrounded by lawns and shrubbery. Concrete walks, each about four feet wide, as appears from the photograph, run from the street to the apartment houses and, at right angles to these walks, another walk parallels the front of the houses. The walks are separated from the grass plots by chains suspended from angle-iron posts that are approximately 26 inches high and that are set at the edges of the walks at intervals of six feet or so.
+The plaintiff came to call on one of the tenants. He approached the house by what I may call the wrong path, because he was mistaken as to which entry reached his client’s apartment. Learning of his mistake, he started for the walk that is parallel with the building, to go to the right entrance; and, as he was turning from the one path to the other, his overcoat caught on the corner post, throwing him to the ground and causing the injuries on account of which ho sues.
+The complaint alleges that his fall was caused by “a chain negligently placed across the pathway.” Ho evidence was offered to prove the cause of action so charged, but instead evidence was presented that the accident happened in the way already set forth. The defendant did not object to the variance. If objection had been made, doubtless an amendment to .the complaint would have been allowed and, if the defendant were thereby taken by surprise, the trial would have been continued. Thompson v. Peppler, 91 N. J. L. 160 (E. & A. 1917). An amendment can be allowed even upon the appeal to make the complaint conform to the proofs. The variance is not of importance in this case because it was cured by the defendant’s failure to make objection at the trial.
+The concrete path upon which the plaintiff was walking at the time of the accident was provided by the defendant for the' common use of the tenants and others having lawful occasion to visit them. The plaintiff was such a one. He was an invitee to whom the defendant owed a duty of reasonable care to render the passageway reasonably safe. Daniels v. Brunton, 9 N. J. Super. 294 (App. Div. 1950), affirmed 7 N. J. 102 (1951).
+The post on which the plaintiff’s coat caught had “a sharp protruding corner” at the top. Although the accident occurred between half an hour and an hour after sunset, it was dark a,t the time. Plaintiff’s wife, who was waiting in an automobile at the curb, testified that she could see the outline of his figure until suddenly he “disappeared,” which I take to refer to his falling to the ground. The only artificial illumination came from the windows of the apartments. Plaintiff testified that he did not notice the angle-iron post prior to the accident.
+Generally a landlord is under no duty to light a common passageway; but if the passageway is so constructed or maintained as to be dangerous, and the landlord is chargeable with notice of the condition, he must provide a light so that the danger may be readily seen, or he must provide another safeguard. Higgins v. County Seat B. & L. Assn., 123 N. J. L. 116 (Sup. Ct. 1939). Perhaps it were better stated that a landlord who negligently fails to provide a passageway that is safe in the dark, may absolve himself from liability by lighting the passageway so that its use becomes safe.
+The defendant points out that the post, which occasioned plaintiff’s downfall, stood not in the walk itself but in the grass plot beside the walk; and that the plaintiff’s implied invitation was confined to the paved walk and did not extend to the grass plot. Cortright v. Rutgers College, 120 N. J. L. 246 (E. & A. 1938). The duty owed by the landlord in the present case may he likened to the. duty of the owner of land abutting a highway. Bacon v. Jaques, 312 Mass. 371, 44 N. E. 2d 648 (Mass. 1942). Where an abutting owner makes an excava!ion or other artificial condition so near to the highway that it involves an unreasonable risk to travelers, be is liable for injury thereby caused. Sutphen v. Hedden, 67 N. J. L. 324 (E. & A. 1902); Restatement, Torts, § 368. This rule has been applied to the case of one who tripped on a stake driven close to a public sidewalk. Chickering v. Thompson, 76 N. H. 311, 82 A. 839 (N. H. 1912).
+The defendant further argues that in the absence of evidence to the contrary, the trial court should have assumed that a short iron post, with a sharp, protruding corner, placed at the edge of the sidewalk, was in conformity with ordinary practice and did not offend accepted standards of safety. We cannot concur in that view. No expert evidence was necessary on the question of negligence. In our opinion, the question was properly left to the jury whether the defendant was guilty of negligence in the premises. We find further that there was sufficient evidence to support the jury’s finding that there was negligence. While the amount of the verdict, $615, was liberal, it does not appear to bave been so clearly excessive as to warrant our intervention.
+The judgment is affirmed.
