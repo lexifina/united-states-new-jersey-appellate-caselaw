@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1972-01-27"
+citations: ["118 N.J. Super. 116"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROY LEE HEAVNER AND REBECCA HEAVNER, PLAINTIFFS-APPELLANTS, v. UNIROYAL, INC., A CORPORATION OF THE STATE OF NEW JERSEY, AND PULLMAN, INC., A CORPORATION OF THE STATE OF DELAWARE, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/118/cases/0116-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 337448
+cites_cases: ["113 N. J. Super. 509", "197 A. 2d 612", "220 A. 2d 853", "413 Pa. 415", "422 Pa. 424", "45 N. J. 434", "47 N. J. 183", "51 N. J. 130", "92 N. J. Super. 315"]
+---
+
+# Heavner v. Uniroyal, Inc.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This personal injury and property damage action arises from the crash of plaintiff Eoy Lee Heavner’s truck in North' Carolina. In October 1966 plaintiff purchased from defendant Pullman, Inc. in Charlotte, North Carolina, a trailer and eight new Uniroyal truck tires. While driving the vehicle in North Carolina in April of the following year an accident occurred, causing it to be damaged and resulting in very severe injuries to plaintiff involving loss of eyesight.
+Heavner and his wife brought this action in September 1970, charging that the accident was caused by a blowout of a defective tire manufactured by Uniroyal and sold to him by Pullman. Plaintiffs assert that both defendants are liable for breach of express and implied warranty, strict liability in tort, strict liability for misrepresentation, and negligence. The trial court granted both defendants’ motions to dismiss the personal injury aspect of the action on the ground that it was barred by N. J. S. A. 2A:14-2, which provides:
+Every action at law for an injury to a person caused by the wrongful act, neglect or default of any person within this state shall be commenced within 2 years next after the cause of any such action shall have accrued.
+Plaintiffs appeal, contending that the injuries resulted from breaches of contract and warranty and consequently that they fall within the purview of the four-year limitation contained in the Uniform Commercial Code. The thesis is that such injuries are different in character from other personal injury claims which must be brought within two years. The distinguishing factor, they argue, is the presence of a sale of an item which causes the personal injury. On that thesis the argument proceeds that the Legislature has granted the victim a longer period in which to sue. The Uniform Commercial Code provision reads as follows :
+(1) An action for breach of any contract for sale must be commenced within four years after the cause of action has accrued. By the original agreement the parties may reduce the period of limitation to not less than one year but may not extend it. IN. J. S. A. 12A :2-725]
+The narrow issue involved is whether the two-year statute of limitation provision of N. J. 8. A. 2A:14-2 or the four-year provision of the Uniform Commercial Code in N. J. 8. A. 12A:2-725 is applicable to the personal injury claim.
+No appellate court of this State has thus far expressly decided this issue. The Pennsylvania Supreme Court has held that the four-year limitation governs in that state, on the basis that it has always been “recognized that a personal injury claim based upon a breach of warranty is a distinct claim from a personal injury claim based on negligence.” Gardiner v. Philadelphia Gas Works, 413 Pa. 415, 197 A. 2d 612, 614 (1964). It might be noted that Pennsylvania, after its Gardiner decision, adopted strict liability in tort in Webb v. Zern, 422 Pa. 424, 220 A. 2d 853 (Sup. Ct. 1966). In view of this holding, it is at least debatable whether the old distinction between types of personal injury actions set forth in Gardiner still will be recognized in Pennsylvania.
+The case law of New Jersey in the products liability field suggests that such a distinction is more fancied than real and that the question involved is simply one of semantics. See Rosenau v. New Brunswick, 51 N. J. 130 (1968), where the court frankly recognized that the responsibility of a manufacturer to a consumer was grounded in strict liability in tort. See also, Associates Discount Corp. v. Palmer, 47 N. J. 183 (1966), in which Justice Hall’s concurring opinion refers to the Gardiner case. In a footnote Justice Hall stated:
+New Jersey now views such actions as grounded in strict liability in tort, rather than in breach of a warranty of sale. See Cintrone v. Hertz Truck Leasing and Rental Service, 45 N. J. 434 (1965). It would seem, therefore, that we would, despite our adoption of the code, probably still apply the general two-year statute, [at 193]
+In the recent case of Garfield v. Furniture Fair-Hanover, 113 N. J. Super. 509 (Law Div. 1971), Judge Eusco held that N. J. S. A. 2A :lA-2 applied to injuries resulting from a bed which had collapsed. The bed had been loaned to plaintiffs by defendant. The court opined that even if the transaction were a sale rather than a bailment, N. J. S. A. 2A:lA-2 would still apply since there was nothing in N. J. S. A. 12A:2-725 indicating that the Legislature intended to supersede the normal statute of limitations in personal injury actions. See also Raskin v. Shulton, Inc., 92 N. J. Super. 315 (App. Div. 1966).
+We agree that actions of this kind, even though they may arise out of the consequences of sales, are essentially personal injury actions and as such are controlled by the two-year statute of limitation provision. Denominating them as actions arising out of a breach of contract or misrepresentation does not change their inherent character.
+Furthermore, as a matter of legislative interpretation, we perceive no intention on the part of the Legislature, in adopting N. J. 8. A. 12A:2-725 as a part of the Uniform Commercial Code, to change the two-year statute of limitation period normally applicable to personal injury- actions under N. J. S. A. 2A:14-2. The fact that the Legislature amended the companion section. N. J. 8. A. 2A:14-1, to eliminate its applicability to an action “for breach of any contract for sale governed by N. J. 8. A. 12A :2-275,” while making no similar amendment of N. J. 8. A. 2A:14^2 tends to confirm this conclusion.
+Affirmed.
