@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1972-03-10"
+citations: ["118 N.J. Super. 472"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. JEROLD L. KAUFMAN, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/118/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 337401
+cites_cases: ["113 N. J. Super. 11", "217 A. 2d 28", "256 A. 2d 439"]
+---
+
+# State v. Kaufman
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was indicted bjr a Morris County grand jury in a two-count indictment charging him with (1) threatening the life of another (N. J. S. A. 2A:113-8), and (2) carrying a firearm in his possession without first having obtained a permit to carry same (N. J. S. A. 2A:151-41 (a)). Both offenses occurred in the Township of Parsippany-Troy Hills. He was convicted of the first count after a jury trial, and of the second count by the county judge sitting without a jury, the judge having determined that the second count involved only a question of statutory interpretation and not one of fact.
+On this appeal, with respect to the conviction under N. J. S. A. 2A.113-8, defendant contends that to commit the crime of threatening to kill, the State must establish that the victim actually feared or was under apprehension that he was going to be killed. Defendant argues that this principle was established in State v. Schultheis, 113 N. J. Super. 11, 17 (App. Div. 1971). The failure of the trial judge to so charge the jury is claimed to warrant reversal. We disagree. While certain of the language of Schultheis seems to indicate the result claimed by defendant here — “[i]t is necessary only that the threats impart the expectation of bodily harm or death, thereby inducing fear and apprehension in the person threatened” (at 17); emphasis added — we are satisfied what was meant to be conveyed was that the existence of fear and apprehension in a victim made it irrelevant that the threat was conditional.
+Schultheis relied upon State v. Cashman, 217 A. 2d 28 (Me. Sup. Jud. Ct. 1966), and State v. Lizotte, 256 A. 2d 439 (Me. Sup. Jud. Ct. 1969), which construed a Maine statute essentially similar to N. J. 8. A. 2A:113-8. Those decisions make it abundantly clear that the gravamen of the offense- involves the communication of a threat to kill in such terms as would in the attendant circumstances convey to an ordinary individual that the language seriousfy threatened death. Thus, in Lizotte it is stated:
+The essence of an oral threat is that it is a verbal act and if that act is of such a nature as to convey the menace to an ordinary hearer, the statute is violated. No more does it matter whether or to what degree the threat engenders fear or intimidation in the intended victim. Some men are braver than others and less easily intimidated. We do not ask whether or not this defendant succeeded in frightening a xsolice officer. We ask only whether or not he used words which would under the circumstances then existing be heard by an ordinary person as being spoken not in jest but as carrying the serious promise of death, [at 443]
+Defendant also argues that the trial judge mistakenly exercised discretion in excluding proffered testimony as to defendant being active in certain Black organizations, and also in permitting Magistrate Bock to testify. We see no mistaken exercise of the trial judge’s discretion in either ruling. As to the latter ruling, the record amply demonstrates that defendant opened the question of his reputation in the community, thus entitling the State to rebut it by producing testimony as to the specific traits of character involved in the offense charged.
+Finally, we do not agree with defendant’s argument that once he has a permit for a firearm, he can thereafter acquire as many others as he chooses without registering those after-acquired firearms. We disagree with his reading of N. J. 8. A. 2A :151-41-44 which provides, in part, that “[o]ne permit shall be sufficient for such revolvers, pistols or other firearms as the applicant may possess.” We are satisfied the meaning of this provision is that one permit may cover all of the firearms that an individual possesses at the time that the permit is issued, once they have been described to the appropriate issuing authority; in short, he does not have to obtain a separate permit for each particular firearm which he owns. A firearm acquired after the issuance of a permit (as was the case here) requires separate registration so as to be included within the terms of an existing permit. To hold otherwise would, in our judgment, negate the statutory requirement contained in N. J. 8. A. 2A :151-44, that the police officer from whom a permit is sought “* * * shall also inquire into and determine the name and address of the manufacturer of the weapon, any and all manufacturer’s identification numbers, letters and marks, and a complete description of the kind and type of revolver or pistol which the applicant intends to carry.”
+Defendant has also argued that the imposition of a one-month custodial sentence by the trial judge was manifestly excessive and should be set aside. We see no merit to this argument and will not disturb the sentence imposed.
+The judgments of conviction are affirmed.
