@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1983-12-21"
+citations: ["192 N.J. Super. 280"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["J.I. KISLAK REALTY CORPORATION, PLAINTIFF-RESPONDENT, v. 6051 BOULEVARD EAST CORPORATION, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/192/cases/0280-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 903181
+cites_cases: ["105 N.J.Eq. 741", "12 N.J. 310", "133 N.J.Eq. 416", "32 N.J.Eq. 233", "32 N.J.Eq. 826", "44 N.J.L. 331", "50 N.J. 528"]
+---
+
+# J.I. Kislak Realty Corp. v. 6051 Boulevard East Corp.
+
+## Majority (BRODY, J.A.D.)
+
+The opinion of the court was delivered by
+BRODY, J.A.D.
+Plaintiff-broker obtained a summary judgment in the amount of $18,000, its commission on the sale of defendant’s property. The sale never closed. In a certification, one of plaintiff’s salesmen stated that “defendant refused to complete the sale and cancelled the scheduled closing.” If the failure to close was defendant’s fault, defendant must pay the commission. Ellsworth Dobbs, Inc. v. Johnson, 50 N.J. 528, 551 (1967). In his affidavit opposing plaintiff’s motion, defendant’s president blamed the purchaser for the failure to close. If the purchaser is to blame, plaintiff must look exclusively to the purchaser for its commission. Id. at 558-561.
+The trial judge found defendant’s affidavit lacking in sufficient specificity to raise a genuine issue on the point. Defendant’s president said only, “Prior to the closing date the prospective purchaser of the subject property unilaterally imposed new conditions upon his purchase of the property.” We agree that this statement lacks the “specific facts showing that there is a genuine issue for trial” called for by R. 4:46-5 to avert entry of a summary judgment.
+The judge erred, however, in entering judgment on all issues. In his affidavit defendant’s president went on to say that the dispute over the commission was settled by an oral agreement with “plaintiff’s agent.” By that alleged agreement plaintiff dropped its claim for a commission in consideration for defendant’s giving plaintiff a new exclusive listing for the property in question and for two other properties. Plaintiff does not deny that after the dispute arose, defendant gave it exclusive listings to sell the three properties. In reply certifications, plaintiff’s president and the salesman denied that’plaintiff accepted the listings in satisfaction of its claim for a commission. The motion papers thereby presented the triable issue of whether there was an accord and satisfaction.
+The judge summarily disposed of the issue by declining to consider defendant’s assertion of settlement because the three listing agreements do not include in their recital of consideration that they were made in consideration for plaintiff’s release of its claim. This is a misapplication of the parol evidence rule. The rule is not a rule of evidence, but of substantive law. Harker v. McKissock, 12 N.J. 310, 321 (1953). That is to say, the purpose of the parol evidence rule is not to exclude unreliable evidence, but to exclude evidence, however reliable, of negotiations and understandings which the parties intended to supplant with the agreement under consideration. Thus parol evidence is admissible to prove that a writing, though integrated on its face, was not intended by the parties to become effective as a contract. Union Fur Shop, Inc. v. Max Meizer, Inc., 133 N.J.Eq. 416, 419 (E. & A.1942). “Oral evidence is admissible to reform a written instrument, or to subvert or overthrow it entirely, but not to vary or alter it.” Van Syckel v. Dalrymple, 32 N.J.Eq. 233, 235 (Ch.1880), aff’d 32 N.J.Eq. 826 (E. & A.1880).
+Defendant does not seek to vary the terms of the listing agreements. Rather it contends that those agreements—as written—were intended as consideration for a collateral oral agreement by which the parties settled plaintiff’s disputed claim for a commission. That contention is an acceptable basis in this case for admitting the parol evidence. If there was a settlement, absence of any reference to it in the listing agreements does not suggest that the parties intended the listing agreements to nullify the collateral settlement agreement. Dreschler v. Dreschler, 105 N.J.Eq. 741, 744 (Ch.1929); see Naumberg v. Young, 44 N.J.L. 331, 335 (Sup.Ct.1882). In this context, Wig-more notes that if “the particular element of the alleged extrinsic negotiation is [not] dealt with at all in the writing ... then probably the writing was not intended to embody that element of the negotiation.” 9 Wigmore, Evidence (Chadbourne rev. 1981), § 2430 at 99; (emphasis in original). McCormick puts it this way:
+... [T]he idea of allowable collateral agreements has enabled judges to follow their common sense and instinct for justice by furnishing them an escape from the formula against “varying, contradicting, or adding to” the writing, when a litigant seeks to establish an oral agreement which might reasonably have been intended to stand after the writing was signed. [McCormick, Evidence, § 211 at 430 (1954)]
+We affirm the entry of partial summary judgment in favor of plaintiff on the issue of entitlement to the commission, subject to later adjudication of the issue of accord and satisfaction. Reversed in part and remanded for further proceedings consistent herewith. We do not retain jurisdiction.
