@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1980-02-13"
+citations: ["172 N.J. Super. 209"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SHIRLEY ROWE, MARVIN TAYLOR, P. J. GRANT AND BARBARA GRANT, PLAINTIFFS-RESPONDENTS, v. PITTSGROVE TOWNSHIP, A MUNICIPAL CORPORATION OF NEW JERSEY, DEFENDANT-APPELLANT. JACOB HELIG, INDIVIDUALLY AND IN HIS CAPACITY AS MAYOR OF PITTSGROVE TOWNSHIP, GEORGE KERSHAK, INDIVIDUALLY AND IN HIS CAPACITY AS HOUSING INSPECTOR OF PITTSGROVE TOWNSHIP, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/172/cases/0209-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 287115
+cites_cases: ["423 U.S. 808", "429 U.S. 252", "434 U.S. 1025", "46 L.Ed.2d 28", "530 F.2d 176", "54 L.Ed.2d 772", "558 F.2d 1283", "67 N.J. 151", "72 N.J. 481", "96 S.Ct. 18", "98 S.Ct. 752"]
+---
+
+# Rowe v. Pittsgrove Township
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Defendant municipality appeals “from the whole of the' final judgment entered by the Superior Court, Law Division, Salem County ... in favor of Shirley Rowe, P. T. Grant and Barbara Grant, plaintiffs-respondents, on July 5, 1978.” There is no judgment dated July 5, 1978 but there is an order on plaintiffs’ motion to enforce litigants’ rights, “more specifically, to secure permanent relocation housing located within Pitts-grove Township and a determination that offered relocation housing in the City of Bridgeton was inconsistent with Plaintiffs’ rights under the New Jersey relocation laws, Constitution' and federal Civil Rights Act of 1968, 42 U.S.C. 3601 et seq. . .” We assume that such order resulted from the trial judge’s opinion and that the appeal is taken from that order.
+Generally speaking, the history of plaintiffs’ endeavors to obtain relocation assistance to safe, decent and sanitary housing in accordance with N.J.S.A. 52:31B 1 et seq. and N.J.S.A. 20:4 1 et seq. appears in the trial court opinion.
+There was no pretrial conference. There was no testimony as to whether defendant was a developing municipality or as to the effect of Mrs. Rowe being relocated in Bridgeton upon the racial balance in Bridgeton. There was no hearing at which those questions were argued. There was a lack of any evidence introduced at a hearing to support the trial judge’s conclusion that the municipality was subject to South Burlington Cty. NAACP v. Mt. Laurel Tp., 67 N.J. 151 (1975), app. dism. and cert. den. 423 U.S. 808, 96 S.Ct. 18, 46 L.Ed.2d 28 (1975). There was a lack of evidence introduced at any hearing of the racial makeup of Bridgeton. The trial judge’s holding that defendant was subject to South Burlington Cty. NAACP v. Mt. Laurel Tp., supra, 67 N.J. 151, and that the relocation of Mrs. Rowe to Bridgeton violated her constitutional rights was not supported by any evidence adduced at a hearing at which defendant had notice that those issues would be determined and at which it would have an opportunity to introduce evidence and argue the issues. Obviously, for that reason, if for no other, the determination of the trial judge on those issues would have to be reversed.
+The trial judge held that a municipality which displaces residents of its community by the affirmative act of building code enforcement is under a duty to assist those persons through relocation within the municipality. Neither N.J.S.A. 20:4 1 et seq. nor N.J.S.A. 52:31B 1 et seq. requires a municipality to relocate displaced persons within the territorial confines of the municipality. N.J.A.C. 5:11 1.1 et seq., promulgated by the Commissioner of the Department of Community Affairs under the authority of N.J.S.A. 20:4 10, does not require relocation within the municipality. See Katsev v. Coleman, 530 F.2d 176 (8 Cir. 1976).
+There was no dispute that alternate housing was not available in defendant township. In effect, the trial judge held that defendant was required to provide such housing by building. South Burlington Cty. NAACP v. Mt. Laurel Tp., supra, 67 N.J. 151, does not require a municipality subject to its application to build. See Oakwood at Madison, Inc. v. Madison Tp., 72 N.J. 481, 546 (1977). The only statute which might be construed to require a municipality to build is N.J.S.A. 20:4 9, which is not applicable to this case.
+N.J.A.C. 5:11 2.3(b)(4) provided that replacement housing must be “open to all persons regardless of race, color, religion or national origin, in a manner consistent with Title VIII of the Civil Rights Act of 1968 . .” What limited evidence was before the trial court did not support a finding that the replacement housing in this case was not consistent with Title VIII of the Civil Rights Act of 1968. Metropolitan Housing Develop. Corp. v. Arlington Heights, 558 F.2d 1283 (7 Cir. 1977), cert. den. 434 U.S. 1025, 98 S.Ct. 752, 54 L.Ed.2d 772 (1978). The evidence does not establish a violation of plaintiffs’ rights under the Fourteenth Amendment. Arlington Heights v. Metropolitan Housing Development Corp., 429 U.S. 252, 97 S.Ct. 555, 50 L.Ed. 2d 450 (1977).
+We hold that adequate alternate housing has been provided. Therefore, the provision of the order appealed from requiring the creation of a Workable Relocation Advisory Program is moot.
+The order dated July 5, 1978 will be reversed and judgment entered in favor of defendant. No costs.
