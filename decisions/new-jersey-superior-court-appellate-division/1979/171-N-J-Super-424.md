@@ -1,0 +1,26 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1979-12-17"
+citations: ["171 N.J. Super. 424"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CAROL A. PATRICK, CLAIMANT-APPELLANT, v. BOARD OF REVIEW AND ABSECON BOARD OF EDUCATION AND OCEAN CITY BOARD OF EDUCATION, RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/171/cases/0424-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 479650
+cites_cases: ["125 Cal.Rptr. 35", "155 N.J.Super. 312", "160 N.J.Super. 96", "163 N.J.Super. 584", "164 N.J.Super. 325", "251 N.W.2d 626", "26 U.S.C.A. § 3304", "394 A.2d 1320", "400 A.2d 681", "52 Cal.App.3d 405", "79 N.J. 492"]
+---
+
+# Patrick v. Board of Review
+
+## Majority (BY THE COURT.)
+
+BY THE COURT.
+Claimant, a substitute teacher in the Ocean City and Absecon school systems, filed a claim for unemployment compensation after the close of the 1978 school year. The deputy at the local office held her ineligible for transitional period claim benefits under N.J.S.A. 43:21 — 4(g) in that the period in question was between academic years. The Appeal Tribunal sustained the deputy’s determination and was, in turn, affirmed on further appeal by the Board of Review. This appeal followed and we affirm.
+The facts are not in substantial dispute. During the 1977-1978 school year claimant was employed as a day-to-day substitute teacher by the Ocean City Board of Education and also (specifically for the period from January 11 to June 15, 1978) as a long-term substitute teacher by the Absecon Board of Education. As a day-to-day substitute, claimant was paid on a per diem basis, but for her long-term services compensation was based on a scale according to years of experience as a teacher. According to claimant, she was not scheduled to return to Absecon as a long-term substitute for the 1978-1979 school year, but she was approved both by Absecon and Ocean City to be a day-to-day substitute.
+N.J.S.A. 43:21-4(g) provides in pertinent part that, with respect to instructional services performed after December 31, 1977, for an educational institution, benefits shall not be paid “for any week of unemployment commencing during the period between two successive academic years ... to any individual if such individual performs such services in the first of such academic years . . . and if there is a contract or a reasonable assurance that such individual will perform services in any such capacity for any educational institution in the second of such academic years or terms . . . .” (Emphasis supplied). Claimant’s contention is, however, that the statute should not be construed to include substitute teachers because the legislative intent was to.prevent a full-time employee for an educational institution from receiving unemployment benefits during the summer months. We disagree.
+The burden is upon a claimant to establish the right to unemployment compensation benefits. Bastas v. Bd. of Review, 155 N.J.Super. 312, 315 (App.Div. 1978). The claimant here failed to demonstrate that she did not have a reasonable assurance of employment during the 1978-1979 school year.
+In Schoenfeld v. Board of Review, 163 N.J.Super. 584 (App. Div. 1978), certif. den. 79 N.J. 492, claimant, a teacher’s aide, was denied special unemployment assistance benefits during a summer recess under a federal statute (26 U.S.C.A. § 3304), substantially similar to ours, which barred such benefits where the employee worked for an institution in the prior academic year and had “a contract to perform services” in the upcoming year. We affirmed the denial, holding that the word “contract” in the statute could be interpreted to mean a reasonable expectation of employment for the next academic year. 163 N.J.Super. at 587-588. Cf. Calamusa v. Board of Review, 164 N.J.Super. 325 (App.Div.1978). A contention comparable to claimant’s was rejected in Ykovchick v. Minneapolis Public Schools, 251 N.W.2d 626 (Minn.Sup.Ct.1977). There the court held, under a similar statute, that a substitute teacher employed during an academic year on an “on-call” basis and who had submitted an application to be included on the “on-call” list for the next year, was not entitled to unemployment compensation benefits during the intervening summer months. Cf. Smith v. Unemployment Ins. Appeals Bd., 52 Cal.App.3d 405, 409, 125 Cal.Rptr. 35, 38 (D.Ct.App.1975). The rationale of the cited cases is applicable here.
+We discern no merit in claimant’s further argument that because substitute teachers may be ineligible for unemployment benefits during the summer recess they are denied equal protection of the law. Denial of benefits in such cases “conform[s] with the Legislature’s intent not to subsidize the vacation periods of those who know well in advance that they may be laid off for certain specified periods.” Davis v. Unemployment Comp.Bd. Comm’n, 39 Pa.Cmwlth. 146, 394 A.2d 1320, 1321 (Cmwlth. Ct.1978). See, also, Shaughnessy v. Board of Review, 160 N.J.Super. 96 (App.Div. 1978); Cunningham v. Unemployment Comp.Bd. Comm’n, - Pa.Cmwlth. -, 400 A.2d 681, 682 (Cmwlth.Ct.1979).
+The decision of the Board of Review is affirmed.
