@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1987-03-26"
+citations: ["216 N.J. Super. 197"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CINDY SEIBERT, PLAINTIFF-APPELLANT, v. MICHAEL CATHEY AND STUART SALVATO, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/216/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 712099
+cites_cases: ["149 N.J.Super. 20", "172 N.J.Super. 314", "172 N.J.Super. 318", "201 N.J.Super. 51", "208 N.J.Super. 716", "51 N.J. 130", "76 N.J. 284"]
+---
+
+# Seibert v. Cathey
+
+## Majority (MORTON I. GREENBERG, P.J.A.D.)
+
+The opinion of the court was delivered by
+MORTON I. GREENBERG, P.J.A.D.
+Plaintiff appeals from an order of September 16, 1985 granting summary judgment to defendants on the ground that plaintiffs action is barred by the two years’ limitations period in N.J.S.A. 2A:14-2.
+The facts material to this appeal are undisputed. Plaintiff Cindy Seibert was born on September 9, 1964. On August 8, 1981 she suffered injuries while a passenger in a vehicle owned by defendant Stuart Salvato and operated by defendant Michael Cathey when the vehicle was involved in a one-car accident. Consequently, on January 21,1985, when she was more than 20 years old, she brought this action against defendants to recover damages for her injuries.
+This case is controlled by Tyson v. Groze, 172 N.J.Super. 314 (App.Div.1980), which held that the provisions of N.J.S.A. 2A: 14-21 permitting a person injured during infancy to bring an action to recover damages within two years of becoming 21 were modified by N.J.S.A. 9:17B-1 et seq., lowering the age of majority to 18 years. Thus, a person injured while less than 18 years of age was required to bring an action for damages by her 20th birthday.
+Plaintiff seeks to avoid the broad ruling in Tyson v. Groze by urging that we construed N.J.S.A. 9:17B-2e to continue the 21 year old age of majority for statute of limitations purposes for persons under 21 on January 1, 1973. But the difficulty with this contention is that we indicated that the 21 year old majority period would apply only as to causes of action accrued prior to January 1, 1973. We did so for in the absence of a savings clause for causes of action outstanding on January 1, 1973, “it could have otherwise been argued that a person between 18 and 21 on January 1, 1973 would have had only two years from having become 18 to be sued or be barred by N.J.S.A. 2A:14-2.” 172 N.J.Super. at 317. That construction would have unfairly barred on January 1, 1973 complaints by persons 20 years old or more on that day for causes of action accruing more than two years earlier. Accordingly, we recognized that the Legislature had provided a transitional provision for causes of action accruing before January 1, 1973.
+We also indicated that perhaps N.J.S.A. 9:17B-1 et seq. would be “construed to allow persons under 23 on January 1, 1973 to have until they became 23 to sue without being barred.” 172 N.J.Super. 318, n. 1. That construction would have saved a person who previously had until he was 23 to bring an action from being barred by N.J.S.A. 9:17B-1 et seq. on January 1, 1973 for causes of action previously accruing. Thus, a person who became 22 years old in December 1972 under that construction would have until her 23rd birthday in December 1973 to bring an action for injuries suffered when she was under 21 years of age. Such a construction would have been transitional in character.
+It is evident that the cause of action here which arose in 1981 cannot be saved by the transitional protection of causes of action accruing before January 1, 1973. Plaintiff became 18 years old on September 9,1982 and thus this action should have been brought by September 9, 1984. As it was brought on January 21, 1985 it is barred.
+We recognize that this court in McLaughlin v. Metzner, 201 N.J.Super. 51, 54, n. 2 (App.Div.1985), citing Tyson v. Groze, said that N.J.S.A. 2A:14-21, insofar as it allowed the running of the statute of limitations to be measured from when a plaintiff became 21, “was not modified by N.J.S.A. 9:17B-1 et seq., which lowered the age of majority from 21 years to 18 years.” We do not agree with this statement which cannot be reconciled with the actual result in Tyson v. Groze. See also Hadden v. Eli Lilly and Co., 208 N.J.Super. 716, 719 (App.Div.1986), recognizing that N.J.S.A. 9:17B-2e is a transitional provision.
+Plaintiff alternatively urges that if we reject her interpretation of Tyson v. Groze, nevertheless because of the progressive nature of her injuries her action is not barred as a cause of action accrues when a party suffers a consequential injury. See Rosenau v. City of New Brunswick and Gamon Meter Co., 51 N.J. 130, 137 (1968). Plaintiff in her brief describes her injuries as follows:
+Plaintiff, Cindy Seibert, in the within matter, sustained facial injuries involving her nose and mouth. She had sustained injuries to her teeth involving fractures. Thereafter, she developed temporomandibular joint dysfunction symptoms. These complaints progressively worsened until she sought out dental treatment several years after the date of the accident. Her emancipation from parental guidance as well as her worsened medical condition prompted her to seek legal advice concerning the personal injuries she sustained.
+It is evident to us that assuming the accuracy of these allegations plaintiff, through a guardian ad litem, had a right to maintain this action immediately after the accident and thus the statute of limitations began running against her at that time subject, of course, to tolling by reason of her infancy. See Burd v. New Jersey Telephone Company, 149 N.J.Super. 20, 30 (App.Div.1977), aff’d, 76 N.J. 284 (1978). Thus the subsequent worsening of her condition is immaterial.
+The order of September 16, 1985 is affirmed.
+The headnote to Tyson v. Groze in volume 172 of the Superior Court reports indicates that the court held that "provisions of statute extending period for a person under 21 years of age at time of accrual of personal injury action to bring the action was not modified by statute lowering age of majority from 21 years to 18 years[.]" 172 N.J.Super. at 314-315. The court, of course, did not prepare the headnote which is obviously wrong.
