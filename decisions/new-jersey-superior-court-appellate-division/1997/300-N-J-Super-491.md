@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1997-01-09"
+citations: ["300 N.J. Super. 491", "693 A.2d 490"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TOWNSHIP OF HOWELL, PLAINTIFF-APPELLANT, v. FRED MCDOWELL, INC. AND STATE OF NEW JERSEY, DEPARTMENT OF ENVIRONMENTAL PROTECTION, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/300/cases/0491-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 384489
+cites_cases: ["127 N.J. 551", "145 N.J. 590", "248 N.J.Super. 531", "606 A.2d 364"]
+---
+
+# Township of Howell v. Fred McDowell, Inc.
+
+## Majority (SKILLMAN, JAD.)
+
+The opinion of the court was delivered by
+SKILLMAN, JAD.
+Defendant Fred McDowell, Inc. (McDowell) has operated a hot asphalt mix plant in Howell Township since the 1940s. In March of 1990, McDowell applied to the defendant Department of Environmental Protection (DEP) for general approval of a proposal to commence operation of a Class B recycling center on its property which would process concrete, asphalt and petroleum contaminated soil.
+Around the same time, McDowell applied to the Monmouth County Department of Planning for an amendment to the Monmouth County Solid Waste Management Plan (County Plan) to designate its site as a Class B recycling center. In May 1993, Monmouth County included the McDowell site in a proposed amendment to the County Plan. Notice of a public hearing in connection with the amendment was published in the Asbury Park Press and sent directly to all municipalities in the county. However, plaintiff Township of Howell (Howell) did not comment on the proposed amendment or participate in the public hearing. Thereafter, the Monmouth County Board of Freeholders adopted a resolution approving the proposed amendment which included the designation of the McDowell property as a Class B recycling center.
+On December 2, 1993, the DEP certified the amended Monmouth County plan, subject to certain modifications, including a change in the language relating to municipal approvals, which explicitly stated that inconsistent municipal ordinances were preempted.
+[T]he County specifies that any recycling center which processes Class A or Class B recyclables shall be in compliance with appropriate municipal approvals or ordinances. Since the DEPE’s solid waste and recycling regulations preempt municipal approvals or ordinances which overlap or are inconsistent with DEPE’s solid waste management or recycling regulations, the County requirement is hereby modified to read “... compliance with applicable municipal approvals or ordinances which are not preempted by DEPE solid waste regulations at N.J.A.C. 7:26-1 etseq., and recycling regulations at N.J.A.C. 7:26A-1 etseq.”
+Howell neither sought reconsideration nor appealed the DEP’s certification of the amended county plan.
+After its inclusion in the county plan, McDowell resubmitted its application to the DEP for a permit authorizing it to blend nonhazardous petroleum contaminated soil with asphalt at its property in Howell. At that time, McDowell complied with N.J.A.C. 7:26A-3.2(d), which requires all submissions to the DEP for permits to be forwarded to the municipality within which the site is located to afford an opportunity for comment
+Howell then brought this action in the Superior Court, Chancery Division, to restrain McDowell from using its property as a Class B recycling center, contending that McDowell must first obtain a use variance. After Howell moved for summary judgment, McDowell and the DEP cross-moved for summary judgment, contending that the Solid Waste Management Act (SWMA), N.J.S.A. 13:1E-1 to -198, preempts local zoning requirements. The trial court granted the cross-motions, concluding that local zoning ordinances are preempted.
+Subsequent to the Chancery Division’s ruling, the DEP has issued a recycling permit which authorizes McDowell to accept asphalt and concrete for recycling, and McDowell is now operating a Class B recycling center for asphalt and concrete. The soil mixing portion of McDowell’s permit application, which appears to be the focus of Howell’s objections, remains under review pending the DEP’s issuance of an air pollution control permit for soil blending activities.
+Howell appeals from the summary judgment in favor of McDowell and the DEP. We affirm substantially for the reasons expressed in Judge McGann’s oral opinion of February 2, 1996. We add the following supplemental comments.
+This court has previously recognized that the Statewide Mandatory Source Separation and Recycling Act, L. 1987, c. 102, N.J.S.A. 13:1E-99.11 to 99.32 (the Recycling Act) “was enacted as a supplement to the [SWMA].” Kohlbrenner Recycling Enters., Inc. v. Burlington County Bd. of Freeholders, 248 N.J.Super. 531, 537, 591 A.2d 962 (App.Div.), certif. denied, 127 N.J. 551, 606 A.2d 364 (1991). “Thus, a county’s recycling plan must take the form of an amendment to its solid waste management plan under the SWMA and must implement the State Recycling Plan goals established by DEP as part of the statewide solid waste management plan adopted pursuant to N.J.S.A. 13:lE-6a(3). N.J.S.A. 13:lE-99.13(a).” Ibid. Consequently, based on our analysis of the pertinent statutory provisions, we previously concluded that “the Legislature clearly envisioned the same need for DEP’s exercise of pervasive supervisory authority under the Recycling Act as under the SWMA.” Id. at 537-38, 591 A.2d 962. Moreover, even though the DEP regulations governing the establishment and operation of recycling centers differ from those governing solid waste facilities, the statutory policy of encouraging uniform statewide solid waste planning and regulation which precludes a municipality from imposing its land use regulations on solid waste facilities is equally applicable to recycling centers. Cf. Holgate Property Assocs. v. Township of Howell, 145 N.J. 590, 603, 679 A.2d 613 (1996). If Howell had the unilateral authority through the enforcement of its land use regulations to prevent the start-up of a recycling facility included in a solid waste management plan approved by the DEP, this would impose a serious obstacle to the DEP’s efforts to implement the Recycling Act by promoting the growth of the private recycling industry.
+Affirmed.
+A small part of McDowell’s property extends into Wall Township.
