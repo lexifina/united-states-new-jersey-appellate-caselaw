@@ -1,0 +1,23 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1953-09-10"
+citations: ["27 N.J. Super. 240"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BALDWIN CONSTRUCTION CO., AND OTHERS, PLAINTIFFS-RESPONDENTS, v. ESSEX COUNTY BOARD OF TAXATION, AND ANOTHER, DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/27/cases/0240-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 392236
+cites_cases: ["126 N. J. Eq. 100", "127 N. J. Eq. 61", "135 N. J. L. 178", "21 N. J. Super. 370", "230 U. S. 247", "24 N. J. Super. 252", "26 N. J. Super. 9", "308 U. S. 422", "309 U. S. 694", "326 U. S. 620", "48 Yale L. J. 981", "51 Harv. L. Rev. 1251"]
+---
+
+# Baldwin Construction Co. v. Essex County Board of Taxation
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal from an order of the Law Division of the Superior Court denying the Attorney-General’s motion for summary judgment on the basis of the pleadings. The nature of the litigation and the facts alleged by the parties are stated in the opinion of Judge Hughes leading to the order which is the subject of the appeal, 24 N. J. Super. 252 (1952), and in the opinion of Judge Joseph L. Smith on an earlier motion to dismiss for lack of jurisdiction, 21 N. J. Super. 370 (1952).
+One of the reasons alleged for reversal is that the plaintiffs’ appropriate judicial remedy was an appeal direct from the county board of taxation to the Appellate Division, and not a proceeding in the Law Division. The function of reviewing the actions of governmental bodies is divided between the two branches of the Superior Court in such wise that the Law Division reviews the actions of local boards and officers, while the Appellate Division reviews the actions of state administrative agencies. The appellant argues that a county board of taxation is a state agency and hence the plaintiffs ought to have proceeded by appeal to the Appellate Division. Undoubtedly the county board of taxation is an agency of the State. Warren v. Hudson County, 135 N. J. L. 178 (E. & A. 1947). So is a local board of health. State v. Mundet Cork Corp., 126 N. J. Eq. 100 (Ch. 1939), affirmed 127 N. J. Eq. 61 (E. & A. 1940). And a local board o£ education. Estelle v. Board of Education, 26 N. J. Super. 9 (App. Div. 1953). Yet we are satisfied that the present case was rightly brought in the Law Division. In the allocation of business between the Law Division and the Appellate Division, proceedings relating to an administrative body with authority confined to a single locality, in this case a county, should be brought in the Law Division even though the defendant may be classified for most purposes as an agency of the State.
+The second thesis presented is the necessity of the exhaustion of administrative remedies before resorting to the courts. On this branch of the argument, we refer to the opinions already delivered in this case and to Davis, Administrative Law, c. 15; 42 Am. Jur., Public Administrative Law, § 194 et seq.; Berger, Exhaustion of Administrative Remedies, 48 Yale L. J. 981 (1939), and notes in 35 Col. L. Rev. 230 (1935) and 51 Harv. L. Rev. 1251 (1938).
+The plaintiffs aver that the administrative remedy by appeal to the county board of taxation and thence to the State Division of Taxation is illusory. That these tribunals have only a doubtful authority to try the issue of discrimination which is charged by the plaintiffs, and to grant an adequate remedy as defined in Hillsborough v. Cromwell, 326 U. S. 620, 66 8. Ct. 445 (1946). This the defendant denies. We think a test of the efficacy of the administrative remedy should be made. To that end, the order under appeal will be affirmed, but on terms: Prosecution of the action in the Law Division will be stayed while the State Division of Tax Appeals hears and takes final action on the appeals of the plaintiffs. The stay shall not interfere with discovery proceedings in the Law Division in aid of the appeal before the administrative tribunal. If the State Division of Taxation fails to decide the appeals on the merits within a reasonable time (to be fixed by the Law Division) or fails to determine the question of discrimination, and (if discrimination be proved) to grant adequate relief, the Law Division may then proceed. Cf. Mitchell Coal, etc., Co. v. Pennsylvania R. Co., 230 U. S. 247, 33 8. Ct. 916, at page 924 (1913); General Am,., etc., Corp. v. El Dorado T. Co., 308 U. S. 422, 60 S. Ct. 325 (1940), rehearing denied 309 U. S. 694, 60 8. Ct. 465 (1940).
