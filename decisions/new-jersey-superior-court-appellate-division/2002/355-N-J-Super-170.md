@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "2002-11-20"
-citations: ["355 N.J. Super. 170", "809 A.2d 842", "355 N.J. Super. 197", "809 A.2d 857"]
+citations: ["355 N.J. Super. 170", "809 A.2d 842"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["FINDERNE MANAGEMENT COMPANY, INC.; ROCQUE DAMEO; AND DANIEL DAMEO, PL
 source_url: "https://static.case.law/nj-super/355/cases/0170-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1130695
-cites_cases: ["101 F.3d 600", "101 N.J.Super. 134", "106 F.3d 384", "106 N.J.Super. 374", "108 T.C. 524", "112 S.Ct. 1670", "114 F.3d 713", "117 S.Ct. 769", "118 L.Ed.2d 390", "120 S.Ct. 935", "130 F.3d 1355", "132 F.Supp.2d 1325", "136 L.Ed.2d 715", "139 N.J. 472", "141 N.J.Super. 365", "143 N.J. 565", "145 L.Ed.2d 814", "148 N.J. 561", "151 F.3d 908", "153 F.3d 134", "153 N.J. 163", "159 F.3d 780", "16 F.Supp.2d 28", "162 N.J. 131", "170 F.3d 985", "174 N.E. 441", "18 U.S.C.A. §§ 1961", "192 N.J. Law. 29", "1997 WL 328581", "222 N.J.Super. 75", "237 F.3d 371", "241 F.3d 623", "243 A.2d 293", "244 Neb. 408", "255 N.Y. 170", "256 A.2d 46", "26 U.S.C.A. § 162", "266 A.2d 569", "28 F.3d 1062", "29 U.S.C. § 1144", "29 U.S.C.A. § 1002", "29 U.S.C.A. § 1109", "29 U.S.C.A. § 1131", "29 U.S.C.A. § 1144", "29 U.S.C.A. §§ 1001", "300 N.J.Super. 136", "303 F.3d 765", "311 N.W.2d 3", "319 N.J.Super. 476", "33 F.Supp.2d 347", "355 N.J.Super. 170", "355 N.J.Super. 197", "358 A.2d 473", "461 A.2d 138", "463 U.S. 85", "498 U.S. 133", "503 U.S. 985", "506 U.S. 125", "514 U.S. 645", "519 U.S. 1092", "519 U.S. 316", "528 U.S. 1116", "535 A.2d 1006", "546 F.Supp. 526", "56 N.J. 326", "617 F.2d 1208", "639 F.Supp. 1071", "688 F.2d 1367", "741 A.2d 99", "754 P.2d 256", "842 F.2d 127", "907 P.2d 1162", "915 F.2d 414", "920 F.Supp. 589", "93 F.3d 715", "93 N.J. 324", "949 F.2d 960", "95 F.3d 429", "973 F.2d 206", "98 F.3d 1457", "98 Stat. 484", "981 S.W.2d 239"]
+cites_cases: ["101 F.3d 600", "106 F.3d 384", "108 T.C. 524", "112 S.Ct. 1670", "114 F.3d 713", "117 S.Ct. 769", "118 L.Ed.2d 390", "120 S.Ct. 935", "130 F.3d 1355", "132 F.Supp.2d 1325", "136 L.Ed.2d 715", "145 L.Ed.2d 814", "148 N.J. 561", "151 F.3d 908", "153 F.3d 134", "159 F.3d 780", "16 F.Supp.2d 28", "162 N.J. 131", "170 F.3d 985", "18 U.S.C.A. §§ 1961", "192 N.J. Law. 29", "1997 WL 328581", "222 N.J.Super. 75", "237 F.3d 371", "241 F.3d 623", "26 U.S.C.A. § 162", "28 F.3d 1062", "29 U.S.C. § 1144", "29 U.S.C.A. § 1002", "29 U.S.C.A. § 1109", "29 U.S.C.A. § 1131", "29 U.S.C.A. § 1144", "29 U.S.C.A. §§ 1001", "303 F.3d 765", "319 N.J.Super. 476", "355 N.J.Super. 197", "463 U.S. 85", "498 U.S. 133", "503 U.S. 985", "506 U.S. 125", "514 U.S. 645", "519 U.S. 1092", "519 U.S. 316", "528 U.S. 1116", "535 A.2d 1006", "617 F.2d 1208", "688 F.2d 1367", "741 A.2d 99", "842 F.2d 127", "907 P.2d 1162", "915 F.2d 414", "920 F.Supp. 589", "93 F.3d 715", "949 F.2d 960", "95 F.3d 429", "973 F.2d 206", "98 F.3d 1457", "98 Stat. 484", "981 S.W.2d 239"]
 ---
 
 # Finderne Management Co. v. Barrett
