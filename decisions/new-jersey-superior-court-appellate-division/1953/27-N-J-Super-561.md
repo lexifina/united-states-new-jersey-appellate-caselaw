@@ -1,0 +1,40 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1953-10-20"
+citations: ["27 N.J. Super. 561"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JONATHAN COLE, MINOR, BY HIS GUARDIAN AD LITEM, HARRY COLE, AND HARRY COLE, IN HIS OWN RIGHT, PLAINTIFFS-APPELLANTS, v. GERALDINE L. THOMPSON, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/27/cases/0561-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 392172
+cites_cases: ["10 N. J. Super. 486", "88 N. J. L. 653", "9 N. J. 38"]
+---
+
+# Cole v. Thompson
+
+## Majority (Francis, J. A. D.)
+
+The opinion of the court was delivered by
+Francis, J. A. D.
+The complaint here has to do with the action of the trial court in granting respondent’s motion for dismissal which was made at the close of appellants’ proof. The dismissal was predicated upon a determination that neither evidence of negligence nor of causal relation between respondent’s conduct and the injury suffered by the infant appellant had been adduced.
+The infant appellant sued on account of burns received because of a fire which had been ignited on respondent’s premise's by her employee. The complaint charged that the infant was an invitee; on the premises and that the employee was negligent in failing to guard the fire.
+Respondent owns a tract of land known as Brookdale Farms in Lincroft, Middletown Township, Monmouth County, N. J. Originally the premises were used as a race horse farm. There were a number of small houses located thereon, some of which had been used by trainers and employees; there were also barns, a training stable and a race track. For some years prior to the event out of which the suit arose, Mrs. Thompson had rented these buildings to tenants, one of them being the infant’s family.
+There were at least 25 children living in the various buildings and the evidence indicates that they had the free fun of the place for play purposes.
+' On December 1, 1951 one Burrows, a groundskeeper in respondent’s employ, gathered a pile of leaves in a pebbled driveway near the training stable and set them afire. This was the usual site for such fires.
+When the leaves were ignited, a number of children were playing football in the trainers’ j^ard in another part of the premises.' However, in a short time three or four of them appeared at the scene, one of whom was the infant appellant Jonathan Cole, aged 5yz years.
+Burrows had raked the leaves from the area around a tree located about 150 feet away. The fire was a good-sized one; according to one witness, it was about five feet in diameter and about two or three feet high.
+Burrows told the children four or five times to get'away from the fire and to go home; also that he would tell their mothers if they did not obey him. But they ignored his command. He continued raking more leaves in the direction of the fire, never getting more than 50 feet away.
+The children stood around the fire “kicking the extra leaves” into it. Some of them had sticks and were poking at the blaze. No specific proof was produced to show exactly what young Cole did.
+At a time when Burrows was 12 to 14 feet away from the fire and raking leaves toward it,' he heard a scream and saw the boy’s trousers ablaze. He dropped the rake and turned to the boy and beat out the fire.
+In this posture of the case, the trial court agreed with the defense that as a matter of law there was a lack of evidence of negligence or causal connection between the fire and the youngster’s burns. We must disagree.
+A fire of this, kind is a dangerous instrumentality and the defendant was under the duty of using care commensurate with risk of injury that inhered in it. Strang v. South Jersey Broadcasting Co., 10 N. J. Super. 486 (App. Div. 1950), affirmed 9 N. J. 38 (1952); Davenport v. McClellan, 88 N. J. L. 653 (E. & A. 1916).
+The duty oí care imposed is stated in the Strang case, supra, to bo
+“That the possessor of land is liable for (he reasonably foreseeable injurious consequences of the use of a dangerous agency on (he land. "Where an act carelessly done would be highly dangerous to the personal safety of others, the common law raises a ‘public duty’ of care commensurate with the risk of harm.” 9 N. J. at page 44.
+It is noteworthy also that in that case, the six-year-old child who was burned through contact with an unguarded fire kindled by defendant’s employee, was at best a licensee on the defendant’s premises. But liability was imposed on the theory that the possessor of the land was aware of the practice of children to gather around and to play there, and consequently was obliged to foresee the risk of harm to such children from an unguarded fire.
+So iu the application of the present rule as it relates to children, no practical distinction results from their status as licensees rather than invitees on the premises. However, it may he suggested in passing that in the present case the evidence points to the status of the infant as an invitee, which would have imposed the duty spoken of in the Strang case, even if the liberal view of responsibility toward a licensee liad not been adopted there. Here, oil the proof at the close of the appellants’ case, the clear duty, which required the exercise of care consonant with the risk of injury to children, was emphasized by reason of the implied invitation to play at will around the farm.
+Factually, respondent’s employee was aware of the danger. Such «'cognition is implicit in his demand that the children leave the fire and go home. But does this order or warning, if it can he called that, discharge the duty associated with the risk of injury — as a matter of law?
+Persons in the situation of Burrows are obliged to realize that very young children may not have the capacity to estimate or appreciate the danger oE playing around or with a fire. Therefore, oil the facts established it was rather for the jury to say if he had exercised care commensurate with the danger, when he ordered the boy away and then turned back to his task of raking, leaves, even though at the time of the mishap he was only 12 to 14 feet away. It was for the jury to decide whether he should have remained at the fire until his order to leave was obeyed, whether if he had remained there the children would have persisted in playing with the fire, whether he should have stayed at the scene until the fire went out, without adding any further leaves, so long as the children disregarded his direction to leave, whether he might have intervened if he saw the infant walking into. or kicking the fire or in danger of being struck by burning particles kicked or propelled in his direction by the others. These are simply illustrations of some of the questions which the facts invoke from a jury standpoint and which a jury might consider in arriving at a conclusion as to whether or not the required degree of care had been exercised.
+With respect to the absence of causal relation between the fire and the child’s burns, here again the issue is for the jury to determine. The record is not clear as to the reason why such relation was thought unproved as a matter of law. If it was deemed that the evidence indicated the burns were the result of an act of one of the children, or of Cole himself, in kicking or propelling burning particles which set the trousers aflame, the language of Davenport v. McClellan, supra, cannot be overlooked. “The act of the child * * * was not an ‘intervening cause,’ in that it destroyed the causal' connection between defendant’s negligent act and the resulting injury * * If the statement was predicated on the absence of express or eyewitness proof as to just when and how the trousers became ignited, we think the circumstances were clearly such as to justify the jury in reaching the conclusion that the responsible agency was Burrow’s bonfire.
+The judgment is reversed and the action is remanded for trial.
