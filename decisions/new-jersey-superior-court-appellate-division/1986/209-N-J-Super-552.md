@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1986-05-01"
+citations: ["209 N.J. Super. 552"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ARLENE CAPELLI, INDIVIDUALLY AND AS ADMINISTRATRIX, PLAINTIFF-RESPONDENT, v. TWIN CITY FIRE INSURANCE CO., AND/OR THE HARTFORD INSURANCE COMPANY, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/209/cases/0552-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 384567
+cites_cases: ["121 N.J.Super. 351", "185 N.J.Super. 205", "190 N.J.Super. 286", "62 N.J. 155", "62 N.J. 260", "76 N.J. 560", "96 N.J. 361"]
+---
+
+# Capelli v. Twin City Fire Insurance
+
+## Majority (GAYNOR, J.A.D.)
+
+The opinion of the court was delivered by
+GAYNOR, J.A.D.
+In this declaratory judgment action, defendant appeals from an order granting summary judgment in favor of plaintiff on her claim for the maximum additional personal injury protection benefits payable under a policy issued by defendant to plaintiffs decedent. It is defendant’s contention that the trial court erred in not limiting recovery of the income continuation and essential service benefits to the lifetime of plaintiff’s decedent in accordance with N.J.S.A. 39:6A-10 as amended by L. 1981, c. 533 § 1, which became effective January 12, 1982. We disagree and affirm.
+Plaintiffs decedent, Anthony J. Capelli, .was killed in an automobile accident which occurred on July 2, 1983. At that time decedent was the named insured under a renewal of an automobile liability policy issued by defendant. In addition to basic PIP coverage, the policy provided “additional personal injury protection option 5” for the named insured. Under this option, the maximum income continuation benefits payable totaled $41,600, and the maximum essential services benefits payable totaled $14,600. The basic benefits package was subject to a limit of $5,200 for income continuation benefits and $4,380 for essential services benefits. N.J.S.A. 39:6A-4.
+The amendment to N.J.S.A. 39:6A-10 adopted on January 18, 1982 provided that “the income continuation and essential service benefits shall cease upon the death of the claimant, and shall not operate to increase the amount of any death benefits payable under section 4____” Defendant neither revised the policy issued to plaintiffs decedent to reflect the limitations of this amendment nor notified him of its provisions. Nevertheless, plaintiffs claim for the maximum additional benefits was rejected with defendant tendering the lesser benefits provided under N.J.S.A. 39:6A-4.
+On this appeal, defendant contends the amendment to N.J. S.A. 39:6A-10 merely clarified the Legislature’s original intent and that the court erred in holding that plaintiff was entitled to more than the basic PIP benefits. It maintains that nothing in the policy calls for the payment of the additional benefits upon the death of the insured. Defendant claims the trial court’s reliance on Muschette v. Gateway Ins. Co., 76 N.J. 560 (1978) was misplaced since the insurer in that case did not argue that there was no potential for recovery of the maximum benefits.
+We reject these contentions in concluding that the 1982 amendment to N.J.S.A. 39:6A-10 constituted a change, rather than a clarification, of the existing law. See Senate Labor, Industry and Professions Committee, Statement to Assembly, No. 1853, June 25, 1981. The amendment was designed to overcome the holding of the court in Muschette that the intent of N.J.S.A. 39:6A-10 was to provide for additional survivor benefits for a named insured to the extent of the increased maximum amounts. However, in the absence of an endorsement changing the terms of the policy issued to plaintiffs decedent, the amendment did not operate to effect a change in the policy issued to plaintiffs decedent.
+An insurer is bound by the terms of its contract despite the fact that the coverage thereby provided was more extensive than required by the statute. Williams v. American Home Assur. Co., 121 N.J.Super. 351, 356 (App.Div.1972) certif. den. 62 N.J. 260 (1973). See also State Farm v. Zurich Am. Ins. Co., 62 N.J. 155, 170 (1973); Colangelo v. Bankers & Shippers Ins. Co. of New York, 185 N.J.Super. 205, 209 (Law Div.1982). The trial judge properly noted in ruling in plaintiffs favor that
+[h]ere the carrier sold to the deceased a policy of insurance which provided and spelled out benefits more liberal than that which is now contained or was then contained in the amended statute. It very well may be that the carrier had neglected to amend its policy to conform to the statute or to attach to it a rider indicating that the language is superseded by the language of the statute, and it charged a premium for the option that it sold. The carrier should not now be heard to complain of its liberality or its neglect which resulted in liberality on the basis that it would be contrary to public policy and the intent of the legislature to limit the exposure of the carriers under the no fault law.
+Defendant’s reliance on Clendaniel v. New Jersey Mfrs. Ins. Co., 190 N.J.Super. 286 (App.Div.1983), aff’d in part, rev’d in part and remanded, 96 N.J. 361 (1984), is misplaced, as in that case the court was concerned only with the class of persons intended by the Legislature to be covered under N.J.S.A. 39:6A-10 prior to its amendment. There it was concluded that the legislative intent always was to extend the additional benefits only to the named insured and his or her resident relatives, which was the same class of persons expressly included under the amendment. 96 N.J. at 365. Here, however, the interpretation of the statute as expressed in Muschette was directly contrary to the Legislature’s position as reflected in the amendment.
+The Order for Summary Judgment dated November 2, 1984 as modified by the Order entered September 30, 1985 is affirmed.
+This statutory language refers to N.J.S.A. 39:6A-4.
