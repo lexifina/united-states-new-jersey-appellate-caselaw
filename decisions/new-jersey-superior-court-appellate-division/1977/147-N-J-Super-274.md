@@ -1,0 +1,39 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1977-02-08"
+citations: ["147 N.J. Super. 274"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MATTIE ROGERS AND WILLIE ROGERS, PLAINTIFFS-RESPONDENTS, v. ELLEN SPADY, SAMMIE MILLER AND MACK THOMAS, DEFENDANTS, AND FANNIE DRAYTON, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/147/cases/0274-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 308920
+cites_cases: ["114 N. W. 2d 105", "124 N. W. 2d 106", "16 Wis. 2d 1", "21 Wis. 2d 182", "44 N. J. 228", "Minn. Stat. Ann. § 604.01"]
+---
+
+# Rogers v. Spady
+
+## Majority (Lynch, P. J. A. D.)
+
+The opinion of the court was delivered by
+Lynch, P. J. A. D.
+This appeal involves application of the 1973 Comparative Negligence Law (N. J. S. A. 2A:15-5.1 et seq.) to a situation where one codefendant who settled with plaintiff during trial was found by the jury to be 0% negligent and the remaining defendant was found by the jury to be 100% negligent. The question to be resolved is whether in this circumstance there should be any pro tanto reduction from the final judgment for the amount paid in settlement.
+Plaintiff Mattie Pogers was a passenger in a car driven by defendant Drayton when it was in a collision with a car operated by defendant Spady. She and her husband, suing per quod, brought this action against Drayton, Spady and two others. The action was dismissed against the others.
+During trial Spady settled with plaintiff for $5,000 in exchange for a covenant not to sue. The jury returned a verdict in favor of Mattie Pogers and against Drayton in the sum of $10,000 and in favor of her husband Willie Rogers for $750 on his per quod claim. In response to special interrogatories, the jury found Spady to be 0% negligent and Drayton 100% negligent. There was no issue as to contributory negligence on the part of Mattie Rogers.
+After trial Drayton made a motion seeking a $5,000 credit on the amount of the judgment because of the Spady payment. The motion was denied and Drayton appeals, relying solely on Theobald v. Angelos, 44 N. J. 228 (1965). In that case, decided before the enactment of the Comparative Uegligence Law, there were three codefendants. Before trial two of the three settled with plaintiff. In answer to special interrogatories, one of the settling defendants was found not negligent while the other two defendants had a verdict returned against them. The nonsettling defendant not only was granted a pro rata reduction on the verdict against him in the amount of the settlement of the other negligent defendant, but he also received a pro tanto reduction equal to the amount of the settlement made by the nonnegligent defendant.
+This pro tanto credit was not challenged by plaintiff on appeal. The Supreme Court affirmed, thus placing its stamp of approval on the pro tanto credit based on the settlement of an alleged tort-feasor who was found not negligent. The court said:
+[I]f the claimant settles with one who is charged with the wrong but who in fact is not a party to it, the sum received (not exceeding a pro rata share) should be applied in reduction of the verdict against the culpable parties, [at 241]
+Defendant Drayton argues that passage of the Comparative Negligenee Act has not changed the law in regard to pro tanto reductions and therefore she is entitled to such a reduction here.
+We reject defendant’s contention. The adoption of the Comparative Negligence Law (N. J. S. A. 2A:15-5.1 et seq.) has altered the relationship between joint tortfeasors. N. J. S. A. 2A:15-5.2 now provides:
+In all negligence actions in which the question of liability is in dispute, the trier of fact shall make the following as findings of fact:
+a. The amount of damages which would be recoverable by the injured party regardless of any consideration of negligence, that is, the full value of the injured party’s damages;
+b. The extent, in the form of a percentage, of each parties’ negligence. The percentage of negligence of each party shall be based on 100% and the total of all percentages of negligence of all the parties to a suit shall be 100%.
+c. The judge shall mold the judgment from the finding of fact made by the trier of fact.
+N. J. S. A. 2a:15-5.3 recites:
+The party so recovering, may recover the full amount of the molded verdict from any party against whom such recovering party is not barred from recovery. Any party who is so compelled to pay more than such party’s percentage share may seek contribution from the other joint tortfeasors.
+The above provisions make it clear that now a percentage share of negligence must be substituted for pro rata share in matters of contribution among joint tortfeasors. Each tortfeasor is liable for the same percentage of the judgment as the percentage of negligence found attributable to him. A natural corollary to this is that when a claimant settles with a codefendant, that percentage of negligence found attributable to the settling codefendant will be deducted from the verdict returned against the other codefendants found liable, i.e., the remaining joint tortfeasors will be liable for that percentage of negligence attributable to them. Other jurisdictions with similar comparative negligence laws are in accord with this proposition. Pierringer v. Hoger, 21 Wis. 2d 182, 124 N. W. 2d 106 (Sup. Ct. 1963); Bielski v. Schulze, 16 Wis. 2d 1, 114 N. W. 2d 105 (Sup. Ct. 1962); Minn. Stat. Ann. § 604.01, subd. 5; Tex. Rev. Civ. Stat., Art. 2212a, § 2(e).
+The result of the Comparative Negligence Law is that if plaintiff makes a particularly good bargain in settlement and the ultimate percentage of negligence found attributable to the settling defendant would have resulted in a judgment for less than the amount of settlement, plaintiff will benefit by the excess amount. This necessarily means that if the settling defendant is found 0% negligent (as in the present case, plaintiff will receive the settlement plus the full verdict. Under previous law in New Jersey the pro tanto amount paid by a nonnegligent settling defendant was deducted from the verdict as long as the amount deducted did not exceed the possible pro rata share. Theobald, supra. Of course, under the Comparative Negligence Law only the percentage amount equal to the percentage of negligence attributable to the settling defendant is deducted, no matter what the size of the settlement. It follows that the potential for enrichment of plaintiff beyond the loss suffered has been increased. However, this is offset by the potential for a greater loss to plaintiff if he makes a low settlement. While ideally a claimant should not receive more than one satisfaction for a wrong, when the situation arises in which additional enrichment must necessarily flow to someone, the more just result is to have the person wronged receive the benefit and not a wrongdoer. Id. 44 N. J. at 239-241.
+In the present case, if the pro tanto deduction were allowed, Drayton, the sole tortfeasor, would only have to pay $5,750, or slightly more than one-half the amount for which she was adjudged liable. With such a result the concept of comparative negligence, i.e., that a defendant should be held liable for the percentage of negligence found against him, would be defeated and plaintiffs would have no incentive to settle with a codefendant. In retrospect, Spady may have paid a high price for his peace, but it should not be held to enrich the tortfeasor Drayton who had been found 100% negligent. The benefit must necessarily go to plaintiff.
+The denial of the motion to reduce the judgment against Drayton is affirmed.
+The notice of appeal also erroneously states that defendant Thomas appeals from the order. Judgment of dismissal as to Thomas had been entered at the conclusion of the testimony.
