@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1988-05-02"
+citations: ["224 N.J. Super. 643"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHURCH CONTRIBUTION TRUST, PLAINTIFF-APPELLANT, v. MENDHAM BOROUGH, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/224/cases/0643-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 348689
+cites_cases: ["55 N.J. 275", "9 N.J. Tax 299", "95 N.J. 503"]
+---
+
+# Church Contribution Trust v. Borough
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+The Mendham Borough tax assessor denied plaintiff taxpayer Church Contribution Trust (CCT) a property tax exemption sought under N.J.S.A. 54:4-3.6 for the 1985 tax year. CCT appealed, and the denial of the exemption was upheld first by the Morris County Board of Taxation and then by the Tax Court in Church Contribution Trust v. Mendham Borough, 9 N.J. Tax 299 (1987). The background of the appeal and the relevant facts are referred to in that reported opinion, and we need not repeat them here.
+We affirm Judge Lasser’s decision with the following comments and modifications. It is undisputed that CCT is a nonprofit corporation, and that each of the three tenants on the property is also a nonprofit corporation. The three tenants are respectively a nursery school; a training center for psychological and religious counseling, and a child development center for evaluation, treatment, research and education concerning children with mental health or developmental disability problems. N.J.S.A. 54:4-3.6, as then in effect, required:
+... all buildings [be] actually and exclusively used in the work of associations and corporations organized exclusively for the moral and mental improvement of men, women and children, or for ... charitable purposes ... provided, in all of the foregoing [the activities on] the buildings, or lands upon which they stand are not conducted for profit.
+Judge Lasser did not evaluate the nursery school, but determined that since the other two organizations bill their clients for individual counseling services, their activities were in the nature of private practices which rendered similar services, and thus were outside of the statutory exemption. He determined this notwithstanding proof that the organizations operated on a nonprofit basis, paid their staff less than the prevailing rates for similar services and had billing practices which permitted payment on the basis of need and ability to pay, with maximum rates less than the prevailing rates for similar services.
+In our view, individualized or one-on-one services do not in themselves constitute a disqualifying reason from tax exemption. Where there is what might be considered a duplication of a private practice or service, the applicant for a tax exemption has a duty to demonstrate that the circumstances, charges and public betterment justify exemption and do not reflect merely private practices cloaked in charitable coverings. Eligibility for the statutory tax exemption should not be denied because individual services are partially provided on a one-to-one basis, or granted because fees are charged commensurate with the ability to pay. The application of the “charitable purposes” exemption must be based on the facts of each case. The Presbyterian Homes v. Division of Tax Appeal, 55 N.J. 275, 285 (1970). Moreover, the decision cannot be made merely on the basis of a possibility that other nonprofit professional practices could exist and serve as a subterfuge for avoidance of property tax if this property were found to be tax exempt. See Paper Mill Playhouse v. Millburn Township, 95 N.J. 503, 523 (1984). With these propositions in mind, we have reviewed the explanations given for the practices of the two allegedly disqualifying enterprises.
+In this case, based on the proofs presented, the record supports the judge’s determination that CCT has not demonstrated that its property is exclusively used for tax-exempt purposes under the applicable statute. Counselors at the psychological and religious counseling center charged fees ($50 and $60 an hour) that were only slightly lower than comparable rates for private psychologists in the Morris County area ($65— $75 an hour). One of its counselors billed every patient. In addition, the child development center charged fees ranging from $60 — $200 for therapy and evaluations. Although the president of the center testified that its fees were less than other similar centers, comparable rates for private practices providing similar services are not disclosed in the record. We note that for substantially all of the evaluations performed in 1984, the child development center collected its full fees. None of the center’s clients were provided free services and 60% paid the full fee for therapy.
+Here, CCT has not demonstrated that its property is exclusively used for tax exempt purposes. The Presbyterian Homes, supra (55 N.J. at 287). The trial judge’s factual analysis, even under the modified legal standard noted above, warranted the conclusion that the two uses were sufficiently akin to private businesses or professional practices to deny the exemptions.
+The decision below is modified in accordance herewith, and as modified is affirmed.
+This section was amended by L. 1985, c. 395. As a result of adopting the recommendation in the Governor's conditional veto, the bill became effective for the calendar year 1986 and thereafter rather than for 1984 and thereafter as the bill originally provided.
