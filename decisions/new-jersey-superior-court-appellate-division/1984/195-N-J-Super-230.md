@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1984-07-31"
+citations: ["195 N.J. Super. 230"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE G. TUCKER, PLAINTIFF, v. ALLSTATE INSURANCE COMPANY, DEFENDANT, THIRD PARTY PLAINTIFF-RESPONDENT, v. MOTOR CLUB OF AMERICA, THIRD PARTY DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/195/cases/0230-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 921875
+cites_cases: ["170 N.J.Super. 282", "189 N.J.Super. 437", "191 N.J.Super. 315"]
+---
+
+# Tucker v. Allstate Insurance
+
+## Majority (KING, J.A.D.)
+
+The opinion of the court was delivered by
+KING, J.A.D.
+This appeal is taken from the Law Division judge’s finding, 191 N.J.Super. 315 (1982) that third-party defendant, Motor Club of America (MCA), afforded plaintiff automobile insurance coverage on November 27, 1977 and therefore shared liability for payment of benefits with the coinsurer, Allstate Insurance Company.
+These are' the facts. On October 17, 1977 the New Jersey Automobile Insurance Plan (Plan), commonly called the “Assigned Risk Plan,” issued a notice of assignment to MCA to insure plaintiff Tucker’s Buick. The coverage was to be retroactively effective to October 7, 1977, the date Tucker signed the application for insurance. Upon execution, the application was processed by the producer of record, Joseph J. Hishon Agency, which submitted Tucker’s application and its own check for the premium deposit to the Plan. These items were received by the Plan on October 13. MCA received the application and its notice of assignment on October 18. MCA also received Hishon’s check at that time, which it deposited.
+At this point MCA was prepared to issue a policy. But by letter dated October 19 received by MCA on October 20, the Hishon Agency advised MCA “that the insured issued a bum check for which we are out money and accordingly I ask that you take immediate steps to cancel this coverage.” When this letter was received the application actually was being processed and a policy number had been assigned to Tucker.
+In a letter dated November 14, 1977 MCA wrote to Tucker, with copies to Hishon and the Plan, stating
+We have been advised by your producer of record, Joseph J. Hishon, that your deposit premium check was returned by the bank due to “Insufficient Funds.”
+Because the proper required deposit premium was not received with your application for insurance, said application is “Null and Void” and coverage has been rescinded effective 12:01 A.M., October 7, 1977. We have returned your application for insurance to the New Jersey Automobile Insurance Plan.
+The Temporary Identification Card now in your possession is “Null and Void,” as you have never been insured with this company.
+This letter was the only contact MCA ever had with Tucker. On February 9 and again on June 2, 1978 Hishon wrote to MCA asking for return of the premium deposit which was eventually remitted to Hishon in September 1978.
+Tucker was injured in an accident on November 27, 1977 while driving a rental car, not the car he had sought to insure through the Plan. Since Tucker was a member of his mother’s household, he made a Personal Injury Protection (PIP) claim for medical expenses and income loss under his mother’s own automobile policy issued by Allstate on her vehicle. N.J.S.A. 39:6A-4. After paying the PIP claim of $16,206.35, Allstate sought reimbursement from MCA for its pro rata share under the coinsurance feature of the policy allegedly issued by MCA through the Plan for Tucker’s benefit. Neither Tucker himself nor any third-party has ever made a claim against MCA arising out of the accident of November 27, 1977. The claim here derives solely from any right that Tucker may have had based on his application to the Plan which was accompanied by his bad check to the Hishon Agency.
+The Law Division judge concluded that Tucker had a right to collect PIP benefits from MCA because he had received no formal notice of cancellation. We disagree and conclude that MCA had a right to declare the policy a nullity as to any claim by Tucker himself upon notice of the failure of consideration.
+Any right of Allstate is derivative from Tucker, MCA’s alleged insured. See Miller v. Reis, 189 N.J.Super. 437, 440 (App.Div.1983). Here we are only concerned with the rights of Tucker to make a first-party claim under the alleged contract of insurance with MCA for which he never paid any premium and which was never physically issued to him. Even MCA concedes in its brief that if the insurance identification card issued to Tucker at the time he filled out the application had been used to register his car and an innocent third party had been injured it would have afforded coverage even though the premium was never paid.
+But here the equities are quite different. Tucker himself is not an innocent third-party claimant injured by a vehicle registered pursuant to an identification card provided by the Plan in anticipation of MCA’s assignment and in accordance with the Plan’s regulations. Here we have a claim, in effect, advanced by a breaching party who failed to perform from the inception, who did not rely, to our knowledge in this record, on the identification card to register his vehicle, and who was driving a rental car, almost certainly insured for liability by another at the time of accident. N.J.S.A. 45:21-2, 3. Tucker never attempted to pay the premium or “make the check good” upon the November 14 notice of the declaration of nullity, either before or after the November 27 accident. Indeed, Tucker himself never made a claim for coverage, direct or indirect, and the Plan never disapproved MCA’s rescission ab initio of the executory agreement.
+We conclude that MCA had not “issued a policy or a binder” within the meaning of N.J.A.C. ll:3-1.19(b) and that it was within its rights as to Tucker in issuing a declaration that the policy was void from inception rather than in issuing a formal notice of cancellation of a nonexistent policy. MCA’s refusal to issue a policy within 15 days from assignment was never questioned by the Plan, no doubt because the premium was never really paid by the prospective insured, as required by N.J.A.C. 11:3-1.14(a). Nor is Miney v. Baum, 170 N.J.Super. 282, 284 (Law Div.1979), apposite. There the agent issued a written 60-day binder pending negotiation for the coverage and prepayment of the premium was never a requirement of the broker or a pertinent consideration during the application process.
+We find no equity or public policy in favor of the plaintiff and Allstate’s position in this circumstance. The judgment of the Law Division is reversed.
