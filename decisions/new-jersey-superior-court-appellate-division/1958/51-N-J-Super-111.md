@@ -1,0 +1,99 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1958-07-01"
+citations: ["51 N.J. Super. 111"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SALVATORE GIACOBBE, PLAINTIFF-RESPONDENT, v. FREDERICK J. GASSERT, Jr., DIRECTOR OF DIVISION OF MOTOR VEHICLES, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/51/cases/0111-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 412451
+cites_cases: ["23 N. J. 22", "27 N. J. 227", "27 N. J. 324", "48 N. J. Super. 257"]
+---
+
+# Giacobbe v. Gassert
+
+## Majority (Price, S. J. A. D.)
+
+The opinion of the court was delivered by
+Price, S. J. A. D.
+By this appeal defendant challenges a judgment entered in favor of plaintiff against defendant in the Superior Court, Law Division, pursuant to the Unsatisfied Claim and Judgment Fund Law, L. 1952, c. 174, p. 570, as amended N. J. S. A. 39:6-61 et seq. The contention is made that plaintiff was not a resident of New Jersey at the time of the accident and therefore not a qualified person within the meaning of the act and that he failed to file a “Notice Of Intention To Make Claim” within the statutory period.
+On June 11, 1955 plaintiff was the victim of a “hit-and-run” driver. The accident occurred at night while plaintiff was walking on United States Avenue in Lindenwold, sometimes referred to in the record as Watsontown, New Jersey. The driver was not apprehended.
+As a result of this accident plaintiff suffered comminuted and compound fractures of the tibia and fibula of both legs, as well as shock and a laceration of the scalp.
+Plaintiff alleged that he had boarded at the home of Mr. and Mrs. Nicholas Roselli in Lindenwold, N. J. since June 1951. He asserted that prior to that time he had resided in Philadelphia, Pennsylvania, with his parents. He was employed as a laborer by a Philadelphia corporation.
+Immediately after the accident plaintiff was accompanied to Our Lady of Lourdes Hospital in Camden by Mrs. Roselli. She declined to accept financial responsibility for him. The hospital records indicate his address as 1644 S. Chadwick Street, Philadelphia.
+Plaintiff was discharged from the hospital July 21, 1955. He then had casts on both legs and was confined to a wheelchair. Upon leaving the hospital he returned to the Roselli residence where he was dependent on the Rosellis for his complete care. Sometime in the fall of 1955 Mrs. Roselli learned of .the existence of the Unsatisfied Claim and Judgment Eund.
+She wrote a letter which was received by the Eund Board November 16, 1955 in which she stated that the plaintiff was a resident of Philadelphia. Her letter was as follows:
+“Can you idease help me on this problem.
+I am taking care of a man who was hit in front of my home June 11, 1955. lie was in the hospital for 6 weeks and now with me, since thens.
+He was a victim of a hit and run driver. Has both legs broken and still in a cask up to his hips. His resident is Phila, but was at our home more than in Phila. The Lindenwold Police has his case. They take him 3 or 4 times a month to the hospital with the Aublance. He is helpless. Prom bed to a wheel chair.
+Can you please tell me if he can collect any funds for this. He has a big hospital bill and I am taking care of him. His Mom & Dad are 76 and 76 and are unable to care for him.
+The hospital
+Our Lady of Lourdes Camden
+Salvatore Giacobbe Age 35
+1644 S. Chadwick St.
+Phila.
+Staying at
+Mrs. Nicholas Roselli 315 TJ. S. Ave.
+Watsontown, N. J.
+P. O. Berlin, N. J.
+Any information will be appreciated. Thank you.
+Mrs. Roselli
+Police Officer
+Chief Prank O’Keefe Lindenwold, N. J.
+P.S. Just found out about this.”
+Mrs. Roselli later obtained an attorney for plaintiff. Based on the information given to him the attorney wrote a letter to the Fund Board on December 6, 1955, which it received December 7, 1955. This letter also stated that plaintiff was a Philadelphia resident at the time of the accident. The letter was as follows:
+“There has been handed over to me by Nicholas Roselli of Watsontown, N. J. a letter addressed by the Manager of Unsatisfied Claim and Judgment Pund Board, Mr. W. Lewis Bambrick, to him, concerning an accident which occurred to Salvatore Giacobbe on June 11th, 1955. By reason of a short illness, T have been unable to attend to the matter until today.
+Mr. Bambrick’s letter of November 16th refers to Mr. Giacobbe’s accident which was evidently a hit and run accident and to date the Police Authorities have been unable to locate the culprit. The accident occurred on June 11th, 1955 in the evening and Mr. Salvatore Giacobbe who presently resides at 315 U. S. Avenue, Watsontown, P. O. Berlin, N. J. was injured in Lindenwold and taken by the Police of that Municipality to Our Lady of Lourdes Hospital where he was bedridden for a period of over five months. Both legs are still in a cast and every four or five weeks he is taken to the Hospital for change of east.
+At the time of the accident, Mr. Giacobbe was a resident of Philadelphia where he was the sole support, other than a small pension, of his aged parents, who are approximately 76 years old.
+A set of forms have been sent to Mr. Giacobbe and he was- also advised to seek Legal advice. Will you please inform me whether or not he has filed the forms with the Board? If not, will you kindly furnish me with a set and I shall personally call at his home and assist him in the filing of same. I feel that there is a possibility that he may be entitled to benefits and should like the opportunity of processing his claim.
+Awaiting the courtesy of an early reply, I remain.”
+Prior to the writing of this letter the attorney had no personal contact with plaintiff. Under date of December 15, 1955 the attorney again addressed a letter to the Fund Board stating that his assertion of the residence of plaintiff as Philadelphia, Pennsylvania was a gross error. The letter was received by the Fund Board December 27, 1955. A .copy of this letter follows:
+“My letter of December 6th concerning the above matter was grossly in error, particularly in reference to residence of Salvatore Giacobbe, who, to this writing, I have never seen. I have only been discussing this ease with him thi’ough an intermediary who is assisting in taking care of him. He is still incapacitated, being bedridden and in a wheel chair.
+My impression was brought about by reason of the difficulty in transmitting messages to and from Mr. Giacobbe, as heretofore indicated.
+I have ascertained that Mr. Giacobbe is a resident of Lindenwold, N. J. and has been for some considerable time preceding the accident.
+I enclose a report which I have completed for him with the information transmitted as above described and I trust that this will assist you in processing this claim. I further advise that I am in the process of obtaining the names of the medical authorities who are attending him so that the physician’s certificate can be completed and filed. In the meantime, I enclose, in duplicate, Physician’s and Dentist’s Certificate with the backer completed by Salvatore Giacobbe.
+I trust that this meets with your approval.”
+Plaintiff was required to re-enter the hospital February 2, 1956 for a possible bone graft operation on his left leg. Upon examination it was found that union had occurred at the site of the fracture so that surgery was not necessary. Plaintiff was discharged from the hospital February 14, 1956.
+Plaintiff’s claim was assigned to the General Adjustment Bureau and, under date of February 8, 1956, plaintiff’s attorney mailed the required forms and the “Notice of Intention to Make Claim” to that bureau with an enclosing letter. The notice of intention to make claim was addressed to “UNSATISFIED CLAIM AND JUDGMENT FUND BOARD 222 WEST STATE STREET TRENTON 7, NEW JERSEY,” and was received February 9, 1956. The letter of plaintiff’s attorney enclosing same stated that the notice of intention form which he was enclosing was the “second Form 201 which I have filed.”
+The record before the trial court was barren of proof of the actual prior filing of the required statutory notice of intention save for (a) the reference to the same in the aforesaid December 15, 1955 letter, and (b) the reference in the February 8, 1956 letter to the effect that the form enclosed was the second one the attorney had filed. However, on this appeal counsel have stipulated that a properly executed notice of intention had been received by the fund board December 27, 1955. The stipulation is dated March 17, 1958 and is as follows:
+“STIPULATION.
+It is stipulated between the attorneys for the respective parties that after the completion of the trial in the above matter and after brief for the appellant was prepared and a copy furnished the Unsatisfied Claim and Judgment Fund Board that said Board informed William G. Bischoff that they had received a properly executed notice of intention on December 27, 1955.
+It is agreed that the appellant by said stipulation does not admit that said notice was timely.
+CARROLL, TAYLOR & BISCHOFF Attorneys for and of Counsel with Defendant-Appellant.
+By WILLIAM G. BISCHOFF,
+A Member of the Firm.
+FRANK M. LARIO,
+Attorney for and of Counsel with Plaintiff-Respondent.
+Dated : March 17, 1958.1
+On November 30, 1956, the return day of plaintiff’s notice of application for permission to institute suit, the trial court signed an order permitting plaintiff to institute suit against the Director of Motor Yehieles and the Unsatisfied Claim and Judgment Fund Board. The order stated that the notice of intention to file claim was given on September 2, 1956. On argument before us plaintiff’s attorney asserts that due to a stenographic error the date of “2/9/56” had been transcribed as “9/2/56” and that the proper date should be February 9, 1956, apparently the date notice was received by the fund board.
+At the trial defendant moved for a dismissal of the action for failure of plaintiff to comply with the statutory requirements of residence and notice. The trial court was of the opinion that whether the plaintiff was a qualified person and accordingly entitled to maintain the action was a question to be determined by the court and not the jury. The court held that plaintiff was qualified. The court further determined as a fact that plaintiff was incapable of filing a notice of intention until February 2, 1956 (the date of the commencement of plaintiff’s second period of hospitalization) and possibly February 14, 1956 (the date of his discharge from the hospital at the end of the second period) and that notice was given on behalf of plaintiff within the statutory period following either of these dates. The court held that, plaintiff had satisfied the requirements of N. J. S. A. 39 :6 — 65.
+The case was submitted by the trial court to the jury on the issue of negligence and contributory negligence only. The jury rendered a verdict in favor of plaintiff in the amormt of $7,500. Defendant prosecutes this appeal from the judgment entered on said verdict on September 20, 1957.
+On the hearing of this appeal defendant’s counsel asserts that the trial court was correct in retaining the issues of residence and notice for its decision but contends that the determination of the issues favorable to plaintiff was not supported by the evidence.
+At the time of the accident certain requirements relating to “hit-and-run” cases were outlined in L. 1955, c. 1, § 9, which provided in part as follows:
+“Application to sue director — ‘hit-and-run’ cases. When the death of, or personal injury to, any person arises out of the ownership, maintenance or use of a motor vehicle in this State on or after April 1, 1955, but the identity of the motor vehicle and of the operator and owner thereof cannot be ascertained or it is established that the motor vehicle was at the time said accident occurred, in the possession of some person other than the owner without the owner’s consent and that the identity of such person cannot be ascertained, any qualified person who would have a cause of action against the operator or owner or both in respect to such death or personal injury for a sum in excess of $200.00 exclusive of interest and costs, may, upon notice to the director and the board, apply to the Superior Court for an order permitting him to bring an action therefor against the director in such court, and the court may proceed upon such application, in a summary manner, and may make an order permitting the applicant to bring such an action against the director when the court is satisfied, upon the hearing of the application, that—
+(a) The applicant has complied with the requirements of section 5.” (Emphasis supplied)
+Eeference is hereinafter made to the aforesaid “section 5” which provided for the “Notice of accident and intention to file claim.”
+A “qualified person” was defined by L. 1955, c. 1, p. 12 as follows:
+“ ‘Qualified person’ means a resident of this State or the owner of a motor vehicle registered in this State or a resident of another State, territory, or Federal district of the United States or Province of the Dominion of Canada, or foreign country, in which recourse is afforded, to residents of this State, of substantially similar character to that provided for by this act.”
+As the State of Pennsylvania does not afford recourse “of substantially similar character,” plaintiff’s right to recovery depends upon a finding that he resided in this State at the time of the accident. Betz v. Director, 27 N. J. 324.
+We are in accord with the determination of the trial judge that the issue of residence was for determination by the court and not by the jury. Although the testimony on this subject was in conflict, there was ample evidence justifying the trial court’s determination that plaintiff had established .a permanent home with Mr. and Mrs. Roselli prior to the accident.
+We hold also that the issue of notice was a question properly determinable by the trial court.
+We find, however, that the court erred in determining that plaintiff had given notice within the requisite statutory period.
+At the time of the accident on June 11, 1955 the law required a plaintiff seeking recovery from the fund to give notice of such contemplated action. The statutory requirement (L. 1955, c. 1, § 4, p. 15) was as follows:
+“Notice of accident and intention to file claim. Any qualified person, or the personal representative of such person, who suffers damages resulting from bodily injury or death or damage to property arising out of the ownership, maintenance or use of a motor vehicle in this State on or after April 1, 1955, and whose damages may be satisfied in whole or in part from the fund, shall, within 30 days after the accident, as a condition precedent to the right thereafter to apply for payment from the fund, give notice to the board, on a form prescribed by it, of his intention to make a claim thereon for such damages if otherwise uncollectible and otherwise comply with the provisions of this section; provided any such person may, in lieu of giving said notice within said time, make proof to the court on the hearing of the application for the payment of a judgment that he was physically incapable of giving said notice within said period and that he gave said notice within 30 days after he became physically capable to do so or in the event that he did not become so capable, that a notice was given on his behalf within a reasonable period.”
+Effective July 1, 1956, L. 1956, c. 200, § 1, the above section was amended to increase the time period within which notice be given from 30 to 90 days. The amended statute as well as the original statute applied to accidents occurring on or after April 1, 1955, N. J. S. A. 39 :6-65.
+Although it might be argued that the statute as amended could be interpreted as defining 90 days as the prescribed period applicable to a case such as the one at bar, both counsel have briefed and argued this appeal as though the matter were controlled by the 30-day limitation. The cases of Corrigan v. Gassert, 27 N. J. 227 (1958) and Moore v. Truesdale, 48 N. J. Super. 257 (App. Div. 1958), lend support to the position taken by counsel.
+The proof beforé the trial court, as contrasted with the proof submitted to us by the aforesaid stipulation, dated March 17, 1958, showed that plaintiff did not give the required statutory notice until February 7, 1956, received February 9, 1956. Whether plaintiff was governed by the 30-day or 90-day period need not be decided as it is clear to us that he was out of time in either event.
+We recognize the fact that the provision governing delayed notice in the event the victim is disabled is applicable to “hit-and-run” cases. Giles v. Gassert, 23 N. J. 22 (1956).
+Plaintiff was discharged from the hospital July 21, 1955. Dr. Matthew Mischinski a witness for plaintiff gave the following testimony on cross-examination concerning plaintiff’s condition at the time he left the hospital:
+“Q. You said that his legs after he was discharged on the first occasion that he could not walk? A. That’s right.
+Q. Other than being unable to walk was there anything about his condition that would prevent him from taking care of his regular affairs ? A. No.
+Q. His arms and eyes were all right? A. Yes.
+Q. Mental faculties were all right as far as you could determine as a doctor? A. Yes.”
+It is to be noted that the trial court held that plaintiff was incapable of giving the required notice until February 2, 1956 or February 14, 1956. At the time this determination was made, however, the stipulation that plaintiff had given notice on December 27, 1955 was not part of the record. Such stipulation was not made until March 17, 1958 as aforesaid, several months after the judgment was entered in the trial court and while the appeal was pending. Consequently the finding of the trial court that plaintiff was incapable of giving notice until February 2, 1956 or February 14, 1956 cannot remain as the beginning date of the tolling of the statutory period as the record now discloses that a properly executed notice was given approximately six weeks prior thereto.
+We hold that on July 21, 1955, the date plaintiff was discharged from the hospital following his initial hospitalization, he was not physically incapable within the meaning of the act. His incapability consisted of his inability to ambulate. If this were to render him incapable of giving the required notice then it would necessarily follow that an amputee might be deemed permanently incapable of giving notice. We accept the testimony of Dr. Mischinski that plaintiff’s mental faculties were unimpaired when he left the hospital July 21, 1955. His testimony is definite in this regard and, coming as it does from plaintiff’s own physician who was best able to judge his condition expertly, it affords the most reliable source for determining plaintiff’s capability. As the statutory period began to run from that date the notice which it is now agreed was received December 27, 1955 was out of time whether the applicable period be considered to be 30 days or 90 days.
+Plaintiff contends that the aforesaid order of the trial court entered November 30, 1956 permitting plaintiff to institute this suit is res judicata, of the issues of residence and notice.
+It is to be noted that on September 10, 1956 the law was amended eliminating the requirement for the procurement of a court order permitting the institution of suit in a hit- and-run case. L. 1956, c. 150, p. 618, § 1 (N. J. S. A. 39:6-78). There was therefore no statutory provision for the order. Consequently the order cannot be used as a basis for the contention that the trial court thereby adjudicated the issues of residence and notice.
+Reversed, no costs.
