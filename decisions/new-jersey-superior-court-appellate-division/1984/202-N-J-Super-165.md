@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "1984-10-10"
-citations: ["202 N.J. Super. 165", "199 N.J. Super. 2"]
+citations: ["202 N.J. Super. 165"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["PATRICIA JONES, BARBARA POWERS, AND ENNIO PASQUARIELLO, PLAINTIFFS-RE
 source_url: "https://static.case.law/nj-super/202/cases/0165-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 373516
-cites_cases: ["102 N.J.Super. 26", "121 N.J.L. 249", "135 N.J.Super. 253", "137 N.J.Super. 353", "14 N.J. 296", "14 N.J. 483", "141 N.J.Super. 1", "147 N.J.Super. 5", "150 N.J.Super. 277", "163 N.J.Super. 463", "193 N.J.Super. 47", "2 N.J. 1", "20 N.J. 414", "35 N.J. 343", "39 N.J.Super. 330", "63 N.J.Super. 297", "65 N.J. 301", "75 N.J. 528", "79 N.J. 488"]
+cites_cases: ["102 N.J.Super. 26", "135 N.J.Super. 253", "141 N.J.Super. 1", "147 N.J.Super. 5", "63 N.J.Super. 297", "65 N.J. 301"]
 ---
 
 # Jones v. Warren
