@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "1989-04-21"
-citations: ["232 N.J. Super. 414", "232 N.J. Super. 432"]
+citations: ["232 N.J. Super. 414"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. JOHN MARVIN WILLIAMS, D
 source_url: "https://static.case.law/nj-super/232/cases/0414-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 299211
-cites_cases: ["101 N.J. 573", "102 N.J. 265", "104 S.Ct. 3562", "105 N.J. 42", "111 N.J. 293", "119 Mich.App. 724", "158 N.J.Super. 27", "171 N.J.Super. 161", "187 N.J.Super. 44", "194 N.J.Super. 192", "227 Kan. 174", "263 N.W.2d 747", "278 N.W.2d 552", "30 L.Ed.2d 367", "326 N.W.2d 622", "378 Pa.Super. 59", "400 U.S. 455", "404 U.S. 983", "41 Wash.App. 409", "441 So.2d 188", "443 F.2d 463", "466 U.S. 648", "466 U.S. 668", "467 U.S. 1267", "470 F.2d 1245", "478 A.2d 1101", "506 P.2d 558", "70 Md.App. 616", "704 P.2d 666", "77 N.J. Super. 81", "81 N.J. 373", "82 L.Ed.2d 864", "92 N.J. 62", "92 S.Ct. 447"]
+cites_cases: ["101 N.J. 573", "104 S.Ct. 3562", "105 N.J. 42", "119 Mich.App. 724", "158 N.J.Super. 27", "171 N.J.Super. 161", "187 N.J.Super. 44", "194 N.J.Super. 192", "227 Kan. 174", "263 N.W.2d 747", "278 N.W.2d 552", "30 L.Ed.2d 367", "326 N.W.2d 622", "378 Pa.Super. 59", "400 U.S. 455", "404 U.S. 983", "41 Wash.App. 409", "441 So.2d 188", "443 F.2d 463", "466 U.S. 648", "466 U.S. 668", "467 U.S. 1267", "506 P.2d 558", "70 Md.App. 616", "704 P.2d 666", "81 N.J. 373", "82 L.Ed.2d 864", "92 N.J. 62", "92 S.Ct. 447"]
 ---
 
 # State v. Williams
