@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1972-04-27"
+citations: ["119 N.J. Super. 80"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. JOSEPH F. STURN, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/119/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 338526
+cites_cases: ["10 N. J. 184", "116 N. J. L. 48", "122 N. J. L. 466", "13 N. J. Super. 312", "16 N. J. Super. 171", "343 U. S. 931", "57 N. J. 1", "72 S. Ct. 766", "94 N. J. Super. 66", "96 L. Ed. 1340"]
+---
+
+# State v. Sturn
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was convicted of driving his motor vehicle while his ability to operate was impaired by consumption of alcohol (N. J. S. A. 39:4-50(b)). He does not dispute the validity of the conviction. However, he challenges the correctness of the trial court’s action in holding him to be a subsequent offender under the statute by reason of his conviction in 1963 of drunken driving.
+The problem arises because N. J. S. A. 39:4-50, the statute under which the 1963 conviction took place and which dealt only with driving under the influence, was amended in 1966. The effect of this amendment is two-pronged: (1) it retains in force and indeed reads essentially the same as the offense condemned under the former statute of driving under the influence of alcohol, and (2) it establishes a new, but lesser and included offense, of driving while one’s ability to operate is impaired by consumption of alcohol. See State v. Macuk, 57 N. J. 1, 12 (1970).
+Both offenses involve the same kind of conduct and are directed against essentially the same evil. That evil is the operation of a motor vehicle by one affected in such a degree that it may affect the safety of others as well as that of the operator himself. Driving under the influence involves more serious consequences than driving while impaired, but the offenses differ mainly in degree. (Indeed, as our Supreme Court has recognized, the impairment offense prescribed under (b) is a lesser included offense of driving under the influence. State v. Macuk, supra.)
+The original statute, as well as the individual subsections of the new statute, contain provisions for the imposition of additional penalties for subsequent offenders. As indicated above, defendant’s 1963 conviction was under the older statute. His present conviction is under subsection (b) of the new statute.
+Two narrow issues are thus presented: (1) may a conviction for driving with impaired faculties under (b) be deemed a subsequent conviction to one under (a) for driving under the influence of intoxicating liquor, and (2) if so, may such a conviction for driving while impaired be deemed to be a subsequent offense to a conviction under the statute before it was amended in 1966? We hold that both questions should be answered in the affirmative and therefore the second or subsequent offender provision was properly invoked. Statements to the contrary in State v. Cannon, 94 N. J. Super. 66 (Cty. Ct. 1967), are disapproved.
+Since the earlier offense of driving under the influence includes the lesser offense of driving while impaired and thus contains all of the elements of the lesser offense, we conclude that the two offenses must be considered the same for purposes of the invocation of the second or subsequent offense penalty for impairment. The salutary purpose of that section would appear to establish a deterrent and preventative sanction to be employed against those whose continued disregard of the safety or the welfare of other members of the public is manifested by a second conviction of the same nature. It would be incongruous to hold that the Legislature intended to preclude the invocation of the subsequent offender section in spite of the fact that the prior conviction contained all the elements of the present conviction and was more serious than the present conviction.
+Nor do we perceive any valid reason why defendant may not be penalized as a subsequent offender under the impairment provision simply because the first offense occurred before the 1966 amendment. A conviction under the old statute is, for all practical purposes, the same as one under (a) of the amended act and logically should be treated as such. The amendment merely added a newer and lesser category of the same kind of offense.
+Finally, we see no basis for the contention that the 1963 conviction cannot be used to invoke the second offender penalties provided by subsection (b) because it violated the ex post facto provisions of the Federal and State Constitutions. The punishment provided under (b) is for the second offense, not the first. The penalty imposed for the first offense is in no way increased. The first merely provides a background to be considered in sentencing for a second offense. Only the fact of the second conviction brings heavier penalties for the subsequent offense. See State v. Rowe, 116 N. J. L. 48, 53-57 (Sup. Ct. 1935), aff'd 122 N. J. L. 466 (E. & A. 1939), where a statute had been amended in 1931 with a provision for increased penalties for second offenders; it was held not to be a violation of the ex post facto provision to impose those penalties in 1934 because of previous conviction in 1924. See also, In re Zee, 13 N. J. Super. 312, 317-320 (Cty. Ct. 1951), aff'd 16 N. J. Super. 171 (App. Div. 1951), cert. den. 343 U. S. 931, 72 S. Ct. 766, 96 L. Ed. 1340 (1952), cited at length in In re Caruso, 10 N. J. 184, 188-190 (1952).
+Affirmed.
