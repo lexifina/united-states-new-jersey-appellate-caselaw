@@ -1,0 +1,37 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1979-02-05"
+citations: ["165 N.J. Super. 437"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ADCO ASSOCIATES, INC., A NEW JERSEY CORPORATION, PLAINTIFF-RESPONDENT, v. ADMIRAL CORPORATION; ADMIRAL GROUP AND ROCKWELL INTERNATIONAL CORPORATION, DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/165/cases/0437-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 294785
+cites_cases: ["29 N. J. 498", "61 N. J. Super. 348", "70 N. J. Super. 185"]
+---
+
+# ADCO Associates, Inc. v. Admiral Corp.
+
+## Majority (Kole, J. A. D.)
+
+The opinion of the court was delivered by
+Kole, J. A. D.
+We granted leave to appeal from an order permitting plaintiff to assert a late demand for a jury trial.
+Plaintiff’s alleged franchise agreement with defendants was terminated by them on April 12, 1976.
+On May 9, 1977, plaintiff filed a complaint against defendants charging violation of its common law and statutory franchise rights, conspiracy to violate the State Antitrust Act, breach of contract and malicious interference with economic advantage. It demanded, by way of both legal and equitable relief, among other things, compensatory, punitive and treble damages; an accounting to the plaintiff for defendants’ gross sales in plaintiff’s franchise area, and upon completion of such accounting, payment to plaintiff of a percentage of such gross sales, computed in accordance with the franchise agreement; and a restraint against continued violation of “New Jersey law.”
+On June 22, 1977, the parties agreed to an extension until June 27 of the time in which defendants were to respond. On June 27, 1977, an answer and a counterclaim for $7,689.80 was filed. Plaintiffs answer to the counterclaim was filed on July 8, 1977.
+Neither the original complaint nor the answer to the counterclaim contained any demand for a jury trial. Plaintiff claims that in its initial meeting with its attorney, it had requested a jury trial. According to plaintiff, the failure to demand a jury trial, caused by its counsel’s “mistake” and “inadvertence,” was discovered some time later. On or about March 31, 1978 plaintiff moved to amend its complaint to include a demand for a jury trial. Thus, the jury trial demand was first made approximately eleven months after the complaint was filed and nine months after filing of the answer to the counterclaim.
+In support of the motion plaintiff’s counsel explained that the complexity of the issues in the case, the nature of his research and “the circumstances of discovery” caused Mm to forget the jury demand. Acknowledging the requirement of B. 4:38-1 (a) that such demand be made within ten days of the service of the last pleading, he relied both on B. 1:1—2, which allows a judge to relax any rule in the interest of justice, and on plaintiff’s constitutional right to trial by Jury.
+The trial judge found that “plaintiff’s failure to make timely demand for jury trial was due entirely to inadvertence and the matter is within the discretion of the trial court.” He exercised that discretion by granting the motion.
+We reverse. The judge mistakenly exercised his discretion under applicable law. B. 4:35-l(e); Carolyn Schnurer, Inc. v. Stein, 29 N. J. 498, 503-504 (1959) (Schnurer); Sweeney v. Veneziano, 70 N. J. Super. 185, 190-191 (App. Div. 1961) (Sweeney),
+With respect to the exercise of discretion to relieve a party from a jury trial waiver, Schnurer made no distinction between a voluntary and knowing waiver and one arising from “failure to demand jury trial within the time Emit prescribed by [rule].” Id. 29 N. J. at 503 (emphasis supplied). Thus, the trial judge erred in holding that Schnurer was inapplicable since it involved a voluntary waiver, whereas in the present case there was an involuntary waiver of jury trial “entirely by inadvertence.” This attempted distinction cannot properly support an exercise of discretion that would permit a jury trial demand to he made eleven months and nine months, respectively, after the filing of a complaint and an answer to a counterclaim, predicated simply on inadvertence. For, as Schnurer states, “in exercising the discretion to grant a request for jury consideration after the right has been waived, the courts do not act favorably in the absence of a showing of such cause as reasonably moves the discretion.” Id. at 503. Mere inadvertence does not constitute such a showing for relief from jury trial waivers under B. 1 :l-2. That rule confers general power to relax any rule of practice if adherence to it would result in injustice. Substantially the same rule as B. 1 :l-2 was involved in Schnurer — the former B. B. 1:27A. Id. at 503.
+In Schnurer the court quoted approvingly from 5 Moore, Federal Practice 718, 719 (1951):
+[J]udicial discretion must have some rational basis. * * * Counsel desirous of obtaining relief from waiver should be careful to spell out the basis or bases of his motion for relief, since it is settled today that the mere statement of ‘oversight’ or ‘inadvertence does not suffice to invoke the discretion of the court, [at 503-504; emphasis supplied]
+In Sweeney, which held that allowance of a tardy jury demand was not justified, we said:
+The court’s discretion should never be exercised unless there appears in the record a showing of the existence of some plausible circumstances that would justify relief. * *' * Here we have no more than counsel’s admission of failure to make a seasonable demand ‘due to his own neglect.’ This is not ‘excusable neglect’ within R. R. 1: 27B * * *. [70 N. J. Super. at 190-391].
+Just as counsel’s neglect was insufficient in Sweeney, the attorney’s “inadvertence” here does not justify relief under B. 1 :l-2. There is a total lack of a showing in this record of “plausible circumstances that would justify” permitting this late demand for a jury trial. Contrast Vonella v. Northern Assurance Co., 61 N. J. Super. 348 (Law Div. 1960), where the other party’s conduct was responsible for the tardy jury trial demand.
+We are unpersuaded by plaintiff’s arguments on this appeal and the authorities it cites in support of the trial judge’s action.
+Eeversed. Fo costs.
+R. R. 1:27B, referred to in Stoeeney, specifically permitted relief from time limitations for good cause if the failure to act was the result of excusable neglect. Id. at 190. These conditions for relief are eliminated in R. 1:3-4, the present version of R. R. 1:27B. It has been said that under R. 1:3—4, in “every case, the motion should be determined on the merits of the application, considering such factors as the reasons for the delay, prejudice to the opposing party and effect on the trial calendar.” See Pressler, Current N. J. Court Rules (1978 ed.), Comment R. 1:3-4. Even if we were to apply that standard, we see nothing in the merits of this application which would justify relief due solely to the inadvertence of plaintiff’s counsel in demanding a jury trial, particularly since many of the issues raised are equitable in nature, some of them may involve complex questions, and generally the matters involved may just as readily be tried by a judge as a jury. In any event, as to relief from waiver of jury trial, we are satisfied that the guiding criteria are still those set forth in Schnurer and Sweeney. Of course, we are concerned only with civil actions under R. 4:35-1.
