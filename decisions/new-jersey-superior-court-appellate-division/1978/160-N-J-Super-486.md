@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1978-07-03"
+citations: ["160 N.J. Super. 486"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN RE PAYMENT FOR EXPERT WITNESSES ORDERED IN THE MATTER OF STATE v. MARVIN STOCKLING."]
+source_url: "https://static.case.law/nj-super/160/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 894610
+cites_cases: ["134 N. J. Super. 21", "147 N. J. Super. 234", "153 N. J. Super. 362", "16 L. Ed. 2d 553", "17 L. Ed. 2d 127", "28 Ill. App. 3d 269", "325 A. 2d 84", "328 N. E. 2d 195", "355 F. 2d 241", "365 U. S. 829", "366 U. S. 914", "371 U. S. 847", "372 U. S. 335", "384 U. S. 957", "385 U. S. 893", "46 N. J. 399", "487 S. W. 2d 294", "5 L. Ed. 2d 706", "58 N. J. Super. 209", "6 L. Ed. 2d 238", "81 S. Ct. 1089", "81 S. Ct. 715", "83 S. Ct. 82", "86 S. Ct. 1582", "87 S. Ct. 28", "89 N. M. 254", "9 L. Ed. 2d 83"]
+---
+
+# State v. Stockling
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The Office of the Public Defender appeals from an order of the Law Division requiring it to pay for the cost of expert witnesses engaged on behalf of an indigent defendant who is represented by private counsel retained by his parents. The facts and the reasoning of the Judge of the Law Division are set forth in his opinion reported at 153 N. J. Super. 362 (Law Div. 1977).
+The trial judge construed N. J. S. A. 2A:158A-5 as requiring the Public Defender to pay for all necessary services and facilities for an indigent defendant whether he was represented by the Public Defender or not. We are not in accord with that construction.
+Before the enactment of N. J. S. A. 2A:158A-1 et seq., as a matter of legislative policy, the obligation of paying for the cost of defending indigent defendants was deemed to rest upon county governments. State v. Rush, 46 N. J. 399, 414-415 (1966). In order to give the Legislature an opportunity to consider the matter, provision was made by the Supreme Court to delay the effective date of imposing the expense upon the counties. Id. at 415. The Legislature responded 'by the enactment of L. 1967, c. 43, entitled “AN ACT concerning the representation of indigent defendants in criminal cases, creating the Office, of the Public Defender, prescribing its functions, powers and duties, and providing for an appropriation.” Stroinski v. Office of Public Defender, 134 N. J. Super. 21, 30 (App. Div. 1975).
+In the first section of the act, N. J. S. A. 2A:158A-1, it was
+* * *' declared to be the public policy of this State to provide for the realization of the constitutional guarantees of counsel in criminal cases for indigent defendants by means of the system and program established and authorized by this act * * *.
+Thus, the Legislature chose to establish a unitary centralized system as distinguished from a system of assigning counsel as a means of meeting the State’s obHgation of providing for the defense of indigents required by the Federal' Constitution as interpreted in Gideon v. Wainwright, 372 U. S. 335, 83 S. Ct. 792, 9 L. Ed. 2d 799 (1963). The Legislature was motivated at least partly by a desire to relieve the counties of the financial burden they would face if no legislation was enacted. State v. Rush, supra; Report of New Jersey Commission on the Defense of Indigent Persons Accused of Crime (December 22, 1966).
+In the act the Public Defender was charged with the duty of providing for the legal representation of any indigent defendant who is formally charged with the commission of a crime. N. J. S. A. 2A:158A-5. In the same section of the statute he was also required to provide “[a] 11 necessary services and facilities of representation (including investigation and other preparation) * *
+In our view, it is clear that the Legislature intended to provide fox “necessary services and facilities” at the expense of the Public Defender in only those instances where the Public Defender was providing for the legal representation of the indigent defendant. This intention emerges from a reading of the title of the act as well as the declaration of policy found in N. J. S. A. 2A:158A — 1, supra. Reference to the establishment of a system and a program belies any intent to defray the expense of defending against the prosecution of criminal charges on a piecemeal basis. We have carefully scrutinized the language of the entire statute and have found no language which evidences an intention contrary to that which we have expressed.
+In providing for the system of representation of indigent defendants by a Public Defender, the State has fulfilled its obligation under Gideon v. Wainwright, supra. See Stroinski v. Office of the Public Defender, supra; Lindh v. O’Hara, 325 A. 2d 84, 89 (Del. Sup. Ct. 1974); State v. Rascon, 89 N. M. 254, 550 P. 2d 266, 269 (Sup. Ct. 1976); Bradshall v. Ball, 487 S. W. 2d 294, 299 (Ky. Ct. App. 1972); People v. Majewski, 28 Ill. App. 3d 269, 328 N. E. 2d 195, 197 (App. Ct. 1975). The State is not required to provide a means of defense through counsel of the defendant’s choice at public expense. State v. Rinaldi, 58 N. J. Super. 209, 214 (App. Div. 1959), cert. den. 365 U. S. 829, 81 S. Ct. 715, 5 L. Ed. 2d 706 (1961), cert. den. 366 U. S. 914, 81 S. Ct. 1089, 6 L. Ed. 2d 238 (1961), cert. den. 371 U. S. 847, 83 S. Ct. 82, 9 L. Ed. 2d 83 (1962); United States v. Burkeen, 355 F. 2d 241, 245 (6 Cir. 1966), cert. den. 384 U. S. 957, 86 S. Ct. 1582, 16 L. Ed. 2d 553 (1966), reh. den. 385 U. S. 893, 87 S. Ct. 28, 17 L. Ed. 2d 127 (1966).
+Nor do we perceive any good reason why the State should be required to provide for the payment of services other than legal representation when an indigent defendant chooses not to be represented by the Public Defender. The sole exception we have found is that authorized by N. J. S. A. 2A:152-17 relating to the right to a transcript for use on appeal at the expense of the county where venue was laid. State v. Morgenstein, 147 N. J. Super. 234 (App. Div. 1977).
+Accordingly, we hold that an indigent defendant who chooses not to be represented by the Public Defender is not entitled to the service of expert witnesses or other incidents of his defense at the expense of either the county or the State.
+Reversed.
