@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1980-05-12"
+citations: ["174 N.J. Super. 149"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NEW JERSEY ASSOCIATION FOR CHILDREN WITH LEARNING DISABILITIES, A NEW JERSEY CORPORATION, PLAINTIFF-RESPONDENT, v. BURLINGTON COUNTY ASSOCIATION FOR CHILDREN WITH LEARNING DISABILITIES, A NEW JERSEY CORPORATION, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/174/cases/0149-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 290075
+cites_cases: ["123 N.J.Eq. 351", "161 N.J.Super. 230", "163 N.J.Super. 199", "167 N.J.Super. 563", "18 N.J. 476", "3 N.J. 374", "393 U.S. 440", "4 N.J.Super. 456", "7 N.J. 323", "8 N.J. 230"]
+---
+
+# New Jersey Ass'n v. Burlington County Ass'n
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+This dispute arises over the withdrawal of defendant from plaintiff, a state-wide nonprofit organization. The trial judge imposed a constructive trust upon all of defendant’s property and enjoined defendant from using the name “Association for Children with Learning Disabilities.” 163 N.J.Super. 199 (Ch. Div.1978). Defendant’s motion for a new trial was denied, and defendant appeals, contending that (1) the trial judge erred in applying standards established for resolving church disputes, and in failing to consider defendant’s justification for withdrawal; (2) the trial judge erred in evidential rulings, and (3) the trial judge erred in enjoining defendant from using its name.
+The trial judge relied on Kelly v. McIntire, 123 N.J.Eq. 351 (Ch.1938), and Protestant Episcopal Church v. Graves, 161 N.J.Super. 230 (Ch.Div.1978), aff’d o.b. 167 N.J.Super. 563 (App.Div.1979), (notice of appeal to the New Jersey Supreme Court filed on May 29, 1979), both of which involve secession of local congregations from their church hierarchy because of disputes over religious doctrine.
+The reason why civil courts refrain from determining the merits of disputes of religious corporations involving religious doctrine is found in the First Amendment of the United States Constitution prohibiting the establishment of religion. Presbyterian Church in United States v. Mary Elizabeth Blue Hull Memorial Presbyterian Church, 393 U.S. 440, 449, 89 S.Ct. 601, 606, 21 L.Ed.2d 658 (1969). That consideration is not present in the instant case.
+As the trial judge pointed out, the parties are bound by plaintiff’s constitution and by-laws. 163 N.J.Super. at 205 206. However, we find no provision in plaintiff’s constitution or by-laws dealing with secession of a section. Secession is not prohibited, nor is there any requirement that a section’s property must revert to the state organization upon secession or expulsion. The only by-law dealing with ownership of property is Art. VI, par. 5:
+All materials; [s/c] such as films, slides, camp equipment are the property of the Association. Use in other than ACLD [plaintiff] activities must have the express consent of the Executive Committee.
+At issue here is control over the Burlington County programs for children with learning disabilities, i. e., the leases and contract rights involving the Midway School and Camp Melpine. Since there is no provision in the constitution or by-laws that property, such as the rights in question here, belongs to the state association, there is no authority in the constitution or by-laws for granting ownership of it to plaintiff.
+Cases involving disputes over ownership of property when local chapters have seceded or withdrawn from larger nonprofit corporations have usually been resolved on the basis of the provisions of the parent organization’s by-laws, which constitute a contract binding upon the withdrawing chapter. See, e. g., Textile Workers Union of America v. Bellman, etc., Co., 18 N.J. 476 (1955); Harker v. McKissock, 7 N.J. 323 (1951), reh. den. 8 N.J. 230 (1951); International Union, etc., C.I.O. v. Becherer, 4 N.J.Super. 456 (App.Div.1949), certif. den. 3 N.J. 374 (1949).
+Here, the record establishes that defendant’s actions were justified. Plaintiff had instituted a system of centralized banking under which local chapters were required to submit all their funds to plaintiff, and plaintiff in turn would pay their bills. However, as the trial judge found, the system of centralized banking
+. developed difficulties in practice. There was testimony that considerable revenues received by the Burlington County Section and transmitted to the State Association, . were either paid tardily or were not paid at all. [163 N.J.Super. at 203]
+The undisputed evidence discloses that plaintiff failed to provide any assistance or guidance whatsoever to defendant (when it was a section) in the area of program development and evaluation. Defendant’s highly successful school and camp programs were founded, expanded and conducted without any aid, financial or otherwise, from plaintiff, despite requests for such aid.
+The trial judge never made a specific finding as to who owned the leases and contract rights in question prior to defendant’s withdrawal. However, he consistently referred to that property as defendant’s. He found that “the Burlington County Section was financed locally.” 163 N.J.Super. at 202. He noted that the use of land in Rancocas State Park for the summer camp “was granted to the Burlington County Section by the State of New Jersey,” and that these projects were “undertaken and financed without assistance from the state organization.” Id. at 202. He stated that “all its [the Burlington County Section’s] activities were organized and conducted with little supervision or assistance from the State Association.” Id. at 202. He referred to “its [the Burlington County Section’s] camp and school activities.” Id. at 203. Finally, although defendant may withdraw from plaintiff “if they so desire, [it] may not assume ownership of the property held by the Section. . ” Id. at 206.
+In our view there is sufficient credible evidence present in the record to support the trial judge’s findings with respect to the lease and contract rights, and we find that the record further supports the conclusion that those rights belonged to the Burlington County Section before it withdrew.
+Finally, we affirm the injunction restraining defendant from using the name “Association for Children with Learning Disabilities,” for the reasons expressed by Judge Wood. 163 N.J.Super. at 208. Defendant’s argument that it is entitled to use its name because it serves a different geographical area than plaintiff is clearly without merit.
+The judgment is reversed as to the ownership of the leases and contract, affirmed as to the ownership of the material assets, as defined in the by-laws, and affirmed as to defendant’s use of its name.
+No costs.
