@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1990-01-09"
+citations: ["242 N.J. Super. 1", "575 A.2d 1371"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["B. & W. ASSOCIATES, PLAINTIFF-RESPONDENT, v. PLANNING BOARD OF THE TOWN OF HACKETTSTOWN, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/242/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 351609
+cites_cases: ["121 A.2d 499", "156 A.2d 737", "158 A.2d 453", "170 N.J.Super. 216", "174 A.2d 465", "194 N.J.Super. 333", "21 N.J. 274", "31 N.J. 554", "35 N.J. 570", "406 A.2d 201", "476 A.2d 888", "58 N.J.Super. 542"]
+---
+
+# B. & W. Associates v. Planning Board
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+The Planning Board of the Town of Hackettstown appeals from a judgment entered on a complaint in lieu of prerogative writ filed by B & W Associates adjudicating that certain rights had accrued to the plaintiff as a result of an earlier preliminary major subdivision approval by the Board.
+B & W owns property in the Industrial Park Zone (IP) in Hackettstown where permitted uses originally included warehousing, office, manufacturing and distribution. In May 1987, the Board granted preliminary major subdivision approval to B & W for five lots and final subdivision approval for two others, including site plan approval for one. On August 27, 1987, the Town Council amended the zoning ordinance so as to eliminate warehousing as a permitted use in the IP zone. In June, 1988, B & W applied for site plan approval to construct a building on one of the lots where it had received only preliminary subdivision approval. During the resultant hearings before the Board it became evident that B & W proposed to use those premises for warehousing.
+A dispute arose because the Board took the position that the amended ordinance precluded such use while B & W insisted that its right to use it as such had vested pursuant to the provisions of N.J.S.A. 40:55D-49 and 52. Ultimately, B & W filed the instant complaint seeking an adjudication consistent with its position. The Law Division judge heard arguments on a motion for summary judgment and ruled that the Board’s grant of preliminary and final subdivision approval vested B & W with the right to use the property for warehousing.
+On this appeal the Board argues that the Law Division judge erred in so holding because the cited statutes “do not afford use protection upon subdivision approval,” and the elimination of warehousing as a use did not contradict any of the protections afforded thereby.
+N.J.S.A. 40:55D-49 provides:
+Preliminary approval of a major subdivision pursuant to section 36 (§ 40:55D-48) of this act or of a site plan pursuant to section 34 (§ 40:55D-46) of this act shall, except as provided in subsection d. of this section, confer upon the applicant the following rights for a 3-year period from the date of the preliminary approval:
+a. That the general terms and conditions on which preliminary approval was granted shall not be changed, including but not limited to use requirements; layout and design standards for streets, curbs and sidewalks; lot size; yard dimensions and off-tract improvements; and, in the ease of a site plan, any requirements peculiar to site plan approval pursuant to section 29.3 (§ 40:55D-41) of this act; except that nothing herein shall be construed to prevent the municipality from modifying by ordinance such general terms and conditions of preliminary approval as relate to public health and safety. (Emphasis supplied).
+N.J.S.A. 40:55D-52 provides in pertinent part, as follows:
+The zoning requirements applicable to the preliminary approval first granted and all other rights conferred upon the developer ... shall not be changed for a period of two years after the date of final approval ...
+The Board argues that N.J.S.A. 40:55D-49 distinguishes the protection afforded to approval of a major subdivision as opposed to approval of a site plan. It argues further that the statute, as so read, does not afford any “use protection” to the former but does as to the latter—in other words “use protection” is afforded only upon site plan approval. Thus, it contends that the principles of Bleznak v. Township of Evesham, 170 N.J.Super. 216, 406 A.2d 201 (Law Div.1979) and S.T.C. Corp. v. Planning Bd of Tp. of Hillsborough, 194 N.J.Super. 333, 476 A.2d 888 (App.Div.1984) are factually inapposite. Moreover, it claims that the “elimination of one sub-use [warehousing] out of many broadly worded industrial-commercial uses” does not violate the protections afforded by the statute because it prohibits only changes in the “general terms and conditions.”
+We do not agree with the Board’s contentions. The wording and intent of the cited statutory provisions clearly guarantee to one who has received preliminary or final subdivision approval, that no subsequent zoning change can alter those uses for a specified period of time. Watt v. Mayor and Council of Borough of Franklin, 21 N.J. 274, 277, 121 A.2d 499 (1956). While a municipality is granted continuing authority to change or amend its ordinances, absent a problem of public health and safety it may not do so to the detriment of an applicant who has received prior subdivision approval for the time specified in the statute. Any contrary decision would enable entrepreneurs to be “frustrated through zoning changes.” Bleznak, 170 N.J.Super. at 219, 406 A.2d 201. See also S.T.C., 194 N.J.Super. at 336, 476 A.2d 888. The statute does not countenance such a change in the “rules of the game” upon which B & W has justifiably relied. Hilton Acres v. Klein, 35 N.J. 570, 580, 174 A.2d 465 (1961). Nor is there any merit to the Board’s attempt to downplay the elimination of warehouse use by suggesting that it did not effectuate any change in the “general overall use or in the zone designation.”
+Finally, the Board’s argument that B & W’s “claim is not ripe for adjudication” because “plaintiff has failed to allege any specific damage” also fails. The Board did not raise this issue below. Reynolds Offset Co., Inc. v. Summer, 58 N.J.Super. 542, 545, 156 A.2d 737 (App.Div.1959), certif. den., 31 N.J. 554, 158 A.2d 453 (1960). Additionally, B & W’s claim for relief is based upon a real threatened economic harm to its interests in the affected land.
+Affirmed.
+The local zoning ordinance offers parallel protection to that afforded by the statute. See Section 15-3(b)(7)(a) of the Hackettstown ordinance.
