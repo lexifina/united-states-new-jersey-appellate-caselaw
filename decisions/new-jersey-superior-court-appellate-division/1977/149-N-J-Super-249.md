@@ -1,0 +1,39 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1977-04-05"
+citations: ["149 N.J. Super. 249"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE ESTATE OF HELENE MARGOW, DECEASED."]
+source_url: "https://static.case.law/nj-super/149/cases/0249-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 310591
+cites_cases: ["12 N. J. Eq. 289", "142 N. J. Eq. 21", "18 N. J. 229", "20 N. J. 228", "27 N. J. Super. 532", "42 N. J. 146", "50 N. J. 286", "8 N. J. 321", "95 N. J. Super. 182"]
+---
+
+# In re the Estate of Margow
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Muriel Kabot, the proponent and executrix named in the will of Helene Margow, appeals from a judgment which, among other things, denied letters testamentary to her and which awarded letters of administration with the will annexed to Donald Peifier, the caveator and nephew of the decedent. This was based upon the trial judge’s finding that the proponent, in admittedly preparing the decedent’s last will and testament, engaged in the unlawful practice of law. N. J. S. A. 2A:170-78.
+Included in the estate were shares of stock in Marmac Oil, a corporation in which Margow and her deceased husband were majority shareholders and which was managed by Peiffer. Margow’s will, dated June 3, 1975 contained the following two clauses:
+SEVENTH: I hereby authorize my Executrix herein named to sell, exchange, mortgage and lease any and all of my estate, real and person [sic], in her discretion, at such time and in such manner and on such terms and conditions as she may deem best; to make, execute and deliver any and all papers necessary and proper for the sale, exchange, transfer, conveyance, mortgage and lease thereof, and to do any and all acts in her discretion expedient or necessary to the full execution of this, my Last Will and Testament.
+EIGHTH: I hereby direct that should any vote or other action be required in connection with any stock which I may own at the time of my death, that then and in that event my Executrix herein named shall vote such stock or take such other action with respect thereto as directed by my nephew, DONALD PEIEEER, aforesaid, such action to be only in favor of my said nephew, and not otherwise.
+Prior to the June 3, 1975 will Margow had executed wills in January 1975, 1974, 1973 and in 1967. Her residuary estate was left outright to Peiffer in the January 1975, 1973 and 1967 wills and was left in trust to him in the 1974 will.
+The evidence shows that Kabot, who had been a legal secretary for many years, first met Margow in the early 1960s when Kabot’s employer was involved in the administration of Margow’s husband’s estate. Throughout 1973 and 1974 Margow’s health deteriorated, during which time she and Kabot developed a friendly relationship. In late 1974 Margow expressed her dissatisfaction with lawyers and asked Kabot to make a new will for her.
+Kabot typed a will according to Margow’s wishes. Kabot allegedly refused a bequest and agreed to become Margow’s executrix. When Kabot offered to serve without commission, Margow allegedly violently objected. Kabot presided at the execution of this will on January 16, 1975.
+In late spring 1975 Margow asked Kabot to change her will so that Peiffer’s interest in Marmac Oil would be fully protected. Thus Kabot prepared the will in question which was substantially the same as the January 1975 will except for the addition of clause Eighth, above. It was executed under Kabot’s supervision.
+Kabot offered this will for probate two days after Margow’s death. Some time later she and Peiffer had a discussion in which she suggested that the minority interest in Marmac be bought out. It was then that Peiffer became "scared” and filed a caveat against the probate of the will.
+Prior to trial Kabot filed a motion to dismiss the caveat on the grounds that Peiffer lacked standing. Although we are not sure of the judge’s reasons he obviously found that Peiffer had standing and the order denying the motion was signed December 2, 1975. After a trial the judge found that there was no evidence of undue influence on Kabot’s part, and that although Kabot engaged in the unlawful practice of law by drafting the will it was nevertheless valid.
+On appeal Kabot essentially contends that (1) there was no sufficient evidence in the record to support the judge’s apparent finding that Peiffer had standing to maintain the caveat, (2) there was no sufficient evidence in the record to support the judge’s finding that she engaged in the unauthorized practice of law, and (3) even assuming that she did engage in the unlawful practice of law, she should not have been denied letters testamentary.
+A contestant must demonstrate that he has been aggrieved by the judgment of probate. In re Myer’s Will, 20 N. J. 228, 235 (1955); In re Holibaugh, 18 N. J. 229, 232 (1955); In re Hand’s Will, 95 N. J. Super. 182, 187 (App. Div. 1967), certif. den. 50 N. J. 286 (1967); In re Coleman, 27 N. J. Super. 532, 535-536 (App. Div. 1953). On the face of the instant will Peiffer receives the same as under the January 1975, 1973 and 1967 wills and more than under the 1974 will. He was not aggrieved by the judgment of probate in this respect. In re Hand’s Will, supra 95 N. J. Super, at 187.
+Further, clause Eighth of the instant will is fully consistent with clause Eleventh and Peiffer’s interest in Marmae Oil is fully protected by clause Eighth. Although clause Seventh authorizes the executrix to “sell, exchange, mortgage and lease any and all of * * * [the] estate,” clause Eighth absolutely prohibits her from voting or taking any action with respect to decedent’s stock, without the direction of Peiffer.
+Peiffer would not have standing as next of kin as expressed in In re Lent, 142 N. J. Eq. 21 (E. & A. 1948). Assuming the invalidity of all decedent’s wills, Peiffer would not be entitled to an intestate share because his mother, decedent’s sister, was still alive. N. J. S. A. 3A :4-4. We hold that there was a lack of sufficient evidence in the record to support the judge’s apparent finding that Peiffer had standing to maintain the caveat.
+We believe that there was sufficient credible evidence in the record to support the judge’s finding that Kabot engaged in the unlawful practice of law by drafting decedent’s will and that that action violated N. J. S. A. 2A:170-78 and N. J. S. A. 2A:170-80; State v. Johnson, 42 N. J. 146, 162 (1964); In re Baker, 8 N. J. 321 (1951).
+Although Kabot committed a disorderly persons offense, we do not think that her actions should bar her as executrix. As noted in Holcomb v. Coryell, 12 N. J. Eq. 289 (E. & A. 1857):
+* * * [tbe executor] is the creature and representative of tbe testator * * *; that a testator has a right to repose confidence in whom he will, and that if he selects as his representative an irresponsible, insolvent person, in the absence of fraud or misconduct, or breach of trust, to require such executor to give security, and thereby to remove him from office, and defeat the will of the testator, is an exercise of power not vested in the court, and a violation of the rights of the executor. [At 296]
+See also, 6 N. J. Practice (Clapp, Wills and Administration), § 690 at 253 (1962).
+Aside from being Margow’s “creature and representative,” we note that Kabot’s actions were not so flagrant to be tantamount to fraud or undue influence. Compare In re Baker, supra. Indeed she was not even a beneficiary under the will.
+We therefore reverse that portion of the judgment that denied letters testamentary to Kabot and awarded letters of administration with the will annexed to Peiffer and remand the matter to the County Court.
