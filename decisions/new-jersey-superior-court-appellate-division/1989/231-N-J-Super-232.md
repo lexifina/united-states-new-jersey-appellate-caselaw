@@ -1,0 +1,56 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1989-02-17"
+citations: ["231 N.J. Super. 232"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. ROBERT RELDAN, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/231/cases/0232-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 300674
+cites_cases: ["108 N.J. 80", "60 N.J. 330", "95 N.J. 334"]
+---
+
+# State v. Reldan
+
+## Majority (KEEFE, J.S.C.)
+
+KEEFE, J.S.C.
+(temporarily assigned).
+Defendant, Robert Reldan, pled guilty to conspiracy to commit escape and possession of a weapon for an unlawful purpose. The plea was entered pursuant to a plea agreement whereby the State recommended that the sentences on each count run concurrent to each other but consecutive to the sentence defendant was presently serving, and that the aggregate sentence not exceed 15 years with a 7 ¥2 year parole disqualifier. As a part of the plea agreement, the State indicated and defendant acknowledged that he was subject to a mandatory extended term under the Graves Act based on a prior conviction involving a firearm in New York State. Defendant was sentenced to the custody of the Commissioner of the Department of Corrections for a period of 15 years with a 7¥2 year term of parole ineligibility for possession of a weapon for an unlawful purpose, N.J.S.A. 2C:43-7c, and a concurrent 10 year term on the conspiracy count. The sentences were ordered to run consecutive to the sentence defendant was currently serving. In addition, the trial judge imposed a $25.00 Violent Crimes Compensation Board penalty on each of the two counts.
+Defendant appealed from that sentence. We vacated the sentence holding that the escape charge was a crime of the third degree when the offense was committed rather than one of the second degree for which he was sentenced. In addition, we held that the mandatory extended term provision set forth in N.J.S.A. 2C:43-6c is not applicable where defendant’s prior firearm conviction occurred in another State.
+On remand, the trial judge, over defendant’s objection, granted the State’s motion out of time for the imposition of an extended term based on defendant’s status as a persistent offender. N.J.S.A. 2C:44-3a. At the resentencing hearing defense counsel argued that the persistent offender extended term provision did not apply to a defendant, such as Reldan, who was already serving such a sentence. That argument was rejected by the judge who imposed a prison term of 15 years with a 7V2 year parole disqualifier for second degree possession of a weapon for an unlawful purpose and a concurrent five year prison term for third degree conspiracy to commit an escape. The sentences were ordered to run consecutive to a sentence defendant was then serving. This appeal followed.
+The following issues are raised on appeal.
+POINT I DEFENDANT-APPELLANT’S EXTENDED TERM IS BOTH ILLEGAL AND IMPROPER IN THAT IT RELIES ON PRIOR CONVICTIONS WHICH WERE ALREADY THE BASIS OF THE EXTENDED TERM HE WAS PRESENTLY SERVING.
+POINT II THE SENTENCING COURT ABUSED ITS DISCRETION BY ALLOWING THE STATE TO FILE A MOTION FOR AN EXTENDED TERM OUT OF TIME.
+POINT III DEFENDANT-APPELLANT’S SENTENCE IS EXCESSIVE AND AN ABUSE OF DISCRETION.
+We have reviewed the record in light of the issues raised by the defendant and conclude that they are clearly without merit. R. 2:11 — 3(e)(2). However, in affirming the judgement under review we make the following observations.
+The time period in which the State may move for the imposition of an extended term may be extended for “good cause”. R. 3:21-4d. The circumstances of this case justify Judge Barlow’s conclusion that good cause existed. Defendant’s plea bargain contemplated that he would be eligible for a mandatory extended term since it was then believed by the State, the defendant and the court that a gun conviction in another state could be used under the Graves Act to satisfy its requirements. This court concluded otherwise and remanded for resentencing. In the same proceeding we determined that the warrantless search of which defendant also complained was valid. Defendant sought certification from the New Jersey Supreme Court, presumably because the search issue was decided against him. Certification was denied on April 28, 1987. Apparently, when the trial judge learned of the denial of the petition for certification he scheduled the matter for resentencing to take place on June 26, 1987. On that date the State moved pursuant to R. 3:21-4 for leave to serve defendant with notice of the State’s intention to apply for an extended term. Defendant objected to the motion. The State was willing to withdraw from the plea agreement and proceed to trial after the reversal of the prior sentence. However, as defendant’s brief admits, “Mr. Reldan has not sought to withdraw his plea.” That statement is an acknowledgement of defendant’s understanding that the State always intended to subject him to an extended term. Defendant has not been prejudiced by the State’s application. As the trial judge observed, “[t]he defendant is still getting the same plea bargain that he originally pled for and negotiated for.”
+We now proceed to the substantive issue. Defendant was convicted in 1978 of advocating homicide and conspiracy to commit murder. On June 26, 1978, he was sentenced on these charges as a habitual offender pursuant to N.J.S.A. 2A:85-12, the predecessor of the present extended term statute, N.J.S.A. 2C:44-3. In connection with the current extended term sentence, the State presented certified copies of eight previous convictions. They are as follows:
+Year Indictment No. Conviction
+1964 S 108-63 Breaking, Entering and Larceny
+S 111-63 Weapons and Explosives; Carrying Firearm in Vehicle
+1967 S 594-66 Rape
+1971 I 29-71 Assault with intent to Rob.
+1976 S 1525-75 Enter without breaking
+S 1526-75 Attempt/Break and Enter.
+1978 S 500-77 Advocate homicidal death/Conspiracy to commit murder.
+(Sentenced as habitual offender, N.J.S.A. 2A-.85-12)
+1981 I 7453-80 Escape; Possession of implement of escape; Aggravated Assault; Robbery; Theft from person.
+Defendant contends that the prior convictions used as a basis for the habitual offender sentence cannot be used again to justify the current extended term. The extended term provision under which defendant was sentenced reads as follows:
+2C:44-3. Criteria for sentence of extended term of imprisonment.
+The court may, upon application of the prosecuting attorney, sentence a person who has been convicted of a crime of the first, second or third degree to an extended term of imprisonment if it finds one or more of the grounds specified in this section.
+a. The defendant is a persistent offender. A persistent offender is a person who at the time of the commission of the Crime is 21 years of age or over, who has been previously convicted on at least two separate occasions of two crimes, committed at different times, when he was at least 18 years of age, if the latest in time of these crimes or the date of the defendant’s last release from confinement whichever is later, is within 10 years of the date of the crime for which the defendant is being sentenced.
+The trial judge found that the State had proven that defendant was a persistent offender and exercised the discretion given him by imposing the extended term in question.
+New Jersey’s habitual offender laws were essentially continued by the Legislature when it adopted the present extended sentence structure. State v. Dunbar, 108 N.J. 80, 87 (1987). The rationale for the imposition of an extended term for a persistent offender is to protect the public. Id. at 90. As the Supreme Court pointed out in Dunbar,
+[s]uch a standard is consistent with the general mandate in New Jersey that the provisions of the Code be interpreted to further the general purposes of sentencing as defined in N.J.S.A. 2C:l-2b, including the insurance of “the public safety by preventing the commission of offenses through the deterrent influence of sentences imposed and a confinement of offenders when required in the interest of public protection.” N.J.S.A. 2C:l~2b(3). Id. at 90-91
+Under the legislatively created sentencing scheme, then, recognition of persistent offender status adds an additional feature to the Code’s central premise that the punishment should fit the crime and not the criminal. That feature is a possible increase in the sentence to be imposed on conviction of a particular offense, which increase is premised on a view of the entire person of the defendant before the sentencing court. The primary motivation behind legislative creation of persistent offender status is to deal with the particular defendant in the context of the offense committed. Id. at 91.
+The objectives of the legislative scheme cannot be carried out and the defendant cannot be viewed as an “entire person” if his prior convictions cannot be taken into consideration by the trial judge simply because they were utilized previously by another court to impose an extended term. There is nothing in the statutory language which supports defendant’s argument in this respect. A statute must be interpreted to give “primary regard ... to the fundamental purpose” of the underlying legislation. N.J. Builders, Owners & Managers Ass’n v. Blair, 60 N.J. 330, 338-339 (1972).
+Defendant also argues that “the original extended term served to protect the public sufficiently by removing defendant from society” and the goal of deterrence was also “adequately addressed by the first extended term.” Obviously the goal of deterrence was not achieved by the first extended term sentence since defendant has continued to commit serious crimes even during incarceration. If anything, his conduct reflects the persistent nature of his criminal behavior and evidences a need for further public protection.
+Lastly, defendant argues that the imposition of an extended term would be in contravention of N.J.S.A. 2C:44-5a(2):
+a. Sentences of imprisonment for more than one offense. When multiple sentences of imprisonment are imposed on a defendant for more than one offense, including an offense for which a previous suspended sentence or sentence of probation has been revoked, such multiple sentences shall run concurrently or consecutively as the court determines at the time of sentence, except that:
+(2) not more than one sentence for an extended term shall be imposed.
+Clearly, the statute speaks only to situations where multiple sentences are imposed at the same proceeding for more than one offense. The statute has no application to the present case where extended terms are imposed by two different courts for different offenses at proceedings separated by a span of nine years.
+In conclusion we have examined the record of the sentencing proceedings and are satisfied that Judge Barlow appropriately applied the standards of State v. Dunbar, 108 N.J. 80 (1987) in imposing the extended term. Further, the extent of the sentence imposed is not so manifestly excessive that it shocks the judicial conscience. State v. Roth, 95 N.J. 334 (1984).
+Affirmed.
