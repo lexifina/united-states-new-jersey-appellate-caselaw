@@ -1,0 +1,37 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1974-04-05"
+citations: ["127 N.J. Super. 550"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AVANT INDUSTRIES LTD., A NEW JERSEY CORPORATION, PLAINTIFF-APPELLANT, v. DAVID B. KELLY, SUPERTENDENT OF THE DIVISION OF STATE POLICE OF THE STATE OF NEW JERSEY, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/127/cases/0550-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 299493
+cites_cases: ["119 N. J. Super. 272", "132 F. 2d 545", "319 U. S. 239", "397 U. S. 254", "51 N. J. 362", "62 N. J. 105", "76 U. S. App. D. C. 238"]
+---
+
+# Avant Industries Ltd. v. Kelly
+
+## Majority (Bischoff, J. A. D.)
+
+The opinion of the court was delivered by
+Bischoff, J. A. D.
+Plaintiff appeals pursuant to N. J. S. A. 2A:151-21 from a denial by defendant Superintendent of State Police of his application to be registered as a manufacturer of firearms under N. J. S. A. 2A:151-19.
+On June 14, 1973 plaintiff filed an application with defendant seeking to be registered as a manufacturer of firearms.
+His application was denied by letter dated November 15, 1973, reading in pertinent part as follows:
+This letter is to inform you that your application to be registered as a Manufacturer or Wholesale Dealer of Firearms has been denied by the Superintendent of State Police.
+Based upon tests by the State Police and an independent firearms testing laboratory, the Superintendent is satisfied that the firearm you wish to manufacturer [sic], would be detrimental to the protection of the public safety, health and welfare * *.
+Plaintiff was never advised that tests on the proposed firearm were being conducted, the nature of the tests or the results thereof. It first received information concerning the results of the tests when the reports were annexed to the brief filed by defendant in this appeal.
+While plaintiff does not attack the constitutionality of the statute in question, it contends that the failure of defendant to promulgate rules and regulations as prescribed by the statute and to afford it a hearing constitutes arbitrary and unreasonable conduct resulting in a deprivation of due process of law.
+The form which the applicant must submit for registration appears to seek information relating only to his character, as distinguished from information concerning the nature and quality of the firearm he proposes to manufacture. While the statute provides that “the Superintendent shall prescribe standards * * * for registration of manufacturers * * * of firearms,” the only standards or regulations which have been promulgated to which the parties refer us or which our own research has uncovered are those contained in N. J. A. C. 13:54-4.1 ei seq. These rules and regulations and the forms required thereunder do not contain any standards pertaining to the registration of manufacturers of firearms. In fact, defendant concedes that regulations concerning the nature of the weapons and the standards pertaining to their manufacture have not been promulgated. Further, he argues that while the statutory language appears mandatory, it should be construed merely directory.
+While the statute in question vests in defendant the authority to register applicants to manufacture firearms, his authority is not an unbridled discretion.
+Present-day concepts of due process require that a person affected by administrative action be given a full opportunity to be heard before any official action is taken. The hearing must be “at a meaningful time and in a meaningful manner.” Goldberg v. Kelly, 397 U. S. 254, 267, 90 S. Ct. 1011, 1020, 25 L. Ed. 2d 287 (1970) ; Kelly v. Sterr, 119 N. J. Super. 272 (App. Div. 1972), aff’d 62 N. J. 105 (1973). When one considers the wide range of subjects and uses which are today affected by administrative conduct, it is obvious that no one form of hearing will necessarily cover all situations. Examination of the large body of case law involving the requirements of administrative due process have not, as yet, produced any universal applicable statement of even minimum standards. 1 Davis, Administrative Law Treatise, § 8.01. Judicial decisions have made clear that what constitutes minimum compliance with due process in the way of administrative hearings presumably “will vary to a considerable extent with the nature of the substantive right, the character and complexity of the issues, the kinds of evidence and factual material, the particular body or official and the administrative functions involved in the hearing * * National Broadcasting Co., Inc. v. Federal Communications Comm’n, 76 U. S. App. D. C. 238, 132 F. 2d 545, 560 (D. C. Cir.), aff’d 319 U. S. 239, 63 S. Ct. 1035, 87 L. Ed. 1374 (1942); Lopez v. N. J. Bell, 51 N. J. 362, 373 (1968).
+It is clear that plaintiff has been denied even the minimum requirements of due process. The total absence of any hearing makes appellate review impossible, for there is no record for us to consider. See Kelly v. Sterr, supra, 119 N. J. at 275, where this court held that the hearing afforded a policeman by this defendant complied with the requirements of “procedural due process, in its fullest sense.” and provided a basis for appellate review.
+It necessarily follows that there must be a remand to defendant for the conduct of proceedings consistent with due process. We refrain from suggesting the form that this hearing should take. The Legislature has placed in defendant the discretion and authority to determine the type of hearing to which an applicant is entitled under appropriate rules and regulations.' We defer to defendant’s expertise in this field. Presumably, upon this remand, defendant will again consider the statutory mandate concerning his duty to promulgate the necessary rules, regulations and standards so that an applicant may be informed and guided accordingly.
+Reversed and remanded for proceedings consistent herewith. We do not retain jurisdiction.
+N. J. S. A. 2A: 151-19 provides:
+No person shall manufacture or sell at wholesale any firearm until he has registered with the superintendent and has furnished him with such particulars as may be prescribed by law and by rules and regulations promulgated by the superintendent for registration. The application for registration shall be accompanied by a fee of $150.00 and shall be valid for a period of 3 years from the date of issuance. In addition, every wholesale dealer shall pay a fee of $5.00 for each employee actively engaged in the sale or purchase of firearms. The superintendent shall issue a license for each employee for whom said fee has been paid, which license shall be valid for so long as the employee remains in the employ of said wholesale dealer.
+The superintendent shall prescribe standards and qualifications for registration of manufacturers and wholesalers of firearms, for the protection .of the public safety, health and welfare. If the superintendent is satisfied that an applicant for registration cannot be permitted to carry on business as a manufacturer or wholesale dealer in firearms without danger to the public health, safety or welfare, he may refuse to register the applicant.
+The superintendent shall furnish a certificate of registration to every person registered under this section.
