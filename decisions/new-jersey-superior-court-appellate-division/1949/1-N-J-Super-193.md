@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1949-01-31"
+citations: ["1 N.J. Super. 193"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SIDNEY KELNER, INDIVIDUALLY AND TRADING AS ESSKAY CREDIT HOUSE, PLAINTIFF-RESPONDENT, v. HARRY LEE, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/1/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 369365
+cites_cases: ["53 N. J. Law 516", "84 N. J. Law 626"]
+---
+
+# Kelner v. Lee
+
+## Majority (Donges, J. A. D.)
+
+The opinion of the court was delivered by
+Donges, J. A. D.
+Plaintiff recovered a judgment against defendant in the trial court for $73.39 — the balance -of the price of a coat purchased by defendant’s wife. The wife was not a party to the suit. The -case was tried without a jury, and without a stenographer.
+It was alleged, -on plaintiff’s behalf, that “the said defendant was the husband of Marilyn Lee, who purchased said coat as agent and wife of the said defendant, which purchase consisted of a necessity for which the said defendant is responsible” (paragraph 2 of the State of Demand).
+In his specification of defenses, defendant stated that at the time of the alleged sale he and his wife were living in a state of “open and permanent separation”, that the sale was made-on the sole credit of the wife, that the merchandise was not a necessity, and that there was -no agency on the part of the wife to bind him. And he denied all knowledge of the sale.
+The testimony at the trial was apparently very -scant. Despite the clear warning to plaintiff (contained in the specification of defenses) that he should be adequately prepared to meet the questions of (1) separation of the defendant and his wife, (2) non-necessary nature of the merchandise, and (3) sale on the sole credit of the wife, the plaintiff produced no witness but himself. He put his account in evidence showing the amount due, and testified to the sale and delivery of the coat to the wife on December 27, 1946. On cross-examination he admitted that he had not dealt with defendant and that at the time of the sale he did not know whether defendant and his wife were living together or not.
+Defendant testified that he married his wife on November 2, 1946; that they lived at the home of her parents until December 7, 1946, on which date, at the insistence of the wife, and without fault on his -part, the separation occurred; that after the separation he paid $25.00 per week to his wife (until the following March) ; and that he never had any dealings whatsoever with plaintiff.
+Recalled to the stand after defendant had testified, plaintiff stated that in the month of January, 1947 he met defendant at the home of the latter’s wife. Defendant, recalled, testified that he had never met plaintiff, and that he (defendant) had not been at his wife’s home after the separation on December 7, 1946.
+Proof of the separation of defendant and his wife, at the time of the sale in question, stands unchallenged unless plaintiff’s statement that he met defendant at the wife’s home sometime in January, 1947 can be said to be a challenge. At most, the testimony of plaintiff and of defendant are in balance as to the alleged meeting in January, 1947. Even so, however, it leaves defendant’s testimony of separation from his wife at the time of the sale (December 27, 1946) uncontradicted. Likewise defendant’s testimony that after the separation he supported his wife by the payment of $25.00 per week is uncontradicted.
+In our opinion, the fact of separation at the time of sale was established. In such circumstances “the presumption is against the authority of the wife to bind the husband by her contract. Under such circumstances the general rule is that the husband is not liable.” Vusler v. Cox, 53 N. J. Law 516, 518. In the cited case the court noted two exceptions to the general rule, “the first of which is where husband and wife separate ■and live in a state of separation by mutual consent, without any provision for her maintenance or means of her own for her support; the other, where the wife leaves her husband under the stress of his misconduct of such a character as in law is regarded as a justifiable cause for the wife’s quitting her husband’s society. In such cases, the presumption being against the liability of the husband for the wife’s contract, the burden of proof is upon the party seeking to enforce against him a liability for her contract. He must show affirmatively the special circumstances which shall fix the responsibility on the husband in order to establish his cause of action.”
+In the instant case it affirmatively appears, on the one hand, that the husband was supporting his wife; and, on the other hand, plaintiff has completely failed to carry the burden of bringing his claim within either exception to the general rule. Even if the fact of separation were in doubt here, the husband’s duty to support, or to supply, necessities, was satisfied by one performance of that duty. The opinion of the Court of Errors and Appeals, written by Mr. Chief Justice Gummere, in McCreery & Co. v. Martin, 84 N. J. Law 626, states at page 628: “This duty which the law imposes upon the husband, and which he must discharge to the extent of his ability, is satisfied by a single performance. In other words, having once performed it, the law does not impose upon him the obligation of duplicating that performance. When he has supplied his wife with those necessaries which their station in life and his financial standing entitle her to have at his hands, or has furnished her with moneys sufficient to enable her to purchase them for herself, he is under no obligation to pay bills incurred by her for what would have been necessaries if he had not already supplied her therewith, but which are not, in fact, such, because of the precedent supply.”
+We conclude that the judgment should be reversed.
