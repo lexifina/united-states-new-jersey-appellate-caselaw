@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1976-07-07"
+citations: ["143 N.J. Super. 31"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JACOB BARBAREVECH, PETITIONER-RESPONDENT, v. JOHNS-MANVILLE PRODUCTS CORP., A CORPORATION, RESPONDENT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/143/cases/0031-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 305901
+cites_cases: ["38 N. J. 309", "65 N. J. 314", "75 N. J. Super. 108"]
+---
+
+# Barbarevech v. Johns-Manville Products Corp.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Respondent appeals, only from that portion of the judgment of the Division of Workers’ Compensation which fixed the fee of petitioner’s attorney at $5,750, chargeable $3,500 against respondent and $2,250 against petitioner. It is appellant’s contention that in accordance with N. J. S. A. 34:15-64 the Division is authorized to award “reasonable” attorney fees only; that the record does not support the award of the $5,750 in this case, and that an attorney should support his application for fees by an “affidavit of services setting forth in detail the time and efforts expended on behalf of the petitioner and the nature of the services involved,” analogous to the requirements of li. 4:42-9(b).
+Petitioner’s attorney contends that the award of fees is within the discretion of the compensation judge; that the fee here is in the nature of a “contingency” fee, and that since the total award amounts to $48,600, the counsel fee of 11.83% of that figure is reasonable.
+On June 24, 1974 a petition was filed on petitioner’s behalf which alleged a pulmonary disability resulting from exposure to asbestos during the 37-year period of his employment with respondent. Petitioner’s attorney arranged to have him examined by Dr. Saul Lieb, a pulmonary specialist. He also forwarded copies of hospital records to Dr. Lieb, who rendered two reports dated November 2 and November 16, 1974. In the latter report the doctor stated that the prognosis was poor and therefore he recommended that the case be brought to trial as soon as possible or that petitioner’s deposition be taken.
+Counsel for both parties agreed to take petitioner’s testimony as soon as possible. Accordingly, a hearing was held in the Division on January 8, 1975. Only petitioner testified with respect to the pulmonary petition and also in support of a separate petition for loss of hearing. Subsequent to this testimony respondent’s expert, Dr. Sanford M. Lewis, examined the petitioner and by his report of April 3, 1975 concurred with Dr. Lieb’s opinion that petitioner was totally disabled as a result of exposure to asbestos during his employment with respondent.
+The final hearing was held on April 23, 1975. The medical reports of Doctors Lieb and Lewis were marked in evidence, whereupon the judge made his findings and conclusions. In speaking of counsel fees he noted that the ease had not been fully tried and that he would consider this fact in fixing counsel’s fee. He stated that “the Statute permits me to give a fee up to 20 per cent of the award or approximately $9,600” and that “acting within my discretion and based on my knowledge with cases of this type, I will fix a counsel fee of $5,750.”
+It is true, as petitioner’s counsel argues, that the award of counsel fees within the statutory limits is left to. the discretion of the judge of compensation. But that discretion is not unbridled; it is limited by the requirement of N. J. S. A. 34:15-64 that the fee awarded be “reasonable.” Although the amount of the award is a factor to be considered in fixing the fee, it has “limited significance; the more important factors are the nature and extent of the services and the responsibility involved.” Del Peso v. H. A. Bar and Restaurant Co., 75 N. J. Super. 108, 122-123 (App. Div.), certif. den. 38 N. J. 309 (1962); see Strzelecki v. Johns-Manville, 65 N. J. 314, 320-321 (1974).
+This court has the responsibility of determining the propriety of the fee awarded. To do so there must be a record which we can scrutinize in reaching that decision. Here we have nothing but the compensation judge’s conclusion based on his “knowledge with eases of this tjqpe.” That factor is hidden within the judge’s mind. We cannot appraise it. We have no proof of the nature and extent of the services rendered. It is our conclusion that petitioner’s attorney has the burden of demonstrating the extent of his efforts, including the time actually spent in rendering services. Of course, he may also demonstrate his expertise and experience in the particular medical-legal field involved and any other factor which he deems relevant to the valuation of his services. Such proofs shall be by affidavit or other testimony related to the issue.
+The order for counsel fees in the amount of $5,750 is reversed and the matter remanded to the Division of Workers’ Compensation for the filing of affidavits or other proofs and for the determination of the attorney fee. The judge of compensation is directed to make express and specific findings and conclusions demonstrating the basis for his decision in accordance with the views herein expressed. Said findings and conclusions are to be filed with this court on or before September 1, 1976. We retain jurisdiction.
