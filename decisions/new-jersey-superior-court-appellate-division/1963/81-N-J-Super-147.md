@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1963-11-14"
+citations: ["81 N.J. Super. 147"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["1643 ATLANTIC AVENUE CORPORATION, T/A PADDOCK INTERNATIONAL, DEFENDANT-APPELLANT, v. DIVISION OF ALCOHOLIC BEVERAGE CONTROL, STATE OF NEW JERSEY, RESPONDENT."]
+source_url: "https://static.case.law/nj-super/81/cases/0147-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 513322
+cites_cases: ["135 N. J. L. 259", "136 N. J. L. 161"]
+---
+
+# 1643 Atlantic Avenue Corp. v. Division of Alcoholic Beverage Control
+
+## Majority (Sullivan, J. A. D.)
+
+The opinion of the court was delivered by
+Sullivan, J. A. D.
+This is an appeal from a decision of the Division of Alcoholic Beverage Control suspending appellant’s liquor license for a period of 150 days. The appeal is directed solely to the quantum of punishment imposed. About 40 days of the suspension were served before appellant secured a stay from this court pending appeal.
+Appellant is the holder of a retail consumption liquor license issued by the Board of Commissioners of Atlantic City. It purchased the licensed business assets and liabilities from Paddock International, a corporation, in June-1962. Transfer of the license was subsequently approved by the municipal board.
+Charges were filed against appellant on November 28, 1962, as follows:
+“1. On Saturday night, November 10 and early Sunday morning, November 11, 1962, you allowed, permitted and suffered lewdness and immoral activity and foul, filthy and obscene conduct in and upon your licensed premises, viz., in that you allowed, permitted and suffered female persons to perform for the entertainment of your customers and patrons in a lewd, indecent and immoral manner; in violation of Rule 5 of State Regulation No. 20.
+2. On Saturday night, November 10 and early Sunday morning, November 11, 1962, you allowed, permitted and suffered females employed on your licensed premises to accept beverages at the expense of or as a gift from customers and patrons; in violation of Rule 22 of State Regulation No. 20.
+3. On Saturday night, November 10 and early Sunday morning, November 11, 1962, and prior thereto, you allowed, permitted and suffered the employment in and upon your licensed premises of persons not bona fide residents of the State of New Jersey, contrary to and in violation of Rule 4 of State Regulation No. 13.”
+Appellant pleaded not guilty to said charges and a hearing date was set for January 9, 1963, but was adjourned on three occasions at appellant’s request. On March 20, 1963, a plea of non vult to the charges was entered, and on April 30, 1963, by order of the Acting Director (Director) of the Division, appellant’s license was suspended for 150 days commencing May 7, 1963.
+In fixing the penalty, the Director stated that the minimum suspension for a first offense involving “strip tease entertainment and hostess activity” is 50 days (apparently a Division policy); that while this was the present licensee’s first violation, its predecessor in interest, Paddock International, a corporation, had its license suspended for similar entertainment and hostess violations in 1960 and 1962, the latter suspension having been for 65 days and having run to June 27, 1962. The Director also noted that Edward Kravis, the present licensee’s manager, had been president and majority stockholder of Paddock International. Prior to Paddock International, Edward Kravis had been the licensee. His record showed two license suspensions for indecent entertainment in 1939 and 1943, and another suspension in 1943 for permitting disturbances and unnecessary noise. See also Kravis v. Hock, 135 N. J. L. 259 (Sup. Ct. 1947), reversed 136 N. J. L. 161 (E. & A. 1947).
+The Director noted that Kravis had secured the entertainers here involved and was present at the performance they gave, and that while being questioned about the present violations Kravis said that they would probably mean the end of his license. The Director, in fixing the penalty, stated that he was taking into consideration the record of the present licensee’s predecessor in interest “to whom it is linked brr its employment of Edward Kravis as its manager.” As heretofore noted, this record consisted of license suspensions in 1960 and 1962 for similar entertainment and hostess violations.
+As its first point appellant contends that a 150-day suspension of a seashore resort license which would close the premises during the entire summer season, would in effect mean a revocation of the license since it would put appellant out of business. It is urged that this is unreasonable and haTsh punishment for a first offender.
+We find it unnecessary to consider this point since appellant secured a stay of the suspension and remained open for most of the 1963 summer season. Since our decision is to uphold the penalty, the balance of the suspension can be served long before the next summer season.
+Appellant, however, is fearful that the Director may require the balance of the suspension to be served during the next summer season. The record is barren of any such suggestion and we will not attempt to anticipate the Director by rendering an advisory opinion in advance of any action by him. Suffice it to note that appellant would have the right to seek judicial review of such action if the Director so ordered.
+It is also contended that the Director erred in taking into consideration violations by the prior licensee. Appellant points out that the minimum penalty for a first offense involving similar violations is 50 days. We need not consider whether it would be proper for the Director to consider violations by a prior licensee in every case. We are satisfied that under the circumstances presented in the instant case the Director did not err in considering the violations charged to Paddock International. Here, appellant purchased the licensed business at a time when the liquor license for said premises was under suspension for an indecent entertainment violation. Upon acquiring the license, appellant employed as its manager Edward Kravis, who had been president and majority stockholder of the prior corporate licensee. (Kravis has a record of violations going back to 1939.) Kravis secured the entertainers involved in the present violations and was present at the performance which they gave. While being questioned about the present violations Kravis said that they would probably moan the end of Ms license. We find ample justification for the Director’s consideration of violations by the prior licensee under the circumstances of this particular case, having in mind the stringent policy of enforcement of the Alcoholic Beverage 'Control law and the necessity of penalties which will effectively deter violations of that law.
+Affirmed.
