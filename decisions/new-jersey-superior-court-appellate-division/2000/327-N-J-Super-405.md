@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "2000-01-19"
-citations: ["327 N.J. Super. 405", "743 A.2d 859", "327 N.J. Super. 326", "743 A.2d 353"]
+citations: ["327 N.J. Super. 405", "743 A.2d 859"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["NEW JERSEY EDUCATION ASSOCIATION, APPELLANT/PETITIONER, v. BOARD OF T
 source_url: "https://static.case.law/nj-super/327/cases/0405-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 220707
-cites_cases: ["108 N.J. 123", "120 N.J. 18", "135 N.J. 500", "146 N.J. 527", "146 N.J. 566", "149 N.J. 108", "154 N.J. 62", "157 N.J. 188", "158 N.J. 211", "171 N.J.Super. 363", "25 N.J.Super. 75", "291 N.J.Super. 560", "305 N.J.Super. 389", "409 A.2d 294", "527 A.2d 1368", "683 A.2d 1162", "95 A.2d 491"]
+cites_cases: ["108 N.J. 123", "135 N.J. 500", "146 N.J. 527", "146 N.J. 566", "149 N.J. 108", "154 N.J. 62", "157 N.J. 188", "158 N.J. 211", "291 N.J.Super. 560", "305 N.J.Super. 389", "527 A.2d 1368", "683 A.2d 1162"]
 ---
 
 # New Jersey Education Ass'n v. Board of Trustees
