@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1958-11-19"
+citations: ["52 N.J. Super. 508"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE ESTATE OF EDITH H. HARTUNG, DECEASED."]
+source_url: "https://static.case.law/nj-super/52/cases/0508-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 396034
+cites_cases: ["1 N. J. 603", "1 N. J. Super. 203", "131 N. J. Eq. 54", "21 N. J. 284", "277 U. S. 189", "37 Yale L. J. 1003", "63 N. J. Eq. 325", "9 N. J. Super. 280", "99 N. J. Eq. 363"]
+---
+
+# In re the Estate of Hartung
+
+## Majority (Goldmann, S. J. A. D.)
+
+The opinion of the court was delivered by
+Goldmann, S. J. A. D.
+The sole beneficiary under the last will of Edith PL Hartung, together with the executor, appeal from a judgment of the County Court, Probate Division, declaring the will invalid and setting aside the judgment of the surrogate admitting it to probate.
+Testatrix died February 14, 1958, leaving a will executed some two months before and which had been witnessed by three friends she had called to her home for that purpose. The sole beneficiary was decedent’s cousin. The surrogate admitted the will to probate after the witnesses had executed affidavits in the usual form. Thereafter two nieces filed a complaint in the County Court, Probate Division, demanding that the executor and the sole beneficiary show cause why the judgment admitting the will to probate should not be set aside and the will declared invalid because it had been improperly executed. The complaint, as well as the supporting affidavit of one of the witnesses to the will, stated that the decedent had signed after the witnesses had affixed their signatures. An order to show cause issued and the matter came on for hearing before- the County Court judge. We have before us his unreported opinion in which, after reviewing the testimony and the applicable legal principles, he concluded that the uncontradicted testimony of the three subscribing witnesses compelled a finding that the testatrix signed the will after they had done so; accordingly, the will had to be declared invalid and the probate set aside. He thereupon entered the judgment under review. It must be affirmed, essentially for the reasons set forth in the trial court’s opinion.
+The exact question before us was settled by the leading case of Lacey v. Dolls, 63 N. J. Eq. 325 (E. & A. 1901), which held that where the witnesses sign the will before the testator does it is invalid, even though all were present when each signed. Cf. In re Sutterlin’s Will, 99 N. J. Eq. 363 (E. & A. 1926), and James v. Wendehack, 1 N. J. Super. 203 (App. Div. 1949), certification denied 1 N. J. 603 (1949), where it was said that
+“The doctrine o£ Lacey v. Dobbs is so firmly embedded in our law of Wills that to question it, in the language of Mr. Justice Holmes, ‘would be to lay hands on the Ark of the Covenant’ (Springer v. Government of Philippine Islands, 277 U. S. 189, 211 [48 S. Ct. 480, 72 L. Ed. 845]). It imposes the fixed and certain rule that everything required to be done by the testator must precede the subscription of the testamentary witnesses; if the rule is not complied with the will is invalid and the mere fact that the testator subsequently acknowledged it as his will has no legal significance. * * *” (1 N. J. Super., at pages 205-206)
+See 5 N. J. Practice (Clapp, Wills and Administration), § 32, p. 87, § 36, p. 91 (1950). But see, 1 Page on Wills (3d ed. 1941), § 372, p. 672 et seq., strongly criticizing the Lacey doctrine and arguing that if the execution is completed at one entire transaction, the testator and the witnesses all being present, a will should not be rendered invalid because one or more of the witnesses signed before the testator; and Note, 37 Yale L. J. 1003 (1928). We are constrained to accept the precedent fixed by our highest court in Lacey and followed since.
+It is also well settled in this jurisdiction that a perfect attestation clause (and such was the quality of the one here) is “but prima facie evidence of the facts stated in it which may be overcome by clear and convincing proof to the contrary either from the subscribing witnesses themselves or from facts and circumstances actually incident to the execution.” In re Hale's Will, 21 N. J. 284, 299 (1956). Chief Justice Vanderbilt there said that “Such proof must be clearly irreconcilable with the recitations of the [attestation] clause * * *. Even when bolstered by the sworn deposition of a subscribing witness the best that is created is a strong presumption in favor of due execution which may be rebutted by convincing evidence to the contrary. * * *” See also James v. Wendehack, above, 1 N. J. Super., at pages 206-207; In re Du Bois' Estate, 9 N. J. Super. 280, 283-284 (App. Div. 1950), and cases cited; In re Lazzati’s Will, 131 N. J. Eq. 54, 56 (E. & A. 1942).
+The testimony of the subscribing witnesses unquestionably met the standard declared by our eases to be necessary before a judgment of probate can be set aside, the recitations of the attestation clause to the contrary notwithstanding.
+Appellants’ attempt to impute lack of integrity to the witnesses because they signed the affidavits on which probate was granted is specious. As the witnesses testified — -and as the trial court pointed out — the printed affidavits did not inquire as to the order in which the will was signed. Each witness truthfully answered the questions put by the probate clerk when he appeared in the surrogate’s office. That such witness did not volunteer the information later elicited in the court proceedings can hardly be said to impugn his veracity. The trial court found the testimony of the subscribing witnesses entirely credible, and so do we.
+Affirmed.
