@@ -1,0 +1,41 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1954-07-13"
+citations: ["31 N.J. Super. 369"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELIZABETH CERRIA, PETITIONER-APPELLANT, v. UNION NEWS COMPANY, RESPONDENT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/31/cases/0369-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 380473
+cites_cases: ["1 N. J. Super. 39", "105 N. E. 433", "119 N. J. L. 484", "12 N. J. 212", "12 N. J. 350", "120 N. J. L. 351", "187 Pac. 108", "1916 A 318", "195 N. E. 757", "2 N. J. Super. 39", "218 Mass. 1", "24 N. J. Super. 450", "290 Mass. 517", "45 Cal. App. 181", "48 S. Ct. 221"]
+---
+
+# Cerria v. Union News Co.
+
+## Majority (Francis, J. A. D.)
+
+The opinion of the court was delivered by
+Francis, J. A. D.
+Appellant was denied compensation by the Division of Workmen’s Compensation on the ground that her accident did not arise out of or during the course of her employment. The County Court affirmed and the quest is pursued before us.
+The employer, Union News Company, maintains a stand or place of business in the Hudson & Manhattan Railroad Terminal at Journal Square, Jersey City, where newspapers and incidentals are sold. The terminal or station is below street level and the railroad company has provided certain stairways, ramps, elevators and escalators as a means of ingress and egress for its intending passengers and incidentally for the customers of the Union News Company and any other tenants or concessionaires.
+Miss Cerria had been employed at the newsstand located on the station floor for approximately flve years prior to October 21, 1950. In getting to her work it was customary for her to descend from the public street to the station floor by the stairway on the railroad premises nearest to her employer’s place of business. In the early afternoon of the date referred to, while descending this stairway on her way to work, she fell and suffered injuries. The accident occurred about 15 minutes before she was required to begin her duties. However, it was necessary for her to change into a uniform on arrival. Whether this had to be completed before she actually began work was not shown.
+The adverse decision of the two previous tribunals was predicated upon the principle that an employee who falls on a public way while on her way to work does not sustain an accident arising out of and during the course of her work.
+It is true that ordinarily such a mishap is not compensable. Moosebrugger v. Prospect Presbyterian Church, 12 N. J. 212 (1953); Fenton v. Margate Bridge Co., 24 N. J. Super. 450 (App. Div. 1953), certiorari denied 12 N. J. 350 (1953); Grady v. Nevins Church Press Co., 120 N. J. L. 351 (E. & A. 1938); Gullo v. American Lead Pencil Co., 119 N. J. L. 484 (E. & A. 1938).
+However, appellant was not on a public way at the time. The station and the stairways from the public street are the private property of the railway. They are provided for the use of intending passengers and, by necessary implication, as a means of ingress and egress to the Union News Company’s place of business by patrons and employees. Any one using them for a purpose not connected with a business properly carried on there would be a trespasser or at best a licensee.
+It is argued that the stairway constituted a public passageway because of a single answer given by Miss Cerria on cross-examination:
+“Q. So that it is a general public passage used by everybody; is that correct?
+A. That’s right, sir.”
+It may very well be that members of the general public use the stairways and passageways as a convenient means of going from one public street to another on the opposite side of the station. But such use, which may have been observed by Miss Cerria and therefore would constitute the basis for her answer to the question, surely does not have the effect of establishing the existence of a public way. In fact, respondent’s counsel, who informed us that his firm represented the Hudson & Manhattan Railroad, conceded that if such a user fell on the stairway and brought an action for damages, a plea of trespasser or licensee would be interposed.
+We are thus brought to a consideration of whether an employee who falls on a stairway provided by her employer’s lessor as the means by which she reaches her particular place of work, is barred from compensation benefits because that stairway is used in common by patrons of the owner of the building, which is the landlord of her employer, by employees of the owner in getting to and from their work, and by patrons of other tenants or lessees of the owner. We think not.
+The stairway is an adjunct of the premises; it is intimately associated with the particular place of her work; use thereof is a risk reasonably incidental to her employment.
+This accident does not fall within the rule stated in the Güilo and kindred eases. In our judgment the controlling principle is stated by Judge (now Justice) Jacobs in Cossari v. L. Stein & Co., 1 N. J. Super. 39, 43 (App. Div. 1948), that an employee is entitled to compensation for a fall which occurs while he is “entering his employer’s premises through a proper means of ingress so closely related to the place of employment that it may be deemed incidental thereto.”
+Our factual situation is not unlike that appearing in Basinski v. Detroit Steel Corp., 2 N. J. Super. 39 (App. Div. 1949). There the plant of the employer was one of several located on a thirty-acre tract owned by the Delaware, Lackawanna & Western Railroad Company; all of the plants were operated under lease from the railroad. The area was traversed by numerous railroad sidings. In walking along a dirt way adjacent to the employer’s plant which led to a public highway, the employee tripped over a railroad switch and was injured.
+It appeared that the way in question was on the railroad tract and was adjacent to the employer’s building, that it represented the nearest and safest route to a public highway with which it connected, and that it had been used customarily by many of the employees as a means of ingress and egress for some years with the implied consent of the employer. Such use was declared to be incidental to the employment.
+In Mannering’s Case, 290 Mass. 517, 195 N. E. 757, 758 (1935), the court said:
+“There is no hard and fast rule to determine when employment begins and ends. It has been held that, for purposes of compensation, the employee is within the scope of his employment while making his exit from the employer’s premises at the end of his périod of work, either on land of the employer or by stairs over which he has a right of passage.”
+Mannering’s Case, supra, which allowed a "recovery where the emplojree was using a passageway between the employer’s building and a public street, which was not owned "by the employer but over which he had a right of way and which was customarily used by the employees, and Bountiful Brick Co. v. Giles, 276 U. 8. 154, 158, 48 S. Ct. 221, 72 L. Ed. 507, 509 (1928), which expounds substantially the same doctrine, were approved by the Appellate Division in Cossari v. L. Stein & Co., supra. Others to the same effect are Papineau v. Industrial Accident Commission, 45 Cal. App. 181, 187 Pac. 108 (1919); In re Sundine’s Case, 218 Mass. 1, 105 N. E. 433, L. R. A. 1916 A 318 (1914). See Larson, Workmen’s Compensation Law, § 15.12, et seq. (1952).
+The United States Supreme Court in the Bountiful Brick Co. case, supra, stated the principle as follows:
+“* * * if the employee be injured while passing, with the express or implied consent of the employer, to or from his work by a way over the employer’s premises, or over those of another in such proximity and relation as to he in practical effect a part of the employer’s premises, the injury is one arising out of and in the course of the employment as much as though it had happened while the employee was engaged in his work at the place of its performance.” 276 U. S. at page 158, 48 S. Ct. at page 222.
+We find no distinction in principle between the instances cited in which compensation was allowed and the present one. The judgment is reversed.
