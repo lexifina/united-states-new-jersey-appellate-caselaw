@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1951-02-20"
+citations: ["12 N.J. Super. 243"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LENA STEFFLER, PLAINTIFF-RESPONDENT, v. RUDOLPH SCHROEDER, AS EXECUTOR OF THE LAST WILL AND TESTAMENT OF LOUISE WINDISCH, DECEASED, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/12/cases/0243-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 425598
+cites_cases: ["10 N. J. Eq. 370", "10 N. J. Super. 185", "40 N. J. Eq. 281", "49 N. J. L. 274", "54 N. J. L. 343", "87 N. J. L. 244", "92 N. J. L. 88", "98 N. J. L. 853"]
+---
+
+# Steffler v. Schroeder
+
+## Majority (Peoctoe, J. A. D.)
+
+Idle opinion of the court was delivered by
+Peoctoe, J. A. D.
+Plaintiff’s action was brought to recover for services rendered by her to defendant’s testatrix, Louise AYIndisch.
+The complaint consisted of two counts. The first was in quantum meruit and the second was grounded on a promise of the testatrix to reimburse the plaintiff in her will. A voluntary dismissal was entered on the second count at the beginning of the trial. The case, based on the first, count, was submitted to the jury which returned a verdict in favor of the plaintiff. The defendant appeals and advances the following grounds for reversal: (1 )-it was error to admit the testimony of the plaintiff relating to her transactions with the decedent; (2) plaintiff did not establish a contract with the decedent under which she was to be paid for lier services; (3) the vex-diet was not supported by the evidence; (4) the court erred in denying defendant’s offer of proof of payment.
+Plaintiff testified she was not related to Mrs. Windisch, the deceased; that, during the six-year period preceding Mrs. Windisch’s death, plaintiff did household and other work at the home of the decedent, including making repairs, two days every week and often at night.
+Plaintiff’s witness, Annette Braun, testified that she frequently visited Mrs. Windisch at her home and that every time sire was there she saw the plaintiff working about the house; that Mrs. Windisch told her “she wouldn’t know how to get along without Lena, because she was such a faithful person,” and that at her death “she would remember Lena well, a substantial sum for all the work she has done all these years,” and that she, the decedent, had so advised the plaintiff.
+Another witness for the plaintiff, Florence Martin, testified that Mrs. Windisch, after mentioning the work performed for her b3r the plaintiff, said: “I intend to leave her something in my demise.”
+A provision for the plaintiff in decedent’s will, which was in evidence, consisting of a bequest of $200 and a wristwatch, $50 in value at most, was refused on the ground that a larger sum was due her.
+The appellant urges that, under B. S. 2:97-2, the trial court should have excluded the plaintiff’s testimony regarding the work she did for the decedent. However, the first objection to this testimony was not made until after it was completed; the objection came too late. See, Rowland v. Rowland, 40 N. J. Eq. 281, 284 (E. & A. 1885); Hoey v. Dell, 10 N. J. Super. 185 (App. Div. 1950). Moreover, it was admitted in the pretrial order that services were rendered by the plaintiff to Mrs. Windisch during her lifetime.
+Appellant further contends that plaintiff did not establish a contract with decedent under which she was to be paid for her services.
+Where services are rendered on the mere expectation of a legacy, and no legacy is left, there can be no recovery. Grandin v. Reading, 10 N. J. Eq. 370 (Ch. 1855). However, whore services are rendered by one not a member of the family, and such services are voluntarily accepted, the law will imply a promise upon the part of the recipient to pay a reasonable amount for them. Disbrow v. Durand, 54 N. J. L. 343 (E. & A. 1892). And, where services are rendered under a specific agreement to compensate for them by a legacy and no testamentary provision is made, an action will lie upon a quantum meruit. Stone v. Todd, 49 N. J. L. 274 (Sup. Ct. 1887). Such intended provision in the will is but the method of paying an existing obligation to compensate for the services rendered. Mulrooney v. O’Keefe, 98 N. J. L. 853, 856 (E. & A. 1923). Whether services are rendered upon an express or implied promise that compensation will be made therefor, or are performed gratuitously with a hope of receiving a legacy from the person for whom the servicies are rendered, is a question to be submitted to the jury when the testimony leaves the matter in dispute. Frean v. Hudson, 87 N. J. L. 244, 216 (E. & A. 1915). Where services are rendered under an express agreement to pay for them generally by legacy without any agreement as to the amount or character of the legacy, except tliat it is to pay for the services, an agreement is implied that the legacy shall be sufficient to compensate for the reasonable! value of the services, and the legatee may at his election accept the legacy, in which case he is estopped from alleging its insufficiency and barred of any further action; or he may refuse the legacy and sue for the value of the services as on a quantum meruit. Schmetzer v. Broegler, 92 N. J. L. 88, 92 (Sup. Ct. 1918).
+In the present case, there was ample testimony for the jury to find that the plaintiff, not being a member of decedent’s family, rendered services to decedent with the mutual understanding that the plaintiff would be compensated for such services by a provision therefor in decedent’s will. The plaintiff, not having elected to accept the legacy, was entitled to enforce a claim for the reasonable value of the services rendered by her. Schmetzer v. Broegler, supra.
+Appellant further contends that there was no evidence of the reasonable value of plaintiff’s services. There was testimony that the plaintiff was paid $1 an hour by others for work similar to that performed for the decedent; further, that she had been paid $5 a day for the same type of work. This testimony, with the inferences that could be drawn therefrom, was sufficient to establish the value of the services.
+Appellant’s final contention is that the court erred in refusing to admit into evidence 12 prior wills of decedent. We do not have the wills before us, and defendant made no specific offer to the trial court of the contents of the prior wills. We cannot speculate as to what the wills would have disclosed. See Buie 3 :43-2.
+Judgment affirmed.
