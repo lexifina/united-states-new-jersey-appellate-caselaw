@@ -1,0 +1,55 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1954-06-14"
+citations: ["31 N.J. Super. 193"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALFRED STALFORD, AND RITA M. STALFORD, PLAINTTFFS-APPELLANTS, v. CHARLES BARKALOW, BUILDING INSPECTOR OF THE BOROUGH OF DEAL, AND THE BOROUGH OF DEAL, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/31/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 380445
+cites_cases: ["1 N. J. Super. 301", "1 N. J. Super. 85", "10 N. J. 165", "12 N. J. Super. 464", "13 N. J. Super. 490", "135 N. J. L. 112", "139 N. J. Eq. 97", "15 N. J. 447", "20 N. J. Super. 85", "344 U. S. 919", "49 A. 2d 896", "5 N. J. 534", "6 Rutgers L. Rev. 70", "73 S. Ct. 386", "8 N. J. 228", "9 N. J. Super. 83", "97 L. Ed. 708"]
+---
+
+# Stalford v. Barkalow
+
+## Majority (Smalley, J. S. C.)
+
+The opinion of the court was delivered by
+Smalley, J. S. C.
+(temporarily assigned). This is an action in lieu of a prerogative writ to compel the issuance of a building permit. The matter came on in the Law Division on stipulated facts, the trial court sustained the denial of the permit, and the plaintiffs appeal.
+Plaintiffs own property in a fashionable section of Deal which consists of a lot with a frontage of 150 feet by a depth of 200 feet, known as 50 Ocean Ave., and located at the corner of Ocean and Eoosevelt Avenues.
+In the early part of November 1952 plaintiffs filed plans calling for an addition to plaintiffs’ home to be erected on the north side of the dwelling, leaving only 35 feet between the proposed addition and Roosevelt Ave.
+Defendant building inspector declined to issue a building permit on the ground that the zoning ordinance of the Borough of Deal requires that buildings in this particular area or district be set back 50 feet from any street. Plaintiffs contend that the ordinance requires a "side yard” set back of only 35 feet.
+On January 9, 1953, following the rejection of the permit, the borough’s board of commissioners adopted, without consideration by, or reference to the local board of adjustment, as required by the borough’s zoning ordinance, an amendment (section 4B.) purporting to clarify the then existing zoning ordinance, particularly as to set back distances.
+Section 4R, is as follows:
+“4JS. No storj' of a building shall be nearer to the street line of any street than fifty (50) feet therefrom, except where the average alignment of the corresponding stories of existing buildings within 200 feet on each side of the lot and within the same block is less than 50 feet; where such average alignment is less than 50 feet, the set back of every story shall be equivalent to the said average alignment; anything contained in the ordinance to which this ordinance is amendatory and supplementary to the contrary notwithstanding.”
+We are, therefore, confronted with the following questions on this appeal:
+(1) Is plaintiffs’ suit premature in plaintiffs’ admitted failure to appeal the defendant building inspector’s denial of the permit to the Board of Adjustment of the Borough of Deal?
+(2) Is the amendment of January 9, 1953 a valid amendment to the zoning ordinance? If it is, does it apply to plaintiffs’ prior application for a building permit?
+(3) In view of stipulation No. 3 that plaintiffs’ property faces on Ocean Ave., did the trial court have the right to find, as a fact, that the property of the plaintiffs faces on both Ocean and Roosevelt Avenues?
+(4) Under the ordinance and the facts as stipulated, must plaintiffs’ proposed addition be set back a depth of 50 or 35 feet from Roosevelt Ave. ?
+We think, in this instance, that plaintiffs’ suit is not premature. While R. R. 4:88-14 requires an exhaustion of administrative remedies and R. S. 40:55-39 provides for appeals to local boards of adjustment, plaintiffs here seek only their rights under the ordinance, not a variance. This appeal raises questions of law only, not matters requiring administrative findings of fact, or an exercise of administrative discretion.
+Attacks on the validity of ordinances without exhaustion of the administrative remedy were allowed in Fischer v. Township of Bedminster, 5 N. J. 534 (1950); Lionshead Lake, Inc. v. Township of Wayne, 9 N. J. Super. 83 (App. Div. 1950); Lionshead Lake, Inc. v. Wayne Township, 13 N. J. Super. 490 (Law Div. 1951), reversed on merits, 10 N. J. 165 (1952), appeal dismissed 344 U. S. 919, 73 S. Ct. 386, 97 L. Ed. 708 (1953). In Gallanthen v. Postma, 12 N. J. Super. 464 (App. Div. 1951), plaintiff was granted mandamus to compel issuance of a permit where the building inspector denied it without any lawful basis and where no materia] part was in dispute.
+In Finston v. Town of Nutley, 1 N. J. Super. 85 (App. Div. 1948), the court dismissed a proceeding attacking the denial of a permit where plaintiff had failed to appeal to the board of adjustment, but the court continued: “If the record before us showed clearly that prosecutors were entitled to the permit, we might well grant the mandamus, even though the appeal to the Board of Adjustment had not been pursued.”
+R. R. 4:88-14 states:
+“Except where it is manifest that the interests of justice require otherwise, proceedings under Rule 4:88 shall not be maintainable, so long as there is available judicial review to a county court or inferior tribunal or administrative review to an administrative agency or tribunal, which has not been exhausted.”
+We think the interest of justice together with the fact that this appeal raises a question of law only is further authority for assumption by us of jurisdiction. See discussion of zoning cases, 6 Rutgers L. Rev. 70 (1951).
+It is conceded that section 17 of the zoning ordinance of the Borough of Deal provides that any proposed amendment, supplement, or change, “must first be referred to the Board of Adjustment for consideration and report before final action shall be taken thereon by the Board of Commissioners.” It is stipulated that there was no action by the board of adjustment before adoption of the ordinance.
+We do not, however, regard the failure of referral here as fatal. It must be remembered that there is no statutory provision that requires the submitting of an amendment of a zoning ordinance to a board of adjustment.
+It is true that B. S. 40:55-35, as amended by L. 1948, c. 305, provides for the submission of proposed changes to a zoning ordinance to a planning board where such board exists, and failure to submit such proposed change to a planning board is fatal. Hasbrouck Heights Hospital Ass’n v. Borough of Hasbrouck Heights, 15 N. J. 447 (1954).
+Where, as here, however, as we understand it, no such planning board exists in the Borough of Deal, that requirement is not applicable.
+This is no instance of the changing of zones or of any material change as to the classification of areas and the like; rather, it is an effort to more clearly express the regulation as to set-back distance. It is unreasonable to suppose that the board of commissioners intended to give owners of corner properties a distinct advantage over other property owners, and we entertain serious doubts that assuming that the borough commissioners had intended to give such preferential treatment to such owners of corner properties, that such action would be valid. Accordingly, no such advantage may be had simply because of the inapt wording of the ordinance.
+It, therefore, follows that the ordinance, as amended, is binding and valid. Its terms serve now to state more clearly merely what had been in the minds of the board of commissioners at the time of the enactment of the original ordinance. We think that there is much to the argument that originally the borough was attempting to regulate, as it had a right to do, the lining up of dwellings so- that symmetry would not be thrown off balance, thereby preventing a corner property from jutting or protruding on one side to the detriment of the other property owners. It must be admitted that the original ordinance did not adequately set forth this regulation, but it must be conceded that the amendment of January 9, 1953 accomplishes this purpose.
+Finding, as we do, that the amendment of January 9, 1953 is valid, we think that there need be little said as to1 its application to plaintiffs’ suit.
+In Socony-Vacuum Oil Co., Inc. v. Mt. Holly Township, 135 N. J. L. 112 (Sup. Ct. 1947), at pp. 117-118, it was said:
+“Moreover, in my opinion, there can no longer be any question as ol' the time when the status of the applicable law controls. It is neither the status of the law prevailing at the time of the application for the permit nor the status of the law prevailing at the time of the application or allowance of the rule to show cause. It is the status of the law prevailing at the time of the decision by the court that is controlling. . Cf. Westinghouse Electric Corp. v. United Electrical, etc., of America, Err. & App. 1946, 139 N. J. Eq. 97, 105, 106, 49 A. 2d 896.”
+“And just as a change in the law between a nisi prius and an appellate decision requires the appellate court to apply the changed law, so, by like token, a change of law pending an administrative hearing or act must be followed in relation, as here, to a permit for the doing of a future act. * * *”
+See Concord Garden Apartments v. Board of Adjustment of City of Englewood, 1 N. J. Super. 301 (App. Div. 1949).
+As to the third point raised, we agree with the plaintiffs that the trial judge erred in going beyond the stipulated facts to find that the plaintiffs’ property faced on both Ocean and Koosevelt Avenues. Stipulations are clearly conclusive on parties and courts within the permissible subject matter.
+“* * * Stipulations made by parties to a judicial proceeding or by their attorneys, within the scope of their authority are binding upon those who make them and those whom they lawfully represent, and also upon the trial and appellate courts, in the absence of any valid ground or reason for refusing enforcement.” 50 Am. Jur. 610, sec. 9.
+Conceding that the trial judge did, in his conclusions, go beyond the stipulated facts and find, as a fact, that the property faced on both Ocean and Koosevelt Avenues, does this mean that the judgment must be reversed ? The answer to this is that “Appeals, however, are taken from judgments and not from opinions.” Hughes v. Eisner, 8 N. J. 228 (1951).
+Where, as here, the trial court properly decided the issues, the question upon review is, “ ‘The propriety of the judicial action of the court below, and not the soundness of the reason which prompted it.’ ” R. Krevolin & Co., Inc. v. Brown, 20 N. J. Super. 85 (App. Div. 1952).
+Finding, as we do, that the amended ordinance was valid, it must follow that the building inspector could not issue a building permit to the plaintiffs that would allow them to erect an addition to their home that would be any nearer to Roosevelt Avenue than 50 feet.
+Affirmed.
