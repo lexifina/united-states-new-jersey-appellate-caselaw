@@ -1,0 +1,41 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2001-03-13"
+citations: ["338 N.J. Super. 28", "768 A.2d 192"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MITCHELL E. LEVINE, PETITIONER-APPELLANT, v. STATE OF NEW JERSEY, DEPARTMENT OF TRANSPORTATION, DIVISION OF MOTOR VEHICLES, RESPONDENT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/338/cases/0028-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1192985
+cites_cases: ["157 N.J. 161", "173 N.J.Super. 431", "262 N.J.Super. 375", "281 N.J.Super. 502", "312 A.2d 497", "414 A.2d 584", "427 A.2d 65", "64 N.J. 85", "85 N.J. 382"]
+---
+
+# Levine v. State
+
+## Majority (PETRELLA, P.J.A.D.)
+
+The opinion of the Court was delivered by
+PETRELLA, P.J.A.D.
+This appeal involves the interpretation of N.J.S.A. 39:3-33.5 and its implementing regulation, N.J.AC. 13:20-34.4, with respect to denial of applications for personalized license plates by a person who has been convicted of a violation of N.J.S.A 39:4-50. Mitchell Levine’s application for personalized license plates was denied by the Division of Motor Vehicles (DMV) in the Department of Transportation solely by reason of his refusal to submit to a breathalyzer test as required by N.J.S.A. 39:4-50.2 and 50.4a. On appeal, Levine argues that his failure to submit to a breathalyzer test is not an offense for which his request for personalized license plates should be denied under N.J.S.A 39:3-33.5.
+According to the record before us, Levine was not convicted of driving under the influence of either alcohol or any other substance. However, in connection with a traffic stop, Levine was issued a summons for refusal to submit to a breathalyzer test and we are advised that he was convicted of that offense. The record is sparse as to the facts and the dates, but the argument is made solely as a matter of interpretation of the statutes.
+The record does disclose this much, Levine applied in 1998 for personalized license plates reading: “MITCHL 2” and “MITCHL 4.” This request was denied by the DMV in a form letter which had the box checked for a violation for driving under the influence and had typed in “Refusal to submit to chemical test.”
+Levine contested this denial and ultimately, through his attorney, received a letter from the Director of the DMV dated December 6,1999, which said:
+You question the Division of Motor Vehicles’ decision to deny personalized plates to Mitchell E. Levine. The basis for this denial is the long standing policy of this state, which is that individuals who are convicted of breath test refusal (N.J.S.A. 39:4-50.2) should be denied personalized plates as if they had been convicted of N.J.S.A 39:4-50. The Division reads N.J.S.A. 39:3-33.5(a) broadly to include N.J.S.A 39:4-50.2 and relies on the case of Victor A. Bergwall, Jr. (173 N.J.Super. 431, 414 A.2d 584 and 85 N.J. 382, 427 A.2d 65) [reversing on dissenting opinion] in support of its argument.
+The Division, therefore, stands by its initial decision to deny Mitchell E. Levine personalized plates. This is the final agency decision in this matter.
+N.J.S.A. 39:3-33.5 (enacted by L. 1959, c. 56, § 3) provides in pertinent part:
+No special identifying mark may be issued to any applicant who:
+(a) has been convicted of a violation of either section 39:4-50, or section 39:4-96 of this Title; or
+(b) has been convicted of a misdemeanor in violation of section 2A:113-9 of Title 2A, Administration of Civil and Criminal Justice [repealed; see, now, §§ 2C:ll-2, 2C:ll-5]; or
+(c) for the 2-year period next preceding his application for a special identifying mark has had his driving privileges in this State revoked or suspended for any reason whatsoever.
+This statutory provision has been interpreted by the DMV to include not only those who are convicted of driving under the influence of intoxicating liquors, but those who refuse to submit to a breathalyzer test, whether or not convicted of driving under the influence of any substance. The purported rationale for this administrative interpretation is that a person who refuses to take a breathalyzer test should not have a benefit that is denied to one who is convicted of driving while intoxicated. The fallacy of this reasoning, however, is that the statute (N.J.S.A. 39:3-33.5) by its terms specifically lists only a conviction of driving while under the influence of alcohol or drugs or reckless driving.
+The clear intent of the restriction on the issuance of personalized plates is to deny such plates to a person who has been convicted of driving while under the influence or of reckless driving. Absent such a conviction, application of the disqualification in the personalized plate statute is inappropriate. This statute, enacted in 1959, cannot be construed to apply to conduct in refusing to take a breathalyzer test made punishable by statute seven years after its enactment. Simply put, refusal to submit to a chemical test was not deemed punishable until 1966, hence the Legislature could not have intended such conduct to fall within the ambit of the personalized plate statute.
+As we said in State v. DiSomma, 262 N.J.Super. 375, 382, 621 A.2d 55 (App.Div.1993):
+That N.J.S.A. 39:4-50.4a includes the number 50 in its compilation or citation number does not make it a part of section 50 of the statute, just as other numberings and letterings between section SO and 51 do not incorporate those enactments into the same section. These numberings were ... assigned by the compiler of statutes [the Office of Legislative Services] in order to place the different sections in proximity to related sections. Sections enumerated by decimal points and the like are nonetheless distinct designations (as contrasted with a subsection of a particular section) and remain separate statutory sections. This is particularly clear when the source documents, the actual bills and the 1981 Session Laws, are examined. Section 2 of c. 512 of the Laws of 1981 (page 2203) (the refusal violation enhancement section) is clearly shown and denominated as a distinct and separate section and is labelled in parenthesis “(New section),” It does not amend the prior version of any specified statute.
+Although we recognize that deference is generally given to an administrative agency charged with interpretation of the law, we are not bound by the agency’s legal opinions. G.S. v. Dept. of Human Services, Div. of Youth and Family, 157 N.J. 161, 170, 723 A.2d 612 (1999); Mayflower Securities Co. v. Bureau of Sec., 64 N.J. 85, 93, 312 A.2d 497 (1973). We are satisfied that the cases relied on by the Director in his final agency decision do not support his interpretation of the statute. Both In re Bergwall, 85 N.J. 382, 427 A.2d 65 (1981), and State v. Tekel, 281 N.J.Super. 502, 658 A.2d 1281 (App.Div.1995), dealt with suspension of driving licenses and enhanced penalties where there had been in fact a conviction of driving under the influence. Here, however, there is no driving under the influence conviction and, hence, no question of enhancement. Of course, had there been a conviction for driving under the influence, then the statutory prohibition would apply in the first instance, rather than through the strained interpretation of the law relied upon by the Director. Notwithstanding the strictures of the implied consent law, an individual might refuse a chemical test for reasons other than trying to conceal being under the influence.
+We are thus satisfied that absent a conviction for drunk driving or a reckless driving offense under N.J.S.A 39:4-96, or any other offense specifically listed under the other subsections of N.J.S.A. 39:3-33.5, Levine is entitled to personalized plates on payment of the appropriate fees.
+Reversed and remanded.
+Section 50.2 is the implied consent provision. Section 50.4a sets the penalty for failure to submit to a breathalyzer test.
+NJ.A.C. 13:20-34.4 essentially repeats the statutory language.
+N.J.S.A. 39:4-50.4a was enacted by L. 1981, c. 512 § 2. Its predecessor, however, was enacted by L. 1966, c. 142, § 4, repealed by L. 1981, c. 512 § 3.
