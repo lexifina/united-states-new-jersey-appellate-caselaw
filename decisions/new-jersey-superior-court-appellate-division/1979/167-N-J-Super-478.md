@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1979-04-12"
+citations: ["167 N.J. Super. 478"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DALE HELEN ARNOLD, PLAINTIFF-APPELLANT, v. GEORGE EDWARD ARNOLD, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/167/cases/0478-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 914604
+cites_cases: ["131 N. J. Super. 72", "155 N. J. Super. 196", "158 N. J. Super. 285"]
+---
+
+# Arnold v. Arnold
+
+## Majority (Larner, J. A. D.)
+
+The opinion of the court was delivered by
+Larner, J. A. D.
+We have carefully considered appellant’s arguments designated as Points I, II, III, IV, V and VI and find them to be clearly without merit. B. 2:ll-3(e) (1) (A)(E). Point VII raises the only issue which requires comment. Under that point, plaintiff wife attacks the propriety of that portion of the judgment which limits alimony to a period of 30 months at the rate of $40 a week. Such a limitation has been characterized euphemistically as “rehabilitative alimony” by matrimonial judges who have employed such a technique as a means of encouraging a wife to seek employment and self-support. See Turner v. Turner, 158. N. J. Super. 313 (Ch. Div. 1978).
+Such' a time-oriented automatic termination is unwarranted in View of the fact that our law permits an award of alimony to be increased or decreased in the future upon a showing of change of circumstances. See N. J. S. A. 2A:34-23. As we noted in Stout v. Stout, 155 N. J. Super. 196 (App. Div. 1977):
+The concept of alimony is reiterated in Di Tolvo v. Di Tolvo, 131 N. J. Super. 72 (App. Div. 1974). As stated therein, alimony is an allowance in periodic installments and takes into account many factors. Orders therefor operate for the • present and may always be. altered or modified upon a change of circumstances. The concept of equitable distribution- and alimony and support should hot be confused by the entry of orders leaving no room for the usual proceeding involving a modification of an alimony award, which ordinarily requires an application and a court hearing before the change is made. Thus, in Di Tolva we held that it was improper-for an order' for alimony to be increased automatically in proportion to salary increases to be received by the husband in the future. As stated therein (at 77), “[t]he advance determination by the court of an automatic increase in alimony is contrary to established principles relating to alimony and the modification thereof.” The converse is likewise true. There should not he an automatic decrease or cessation of the payment of alimony based on a future event', [at 205, emphasis added]
+It follows from the foregoing that an advance determination that alimony shall cease because of the passage of an arbitrary period of time is an a fortiori frustration of established principles relating to alimony and its modification for change of circumstances. Such a general-practice should not be utilized on the thesis that it will encourage the recipient of the alimony to seek means of self-support. In most cases, the record does not serve to transform a judge into a seer so as to be able to control the future rights of the parties by a finite cut-off date for alimony. There may arise a ease with unusual circumstances where the proofs at trial establish on a probable basis that the recipient of alimony will no longer need support at a certain point of time be^cause of a reasonable certainty of another source of income. Absent such clear and finite evidence, there is no warrant for looking into the future and setting a termination date simply as a psychological impetus for the spouse to seek employment.
+We do not agree with the general rationale expressed in Turner v. Turner, supra, which would permit “rehabilitative alimony” as an available viable technique for the avowed purpose of encouraging a spouse to seek employment. This goal may be achieved, for example, by molding the quantum of the alimony award to a spouse. In the absence of unusual facts, however, which support a cut-off date for alimony payments, such a technique should be avoided. There are other available methods of setting reasonable alimony based upon all the circumstances of the ease including the provisions for equitable distribution. See Esposito v. Esposito, 158 N. J. Super. 285, 300 (App. Div. 1978). Normally there would be no rational basis for an arbitrary termination date in light of our law permitting modification by increase or decrease because of a change of circumstances.
+In applying the foregoing to the case at bar it is manifest that the record is devoid of any extraordinary facts which would warrant the imposition of a 30-month limitation on the payment of alimony to plaintiff. There was no investigation at trial of the nature of plaintiff’s employment potential or her premarital employment or salary. She did give up her job when the children were born. There are two children of the marriage in her custody, aged 5 and 2 at the time of the divorce judgment, who will be 8 and 4 when the termination order takes effect. And finally, the alimony award is in the minimal sum of $40 a week — hardly a munificent amount designed to encourage indolence on the part of the recipient.
+Significantly, the trial judge made no factual findings which would support the unusual order for termination of alimony. Apparently he was motivated simply by the concept of “rehabilitative alimony,” as reflected in the only reference in his letter opinion to this phase of decision, namely:
+Alimony shall be the obligation of the defendant and he shall pay rehabilitative alimony to the plaintiff for a period of thirty months at the rate of $40 per week.
+The use of the label “rehabilitative” does not per se justify the time limitation. In our opinion, the inclusion of such a limitation herein in the context of this record was arbitrary and cannot stand.
+We therefore reverse and modify the alimony order to eliminate the termination date. We affirm the judgment in all other respects.
+No counsel fees or costs on this appeal.
