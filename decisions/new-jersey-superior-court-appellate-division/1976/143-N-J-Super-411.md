@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1976-08-09"
+citations: ["143 N.J. Super. 411"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. FRED MINGO, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/143/cases/0411-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 305981
+cites_cases: ["112 N. J. L. 115", "124 N. J. Super. 114", "131 N. J. L. 511", "149 N. E. 3", "16 N. J. 125", "23 N. J. 400", "318 Ill. 114", "388 U. S. 263", "390 U. S. 377", "409 U. S. 188", "44 N. J. 346", "49 N. J. 343", "519 F. 2d 1036", "55 N. J. 387", "59 N. J. 396", "77 A. L. R. 2d 1182", "91 N. J. Super. 135", "96 S. Ct. 1569"]
+---
+
+# State v. Mingo
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant was convicted in a jury trial of forcible rape (N. J. S. A. 2A:138-1) and attempted robbery. His motion for a new trial was denied, and he was sentenced to State Prison.
+On this appeal defendant contends that the trial judge erred in allowing the State to call as a witness on its direct case a handwriting expert who had been engaged solely by the defense. Defendant’s attorneys had given Donald C. Greenwood, the expert witness, letters previously written by defendant so that Greenwood could determine whether defendant’s handwriting was on a note which the victim claimed had been written by her assailant. It was Greenwood’s opinion, before trial and given under oath at trial, that defendant had written the note. Defendant now contends that Greenwood was his attorney’s agent and that permitting Greenwood to testify violated defendant’s attorney-client privilege embodied in Evid. B. 26 (N. J. 8. A. 2A: 84A-20).
+We disagree. The letters were used solely as exemplars of defendant’s handwriting. Their contents were not offered for testimonial purposes, that is to say, the purpose was not to place in evidence the statements contained in the letters or their meaning. The contents were offered solely as physical evidence, to show the shape and style of the handwriting. As such they are not protected by the privilege against self-incrimination (Gilbert v. California, 388 U. S. 263, 87 S. Ct. 1951, 18 L. Ed. 2d 1178 (1967); State v. Carr, 124 N. J. Super. 114 (Law Div. 1973); see Fisher v. United States, — U. S. —, —, 96 S. Ct. 1569, 1579-1580, 48 L. Ed. 2d 39, 54-56, (1976)), any more than voiceprints and blood samples. Evid. R. 25 (N. J. S. A. 2A:84A-19 (a)); State v. Cary, 49 N. J. 343 (1967); State v. King, 44 N. J. 346, 357 — 358 (1965). Nor were they “communications” to defendant’s attorney which the attorney-client is designed to protect. Eevealing the physical characteristics of the handwriting would not infringe defendant’s right to consult and communicate freely with his attorney.
+Thus, allowing Greenwood to testify for the State did not violate defendant’s attorney-client privilege. See People v. Smith, 318 Ill. 114, 125, 149 N. E. 3, 8 (Sup. Ct. 1925). Since handwriting exemplars are nontestimonial, State v. Kociolek, 23 N. J. 400 (1957), and United States v. Alvarez, 519 F. 2d 1036 (3 Cir. 1975), upon which defendant relies, are inapplicable. And nothing contained in State v. Montague, 55 N. J. 387, 402 (1970), which defendant has cited, precludes the use of Greenwood’s testimony at trial; the handwriting examination is not within the protection accorded by R. 3 :13-3 (c) to an attorney’s work product.
+We note that Greenwood did not object to testifying when called by the State, and we need not decide whether he would have had the right to refuse to testify in the face of defendant’s exercise of discovery rights under R. 3:13-3. Cf. Hull v. Plume, 131 N. J. L. 511, 517 (E. & A. 1944); Stanton v. Rushmore, 112 N. J. L. 115 (E. & A. 1933); Rogotzki v. Schept, 91 N. J. Super. 135 (App. Div. 1966); Annotation, “Compelling expert to testify,” 77 A. L. R. 2d 1182 (1961). Nor has any question been raised as to Greenwood’s right to payment for his services from the party who called him as a witness. See Stanton v. Rushmore, supra 112 N. J. L. at 117-118.
+Defendant also contends that the victim’s out-of-court identifications of defendant, from photographs and in person, were impermissibly suggestive and violated defendant’s rights. Considering all the circumstances we find no abuse of the trial judge’s discretion in admitting this evidence. Cf. Neil v. Biggers, 409 U. S. 188, 93 S. Ct. 375, 34 L. Ed. 2d 401 (1972); Simmons v. United States, 390 U. S. 377, 88 S. Ct. 967, 19 L. Ed. 2d 1247 (1968). Moreover, the victim had ample opportunity to observe her assailant before and during the assault, and the trial judge was justified in concluding that the victim’s in-court identification was not tainted by any alleged impropriety in the out-of-court identification procedures. State v. Thompson, 59 N. J. 396, 418-419 (1971).
+Lastly, there is no merit to defendant’s contention that the prosecutor’s statements in his opening and in summation warrant reversal of his conviction. The trial judge’s rulings and instructions to the jury appropriately rectified any alleged improprieties, and we note that the prosecutor withdrew the objectionable remarks made in his opening statement and apologized for them. The principle of cumulative error (see State v. Orecchio, 16 N. J. 125, 129 (1954)) is not pertinent here.
+Affirmed.
+The “work product” rule does not shield reports of “physical examinations” or “scientific tests.” They are made discoverable by the express provisions of R. 3:13-3(b).
