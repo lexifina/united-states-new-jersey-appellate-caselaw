@@ -1,0 +1,46 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1990-07-12"
+citations: ["242 N.J. Super. 362", "576 A.2d 942"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALLIED-SIGNAL INC., A CORPORATION, PLAINTIFF-APPELLANT, v. PUREX INDUSTRIES, INC., A CORPORATION, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/242/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 351603
+cites_cases: ["10 L.Ed. 274", "102 N.J. 460", "110 S.Ct. 2105", "115 N.J. 317", "15 L.Ed. 451", "200 N.J.Super. 177", "30 L.Ed.2d 265", "30 L.Ed.2d 559", "326 U.S. 310", "342 U.S. 437", "404 U.S. 1006", "404 U.S. 948", "444 F.2d 745", "444 U.S. 286", "465 U.S. 770", "491 A.2d 10", "508 A.2d 1127", "525 F.Supp. 1265", "541 F.Supp. 62", "558 A.2d 1252", "704 F.2d 125", "92 S.Ct. 271", "92 S.Ct. 561", "96 L.Ed. 485"]
+---
+
+# Allied-Signal Inc. v. Purex Industries, Inc.
+
+## Majority (ASHBEY, J.A.D.)
+
+The opinion of the court was delivered by
+ASHBEY, J.A.D.
+The only question in this case is whether plaintiff Allied-Signal, Inc., a corporation with principal offices in New Jersey, obtained personal jurisdiction over defendant Purex when Allied served its complaint on Purex’s New Jersey agent registered for service of process with the Secretary of State. Purex’s motion to dismiss for lack of jurisdiction was granted. Allied appeals and we reverse.
+As both parties framed the issue, it is whether Purex had sufficient “minimum contacts” with New Jersey to justify the exercise of State jurisdiction. Purex contended that, while it owned real property here, registering its agent for process was only related to New Jersey environmental litigation stemming from its predecessor’s activities. Purex claimed it had effectively left the State for purposes of Allied’s action, citing Keech v. Lapointe Mach. Tool Co., 200 N.J.Super. 177, 182, 491 A.2d 10 (App.Div.1985).
+We know of no New Jersey or Supreme Court authority for the proposition that a corporation may limit a state’s jurisdiction in the manner Purex suggests and none has been cited to us. Moreover, Purex asserts no limiting action on its part in the appointment process under N.J.S.A. 14A:4-2. Nor does Purex contend it has unsuccessfully attempted to withdraw its registration.
+Our review of the authority on which Purex relies discloses only one case that found in personam jurisdiction lacking over a corporation registered to do business in the forum state where the corporation’s registered agent was served with process: Ratliff v. Cooper Labs, 444 F.2d 745 (4th Cir.1971), cert. den. 404 U.S. 948, 92 S.Ct. 271, 30 L.Ed.2d 265 (1971), reh’g den. 404 U.S. 1006, 92 S.Ct. 561, 30 L.Ed.2d 559 (1971). There the Circuit Court reasoned
+Plaintiffs’ only interest in South Carolina is in its relatively long statute of limitations (six years), and plaintiffs’ only contact with South Carolina is the bringing of these lawsuits for the sole purpose of availing themselves of that statute—the limitations period having run in all other states having any connection with the claims presented____ [444 F.2d at 746],
+That ease stands in the shadow of many succeeding Supreme Court cases. Whether it remains good law is not before us.
+New Jersey chooses to exercise jurisdiction over nonresidents to the utmost limits allowed by the United States Constitution. R. 4:4—4(c)(1); Charles Gendler & Co. v. Telecom Equipment Corp., 102 N.J. 460, 473, 508 A.2d 1127 (1986). Under the Constitution it is fundamental that every state possess exclusive jurisdiction and sovereignty over persons and property within its territory.
+While due process merely requires that a nonresident defendant “reasonably anticipate” being sued in the forum state, World-Wide Volkswagen Corp. v. Woodson, 444 U.S. 286, 292, 100 S.Ct. 559, 567, 62 L.Ed.2d 490, 498 (1980), presence of an individual defendant in the forum state accompanied by service, confers in personam jurisdiction. See Burnham v. Superior Court of California, County of Marin, — U.S. -, -, 110 S.Ct. 2105, 2109, 109 L.Ed.2d 631, 638 (U.S. 1990).
+There Justice Scalia is quoted as saying for the Court:
+Despite this formidable body of precedent, petitioner contends, in reliance on our decisions applying the International Shoe standard, that in the absence of ‘continuous and systematic’ contacts with the forum, see note 1, supra, a nonresident defendant can be subjected to judgment only as to matters that arise out of or relate to his contacts with the forum. This argument rests on a thorough misunderstanding of our cases.
+********
+Nothing in International Shoe or the cases that have followed it ... offers support for the very different proposition petitioner seeks to establish today: that a defendant’s presence in the forum is not only unnecessary to validate novel, nontraditional assertions of jurisdiction, but is itself no longer sufficient to establish jurisdiction. That proposition is unfaithful to both elementary logic and the foundations of our due process jurisprudence. The distinction between what is needed to support novel procedures and what is needed to sustain traditional ones is fundamental, as we observed over a century ago----
+********
+The short of the matter is that jurisdiction based on physical presence alone constitutes due process because it is one of the continuing traditions of our legal system that define the due process standard of ‘traditional notions of fair play and substantial justice.’ That standard was developed by analogy to ‘physical presence,’ and it would be perverse to say it could now be turned against that touchstone of jurisdiction. [— U.S. at---, 110 S.Ct. at 2113-2115 (emphasis in original)].
+Although this case concerns jurisdiction over an individual defendant, contrary to defendant’s position, the principle applies to defendant corporation. In the footnote, upon which defendant relies to distinguish Burnham, Justice Scalia said
+It may be that whatever special rule exists permitting “continuous and systematic” contacts, ... to support jurisdiction with respect to matters unrelated to activity in the forum, applies only to corporations, which have never fitted comfortably in a jurisdictional regime based primarily upon “de facto power over the defendant’s person.” International Shoe Co. v. Washington, 326 U.S. 310, 316 [66 S.Ct. 154, 158, 90 L.Ed. 95] (1945). [— U.S. at-n. 1, 110 S.Ct. at 2110 n. 1 (emphasis in original)].
+Justice Scalia was not there referring to circumstances limiting state jurisdiction, but to circumstances expanding state jurisdiction and possibly unique to corporations, which obviously have no personal presence anywhere.
+Originally a corporation was held to have no “presénce” outside the state of its incorporation. Bank of Augusta v. Earle, 38 U.S. (13 Pet.) 519, 10 L.Ed. 274 (1839). There followed the doctrine that, because a state could prevent a foreign corporation from engaging in local business, it could permit a corporation to conduct local business on condition that the corporation consent to having a registered corporate “presence” within the state. Lafayette Insurance Co. v. French, 59 U.S. (18 How.) 404, 15 L.Ed. 451 (1855). Only where there was no service on a corporate registered agent has question been raised involving service upon unregistered agents as the corporate “presence” in the state. See Perkins v. Benguet Consolidated Mining Co., 342 U.S. 437, 440, 72 S.Ct. 413, 415, 96 L.Ed. 485 (1952), cited in Burnham, — U.S. at-n. 1, 110 S.Ct. at 2110 n. 1. We are satisfied that the authority concerning “minimum contact” jurisdiction relied on by Purex to support its contention reflects what Justice Scalia referred to as a “misunderstanding of our [Supreme Court] cases.” — US. at -, 110 S.Ct. at 2113.
+Having concluded that service on Purex’s registered agent conferred personal jurisdiction over Purex, regardless of the nature of the litigation, we need not explore the extensive other contacts Purex had with New Jersey respecting the transaction underpinning plaintiff’s cause. See Lebel v. Everglades Marina, Inc., 115 N.J. 317, 322, 558 A.2d 1252 (1989).
+Reversed.
+We recognize that defendant also sought a dismissal on the grounds of forum non conveniens. That argument was expressly rejected as a basis for the judge’s ruling and is not the basis of this appeal.
+AIthough not relied on by plaintiff, a careful reading of Purex’ certification shows that Purex never asserted that New Jersey required it to have a registered agent for that limited purpose, merely that it was "convenient.”
+N.J.S.A. 14A:4-2 provides
+(1) Every registered agent shall be an agent of the corporation which has appointed him, upon whom process against the corporation may be served.
+Purex also relied on In re Mid-Atlantic Toyota Antitrust Litigation, 525 F.Supp. 1265, 1278, modified 541 F.Supp. 62 (D.Md.1981), aff'd 704 F.2d 125 (4th Cir.1983). The service there questioned, however, appears to have been made on the Secretary of State who was attorney in fact for every corporation registered to do business in the State.
+See Keeton v. Hustler, 465 U.S. 770, 779, 104 S.Ct. 1473, 1480, 79 L.Ed.14 790, 800 (1984).
