@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1983-02-23"
+citations: ["188 N.J. Super. 504"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. DAVID DAN DIAZ, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/188/cases/0504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 907820
+cites_cases: ["75 N.J. 150", "79 N.J. 503", "89 N.J. 220"]
+---
+
+# State v. Diaz
+
+## Majority (JOELSON, J.A.D.)
+
+The opinion of the court was delivered by
+JOELSON, J.A.D.
+Defendant was indicted under two indictments. The first was in two counts and charged him with first degree robbery (N.J. S.A. 2C:15-1) and third degree theft (N.J.S.A. 2C:20-3). The second indictment charged him with second degree robbery (N.J. S.A. 2C:15-1). Following plea negotiations he entered retraxit pleas of guilty to the first degree robbery charge in the first indictment and the second degree robbery charge in the second indictment. The State agreed to move the third degree theft charge of the- first indictment for dismissal and to recommend that any custodial terms imposed should run concurrently. Defendant was sentenced to the custody of the Commissioner of the Department of Corrections for a term of ten years on the first degree robbery and to a concurrent term of seven years on the second degree robbery. A penalty of $500 was assessed on each offense, payable to the Violent Crimes Compensation Board pursuant to N.J.S.A. 2C:43-3.1. Defendant appeals from the sentences and penalties. We affirm.
+In the letter brief submitted on behalf of defendant, legal argument is not divided under appropriate point headings. Additionally, it lacks a separate procedural history and statement of facts. See R. 2:6 2(a)(3), (4) and (5). Letter briefs are not exempt from these requirements. See R. 2:6-2(b). However, defendant apparently contends that his sentence was excessive, that the charge in the first indictment to which he pleaded guilty constituted second degree rather than first degree robbery, and that the penalties were illegal.
+In urging that he was improperly sentenced on a first degree rather than a second degree robbery under the first indictment, defendant relies on State v. Butler, 89 N.J. 220 (1982). Since defendant did not possess a weapon, but merely simulated such possession, his offense was second degree robbery under the Butler holding. However, we do not find a remand for resentencing to be necessary because the sentencing judge specifically stated in his written statement of reasons that “this court feels that the circumstances warrant dealing with these two robberies for the purpose of sentencing as second degree crimes.” He also stated orally that he found “justification to give this sentence less than the presumptive sentence for first degree robbery.” The fact is that the ten-year sentence imposed was within the permissible limits for second degree robbery under N.J.S.A. 2C:43-6 a(2).
+With regard to the assertion in defendant’s brief that the sentence was “unnecessarily harsh,” we simply note that an appellate court should reverse a sentence as manifestly unfair only if it was so excessive as to constitute an abuse of discretion. State v. Butler, 89 N.J. at 232; State v. Whitaker, 79 N.J. 503, 512-517 (1979); State v. Leggeadrini, 75 N.J. 150, 156-161 (1977). We find no abuse of discretion here.
+Finally, defendant asserts error in the penalties of $500 for each offense, arguing that only a $25 penalty should have been assessed for each. N.J.S.A. 2C:43-3.1 a(l) provides in pertinent part:
+... any person convicted of a crime of violence resulting in the injury or death of another person, shall be assessed a penalty of at least $25.00, but not to exceed $10,000.00 for each such crime for which he was convicted.
+In N.J.S.A. 52:4B-2, which contains definitions under the Criminal Injuries Compensation Act of 1971, N.J.S.A. 52:4B-1 et seq., “personal injury” is defined as meaning “actual bodily harm,” and as including “mental or nervous shock.” In the second robbery to which defendant pleaded guilty, according to the presentence report, the victim stated that she was hit on the jaw and thrown to the ground, as a result of which she received medical treatment. Surely that constitutes “actual bodily harm.” We also note that whereas N.J.S.A. 2C:15-1 b refers to “serious bodily injury” in the grading of first and second degree robbery, N.J.S.A. 2C:43-3.1 a(l) does not require that the injury be “serious” in order to warrant the penalty thereunder. Concerning the first offense, it is undisputed that defendant menaced the female victim as if he had a gun. It hardly requires testimony from a psychiatrist to establish that the victim thereby experienced “mental or nervous shock,” no matter how transitory.
+Defendant’s brief also voices the complaint that in assessing the penalty, the sentencing judge failed to comply with the further requirement of N.J.S.A. 2C:43-3.1 a(l) that he should consider “the defendant’s ability to pay and the economic impact of the penalty on defendant’s dependents.” There is no doubt that the presentence report indicates that defendant, his “common law wife” and their three children are in strained financial circumstances. It would have been preferable, therefore, for the judge to have expressed his reasons for imposing the penalty which he did. However, in view of the fact that N.J.S.A. 2C:43-3.1 a(l) includes “the severity of the crime” as one of the factors, and in further view of the fact that under the statute a penalty as high as $10,000 for each crime of violence resulting in injury is permissible, we do not find an abuse of discretion on the part of the sentencing judge. In so stating, we apply the same standard for review as applicable to sentences under State v. Butler, State v. Whitaker and State v. Leggeadrini, all supra.
+Affirmed.
+The notice of appeal mistakenly refers to “two $50 penalties.’
