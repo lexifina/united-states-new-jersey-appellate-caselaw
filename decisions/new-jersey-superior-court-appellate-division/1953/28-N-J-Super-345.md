@@ -1,0 +1,44 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1953-11-17"
+citations: ["28 N.J. Super. 345"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LUCILLE WOMACK, GENERAL ADMINISTRATRIX, ETC., PLAINTIFF, v. MICHAEL FENTON, DEFENDANT. MICHAEL FENTON, DEFENDANT AND THIRD-PARTY PLAINTIFF-APPELLANT, v. ATLANTIC CASUALTY INSURANCE COMPANY, A CORPORATION, THIRD-PARTY DEFENDANT-RESPONDENT. MICHAEL FENTON, PLAINTIFF-APPELLANT, v. AUTOMOBILE ASSOCIATION OF NEW JERSEY, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/28/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 375844
+cites_cases: ["10 N. J. 380", "107 N. J. L. 509", "109 N. J. L. 119", "111 N. J. L. 249", "12 N. J. Misc. 617", "12 N. J. Super. 45", "122 N. J. L. 197", "133 N. J. L. 5", "134 N. J. L. 510", "135 A. 479", "137 N. J. L. 666", "14 N. J. Super. 167", "2 N. J. 318"]
+---
+
+# Womack v. Fenton
+
+## Majority (Jayne, J. A. D.)
+
+The opinion of the court was delivered by
+Jayne, J. A. D.
+A concise prefatory statement will adequately disclose the controversial subject of the present appeal. On February 27, 1951 the defendant Atlantic Casualty Insurance Company issued to the plaintiff Michael Fenton, its conventional automobile insurance policy and simultaneously the defendant Automobile Association of Hew Jersey issued to him its service contract, both to expire on February 24, 1952. On February 17, 1952 the plaintiff Fenton was involved in an automobile mishap which resulted in the death of one Pearly Womack and subjected Fenton to alleged criminal and civil liability to which the policies of insurance respectively pertained. Fenton was ultimately exonerated from culpable responsibility for the occurrence of the accident but had been obliged to finance the expenses of Ms defense which amounted iu the aggregate to $1,000, of which in the present actions he claimed $800 from the Atlantic Casualty Insurance Company and $200 from the Automobile Association of Hew Jersey.
+The defendants averred that the policy and the service contract were both duly cancelled prior to the occurrence of the accident by a notice mailed to the insured in accordance with the respective relevant terms of each of the two contracts.
+The provision in the insurance policy relating to its cancellation is as follows:
+“23. CANCELATION: This policy may be canceled' by the named insured by surrender thereof or by mailing to the. company written notice stating when thereafter such cancelation shall be effective. This policy may be canceled by the company by mailing to the name insured at (he address shown in this policy written notice stating when, not less than five clays thereafter, such cancelation shall be effective. The mailing of notice as aforesaid shall be sufficient proof of notice and the effective date and hour of cancelation stated in the notice shall become the end of the policy period. Delivery of such written notice either by the named insured or by the company shall be* equivalent to mailing.”
+The following provision is contained in the service contract :
+“CANCELATION:
+This membership may be canceled at any time by the Association by giving member notice of cancelation stating when, thereafter, cancelation shall be effective and the earned fees shall be adjusted pro rata. Notice of cancelation mailed to the address of named member stated in the certificate shall be sufficient notice.”
+At the conclusion of the introduction of the evidence adduced on behalf of the plaintiff and the defendants, adverse motions for judgment were addressed to the court. The motion for judgment in favor of the defendants was granted. The entry of a conformable judgment ensued, from which the plaintiff Fenton prosecutes the present appeal.
+In the consideration of the grounds of appeal, it is of basic significance initially to observe that the contractual engagements of the parties by their express terms required only the mailing of a written notice of the cancellation to the insured at the address appearing in the instruments in order to effectuate their termination. Cf. Pearson v. General Casualty and Surely Co., 107 N. J. L. 509 (E. & A. 1931); Werner v. Commonwealth Casualty Co., 109 N. J. L. 119 (E. & A. 1932); McBride v. New Amsterdam Casualty Co., 12 N. J. Misc. 617 (Sup. Ct. 1934).
+It has been held in accord with the weight of the pertinent authorities that where the mailing of the written notice of cancellation in strict conformity with the expressed essentials of such a provision is established by proof, the cancellation is effectual without evidence of the receipt of the notice by the insured. Raiken v. Commercial Casualty Ins. Co., 135 A. 479 (N. J. Sup. Ct. 1926, not otherwise reported). The agreements contemplated only constructive notice of cancellation.
+At the trial of the present action definite and precise evidence of the proper mailing, to the plaintiff on January 11, 1952 of the requisite notice of cancellation effective January 22, 1952 flowed from the testimony of the witness Marie Perrera, elucidated bjr the confirmatory exhibits. It may be well to explain that the notice was expressly applicable to both the policy and service contract and mailed to the address of the plaintiff appearing in those documents which, at the trial, was acknowledged to be the address of the plaintiff’s residence.
+In that state of the evidence the endeavor was made on behalf of the plaintiff to prove that the notice of cancellation was not received by the plaintiff or for him by his wife. The trial judge resolved that such evidence was irrelevant and immaterial to the determinative issue of the case and sustained the objections to its introduction.
+We notice, however, the interrogation of tire plaintiff's wife:
+“Q. Who gets the mail in the morning? A. I receive the mail.
+Q. Do you open the mail if it is addressed to your husband? A. I do.
+Q. Did you, Mrs. Fenton, ever receive a letter addressed io your husband, which was the original of the notice, of cancellation--A. I don't remember.
+Mr. Ilarkavy: Just a minute. 1 object to the question.”
+The tardy objection was sustained. We shall conjecture that the plaintiff, had lie been permitted to answer the similar question propounded to him, would have recalled that he did not receive the notice.
+The insistence of counsel for the plaintiff is that the rejection of evidence of the failure of the insured to receive the notice was harmful and prejudicial error. The synthesis is that the mailing of a letter constitutes a logical postulate for the presumption of law that it was received by the addressee and conversely, mutatis mutandis, the failure of the addressee to receive the epistle generates the presumption that it was not mailed. It is advocated that the presumption works both backward and forward.
+We recognize the point of the argument to be that where positive and uncontradicted evidence is oppugnant to a presumption of law, a jury question arises. The decisional law is Io the contrary. A presumption of law has no artificial probative force of its own. It compels the particular conclusion for the trial judge in the absence of evidence contra. It vanishes in the face of positive, substantial, trustworthy, uneorrlradicted and repellent evidence. Vide, Dunn v. Goldman, 111 N. J. L. 249 (Sup. Ct. 1933) ; Kirschbaum v. Metropolitan Life Insurance Co., 133 N. J. L. 5 (E. & A. 1945); Meltzer v. Division of Tax Appeals, 134 N. J. L. 510 (Sup. Ct. 1946); Gaudreau v. Eclipse Pioneer, &c., Bendix Air Corp., 137 N. J. L. 666 (E. & A. 1948); Grand View Gardens, Inc. v. Hasbrouck Heights, 14 N. J. Super. 167 (App. Div. 1951).
+If we were to indulge the hypothesis that the proffered testimony of the plaintiff would have originated a speculative factual inference that the notice was not mailed, it would have constituted no more than a mere scintilla. Sivak v. New Brunswick, 122 N. J. L. 197 (E. & A. 1939). Moreover it seems to us that the admission of such testimony would have the pragmatical effect of enlarging the pertinent terms of the contracts relating to the mode of cancellation.
+In the appellate exploration of the trial of this case it must be conceived that the existence of proof of the mailing, not of the receipt, of the notice was the essential nucleus of the defense.
+We conclude that the positive evidence of the mailing of the notice in the present case warranted the court in declaring the judgment which the law imposed. Kaufman v. Pennsylvania Railroad Co., 2 N. J. 318 (1949); Long v. Bd. of Chosen Freeholders, Hudson County, 10 N. J. 380 (1952); Gentile v. Pub. Service Coordinated Transport, 12 N. J. Super. 45 (App. Div. 1951).
+We do not perceive any justifiable cause to reverse the judgment under review. It is accordingly affirmed.
