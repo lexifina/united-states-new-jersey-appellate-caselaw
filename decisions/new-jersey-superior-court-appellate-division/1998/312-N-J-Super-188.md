@@ -1,0 +1,54 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1998-06-16"
+citations: ["312 N.J. Super. 188", "711 A.2d 407"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BOROUGH OF ATLANTIC HIGHLANDS, PLAINTIFF-APPELLANT, v. EAGLE ENTERPRISES, INC., DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/312/cases/0188-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1325645
+cites_cases: ["127 N.J. 548", "133 N.J. 430", "249 N.J.Super. 487", "259 N.J.Super. 337", "606 A.2d 362", "627 A.2d 1136"]
+---
+
+# Borough of Atlantic Highlands v. Eagle Enterprises, Inc.
+
+## Majority (KIMMELMAN, J.A.D.)
+
+The opinion of the court was delivered by
+KIMMELMAN, J.A.D.
+At issue is whether a clause evidencing an agreement to arbitrate all claims arising out of or related to the parties’ construction contract remained viable after the parties entered into a subsequent agreement acknowledging that the construction contract was completed, that the subsequent agreement “constitute[d] full and final satisfaction of all claims for compensation,” and that “neither party ha[d] any further claims for compensation or damages against the other,” subject only to the retainage being held pending satisfactory completion of certain repair items.
+The trial court held that the subsequent agreement between the parties did not abrogate the initial arbitration clause. The application to enjoin arbitration commenced by defendant on its change order claim for extra work was denied and plaintiffs complaint was dismissed with prejudice. We reverse.
+I
+On December 29, 1995, following public bidding, plaintiff and defendant entered into a construction contract, whereby defendant agreed to construct a new emergency services building for $959,-700. February 4, 1996, was the date set for commencement of construction, with substantial completion to be effected not later than 240 calendar days (eight months) after commencement. Liquidated damages were fixed at “$500 for each and every calendar day” that substantial completion of the work overran the contract time.
+The deadline was not met. Defendant places blame for the delay on plaintiffs architect. It was not until February 28, 1997, or more than four months after the contract completion deadline, that the building was substantially completed. At that point, several matters between the parties remained unresolved and outstanding, such as: plaintiffs damage claim for delay; payment for work already completed and billed; the payment of the architect’s site inspection fees; and payment for change orders # 1 through # 12, for which claims had already been made in accordance with the general terms and conditions of the contract.
+As several months dragged by without resolution of these matters, defendant became hard-pressed for funds, and plaintiff continued its threats to assess approximately $60,000 as damages for the delay in construction. Finally, the parties sat down and resolved their differences, resulting in the preparation and execution of a “Final Agreement” on June o, 1997, which reads as follows:
+The Borough of Atlantic Highlands and Eagle Enterprises hereby agree that the $12,500 deduction (credit) in favor of the Borough is in full settlement of any and all claims by either party for damages by reason of delay or late completion of the project. Subject only to the $10,000 retainage being held by the Borough pending the satisfactory completion of certain repair items by Eagle, the parties agree that Contract is completed and this Agreement constitutes full and final satisfaction of all claims for compensation and neither party has any further claims for compensation or damages against the other.
+The parties agree that the amount of $10,000 is being withheld from the final payment, to be held as retainage pending the completion by Eagle to the reasonable satisfaction of the Borough Administrator of the following listed outstanding repair items. Upon satisfactory completion of these items, the $10,000 retainage will be released to Eagle within 14 days.
+REPAIR ITEMS
+1. Hoofing and siding shingles (replacement where necessary).
+2. Brace ail overhead doors.
+3. Parking lot dry well to eliminate ponding.
+4. Stone bed at side of firehouse to prevent erosion.
+5. Connect air-pac breathing equipment.
+6. Replace dead shrubs.
+7. Re-seed planted grass areas.
+In connection with the execution of the June 5, 1997, Final Agreement, plaintiff paid to defendant $27,535.73 for work theretofore completed. Defendant’s president certified that all work covered by said payment “has been completed” and that the current payment shown, i.e., $27,535.73, “is now due.” Included in his certification dated June 6, 1997, was the fact that change orders amounting to $20,974.31 had been added to the original contract sum of $959,700, resulting in a total cost of $980,674.31, with $10,000 being withheld by way of retainage, pursuant to the terms of the Final Agreement. No mention was made of any other outstanding claim.
+On July 25, 1997, less than two months after the execution of the Final Agreement, defendant addressed a letter to plaintiff rescinding its June 5, 1997, agreement to forfeit $12,500 as damages for the delays in completion of the project and designating “duress” as the reason for its prior acceptance. Defendant advised plaintiff to regard its letter as “Change Order # 13” to add $12,500 back into the overall cost of the project. The letter included a demand for payment.
+On August 13, 1997, defendant served on plaintiff its notice of intent to arbitrate and asserted change orders # 14 through # 25, which, when added to the amount of change order # 13 and the $10,000 retainage, totalled $89,735.19. Defendant claimed that sum to be due. Plaintiff promptly advised defendant that the matter had been concluded by the Final Agreement and would not be reopened. On September 22, 1997, defendant filed its formal demand for arbitration with the American Arbitration Association. The demand for arbitration made no mention of the superseding Final Agreement or of the fact that defendant claimed it was induced to execute the same by reason of fraud or economic duress. Defendant did not seek to have determined by arbitration whether the Final Agreement was valid or was vitiated by reason of economic duress. Instead, defendant’s demand for arbitration assumed the continued existence of the arbitration clause in the original construction agreement and sought to arbitrate only its claims for change orders. The demand for arbitration was crystal clear. It stated:
+NATURE OF DISPUTE (Please give enough details to enable the AAA to select arbitrators with appropriate experience.): The Contractor was penalized for unusual weather delays. Contractor was forced to continue without Change Orders. Contractor was held responsible for design errors and conflicting plans and site conditions.
+Thereupon, plaintiff instituted this action to enjoin the arbitration.
+II
+The original construction contract contained an arbitration clause which provided, in pertinent part:
+Any controversy or Claim arising out of or related to the Contract, or the breach thereof, shall be settled by arbitration^] ...
+In our view, the original construction contract executed on December 29, 1995, which included the arbitration clause in issue, appears to have been knowingly canceled and settled-out by virtue of the Final Agreement, which provided that:
+[T]ke parties agree that [the] Contract is completed and this Agreement constitutes full and final satisfaction of all claims for compensation and neither party has any further claims for compensation or damages against the other.
+[ (Emphasis added).]
+We are at a loss as to how wo might interpret this unambiguous language to mean anything other than that the original construction contract was to be regarded as history. E.g., Karl’s Sales & Serv., Inc. v. Gimbel Bros., Inc., 249 N.J.Super. 487, 493, 592 A.2d 647 (App.Div.), certif. denied, 127 N.J. 548, 606 A.2d 362 (1991).
+Ill
+The issue of whether the Final Agreement is to be voided because of fraud and economic duress relates solely to the validity of the Final Agreement. That issue is only tangentially related to the original construction contract, in the sense that the Final Agreement canceled the original contract. The assertion of fraud or economic duress was not in the inducement of the original contract, but was alleged only in the inducement of the Final Agreement.
+Defendant relies on Van Syoc v. Walter, 259 N.J.Super. 337, 339, 613 A.2d 490 (App.Div.1992), certif. denied, 133 N.J. 430, 627 A.2d 1136 (1993), to support the arbitrability of its claim that it was fraudulently induced to sign the Final Agreement. Van Syoc is anything but supportive of defendant’s position. In Van Syoc, a contract for alterations and additions to the owners’ home contained an arbitration clause. The builder demanded arbitration of its claim for $12,798 plus damages resulting from the owners’ alleged breach of the construction contract. Id. at 338, 613 A.2d 490. The owners, in an effort to avoid arbitration, contended that the construction contract was fraudulently induced and therefore, in the absence of a valid contract, they maintained that the builder’s claim must be decided by a court. Ibid. This court disagreed, holding that a claim of fraud in the inducement of the contract containing the arbitration clause was a matter for the arbitrator. Id. at 339, 613 A.2d 490.
+In contrast, here, there is no claim of fraud or economic duress in the inducement of the original construction contract between plaintiff and defendant. Defendant’s claim relates to fraud or economic duress solely in the inducement of the Final Agreement which, significantly, does not contain an arbitration clause. Hence, under the reasoning of Van Syoc, defendant’s claim, since it only seeks to vitiate an agreement which does not contain an arbitration clause, must first be addressed in a court of general jurisdiction. See ibid. If it is found that the Final Agreement was induced by fraud or economic duress, then defendant may arbitrate its claim for additional monies in accordance with its demand for arbitration.
+In sum, our determination is that the parties never agreed to submit this particular dispute to arbitration. The Final Agreement, which we assume to be binding, unambiguously on its face was intended to operate as a general release. Nothing was left for arbitration. Any change in this posture of the case must come from a judicial ruling.
+For the foregoing reasons, we vacate the order entered November 20, 1997, dismissing plaintiffs complaint and remand for the entry of judgment in favor of plaintiff.
