@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1984-10-11"
+citations: ["7 N.J. Tax 220"]
+reporter: "nj-tax"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SHULTON, INC., PLAINTIFF-RESPONDENT, v. CITY OF CLIFTON, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-tax/7/cases/0220-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 421214
+cites_cases: ["1 N.J.Tax 445", "163 N.J.Super. 166", "178 N.J.Super. 251", "190 N.J.Super. 366", "190 N.J.Super. 448", "2 N.J.Tax 30", "2 N.J.Tax 303", "3 N.J.Tax 1", "343 A.2d 1063", "394 A.2d 390", "4 N.J.Tax 486", "401 A.2d 239", "428 A.2d 934", "434 A.2d 1134", "443 A.2d 709", "464 A.2d 300", "7 N.J.Tax 208", "79 N.J. 483", "87 N.J. 378", "88 N.J. 495"]
+---
+
+# Shulton, Inc. v. City of Clifton
+
+## Majority (SIMPSON, J.A.D.)
+
+SIMPSON, J.A.D.
+In this local property tax case, plaintiff (Shulton) and defendant (Clifton) both appeal from a judgment of the Tax Court affirming the 1979 and 1980 total assessment for land and improvements of a large industrial complex at $10,487,800 and reducing the 1981 assessment to $8,372,700. We affirm substantially for the reasons set forth by Judge Crabtree in his “memorandum” opinion of August 3, 1983. 7 N.J.Tax 208. There was no error of law, and the judge’s findings of fact could reasonably have been reached on substantial credible evidence present in the record as a whole. Hackensack Water Co. v. Haworth, 178 N.J.Super. 251, 259, 2 N.J.Tax 303, 311-312, 428 A.2d 934 (App.Div.1981), certif. den. 87 N.J. 378, 343 A.2d 1063 (1981).
+The reduction of the original assessment for 1981 was solely the result of the application of statutory relief from discriminatory real property tax assessment pursuant to N.J.S.A. 54:2-40.4 (now N.J.S.A. 54:51A-6). The reduction per se is not challenged by plaintiff or defendant. At issue is Judge Crab-tree’s finding that the true value of the subject property for all three years was $14,191,000. The Tax Court decided that the market data approach to valuation as used by plaintiff’s expert was more persuasive than the income approach principally relied upon by defendant’s expert. The judge also rejected the cost approach to valuation relied upon by defendant and the subsidiary contention that this approach was required because the property was “special purpose” rather than “multiple use” property. The judge did, however, adjust the appraisal of plaintiff’s expert because that expert’s decision not to apply a $22 a square foot multiplier to a portion of the property deemed “nonsaleable space” was unsupported in the record.
+I. Clifton’s Appeal
+The record is clear that the complex comprises 16 buildings, aggregating 645,062 square feet on 40.91 acres, devoted to manufacturing, warehousing, laboratory and office uses. There is support also for the conclusion that the property is readily adaptable to multiple industrial uses without the need for substantial conversion costs. Defendant’s principal reliance upon Simmons Co. v. Linden, 190 N.J.Super. 448, 464 A.2d 300 (App.Div.1983), is misplaced. In that case, contrary to the present situation, the court found:
+From all the proofs it is obvious that the industrial complex at the site, used as a mattress manufacturing center, is special purpose in nature. In the circumstances, “the only proper appraisal approach for evaluating it was the cost approach.” [at 450, 464 A.2d 300; citations omitted]
+Defendant seeks to extract from Simmons more than it stands for. The case does not preclude use of the market value approach for large limited market property, so long as there is a reasonably active market therefor, and it does not compel the use of the cost approach to value. Dworman v. Tinton Falls, 1 N.J.Tax 445 (1980), aff’d. o.b. 190 N.J.Super. 366, 3 N.J.Tax 1, 434 A.2d 1134 (App.Div.1981), certif. den. 88 N.J. 495, 443 A.2d 709 (1981). Nor does adaptation of the industrial complex to plaintiff’s particular needs mandate a finding that this is a special purpose property. Sunshine Biscuits v. Sayreville, 4 N.J.Tax 486 (1982). On the facts of this case, as found by Judge Crabtree on sufficient credible evidence, use of the market value approach to valuation was appropriate.
+II. Shulton’s Appeal
+Plaintiff’s expert utilized 26 comparable sales in estimating the unit value of the property to be $22 a square foot, land and buildings merged. He applied this multiplier, however, to 553, 864 square feet of “saleable” space, excluding 91,198 feet of “nonsaleable” space (basement space, a six-car garage, and a maintenance garage). The trial judge accepted the $22 unit price, but applied it to the entire 645,062 square foot area. The judge determined that the expert’s exclusion of “nonsaleable space” from his computation was not supported by credible evidence. An expert's opinion may be accepted or rejected in whole or in part by a factfinder. Middlesex Cty. v. Clearwater Village, Inc., 163 N.J.Super. 166, 174, 394 A.2d 390 (App.Div.1978), certif. den. 79 N.J. 483, 401 A.2d 239 (1979); Atlantic City v. Atlantic Cty. Bd. of Tax, 2 N.J.Tax 30 (1980). A careful review of the record indicates that Judge Crabtree had a basis for accepting the $22 figure but rejecting the exclusion of portions of the square footage.
+Although plaintiff’s expert testified that the value of the excluded space was only by way of “contribution,” the record was devoid of any indication that the parties to the 26 comparable sales were influenced by any distinction between saleable and nonsaleable space. On cross-examination, plaintiff’s expert admitted he “made no deductions in any of [his] comparables for so-called nonusable area.” Accordingly, there was no “double counting” as alleged by Shulton.
+Affirmed.
