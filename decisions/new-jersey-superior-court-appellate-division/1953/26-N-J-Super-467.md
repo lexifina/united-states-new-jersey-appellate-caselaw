@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1953-06-23"
+citations: ["26 N.J. Super. 467"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["YVONNE TEGENBORG, PLAINTIFF-RESPONDENT, v. RICHARD DALE TEGENBORG, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/26/cases/0467-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 410003
+cites_cases: ["10 N. J. Super. 276", "104 A. L. R. 1", "104 A. L. R. 12", "105 N. J. Eq. 403", "109 N. J. Eq. 391", "119 Fla. 824", "161 So. 836", "4 N. J. Super. 547", "83 N. J. Eq. 239", "84 N. J. Eq. 201"]
+---
+
+# Tegenborg v. Tegenborg
+
+## Majority (Francis, J. C. C.)
+
+The opinion of the court was delivered by
+Francis, J. C. C.
+(temporarily assigned). Respondent filed a complaint in the Juvenile and Domestic Relations Court charging appellant, her husband, with willfully refusing and neglecting to support her contrary to N. J. 8. 2A :4-18(/). Specifically, the complaint charged that appellant treated her cruelly and thus forced her to leave their home, she being pregnant at the time. The court found that the evidence supported the charge, and the child having been born prior to the last hearing, he ordered support to be paid by appellant both prior to and subsequent to the birth of the child. Appellant seeks a reversal of this order, contending, among other things, that he is not the legal husband of respondent because their marriage was void ab initio.
+The evidence discloses that respondent was previously married to one Hugh P. Kirkpatrick. They separated; he seems to have remained in Texas, and she went to Florida. The record is not clear as to where the separation actually took place, but it is the fact that for some time prior to and at the time of her marriage to respondent she was living in Orlando, Florida.
+About February 14, 1953 respondent and appellant began to live together in Orlando as husband and wife. Obviously the relationship was meretricious because she was still married to Kirkpatrick.
+Apparently Kirkpatrick was in the armed forces in Texas and, according to the uncontradicted statement of respondent, prior to March 9, 1953 she received a letter from him saying that her allotment from the Government was discontinued because they had been divorced.
+Then on March 9, 1953 the parties here entered into a ceremonial marriage in Orlando. The marriage is conceded and there is no substantial proof that it was not contracted in good faith by the respondent. In fact, the judgment of divorce between her and Kirkpatrick in the 78th District Court of Wichita County, Texas, provides some support for the honesty of her intention. It recites that she “had duly entered her appearance herein for this or any subsequent term of this court by signing an instrument in writing to that effect, which is filed among the papers in this cause.” So when she heard from her former husband about their divorce, she had reason to rely upon his statement.
+In any event, a short time after the marriage, she received a copy of the Texas decree and it showed that the divorce action was tried and final judgment of divorce entered on March 30, 1953. There is no suggestion that she informed Tegenborg of this fact.
+They continued to live together as husband and wife in Florida until June 15, 1953, when they moved to New Jersey at the husband’s suggestion. And they occupied the same household here until September 27, 1952, when she left him because of his alleged cruelty and non-support. It is undisputed that they held themselves out as husband and wife from the date of the marriage continuously to the time of separation.
+In this situation we agree with the trial court that appellant and respondent are legally husband and wife. The applicable principle appears in 104 A. L. R. 12, as follows:
+“The general rule is that, if parties desire marriage and do what they can to render their union matrimonial, but one of them is under a disability, their cohabitation thus matrimonially meant, and continued after the disability is removed, will, in law, make them husband and wife from the moment that such disability no longer exists, although there are no special circumstances to indicate that the parties expressly renewed their consent or changed their mode of living after the removal of the impediment.”
+This is the law of New Jersey. Tasto v. Tasto, 4 N. J. Super. 547 (App. Div. 1949); Margulies v. Margulies, 109 N. J. Eq. 391 (Ch. 1931); Burger v. Burger, 105 N. J. Eq. 403 (Ch. 1929); Robinson v. Robinson, 84 N. J. Eq. 201 (E. & A. 1915). And it is likewise the law of Florida. In Jones v. Jones, 119 Fla. 824, 161 So. 836, 104 A. L. R. 1 (1935), the Supreme Court said:
+“In divorce matters modern civilization strongly condemns the harsh doctrine of ab initio sentences of nullity. As a consequence, marriages are considered as being either void or voidable, depending upon the circumstances involved. A marriage is considered voidable rather than void, though prohibited by law, when it is possible for the parties to subsequently ratify it when there has been removed a disabling or voiding impediment which was unknown to both parties at the time the invalid marriage was originally contracted, especially where no public policy pertaining to the situation appears to present any obstacle thereto superior to all considerations of private utility.”
+Nor does the fact that the relationship between these parties was meretricious in its origin prevent the validation of their ceremonial marriage when the impediment of the prior subsisting marriage was removed. Whatever may have been the primal motives, it is plain that their ceremonial marriage resulted from an intention to set aside the baser purposes of their cohabitation and sanctify their union by joining the fact of marriage to the already existing appearance thereof. Bey v. Bey, 83 N. J. Eq. 239, 264, 265 (Ch. 1914); De Thoran v. Attorney General, 1 App. Cases 686 (House of Lords, 1876); Campbell v. Campbell (The Breadalbane Case), 1 Law Rep. (Scotch & Divorce Appeal Cases) 182 (House of Lords, 1867).
+The appellant argues further that there was insufficient proof of violation of the statute on which the complaint is predicated to justify the support order. While the evidence as to the cause of the separation and non-support is conflicting, adequate proof was presented to justify the finding of the trial court. Our review of his conclusion has been engaged in with the admonition of the rules in mind that “due regard shall be given to the opportunity of the trial court to judge of the credibility of the witnesses” (1:2-20(a), 4:2-6), and we have discovered no justification for interfering with it. McGowan v. Peter Doelger Brewing Co., 10 N. J. Super. 276 (App. Div. 1950).
+The judgment is affirmed.
