@@ -1,0 +1,25 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1951-12-11"
+citations: ["16 N.J. Super. 573"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARGARET PTAK, PETITIONER-RESPONDENT, v. GENERAL ELECTRIC COMPANY, RESPONDENT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/16/cases/0573-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 445709
+cites_cases: ["1 N. J. Super. 13", "10 N. J. Super. 162", "10 N. J. Super. 464", "114 N. J. L. 47", "122 N. J. L. 512", "124 N. J. L. 329", "13 N. J. Misc. 558", "13 N. J. Super. 294", "13 N. J. Super. 56", "130 N. J. L. 107", "131 Conn. 572", "131 N. J. L. 163", "134 N. J. L. 524", "135 N. J. L. 470", "16 N. J. Super. 413", "41 A. 2d 451", "58 A. 2d 501", "6 N. J. 128", "6 N. J. 315", "7 N. J. 578", "8 N. J. Super. 148", "85 N. J. L. 426", "95 N. H. 100"]
+---
+
+# Ptak v. General Electric Co.
+
+## Majority (Jacobs, S. J. A. D.)
+
+The opinion of the court was delivered by
+Jacobs, S. J. A. D.
+The Workmen’s Compensation Division dismissed the petitioner’s claim at the close of her case; this was reversed by the County Court and the cause remanded for further proceedings in the division; appeal to this court was taken pursuant to leave granted under Bule 4:2-2(&).
+The testimony ón petitioner’s behalf is fully set forth in the County Court’s opinion reported in Ptak v. General Electric Co., 13 N. J. Super. 294 (1951) and needs only brief reference here. The petitioner was regularly employed by General Electric Company as a stem operator which mainly called for the use of her fingers. On November 21, 1949, she was assigned on the 3:30 to midnight shift to different work which involved the folding and making of cardboard boxes and required a bending operation. She described this work as “very fast” and testiñed that about 9 P. M. while in the act of bonding down she felt pain in the lower part of her back and “couldn’t straighten up.” She received treatment for a back injury diagnosed as a right sacroiliac sprain and there was medical testimony that it was causally related to the November 21 incident. In granting the motion to dismiss at the close of the petitioner’s case the deputy director did not determine any issue of credibility; he apparently recognized the rule applied in judicial proceedings (cf. Stone v. Dugan Brothers of N. J., 1 N. J. Super. 13, 17 (App. Div. 1948)) that the motion necessarily admitted the truth of the petitioner’s evidence and every favorable inference that might be legitimately drawn therefrom. Cauco v. Galante, 6 N. J. 128, 132 (1951); Kolberg v. Kolberg, 16 N. J. Super. 413 (App. Div. 1951). He nevertheless determined that the petitioner’s showing was “not an accident within the meaning of the Workmen’s Compensation Act but an occupational condition occurring over the course of time.” We concur in the county court’s rejection of this view.
+The petitioner’s testimony sufficiently indicated that the particular strain or exertion • of the bending operation incidental to her employment at about 9 p. m. on November 21, 1951, brought on her back injury thus satisfying the requirement of specificity expressed in Liondale Bleach Works v. Riker, 85 N. J. L. 426 (Sup. Ct. 1914). See DiMaria v. Curtiss-Wright Corp., 134 N. J. L. 524 (Sup. Ct. 1946), affirmed 135 N. J. L. 470 (E. & A. 1947). The incident was an unlooked-for mishap or untoward event which was not expected or designed and constituted an accident within the liberal intendment of the act. Hall v. Doremus, 114 N. J. L. 47, 49 (Sup. Ct. 1934). See Garofola v. Yale & Towns Mfg. Co., 131 Conn. 572, 41 A. 2d 451 (1945); Rivard v. J. F. McElwain Co., 95 N. H. 100, 58 A. 2d 501 (1948). The fact that the particular strain or exertion which brought on the injury may not have been an unusual one or that she was predisposed thereto is not ground for denial of relief. See Van Meter v. E. R. Morehouse, Inc., 13 N. J. Misc. 558, 559 (Sup. Ct. 1935); Bollinger v. Wagaraw Building Supply Co., 122 N. J. L. 512 (E. & A. 1939); Ciocca v. National Sugar Refining Co. of New Jersey, 124 N. J. L. 329 (E. & A. 1940); Cavanaugh v. Murphy Varnish Co., 130 N. J. L. 107 (Sup. Ct. 1943), affirmed 131 N. J. L. 163 (E. & A. 1944).
+In Mills v. Monte Christi Corp., 10 N. J. Super. 162, 165 (App. Div. 1950), certif. denied 6 N. J. 315 (1951), under facts not significantly dissimilar from those presented here by the petitioner, this court sustained an award of compensation and expressed the pertinent principles which it deemed controlling. We consider that within those principles the County Court’s judgment of reversal and remand in the instant matter was proper. See Fox v. Plainfield, 10 N. J. Super. 464 (App. Div. 1950); Neylon v. Ford Motor Company, 13 N. J. Super. 56 (App. Div. 1951), certif. granted 7 N. J. 578 (1951); McGranahan v. General Motors Corp., 8 N. J. Super. 148 (App. Div. 1950).
+Affirmed.
