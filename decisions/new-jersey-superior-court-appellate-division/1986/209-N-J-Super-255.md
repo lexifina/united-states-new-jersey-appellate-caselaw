@@ -1,0 +1,41 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1986-04-08"
+citations: ["209 N.J. Super. 255"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. LOUIS BATTLE, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/209/cases/0255-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 384539
+cites_cases: ["202 N.J.Super. 502", "70 N.J. 56"]
+---
+
+# State v. Battle
+
+## Majority (PRESSLER, P.J.A.D.)
+
+The opinion of the court was delivered by
+PRESSLER, P.J.A.D.
+Tried by a jury, defendant Louis Battle was convicted of a charge of second degree robbery in violation of N.J.S.A. 2C:15-1 and a charge of aggravated assault in violation of N.J.S.A. 2C:12—1(b)(1). He was sentenced to consecutive terms of ten years, each subject to a parole ineligibility period of five years.
+The charges arose out of a sidewalk purse-snatching. The victim, a small and frail woman in her sixties, testified that she was accosted by defendant, who threw her to the ground, grabbed her handbag from her arm, and fled. The victim sustained bruises and other soft tissue injuries. Defendant was indicted for the two crimes of which he was convicted.
+Defendant’s first ground of appeal challenges the separate conviction for aggravated assault. We agree that that conviction must be vacated. N.J.S.A. 2C:12-l(b)(l) defines that crime as one in which the actor
+[attempts to cause serious bodily injury to another, or causes such injury purposely or knowingly or under circumstances manifesting extreme indifference to the value of human life recklessly causes such injury. * * *
+Serious bodily injury is defined in N.J.S.A. 2C:ll-l(b) as “bodily injury which creates a substantial risk of death or which causes serious, permanent disfigurement, or protracted loss or impairment of the function of any bodily member or organ.”
+Recognizing that the injuries actually sustained by the victim did not meet the definition of serious bodily injury, the trial judge instructed the jury that it could nevertheless convict defendant of aggravated assault if it found that defendant had attempted to cause serious bodily injury. He then explained “attempt” consistently with N.J.S.A. 2C:5-l(a), which provides as follows:
+Definition of attempt. A person is guilty of an attempt to commit a crime if, acting with the kind of culpability otherwise required for commission of the crime, he:
+(1) Purposely engages in conduct which would constitute the crime if the attendant circumstances were as a reasonable person would believe them to be;
+(2) When causing a particular result is an element of the crime, does or omits to do anything with the purpose of causing such result without further conduct on his part; or
+(3) Purposely does or omits to do anything which, under the circumstances as a reasonable person would believe them to be, is an act or omission constituting a substantial step in a course of conduct planned to culminate in his commission of the crime.
+We are satisfied that although the trial judge’s understanding of the law was correct, there were no facts adduced at trial which could have warranted a finding by the jury that defendant, beyond a reasonable doubt, was guilty of an attempt to cause his victim serious bodily harm. His intent was not to cause serious bodily harm but to obtain his victim’s purse as quickly and with as little resistance as possible. In so doing, he displayed a brutish and reckless indifference to her physical safety. That indifference cannot, however, automatically be equated with the intent, plan, design or purpose which is a requisite element of an attempt to commit a crime. We point out that extreme indifference to another’s physical safety may, under N.J.S.A. 2C:12-l(b)(l), itself satisfy the definition of aggravated assault, but it does so only if serious bodily injury ensues. If the extreme indifference characterizing the assault does not result in serious bodily injury, the assault cannot be elevated to the status of an aggravated assault merely by regarding extreme indifference as an attempt to inflict serious bodily injury. These are not synonymous concepts.
+The so-called attempt here was, as a matter of this record, nothing different from extreme indifference which fortunately, however, did not result in serious bodily injury. Accordingly, the defendant’s conviction for the crime of aggravated assault must be vacated.
+Defendant did, of course, physically assault his victim in snatching her purse. But that assault, in the circumstances here, was neither a separate offense nor a lesser included offense of a separate crime of aggravated assault. It was, rather, a constituent element of the second degree robbery of which defendant was convicted. N.J.S.A. 2C:15-l(a)(l) defines a robbery as a theft during the course of which bodily injury is inflicted. Since the simple assault was therefore a necessary element of this robbery, it merged into the robbery and defendant cannot be separately convicted of it. See, e.g., State v. Pyron, 202 N.J.Super. 502, 505 (App.Div.1985), in which we held that the crime of making terroristic threats under N.J.S.A. 2C:12-3(b) is an element of and hence merges with a robbery as defined by N.J.S.A. 2C:15-l(a)(2), namely, a theft during the course of which the actor threatens another with or purposely puts his victim in fear of immediate bodily injury.
+The underlying problem here, as we see it, lies in the erroneous concept of the indictment. N.J.S.A. 2C:15-l(b) provides that if, during the course of committing a theft, the actor inflicts or attempts to inflict serious bodily injury on a victim, the robbery is a crime of the first degree. In effect, then, what the Legislature has clearly done in respect of the relationship between N.J.S.A. 2C:12-1 and 2C:15-1 is to designate a theft attended by a simple assault, as defined by N.J.S.A. 2C:12-l(a), as a second-degree robbery and a theft attended by an aggravated assault, as defined by N.J.S.A. 2C:12-l(b), as first-degree robbery. In each case the respective assault is an element of the robbery. It was therefore completely anomalous for this defendant to have been separately charged with second-degree robbery and aggravated assault since, under the circumstances, the aggravated assault, if proved, would have elevated the robbery to a first-degree crime. It is thus only first-degree robbery with which this defendant should have been charged, and that charge would have encompassed all the lesser included offenses, including second-degree robbery, theft, simple assault and aggravated assault. In our view, the failure to charge the most serious crime supported by the probable cause findings and, instead, breaking that crime out into separate charges of a multitude of lesser crimes constitutes a wholly impermissible fractionalization. See State v. Best, 70 N.J. 56, 60-63 (1976). Fortunately, however, we need not here address the validity of a conviction of the two lesser crimes since defendant was, on the facts, entitled to an acquittal of the aggravated assault charge.
+Defendant also challenges his conviction on the following grounds:
+(1) The court should have declared a mistrial after the highly prejudicial testimony of Officer Saunders.'
+(2) The search of defendant’s automobile by Officer Hildebrant was illegal and therefore the evidence seized should have been suppressed.
+(3) The in-eourt identifications of the defendant by the victim should not have been permitted as it was not the product of the victim’s independent recollection and was tainted by an impermissibly suggestive photo line-up.
+(4) The sentence imposed by the trial court is manifestly excessive and unduly punitive.
+We have considered each of these issues in the light of the record and the arguments of counsel thereon, and we are satisfied that each is clearly without merit. R. 2:ll-3(e)(2).
+The judgment of conviction of aggravated assault is reversed, and the separate consecutive sentence thereon imposed is hereby vacated. The judgment of conviction of second-degree robbery is affirmed. We remand to the trial court for entry of a modified judgment of conviction consistent with this opinion.
