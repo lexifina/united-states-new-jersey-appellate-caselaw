@@ -1,0 +1,40 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1979-01-25"
+citations: ["165 N.J. Super. 346"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY IN THE INTEREST OF: J. R., JUVENILE-APPELLANT."]
+source_url: "https://static.case.law/nj-super/165/cases/0346-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 294826
+cites_cases: ["106 U. S. App. D. C. 7", "112 N. J. Super. 368", "114 N. J. Super. 490", "12 Alaska 213", "138 A. 2d 333", "160 N. J. Super. 146", "172 F. 2d 194", "2 Mass. App. 483", "207 F. 2d 33", "226 N. C. 530", "268 F. 2d 583", "297 F. Supp. 917", "314 N. E. 2d 448", "324 F. 2d 264", "326 N. E. 2d 710", "336 U. S. 952", "347 U. S. 905", "367 Mass. 411", "39 S. E. 2d 460", "442 F. 2d 517", "57 N. J. 600", "69 S. Ct. 882", "74 S. Ct. 431", "93 L. Ed. 1107", "93 U. S. App. D. C. 64", "98 L. Ed. 1064"]
+---
+
+# State ex rel. J. R.
+
+## Majority (Conford, P. J. A. D.,)
+
+The opinion of the court was delivered by
+Conford, P. J. A. D.,
+Retired (temporarily assigned). The juvenile appeals from a finding of delinquency based on two offenses: assault with “an offensive weapon” (his dog) within N. J. 8. A. 2A:90-3, and malicious damage. He contends: (1) it was plain error as a matter of law and on the facts of record to hold that his dog was an offensive weapon within the intent of the statute; (2) there was insufficient evidence in the record to uphold the determination that he had committed malicious damage. We affirm.
+There was sufficient evidence to uphold the following findings. One afternoon Dominic Sardone took his six-year-old daughter and his German shepherd for'a walk in a park near their home. The child began riding her bicycle on the basketball court while the dog ran into the nearhy woods. After, a while three boys, one of them the juvenile, entered the park with the juvenile’s dog, Rusty. The boys and the dog sat on some bleachers about 15' to 20' away from the basketball court. •
+The child ran back to her father, telling him that she was “scared.” He put his arms around her and said she should not worry. As he did that he heard the juvenile say, “Sie’er. Sie’er.”
+, Rusty got up, ran toward Sardone and the child, showed his teeth, growled and began “stalking,” that is, walking slowly toward the two people. He stopped about 10' away from Sardone.
+Sardone called his own dog out of the woods and, never taking his eyes off Rusty, put his dog’s leash on and told his daughter to go home. As he began to leave the park, he heard the juvenile say, “sic’im, sie’im.” Rusty, who had been lying still, got up, showed his teeth, growled, snarled and came toward Sardone again. Sardone kept backing away until he and his dog were out of the park.
+The statute alleged to have been violated, N. J. 8. A. 2A:90-3, provides:
+Any person who willfully or maliciously assaults another with an offensive weapon or instrument * * * is guilty of a high misdemeanor.
+We know of no authority in this State for the contention advanced by the juvenile that in order for a weapon to come within the purview of that statute it must be designed to inflict death or bodily harm or, because of the manner in which it is used, be likely to produce death or great bodily harm.
+In State v. Drayton, 114 N. J. Super. 490 (App. Div. 1971), defendant was charged under this statute. He had pulled a gun, put it to his victim’s chest and threatened to kill him. This court held that it was not necessary for the State to prove that the gun was loaded. It was only essential to show that the ordinary victim in such circumstances would have had a well-founded fear of bodily harm or death.
+In State v. Jones, 160 N. J. Super. 146 (App. Div. 1978), we upheld a conviction for assault with an offensive weapon where the defendant used a starter’s pistol. Clearly such an instrument was neither designed to inflict harm nor was it, in any circumstances, likely to produce death or great bodily harm.
+Nor can we accept the contention that in order for an object to qualify as an offensive weapon or instrument under N. J. S. A. 2A:90—3 it must fall within the categories listed in N. J. S. A. 2A :151-5, the while-armed statute. In State v. Jones, supra, defendant claimed that he could not be found guilty of assault with an offensive weapon because the starter’s pistol he had used was not a weapon proscribed by the statute which requires permits for firearms. We found the latter circumstance irrelevant. So here, it does not matter that the weapon did not fall within the proscription of some other section.
+Many cases in other jurisdictions have found that a great variety of objects can qualify as dangerous weapons. For example, in United States v. Barter, 297 F. Supp. 917 (D. Del. 1969), rev’d in part on other grounds, 442 F. 2d 517 (3 Cir. 1971), the court found that a shoe could be an offensive weapon. It also listed a number of eases involving otherwise neutral objects:
+* * Illustrating this principle, courts have held that “shoes on feet” can be a dangerous weapon, Medlin v. United States, 93 U. S. App. D. C. 64, 207 F. 2d 33 (1953), cert. den. 347 U. S. 905, 74 S. Ct. 431, 98 L. Ed. 1064 (1954), as well as a “wine bottle,” Thornton v. United States, 106 U. S. App. D. C. 7, 268 F. 2d 583 (1959), a “rake,” Eagleston v. United States, 172 F. 2d 194, 12 Alaska 213 (C. A. 9), cert. den. 336 U. S. 952, 69 S. Ct. 882, 93 L. Ed. 1107 (1949), a “chair,” United States v. Johnson, 324 F. 2d 264 (C. A. 4, 1963), a “brick,” State v. Perry, 226 N. C. 530, 39 S. E. 2d 460 (1946), or a “chair leg,” Wisniewski v. State, 51 Del. [Storey] 84, 138 A. 2d 333, 341-342 (1957). [297 F. Supp. at 923]
+The most pertinent case is Commonwealth v. Tarrant, 2 Mass. App. 483, 314 N. E. 2d 448 (App. Ct. 1974), aff’d 367 Mass. 411, 326 N. E. 2d 710 (Sup. Jud. Ct. 1975). There defendant robbed his victim while armed with a knife and accompanied by his German shepherd dog. The dog was apparently capable of responding to defendant’s commands because he came to defendant when so ordered. 326 N. E. 2d at 712. There was no proof that the dog had growled or threatened to attack the victim. Id. at 713. The Appeals Court said:
+* * * There can be little doubt that a dog (in this case a medium sized German shepherd) used for the purpose of intimidation or attack falls within the definition. That dogs can inflict severe injuries is recognized in our law * * *. It is common knowledge that dogs can be instructed to attack persons on command, thus being used as instruments of harm * •*. [314 N. E. 2d at 451]
+The Massachusetts Supreme Judicial Court agreed that the dog could be considered a dangerous weapon in the circumstances. It held:
+* * * the issue, where a neutral object is involved, turns on whether the instrumentality under the control of the perpetrator has the apparent ability to inflict harm, whether the victim reasonably so perceived it, and whether the perpetrator by use of the instrumentality intended to elicit fear in order to further the robbery. [326 N. E. 2d at 715]
+We agree with the reasoning of that case and affirm the trial judge’s holding that under the present facts the juvenile’s dog was an offensive weapon. We also hold that there is sufficient credible evidence in the record to uphold the finding that the juvenile committed an assault with that weapon. The judge properly found that he unlawfully directed force toward another person under circumstances which created a well-founded fear of imminent peril and that there was an apparent ability to consummate the attempt. State v. Drayton, supra, 114 N. J. Super. at 493; State v. Still, 112 N. J. Super. 368, 370 (App. Div. 1970), certif. den. 57 N. J. 600 (1971).
+There was also more than enough evidence to find that the juvenile had thrown a beer bottle through the window of one of his neighbors. The malicious damage finding must therefore also be affirmed.
+Affirmed.
