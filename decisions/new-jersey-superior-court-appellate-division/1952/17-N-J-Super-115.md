@@ -1,0 +1,26 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1952-01-04"
+citations: ["17 N.J. Super. 115"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RICHARD K. HOAGLAND, PLAINTIFF-APPELLANT, v. ELIZABETH C. HOAGLAND, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/17/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 427702
+---
+
+# Hoagland v. Hoagland
+
+## Majority (William J. Beennan, Je., J. A. D.)
+
+The opinion of the court was delivered by
+William J. Beennan, Je., J. A. D.
+Plaintiff’s payments admittedly fell short by $362.05 of the aggregate due to June 1,1951, under a final judgment entered in the Chancery Division on January 31, 1950, which dismissed plaintiff’s complaint lor divorce, sustained defendant’s counterclaim for separate maintenance, and ordered plaintiff to pay defendant $60 “each and every week” for the support of herself and the parties’ two minor children. He was adjudged guilty of contempt by an order entered June 29, 1951, from which he appeals.
+Plaintiff attempts to justify the non-payment on the ground that the children spent nine weeks and one-third of a day with him over the period, for which he deducted $20 per week per child from the $60 lump sum payment for each full week and proportionately for the one-third of a day, contending that the judgment did not require him to pay defendant for the children’s support for such times as they stayed with him. 'His contention is founded upon the provision of the final judgment that “care and custody” “remain as heretofore,” which, he argues, continues in effect certain provisions of a consent order filed February 11, 1947, pending final judgment. That consent order dealt with the custody and support of the two children only and fixed $10 per week as the amount to be paid by plaintiff for the support of each child. It also provided that the payments were to be made only when the children were in ihe wife’s custody.
+We find no error in the conviction. The final judgment does not carry over the support provisions of the consent order in any particular. Only the provisions of that order as to the parents’ respective custody rights are continued. The provisions specifying the payments to be made for the children’s support when they were with the wife are completely supplanted in the final judgment by the unqualified requirement for a weekly lump sum payment of $60 to cover not the children’s support alone but the wife’s support also. Moreover, plaintiff’s act of arrogating to himself the determination of the amounts into which the lump sum is divisible, if at all, between support for the wife and support for the children will not be condoned. It was and is his duty to obey the judgment according to its letter until on proper application it is modified or annulled.
+Plaintiff! also refused to .supply funds for orthodontia for the child Constance recommended, according to defendant’s affidavit, by a Maryland dentist. Plaintiff filed the affidavits of three dentists practicing in New Jersey who stated that they had examined Constance’s teeth and were of the opinion that orthodontia was neither desirable nor necessary. Assuming that a provision of the final judgment that plaintiff pay “medical expense * * * as heretofore” required plaintiff to pay the cost of orthodontia, the question for decision was whether plaintiff’s refusal to do so constituted a contempt in light of these opposing proofs. The trial court did not announce a finding as to either guilt or innocence of the contempt charged but included a provision in the order on appeal directing that Constance be examined at plaintiff’s expense by a dentist selected and named by the court and who was to report his recommendation to the court. To that extent the order must be reversed. The order implies a finding that the alleged contempt was not proved, and in that circumstance plaintiff was entitled to judgment declaring his innocence of it.
+Plaintiff raises in this court an issue of the jurisdiction of the trial judge to make the order on appeal. The contention is that Rules 3 :40-l and 3:103-2, as implemented by Special Rule 7 and an order of the Chief Justice made March 28, 1951, required that matrimonial matters arising in Middlesex County be brought before Advisory Master Tomasulo. The‘issue plainly is not one of jurisdiction, but of venue. Plaintiff appeared before the trial judge in response to the notice to adjudge him in contempt, securing a continuance of the hearing to enable him to file answering affidavits, participated in the proceeding on the adjourned day, and first raised the question of alleged jurisdiction by letter to the trial judge sent after the close of the hearing. Clearly, plaintiff waived any objection available to him that the trial judge should not have heard and determined the question.
+The order allowed defendant’s attorney a counsel fee of $250. We are of the opinion that the allowance of a fee in excess of $150 cannot be supported on the record before us.
+Reversed as to the order appointing a dentist; modified to reduce to $150 the counsel fee allowed defendant; and in all other respects affirmed.
