@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1952-02-27"
+citations: ["18 N.J. Super. 149"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES CARONIA, PLAINTIFF-APPELLANT, v. POLICE AND FIRE PENSION COMMISSION OF ORANGE, DEFENDANT-RESPONDENT"]
+source_url: "https://static.case.law/nj-super/18/cases/0149-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 448225
+cites_cases: ["123 N. J. L. 266", "130 N. J. L. 226", "132 N. J. L. 440", "133 N. J. L. 314", "145 N. W. 1010", "70 N. E. 2d 455"]
+---
+
+# Caronia v. Police & Fire Pension Commission
+
+## Majority (Bigelow, J. A. D.)
+
+The opinion of the court was delivered by
+Bigelow, J. A. D.
+Caronia, a chanceman of the Police Department of the City of Orange, applied to the Police and Fire Pension Fund Commission of the city for retirement on a pension and his application was denied. Thereupon he instituted this action in the Law Division to require the commission to grant his petition. From a judgment dismissing his complaint, he appeals. The controlling statute is that which was effective concerning Caronia’s rights when he made application to the commission, and which remains effective. Laden v. Daly, 132 N. J. L. 440 (Sup. Ct. 1945), affirmed 133 N. J. L. 314 (E. & A. 1945). The statute is R. S. 43:16-1, etc., as revised by L. 1944, c. 253, and further amended by L. 1947, c. 234. It provides that any active member of the police department who has served honorably for a period of 25 years and reached the age of 51 years, shall, on his application, be retired on a pension.
+It is settled that a chanceman is a regular member of the Orange Police Department. Albert v. Caldwell, 123 N. J. L. 266 (E. & A. 1939). The statute, section 17, defines “member” so as to include one who, on July 1, 1944, was a member of a municipal police department, and who has contributed to the pension fund established under this statute and “shall hereafter contribute to said fund.” Some years ago, deductions were made from appellant’s salary and paid into the fund pursuant to section 5, but since the enactment of the 1944 statute, he has not contributed to the fund. He is not, however, to be deprived of a pension on account of this failure. Contributions to the fund are made by means of deductions from the policeman’s pay. The duty of withholding rests on the city treasurer, or similar officer, and not upon the policeman. Gerendasy v. Police, etc., Com., 130 N. J. L. 226 (Sup. Ct. 1943).
+The city contends that Caronia has not been an active member of the force for the necessary period, in that some years he was called for duty on only a few days; other years he was not called at all and therefore performed no police service; that he has had other regular employment, including at one time work as a laborer for the Orange Public Works Department. The ordinance that governs the Orange Police Department provides that chancemen “shall be at all times subject to police duty * * * and shall receive pay only when on duty.” “They may engage in any business or occupation compatible with immediate police service when required.”
+Appellant testified that despite the outside work he has done since his appointment as a chanceman, there has never been a time when he was not in a position to take a police call if it came. There is no evidence to the contrary. Section 17 of the statute defines an “active member” as “any 'member’ who is a policeman * * * and who is subject to call for active service or duty as such.” Appellant during the whole time he has been a chanceman, has been an active member of the police department within the meaning of the pension act.
+Caronia was first appointed a chaneeman November 12, 1924. On December 29, 1925, he was “tried'on charges oí intoxication while on duty, conduct unbecoming an officer and gentleman. Found guilty by Commissioner W. F. Kearney; dismissed from the force.” The record shows that seven months later, August 17, 1926, ho was “Keinstated, chaneeman.” In the fall of 1938, the Director of Public Safety issued an order that, “effective October 1, 1938, the services of members of the Chance Force, or Chancemen, will be dispensed with.” By judgment of the Supreme Court on certiorari, the order was annulled and on appeal the judgment was affirmed. Albert v. Caldwell, supra. Clearly, the attempted disbandment of the chance force did not, in legal contemplation, interrupt Caronia’s service in the police department. On October 10, 1950, having reached the age of 51 years, he made his application for retirement on a pension. If only the period subsequent to his reinstatement, or second appointment, be counted, he had not served 25 years and his application for retirement wras premature. But if his service prior to his dismissal December 29, be also taken into account, he had served more than the necessary 25 years. The statute does not state that the 25 years of service must be continuous or uninterrupted. In the absence of such a provision, the statute will not be construed to require that the period of service be continuous. State v. Love, 145 N. W. 1010 (Neb. Sup. Ct. 1914); State v. Schneider, 70 N. E. 2d 455 (Ohio Sup. Ct. 1946).
+Caronia is entitled to his pension but only upon paying into the pension fund such sums as should have been deducted from his pay, with simple interest.
+The judgment is reversed.
