@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1977-03-23"
+citations: ["148 N.J. Super. 290"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DESIGN-4, A MICHIGAN CORPORATION, PLAINTIFF-RESPONDENT, v. MASEN MOUNTAINSIDE INN, INC., A NEW JERSEY CORPORATION; CARL MASEN (A/K/A MAESEKENTHIN) AND SELMA MASEN (A/K/A MAESEKENTHIN), DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/148/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 867775
+cites_cases: ["128 N. J. L. 407", "29 N. J. 63", "48 N. J. 140", "7 N. J. 118", "91 N. J. Super. 546", "92 N. J. Super. 143"]
+---
+
+# Design-4 v. Masen Mountainside Inn, Inc.
+
+## Majority (Crane, J. A. D.)
+
+The opinion of the court was delivered by
+Crane, J. A. D.
+Defendants appeal from the entry of judgment against them in the amount of $16,030 plus costs in an action brought by plaintiff on an oral contract for the design of an addition to a motel. The essence of the defense was that plaintiff was barred from bringing the suit because it was engaged in the illegal practice of architecture, in violation of N. J. S. A. 45:3-10. In an oral opinion rendered after a trial without a jury, the trial judge found that an oral agreement was reached between the parties for the design and preparation of plans and specifications for an addition to defendants’ motel, that defendants paid $4000 on account of the services rendered, and that the contract was cancelled for financial reasons by Mr. Masen acting for defendants. The judge also found that plaintiff had fully performed its services in accordance with the agreement until defendants’ cancellation. The judge ultimately concluded, relying on Magasiny v. Precision Specialties, Inc., 91 N. J. Super. 546 (App. Div. 1966), that even if the services rendered by plaintiff were architectural in nature, the penalty of forfeiture would not be justified because of the competence of plaintiff’s employees and the fact that the services of a licensed engineer who would review and seal the plans were available.
+Plaintiff filed a cross-appeal but has submitted no argument in its brief in support of the appeal; consequently it is deemed abandoned.
+We have carefully reviewed the record and are satisfied, as the trial judge assumed, that the services contemplated by the agreement were architectural. The practice of architecture has been defined by the New Jersey State Board, of Architects in N. J. A. C. 13:27-2.2 as follows:
+(a) The practice of architecture is defined as the professional activities of the registered architect. This includes analysis, calculations, research, graphic presentation, literary expression, and advice concerning and the preparation of necessary documents for the design and construction of buildings and their related environment, with the primary purpose of providing space for human use whether interior or exterior, permanent or temporary, including, but not limited to building and/or structures for social, political and economic service ; in fulfilling domestic, religious, educational, recreational, institutional, memorial, financial, commercial, industrial and governmental needs and the like.
+(b) To safeguard life, health and property and to promote the public welfare, the practice of architecture in this State shall be confined to those individuals so registered.
+We are equally satisfied that the trial judge erred in his conclusion that the violation of N. J. S. A. 45:3—10 would not prevent plaintiff from obtaining a recovery for its services. The situation is controlled by Gionti v. Crown Motor Freight Co., 128 N. J. L. 407 (E. & A. 1942), in which it was held that a licensed engineer and surveyor who was not licensed as an architect was not entitled to recover on a contract for the performance of architectural services consisting of the preparation of plans and specifications for the proposed erection of a garage and office building. The court viewed such a contract as against public policy and hence it was declared an illegal and void contract which the court would not support. Similar rulings have been made with respect to the unlicensed practice of other regulated professions. Tanenbaum v. Sylvan Builders, Inc., 29 N. J. 63 (1959); Stack v. P. B. Garage, Inc., 7 N. J. 118 (1951).
+In Magasiny v. Precision Specialties, Inc., supra, on which the trial judge relied, the question of whether the services to be rendered were of a character to require a professional engineering license was in doubt because of the insufficiency of the record. The court held that the granting of summary judgment was inappropriate and remanded the cause to the trial court with the suggestion that the testimony of representativos of the State Board of Professional Engineers and Land Surveyors be presented. In spite of the dictum in Magasiny that some cases “may present a situation so borderline or unfair that the defense of illegality will not be permitted,” we are not; at liberty to depart from the clear holding of Gionti v. Crown Motor Freight Co., supra.
+Appellants further contend that the trial judge erred in dismissing their counterclaim in which they sought to recover the $4000 paid by them to plaintiff. The judge found that defendants were aware of the fact that plaintiff was not licensed to practice architecture and that they had solicited plaintiff’s advice and services. We see no reason to disturb that finding. Generally the law will not assist either party to an illegal contract: the law leaves the parties where it finds them. Marx v. Jaffe, 92 N. J. Super. 143 (App. Div. 1966), certif. den. 48 N. J. 140 (1966). Suffice it to say that we find no equitable reason why an exception should be made to the general rule on the basis of the facts in this case.
+In view of our conclusions, it will not be necessary for us to consider defendants’ remaining contentions.
+The judgment in favor of plaintiff is reversed. The dismissal of defendants’ counterclaim is affirmed.
