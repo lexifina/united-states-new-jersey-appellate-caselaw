@@ -1,0 +1,26 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1949-04-14"
+citations: ["3 N.J. Super. 122"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NICOLA CATELLI, ADMINISTRATOR OE THE ESTATE OF GUISEPPE CATELLI, PETITIONER-RESPONDENT, v. BAYONNE ASSOCIATES, INC., AND LIBERTY MUTUAL INSURANCE CO., RESPONDENTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/3/cases/0122-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 366064
+cites_cases: ["131 N. J. L. 450", "133 N. J. L. 475"]
+---
+
+# Catelli v. Bayonne Associates, Inc.
+
+## Majority (Colie, J. A. D.)
+
+The opinion of the court was delivered by
+Colie, J. A. D.
+This appeal brings up a judgment of the Hudson County Court affirming an award by the Workmen’s Compensation Bureau of compensation for 300 weeks at $20 per week for the benefit of Teresa Catelli as a total dependent of decedent. The questions to be decided are: Was Teresa Catelli, decedent’s mother, an actual dependent? If so, was she a total or a partial dependent? If a partial dependent, to what extent?
+The facts are as follows: Guiseppe Catelli, while employed by Bayonne Associates, Inc., at a weekly wage of $70, sustained an accident on July 8, 1942, arising out of and in the course of his employment which resulted in death on July 11, 1942. Decedent’s sister testified that decedent sent .sums varying from 1,000 to 5,000 lire from 1933 until the break between Italy and the United States in 1941. The last receipt of money was in September, 1941. A son, Nicola Catelli, sent the mother 500 lire on Easter and Christmas each year. The mother contracted a debt to her brother of 45,000' lire. The mother’s testimony was that she had been a widow for the past ten years and beginning in 1925 received money from decedent almost every month, usually about 7,000 lire. This continued until war broke off communications. The last amount received was 4,000 lire. Usually the amounts varied between 1,000 and 5,000 lire. On July 8, 1942, the mother was unemployed and lived with her daughter who contributed food to her. On that date she received 400 lire a month from the government and 200 lire a month from the Comune of Campobasso. The mother’s rent was’ 200 lire a month which she paid by collecting greens from the fields and selling them. She spent about 150 lire a month for food.
+R. S. 34:15-13 (g) so far as pertinent reads: “The term ‘dependents’ shall apply to and include any or all of the following who are dependent upon the deceased at the time of accident or death, namely: * * * parents * * *. The foregoing schedule (referring to the schedule of percentages for computing compensation, varying according to the number of dependents) applies only to persons wholly dependent, and in the case of persons only partially dependent * * * the compensation shall be such proportion of the scheduled percentage as the amounts actually contributed to them by the deceased for their support constituted of his total wages * * *."
+The phrase “who are dependent upon the deceased” has been construed to mean those who were being wholly'or to a substantial degree supported by the deceased at the time-of his death. Wilken v. Shein’s Express Co., 131 N. J. L. 450 (Sup. Ct. 1944). In Wathne v. Midland Construction, etc., Co., 125 Id. 473 (Sup. Ct. 1940), it was held that the language “at the time of accident or death * * * was meant to direct that the number and identity of dependents should be determined as of the date of the accident where death arose out of the accident.” It is argued that the proofs do not support a finding of actual dependency since the mother was earning 200 lire each month and receiving 600 lire monthly from the government and the comune. We think that the proofs should be amplified by showing (1) the nature of the payments to the mother by the Italian government and the comune, whether such payments were in the nature of gratuities or on the theory of dependency upon her son Michele who was in the army and had not been heard from since 1942. (2) The monthly cost of supporting the mother for the necessary items of food, clothing, shelter, etc. See Rolnick v. Industrial Engineers, 133 N. J. L. 475 (Sup. Ct. 1945); affirmed, o. b., 135 Id. 201 (E. & A. 1946). (3) The value of the food contributions to the mother from her daughter computed on a monthly basis. (4) The value of the lire in terms of our currency as of July 8, 1942. (5) The state of the mother’s eyesight. (6) For what purposes .and over what period the mother contracted the alleged indebtedness of 45,000 lire. All of these facts have a bearing upon the extent of the mother’s dependency and without further evidence it is impossible to determine that question.
+We find no merit in the suggestion that dependency cannot be found because prior to the date of the accident war had been declared and remittances could no longer be forwarded to Italy. The benefits of this remedial statute are not to be denied by reason of the intervention of a war, a fact beyond the control of any individual involved in this case.
+The judgment is reversed and the cause remanded for further proceedings in accordance with this opinion.
