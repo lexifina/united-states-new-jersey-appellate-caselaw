@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1951-05-25"
+citations: ["14 N.J. Super. 66"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["NEW JERSEY STATE BOARD OF OPTOMETRISTS, PLAINTIFF-APPELLANT, v. M. H. HARRIS, INC., DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/14/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 716692
+cites_cases: ["3 N. J. Super. 332", "5 N. J. 412"]
+---
+
+# New Jersey State Board of Optometrists v. M. H. Harris, Inc.
+
+## Majority (Proctor, J. S. 0.)
+
+The opinion of the court was delivered by
+Proctor, J. S. 0.
+Plaintiff' appeals from an order, entered in the Essex County District Court, vacating a judgment of conviction of the defendant for violating a provision of the Optometry Act, L. 1948, c. 350, p. 1405, § 4(7?,) (B. 8. 45:12—ll'(70, N. J. 8. A.).
+On June 30, 1950, the trial court found the defendant guilty of violating the above provision in that the defendant “did display its name in lettering larger than four inches in height at its street level office.”
+Defendant immediately moved to vacate the judgment, which motion was continued until after the pending appeal of Abelson's, Inc., v. N. J. State Board of Optometrists, 3 N. J. Super. 332 (Ch. Div. 1949) was decided by the Supreme Court. After the Supreme Court rendered its decision (Abelson's, Inc., v. N. J. State Board of Optometrists, 5 N. J. 412 (1950)), the trial court vacated the judgment for the reason that L. 1948, c. 350, p. 1405, § 4(h) (R. S. 45 :12-11(h), N. J. S. A.), as construed by the Supreme Court, would not permit a finding of guilt on the evidence adduced. The trial court concluded that the plaintiff did not prove that the lettering of defendant’s name, although larger than four inches in height, was false, fraudulent or misleading advertising. Plaintiff contends that this was error.
+L. 1948, c. 350, p. 1405, § 4=(h) (B. S. 45:12-ll(7t), N. J. S. A.) forbids:
+‘"h. False, fraudulent or misleading advertising of the practico of optometry or of any art, skill, knowledge, method of treatment or practice pertaining thereto; provided, however, that nothing herein contained shall be construed to prohibit any person licensed under the provisions of this chapter to issue appointment cards to his patients, when the information thereon is limited to matter pertaining to the time and place of appointment and that permitted on the professional card, or to display the name of the licensee on the premises where he is engaged in the practice of his profession upon the windows or doors thereof and by doorplates, or name or office directory when the information is limited to that of the professional card; but the name and title of the licensee and the other information used shall not be displayed in lettering larger than four inches in height for street-level offices ......
+The Supreme Court in the Abelson's, Inc., case, supra, in construing the above provision to be constitutional, stated at page 422:
+‘‘It is said that there is no relationship between the body of the subsection of the statute, and the proviso; that a transgression of the restrictions of the proviso would not constitute ‘false, fraudulent, or misleading advertisingand that, the statute does not embody a norm or standard to guide the administrative authority ‘in deriding what is false, fraudulent or misleading as these words are used and then enlarged by the act itself,’ and is ‘so vague and indefinite’ as to constitute a delegation of legislative power.
+The phrase ‘false, fraudulent, or misleading advertising’ constitutes a standard of conduct sufficiently definite and certain to permit of enforcement by the administrative agency without trenching upon the legislative domain. Generally, it embraces advertising that is intentionally false, deceitful or delusive or calculated to lead astray or to cause error. There can be no difficulty in classifying conduct in relation to this standard. That category does not embrace advertising that is entirely devoid of these elements; it does not serve to bar all advertising, however truthful, merely because advertising in itself is not deemed good professional practice. While the question is essentially one of intention, viewing the statute as a whole, the, office of a proviso is ‘to limit and restrict the operation of the enacting clause,’ and not to enlarge it. It is often used merely to insure against possible misunderstanding of the enacting clause. New Jersey State Hoard of Optometrists v. S. S. Kresge (Jo., supra. A penal provision is to be strictly construed. * * *” (Italics ours).
+The Supreme Court has clearly stated that it is not the function of the proviso in the section of the act in question to enlarge the enacting clause. That section forbids “false, fraudulent or misleading advertising.” Advertising does not come within that category unless it contains one of the above elements. Abelson's, Inc., v. N. J. State Board of Optometrists, supra. In the present case, there is no suggestion that the lettering was false, fraudulent or misleading.
+Plaintiff argues that the clause, “* * * but the name and title of the licensee and the other information used shall not he displayed in lettering larger than four inches * * is an entirely new clause having nothing whatsoever to do with the proviso and that it was under this clause the defendant was found guilty. We do not agree. The phrase, “and the other information used,” mentioned above, is without meaning unless it is considered in connection with the language in the section immediately preceding the word, “but,” which language plaintiff concedes to be merely explanatory of the enacting clause. Moreover, the Supreme Court, in its analysis of the section, construed the clause regarding the height of lettering as part of the proviso. Abelson's, Inc., v. N. J. State Board of Optometrists, supra, at 422, 423.
+We conclude that the defendant was not guilty of ■false, fraudulent and misleading advertising and that the order, vacating the previous conviction of defendant, should he affirmed.
