@@ -1,0 +1,61 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1960-01-11"
+citations: ["59 N.J. Super. 57"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SOFTEXTURE YARNS, INC., PLAINTIFF-APPELLANT, v. BOARD OF REVIEW, DIVISION OF EMPLOYMENT SECURITY, DEPARTMENT OF LABOR AND INDUSTRY OF THE STATE OF NEW JERSEY, AND ROBERT BLAKELY, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/59/cases/0057-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 419144
+cites_cases: ["100 Atl. (2d) 277", "13 N. J. 447"]
+---
+
+# Softexture Yarns, Inc. v. Board of Review
+
+## Majority (Gaulkin, J. A. D.)
+
+The opinion of the court was delivered by
+Gaulkin, J. A. D.
+Robert Blakely was discharged by his employer, Softexture Yarns, Inc., on January 15, 1959. He filed a claim for unemployment benefits under B. 8. 43:21-1 et seq. It was disallowed, upon the determination by a deputy that his discharge was “for misconduct connected with [his] work.” Upon a “redetermination” by another deputy, the same result was reached.
+Blakely then appealed to the Appeal Tribunal of the Division of Employment Security of the Department of Labor and Industry. A hearing was had upon that appeal on March 6, 1959, at which there appeared (according to the transcript) “Robert Blakely, Claimant; James Ware, Witness; John Hemby, Witness; Edward J. Epstein, Manager; Waddell Moore, Union Shop Steward.” The Appeal Tribunal affirmed. In its opinion it said:
+“The claimant’s conduct in telling fellow workers how much to produce and in threatening to call a strike at the employer’s establishment was conduct evincing a willing disregard of the employer’s interests, such as is ‘misconduct connected with the work.’ He is therefore subject to disqualification under section 5(6) of the statute. * * *”
+Blakely then appealed to the Board of Review. At the hearing of that appeal only two people appeared — Blakely, and Allen Brooks, assistant plant superintendent of Softexture Tarns, Inc. Neither Blakely nor Softexture was represented by counsel. A member of the Board of Review first interrogated Blakely. Then Mr. Brooks was sworn, and the following ensued (emphasis ours) :
+“Q. You have heard the testimony of Mr. Blakely and you say it is inconsistent with facts you personally know. A. And personally have been presented before the Board before.
+Q. Not before the Board. A. In the previous appeal.
+Q. In what respect do you challenge Mr. Blakely’s testimony? Let me say this: I don’t suppose you knoio of your own knowledge all of the facts? A. I was there the day that he was discharged.
+Q. You may have been there the day he was discharged, but he was given considerable testimony as to what happened in the basement, so you will confine your testimony to what you personally know.”
+Brooks therefore gave only brief testimony, confined to the one incident of which he had some personal knowledge.
+On April 23 the Board of Review mailed its decision to the parties. In it the Board said:
+“* * * The representative of the employer present at the hearing [Brooks] before the Board could give no direct testimony. His statements were purely hearsay.
+The decisions of the appellate bodies must rest upon competent legal evidence. There is nothing in the records of the Division of which we can take official notice and nothing in the sworn testimony before the Appeal Tribunal and the Board of Review which supports a finding that the claimant was discharged because of actual misconduct connected with his work. The claimant’s denial of the alleged acts of misconduct appears to us to be credible. The claimant is not disqualified under R. S. 43:21-5(6). He met the statutory requirements with respect to eligibility for benefits from January 21, 1959 through April 15, 1959.”
+However, it must be noted that not all of the testimony taken before the Appeal Tribunal was before the Board of Review. It had been recorded on “soundscriber discs,” and the stenographer who attempted to transcribe those discs reported that he was unable to make out a great deal of what had been said. The transcript is full of omissions, explained by the stenographer with comments such as “The background noise of the surrounding office activity is interfering greatly with the clarity of this recording” * * * “indistinct” * * * “It is still difficult to catch every word clearly because of the background jumble of voices which is interfering with this recording” * * * “indistinct * * * everyone speaking simultaneously” * * * “everyone now arguing simultaneously, completely unintelligible” * * * “A garbled discussion ensues; nothing intelligible. * * *”
+Upon receipt of the opinion Softexture retained counsel who, on April 29, 1959, wrote the Board of Review as follows:
+“* * *'* A review of this case would indicate that there are facts that were not before you. With the thought that this is not an ordinary case of interests of individuals, but rather one of public concern with public funds involved, and that you would want to have a complete case with all facts available, and the proof thereof, we are respectfully requesting a Rehearing of this appeal. Our request is based on the following:
+1. The Board of Review should have a complete record of facts that will contribute to a correct result. (See Krauss v. A [&] M. Karagheusian, Inc., 13 N. J. 447, 100 Atl. (2d) 277 . . .).
+2. The employer labored under the misapprehension that the records of prior testimony in lower tribunals would be before the Board of Review and mistakenly believed further proof by witnesses was not necessary.
+3. Numerous witnesses are available to testify to facts which the employer believes substantiates its position that claimant is not entitled to benefits.
+It is respectfully urged that your Board grant a rehearing of this case. If so granted, necessary witnesses will be brought to testify.
+The Board of Review denied a rehearing. Softexture then appealed to this court.
+A rehearing should have been granted. The decision of the Board of Review will be set aside and the case remanded to it for a hearing de novo, at which all parties shall be afforded the right to produce such witnesses and introduce such evidence as may be pertinent to the issues, following which the Board of Review shall decide the case anew.
+Pursuant to N. J. S. A. 43:31-6(f), the Board of Review has prescribed rules governing the procedure before it and before the appeal tribunals. Bule BB-4.01 provides that “The conduct of hearings and procedures before the Board of Review shall be in the manner prescribed for the appeal tribunals.”
+Undoubtedly because in most cases the parties before it are not represented by counsel, rule BB-3.02 provides, in part, that:
+“Where a party is not represented by counsel, the tribunal shall give him every assistance that does not interfere with the impartial discharge of its official duties. * * *
+An appeal tribunal may take such additional evidence as it deems necessary. * * ®”
+Bule BB-3.03 provides, in part (emphasis ours) :
+“(a) The chairman of an appeal tribunal shall use his best judgment as to when adjournments of hearings shall be granted in order to secure all facts that are necessary and to he fair to the parties.”
+Bule BB-4.03 provides:
+“(a) All appeals to the Board of Review may be heard upon the evidence in the record made before the appeal tribunal; or the Board of Review may direct the taking of additional evidence before it.
+* * * If, in the discretion of the Board of Review, additional evidence is necessary to enable it to determine the appeal, the parties shall be notified by the Clerk of the Board of Review of the time and place such evidence shall be taken.”
+It is to be noted also that rule BR-5.03(b) provides:
+“Appearances for and on behalf of interested parties other than the Division at formal hearings before the appeal tribunals and the Board of Review shall be limited to accredited members of the New Jersey Bar.”
+There is nothing in the rules, or in the form of notice of the hearing of the appeal sent to the parties by the Board, about the exclusion of hearsay, or warning them to bring all of their witnesses, with proper evidence, or suggesting that it might be wise to employ a lawyer, or that any technical knowledge is required to present their cases. On the contrary, the “Notice of Hearing” sent by the Board says, “You may be represented by an attorney if you so desire.”
+The Board of Review knew that witnesses had appeared before the Appeal Tribunal whose testimony had convinced it that claimant was disqualified. In the light of the poor “soundscriber discs,” caution, as well as polite regard for the reasoning of the Appeal Tribunal, should have indicated to the Board of Review the desirability of at least inviting the parties to produce the witnesses heard by the Appeal Tribunal, before reversing it.
+After Softexture had prevailed before two deputies, and before the Appeal Tribunal, it is not surprising that it assumed before the Board of Review that it could rest upon the evidence previously presented. The notice of hearing did not warn the parties, as seems to be required by rule BR-4.03, that the case would not “be heard upon the evidence in the record made before the Appeal Tribunal.” It is apparent that Softexture did (as its counsel said in the application for rehearing) labor “under the misapprehension that the records of prior testimony in lower tribunals would be before the Board of Review and mistakenly believed further proof by witnesses was not necessary.”
+Under all of the foregoing circumstances, when the Board of Review saw at the hearing before it that Softexture had not come prepared to give the Board its side of the story, and heard from Brooks that Softexture relied upon the testimony given before the Appeal Tribunal, the Board should have adjourned the matter, and advised Softexture to come back with what was required. Not having done so, the Board should have honored the request for a rehearing, especially since that request was made within the ten days fixed by rule BR-4.02.
+In Krauss v. A. & M. Karagheusian, 13 N. J. 447, at pages 456, 457 (1953) the court said (emphasis ours) :
+“Tlie contest of a claim before the agency is not, therefore, an adversary proceeding in the usual sense. The statutory scheme commits the administration of the eligibility and disqualification provisions to the Division of Employment Security, which is clothed with broad investigatory powers and the power of subpoena to enable its personnel charged with original and appellate determinations to get the facts necessary to a proper decision in each case.
+Plainly the statute casts upon the agency, as respects both original and appellate determinations, the role actively to press the interested parties to produce all relevant proofs at their command and, when necessary, independently to take steps to get the facts, as, for example, when the record made by the parties is unsatisfactory or there is fair reason to doubt the reliability of the proofs as a basis for decision or the agency in any case has reason to believe that additional facts obtained and made part of the record on its own initiative will contribute to a correct result.”
+Softexture seems to argue that, under the Krauss case, where “the Board of Beview * * * has information before it indicating that a claimant was dismissed from his employment because of his misconduct,” it is the responsibility of the Board not only “to press the interested parties to produce all relevant proofs” but to make an independent investigation, and itself “obtain all legal evidence available before making a determination regarding unemployment benefits for such an employee.” Certainly that is not always so. We need not decide in this case when, if ever, it is so in a case of disqualification for misconduct. Suffice it to say that under the facts of the case at bar there is now no obligation upon the Board of Review to do any more than to provide the rehearing described above.
+Reversed, and remanded for proceedings not inconsistent with this opinion. No costs.
