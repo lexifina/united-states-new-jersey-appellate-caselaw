@@ -1,0 +1,35 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1988-11-04"
+citations: ["228 N.J. Super. 517"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. JOHN CUCCURULLO, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/228/cases/0517-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 289455
+cites_cases: ["269 U.S. 385", "41 N.J. 569", "94 N.J. 85", "95 N.J. 582"]
+---
+
+# State v. Cuccurullo
+
+## Majority (BRODY, J.A.D.)
+
+The opinion of the court was delivered by
+BRODY, J.A.D.
+Judge Wichmann convicted defendant of driving a motor vehicle during a period when his driver’s license was suspended (DWS). N.J.S.A. 39:3-40. The judge imposed a $1,000 fine, a suspension of defendant’s driver’s license for an enhanced period of two years, and a county jail term for an enhanced period of 45 days. Defendant contends that the judge erred in ruling that the DWS statute subjects him to enhanced penalties. The parties consented to a stay of the sentence pending this appeal. We now affirm.
+Defendant has been convicted of DWS many times. The DWS statute subjects him as a multiple offender to ordinary penalties of a $1,000 fine, suspension of his driver’s license for a period not to exceed six months, and imprisonment in the county jail for not more than 10 days. N.J.S.A. 39:3-40c and d. The judge ruled that the statute’s enhanced penalties provision applies because the present offense occurred two months after defendant’s license had been ordered suspended for a six-month period for violating N.J.S.A. 39:4-50, which prohibits operating a motor vehicle while under the influence of intoxicating liquor (DWI).
+The enhanced penalties provision of the DWS statute reads as follows:
+Notwithstanding subsections a. through e., any person violating this section while under suspension issued pursuant to R.S. 39:4-50, upon conviction, shall be fined $500.00[], shall have his license to operate a motor vehicle suspended for an additional period of not less than one year nor more than two years, and may be imprisoned in the county jail for not more than 90 days. [N.J.S.A 39:3-40.]
+Although the present offense occurred only two months after the six-month DWI suspension had been imposed, the DWI suspension period had not yet begun because of the following provision of the DWI statute:
+If the driving privilege of any person is under revocation or suspension for a violation of any provision of this Title at the time of any conviction for a violation of this section, the revocation or suspension period imposed shall commence as of the date of termination of the existing revocation or suspension period. [N.J.S.A. 39:4-50(a).]
+When convicted of DWI, defendant’s driver’s license was still suspended as a result of previous motor vehicle violations. Those suspension periods were not scheduled to terminate until sometime after defendant committed the present offense. Defendant contends that the enhanced penalties provision of the DWS statute does not apply because when he committed the present offense, his DWI suspension period had not begun and therefore he was not a “person ... under suspension issued pursuant to R.S. 39:4-50.” N.J.S.A. 39:3-40. We disagree.
+A person is “under suspension” from the time that the suspension is imposed even though the period of suspension may not begin until later. Dictionary definitions of the word “under” include “bound by.” Webster’s Third New International Dictionary (G. & C. Merriam Company, 1966). Webster’s offers as an example of that definition, “under a contract to deliver.”
+Just as a person is “under” or “bound by” a contract to deliver before the time of delivery, a person is “under” or “bound by” a sentence of suspension from the time it is imposed even if it begins at a later date. Similarly, a defendant sentenced to a prison term is “under” that sentence from the time it is imposed even if the judge permits him to surrender at a later date. Also, a defendant sentenced to prison for a term consecutive to a term to be served at the Adult Diagnostic and Treatment Center, see State v. Chapman, 95 N.J. 582, 592 (1984), is “under” the sentence to prison while serving the ADTC term.
+Defendant contends that the Legislature did not intend that a person receiving a DWI driver’s license suspension be subject to the enhanced penalties of the DWS statute for a period longer than the DWI period of suspension. He argues from that premise that his exposure to enhanced penalties may not begin before the DWI suspension period begins. We reject the premise. There is no evidence of such legislative intent in the language of the DWI or DWS statute, nor would such intent be consistent with the legislative policies those statutes advance.
+The suspension provisions in question serve distinct functions. The N.J.S.A. 39:4-50 (DWI) provision that a DWI suspension “shall commence as of the date of termination of [any] existing revocation or suspension period” assures that a DWI suspension period will be fully served. It prevents a judge from shortening the period by ordering it to run concurrently with an existing suspension period. The DWI statute is not concerned with the penalty for violating a DWI suspension. That concern is met in the N.J.S.A. 39:3-40 (DWS) provision that any person operating a motor vehicle “while under suspension issued pursuant to” the DWI statute is subject to enhanced penalties. The purpose of that DWS provision is to discourage a person from driving from the moment his DWI license suspension is imposed until after he has served the DWI suspension. Defendant mistakenly applies the language of the DWI statute to determine when the DWS statute’s enhanced penalties may be imposed.
+Were defendant’s argument accepted, the more unserved suspension time a driver has accumulated before his DWI suspension is imposed, the longer thereafter he could continue to drive before being subject to the DWS statute’s enhanced penalties. We may not attribute to the Legislature an intent to produce such an absurd result. Marranca v. Harbo, 41 N.J. 569, 574 (1964).
+We reject defendant’s final argument that the DWS statute is unconstitutionally vague. “A law is void as a matter of due process if it is so vague that persons ‘of common intelligence must necessarily guess at its meaning and differ as to its application.’ ” Town Tobacconist v. Kimmelman, 94 N.J. 85, 118 (1983), quoting Connally v. General Constr. Co., 269 U.S. 385, 391, 46 S.Ct. 126, 127, 70 L.Ed. 322, 328 (1926). As we have previously demonstrated, defendant’s confusion is not caused by vagueness of the DWS statute but by his unwarranted recourse to DWI statutory language to misconstrue the plain meaning of the DWS statute.
+Affirmed.
+Defendant does not claim that the extended $500 fine supersedes the ordinary $1,000 fine that the DWS statute requires be imposed upon a multiple offender. N.J.S.A. 39:3-40c.
