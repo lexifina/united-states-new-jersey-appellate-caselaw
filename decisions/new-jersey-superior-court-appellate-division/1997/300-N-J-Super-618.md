@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1997-05-20"
+citations: ["300 N.J. Super. 618", "693 A.2d 556"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JULIE STARADUMSKY, PLAINTIFF-RESPONDENT, v. STEPHEN ROMANOWSKI, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/300/cases/0618-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 384484
+cites_cases: ["140 N.J. 120", "275 N.J.Super. 530"]
+---
+
+# Staradumsky v. Romanowski
+
+## Majority (VILLANUEVA, J.A.D. (retired and temporarily assigned on recall).)
+
+The opinion of the court was delivered by
+VILLANUEVA, J.A.D. (retired and temporarily assigned on recall).
+Defendant father appeals from a Family Part order granting plaintiff mother’s application to change the first, middle and last name of a child bom to the couple. The order permitted plaintiff to change the name of their three-year-old child from Stefan Francis Joseph Romanowski to Christian Francis Staradumsky. We affirm except to modify to change the child’s middle name so that the child’s name is Christian Stefan Staradumsky.
+The child had been bom to the parties, who were not married. While they were still together, they agreed to have the child baptized as Stefan Francis Joseph Romanowski. Stefan is a Slovak version of defendant’s first name (Stephen); Francis was the name of plaintiffs grandfather; and Joseph was the name of defendant’s grandfather. The parties initially wished to have the child bear his father’s last name. The parties separated, but defendant continued to have visitation rights. An order was entered granting joint legal custody with physical custody granted to plaintiff and defendant having visitation rights three weekends a month.
+Plaintiff claimed that at the hospital, after the child was bom, defendant threatened her that if she did not name the child Stefan Romanowski, he would use all his power to take the child away from her. Plaintiff gave in to defendant’s demand out of fear. At the time, she was on medical leave from her job and defendant was contributing money for her support. Defendant denied ever threatening plaintiff. He claimed that they discussed the baby’s name and ultimately reached a compromise.
+Plaintiff decided she did not like the name Stefan and started calling the boy Christian, which had been her first choice for the child’s name. When the child was with plaintiff’s family, he was called Christian; when he was with defendant’s family, he was called Stefan. Plaintiff eventually determined that she wanted to legally change the child’s name to Christian Francis Staradumsky, not only because she preferred the name Christian, but she wanted to share her last name with the child. Plaintiff also felt that the child did not need two middle names. Of course, the net effect of this proposed change was to completely erase any connection between the father or his family and the child’s name. Plaintiff states, however, that this was not her intent.
+The trial judge determined that under his interpretation of Gubernat v. Deremer, 140 N.J. 120, 657 A.2d 856 (1995), the custodial parent had the right to change all the names. In Gubemat, the Supreme Court established a presumption in favor of the surname chosen by the custodial parent. It did not, however, speak of the given names, nor did it consider the change in names after the parties had expressed an agreement, and, as in this case, confirmed the agreement in the names given at the child’s baptism. The Supreme Court did, however, enumerate a number of factors, regarding the best interests of the child which the court must consider:
+Those factors include the length of time that the child has used one surname, the identification of the child as a member or part of a family unit, the potential anxiety, embarrassment, or discomfort the child might experience if the child bears a surname different from the custodial parent, and any preferences the child might express, assuming the child possesses sufficient maturity to express a relevant preference.
+[Id. at 141-42, 657 A.2d 856 (citing M.D. v. A.S.L., 275 N.J.Super. 530, 535, 646 A.2d 543 (Ch.Div.1994)).]
+The trial judge did not consider all of these factors, and especially the identification of the child as a member of both family units.
+The trial judge granted the plaintiffs application based on the strong presumption that the parent with physical custody is acting in the child’s best interests when it selects a name for the child. The same presumption that the name the custodial parent selects is the one that is in the child’s best interests applies whether it is the first name or surname name. The court found no evidence presented by the father to rebut this presumption.
+The judge exercised discretion with respect to the middle name and continued the use of Francis. However, we see no reason why the child’s middle name should not include the father’s surname (or a name related to his family) if that is his desire, provided he had maintained a proper parental relationship. As the court stated in M.D. v. A.S.L., 275 N.J.Super. 530, 536, 646 A.2d 543 (Ch.Div.1994), “[a]nything that can reinforce the bonds between the child and her individual parents is to be encouraged, provided that the focus is through the eyes and needs of the child.”
+The change of the child’s last name is justified for the reasons given by plaintiff. The change of the child’s first name was justified since it is plaintiff, rather than defendant, who has the principal custody of the child. However, to preserve some of the father’s heritage, the child should be able to keep as a middle name the first name originally agreed upon by the parties. This is a fair solution. There would then be a basis for defendant’s family to continue to call the child Stefan, which would now be the boy’s middle name, and yet plaintiff would retain her desire for the first and last names. The trial judge went too far in completely erasing all identification with the boy’s father or family. The deletion of the two grandfathers’ names as the boy’s middle names would fall equally on both families.
+We exercise our original jurisdiction, R. 2:10-5, and modify the order to change the child’s name to Christian Stefan Staradumsky and remand to the trial court for an order accordingly.
