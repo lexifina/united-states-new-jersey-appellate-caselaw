@@ -1,0 +1,41 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1994-01-05"
+citations: ["269 N.J. Super. 458", "635 A.2d 1002"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["D.C., PLAINTIFF-RESPONDENT, v. T.H., DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/269/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 614296
+cites_cases: ["111 N.J. 562", "222 N.J.Super. 191", "241 N.J.Super. 567", "258 N.J.Super. 157", "536 A.2d 319", "546 A.2d 493"]
+---
+
+# D.C. v. T.H.
+
+## Majority (MICHELS, P.J.A.D.)
+
+The opinion of the court was delivered by
+MICHELS, P.J.A.D.
+Defendant T.H. appeals from a final restraining order of the Chancery Division, Family Part entered in this action instituted by plaintiff D.C. pursuant to the Prevention of Domestic Violence Act of 1991, N.J.S.A 2C:25-17 et seq.
+The incident that gave rise to this action occurred at the Macedeonia Day Care Center in Trenton, New Jersey, where plaintiff worked and her child attended. Defendant, who is a Trenton police officer and the natural father of the child, went to the day care center to see the child and to pay the child’s day care tuition. Defendant apparently was concerned with the child’s well-being because he had heard that plaintiffs boyfriend had been disciplining the child by removing her clothing and beating her. While defendant was either sitting near or talking to the child at the day care center, plaintiff appeared and demanded that defendant leave. According to plaintiff, she told defendant to leave the child alone and let her eat, and defendant responded, “Me leave her alone? Tell R. [plaintiffs boyfriend] to leave her alone because I kick his ass if he pull her pants down and beat her again. And I kick your ass too.” Defendant testified, however, that when plaintiff told him to leave he said, “Well, I’ll leave, but you tell R. that if he pull my daughter’s pants down again, I’m going to put my foot up his butt.” He denied making any threatening remarks towards plaintiff, and his testimony was substantially corroborated by his sister, who was present and worked at the day care center.
+Approximately two weeks after the incident, plaintiff instituted this action pursuant to N.J.S.A 20:25-28 of the Domestic Violence Act. She complained that defendant had made terroristic threats and had endangered her life, health and well-being by threatening to do bodily harm to her in front of the children at the day care center. She further claimed that defendant had used foul and abusive language and had made harassing phone calls to her. Plaintiff sought a restraint against future acts of domestic violence, future contacts at her residence and place of employment, including phone calls, and future harassing communications to her.
+At the conclusion of the testimony, the trial court specifically found that defendant did not commit acts of terroristic threats and did not threaten to do bodily harm to plaintiff. The trial court also found that defendant’s telephone calls to plaintiff were not harassing. Equally as important, the trial court did not make any finding that defendant made the complained of statement for the purpose of harassing the victim. Despite these findings, however, the trial court found that defendant had committed an act of domestic violence by harassing plaintiff. The trial court, in part, reasoned:
+In part, she may have brought it on herself and in part perhaps not, part of the situation. But this was a harassing incident of domestic violence. I do not find that these threats were terroristic threats. I merely find that the mother of your child, Mr. H[J, was harassed at the job. I don’t find the telephone calls to be harassing.
+I also didn’t find, I can’t find from these facts, that you threatened to do bodily harm to her. That’s something—I heard both sides. I don’t know where the truth lies. But I do find that even if you just said loudly that you were going to put your foot up his butt, that that is foul and that is abusive language, and it is directed to her. You’re asking her, in effect, to be a conduit or a communicator to R[.], and that’s inappropriate, particularly in front of the children, particularly in a day care center. But it’s inappropriate at any time to her, in the circumstance that you find yourself in with her.
+Defendant appeals.
+Defendant seeks a reversal of the order, contending that the trial court erred in finding that his conduct constituted harassment within the meaning of the Domestic Violence Act. We agree and reverse.
+N.J.S A 2C:25-19 of the Domestic Violence Act defines “domestic violence” as
+the occurrence of one or more of the following acts inflicted upon a person protected under this act by an adult or an emancipated minor:
+N.J.S.A. 20:83-4, governing harassment, reads as follows:
+Except as provided in subsection d., a person commits a petty disorderly persons offense if, with purpose to harass another, he:
+a. Makes, or causes to be made, a communication or communications anonymously or at extremely inconvenient hours, or in offensively coarse language, or any other manner likely to cause annoyance or alarm;
+b. Subjects another to striking, kicking, shoving, or other offensive touching, or threatens to do so; or
+c. Engages in any other course of alarming conduct or of repeatedly committed acts with purpose to alarm or seriously annoy such other person.
+A communication under subsection a. may be deemed to have been made either at the place where it originated or at the place where it was received.
+d. A person commits a crime of the fourth degree if in committing an offense under this section, he acted, at least in part, with ill will, hatred or bias toward, and with a purpose to intimidate, an individual or group of individuals because of race, color, religion, sexual orientation or ethnicity.
+We are satisfied from our review of the record in light of the explicit language of the Domestic Violence Act and the legislative purpose thereof, as stated in N.J.S.A 20:25-18, that the proofs do not justify a finding that defendant’s conduct in this case constituted domestic violence within the meaning and intendment of N.J.S.A. 20:33-4. First, the trial court did not make the finding required to find defendant guilty of harassment under N.J.S.A. 2C:33-4a that defendant made the statement concerning plaintiffs boyfriend’s allegedly inappropriate discipline of his child for the purpose of harassing plaintiff. The proofs would not support such a finding in any event. Rather, defendant’s evident purpose in making the statement was to dissuade plaintiff’s boyfriend from inflicting further corporal punishment upon his child. Certainly defendant, as the natural father of the child, had a right to express disapproval of plaintiffs boyfriend’s allegedly inappropriate manner of punishing the child. Although defendant might have chosen different words, his conduct did not rise to the level of harassment. Second, the proofs do not establish or even suggest that defendant was engaged in a course of alarming conduct or repeatedly committed any acts with the purpose to alarm or seriously annoy plaintiff in order to be found guilty of harassment under N.J.S.A 2C:33-4c.
+In our view, the proofs were insufficient to warrant a finding that defendant’s conduct constituted harassment and therefore constituted domestic violence within the meaning of the Domestic Violence Act. See E.K. v. G.K, 241 N.J.Super. 567, 570, 575 A.2d 883 (App.Div.1990); Grant v. Wright, 222 N.J.Super. 191, 196, 536 A.2d 319 (App.Div.), certif. denied, 111 N.J. 562, 546 A.2d 493 (1988). Consequently, we hold that the trial court erred in finding good cause to believe that plaintiff’s life and health had been and are endangered by defendant’s conduct.
+Accordingly, the final restraining order under review is reversed and the restraints contained therein are dissolved.
+The initials have been used to protect the privacy of the parties, especially their child. See N.J.S.A. 2C:25-33; Pepe v. Pepe, 258 N.J.Super. 157, 165, 609 A.2d 127 (Ch.Div. 1992).
