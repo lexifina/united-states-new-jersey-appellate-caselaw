@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1990-04-19"
+citations: ["240 N.J. Super. 525", "573 A.2d 951"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WALSH TRUCKING COMPANY, PLAINTIFF-APPELLANT, v. HACKENSACK MEADOWLANDS DISTRICT CONSTRUCTION BOARD OF APPEALS, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/240/cases/0525-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 363566
+cites_cases: ["108 A.2d 598", "16 N.J. 329", "196 N.J.Super. 304", "27 N.J.Super. 240", "482 A.2d 208", "99 A.2d 214"]
+---
+
+# Walsh Trucking Co. v. Hackensack Meadowlands District Construction Board of Appeals
+
+## Majority (BRODY, J.A.D.)
+
+The opinion of the court was delivered by
+BRODY, J.A.D.
+These two consolidated appeals arise from a decision by the Hackensack Meadowlands District Construction Board of Appeals (Board) affirming a joint administrative order issued by the Construction Official of the Township of North Bergen and the Deputy Chief Engineer for the Hackensack Meadowlands Development Commission (Commission). The order directs plaintiff to augment the sprinkler system in a commercial building it leases in North Bergen. Plaintiff contended in its appeal to the Board that the existing sprinkler system is adequate and fully complies with all applicable building codes.
+Plaintiff appealed the Board’s adverse decision to the Law Division in an action in lieu of prerogative writs. The Law Division ruled that the Board was a state agency and therefore transferred the matter to this court to be heard under our authority to review the final decision of a state administrative agency. R. 2:2-3(a)(2). Plaintiff appeals from the order of transfer and from the Board’s determination. We are satisfied that the Board is a local and not a state administrative agency and therefore we must transfer the matter back to the Law Division.
+North Bergen is one of the 14 municipalities in Bergen and Hudson Counties in which the Hackensack Meadowlands District (District) lies. The legislative purpose in creating the District was to provide for the orderly and environmentally sound reclamation and development of the meadowlands of the lower Hackensack River basin. N.J.S.A. 13:17-1. The Legislature established the Commission as “a political subdivision of the State,” N.J.S.A. 13:17-5(a), to manage the affairs of the District, N.J.S.A. 13:17-6.
+Responding to a different concern, the Legislature provided for the use of up-to-date uniform construction codes throughout the State with the enactment of the State Uniform Construction Code Act (Act), N.J.S.A. 52:27D-119 et seq. The Act established an administrative process for the local enforcement of state-wide codes. Thus every municipality is authorized to appoint construction and subcode officials to enforce applicable uniform codes of construction within the municipality. N.J.S.A. 52:27D-126. Appeals from decisions of local construction officials are taken to either municipal or county construction boards of appeals. N.J.S.A. 52:27D-127. Two or more municipalities, not necessarily in the same county, may combine “to appoint a construction official and subcode officials [and] such combined municipalities may establish a joint construction board of appeals.” N.J.S.A. 52:27D-127a.
+Pursuant to N.J.S.A. 13:17-8, the Commission, in conjunction with the Hackensack Meadowlands Municipal Committee, which consists of the mayors of the 14 municipalities in the District, promulgated regulations that establish procedures for accommodating the mutual interests of the municipalities and the Commission in the enforcement of uniform construction codes within the District. Thus, pursuant to N.J.A.C. 19:6-3.2, the Commission recognizes the enforcement authority of municipal construction and subcode officials subject to approval of “all construction engineering plans and all building, plumbing, electrical fire protection plans, specifications and details” by the Commission’s Office of the Chief Engineer (OCE).
+Pertinent to the issue at hand, N.J.A.C. 19:6-3.7 established defendant Hackensack Meadowlands District Construction Board of Appeals to hear appeals from decisions of the OCE and local construction and subcode officials within the District. One member of the five-member Board is nominated by the Committee of mayors, two by the Commission, one by the Meadowlands Code Enforcement Officials Association, and the fifth by the New Jersey Society of Professional Engineers.
+Our jurisdiction includes appeals taken “to review final decisions or actions of any state administrative agency or officer____” R. 2:2-3(a)(2). In Bell v. Tp. of Bass River, 196 N.J.Super. 304, 310, 482 A.2d 208 (Law Div.1984), Judge Haines held that the Burlington County Construction Board of Appeals is not a state administrative agency and hence an appeal from its final decision is properly brought in the Law Division in an action in lieu of prerogative writs. He correctly viewed a county board as having “only local jurisdiction,” relying on Baldwin Construction Co. v. Essex Cty. Bd. of Taxation, 27 N.J.Super. 240, 99 A.2d 214 (App.Div.1953), aff'd 16 N.J. 329, 108 A.2d 598 (1954).
+Defendant Board is the District’s counterpart to county and joint municipal construction boards of appeals. Although the Board may hear appeals that originate in more than a single county, its jurisdiction is limited to appeals that originate only in those portions of the 14 municipalities in Bergen and Hudson Counties that comprise the District. We find no basis for considering the Board a state administrative agency.
+The matter is transferred to the Law Division and plaintiff's appeal to us is dismissed.
+We need not and do not decide whether the Hackensack Meadowlands Development Commission is a state administrative agency whose decisions and actions are directly reviewable in this court.
