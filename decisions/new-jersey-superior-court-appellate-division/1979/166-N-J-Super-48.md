@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1979-02-06"
+citations: ["166 N.J. Super. 48"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HILTON INTERNATIONAL CO., INC., D/B/A CARIBE HILTON HOTEL, PLAINTIFF-RESPONDENT, AND SAN JUAN HOTEL CORPORATION, PLAINTIFF, v. JACK SILVERMAN, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/166/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 932371
+cites_cases: ["26 N. J. 501", "284 N. E. 2d 602", "327 U. S. 220", "328 U. S. 876", "362 Mass. 132", "47 N. J. Super. 521", "61 N. J. 480", "66 S. Ct. 975", "90 L. Ed. 1645"]
+---
+
+# Hilton International Co. v. Silverman
+
+## Majority (Milmed, J. A. D.)
+
+The opinion of the court was delivered by
+Milmed, J. A. D.
+Defendant, Jack Silverman, appeals from a summary judgment for $6,800, with interest and costs, entered against him and in favor of plaintiff Hilton International Co., Inc., d/b/a Caribe Hilton Hotel (Hilton).
+The essential facts may briefly be summarized. Plaintiffs sued defendant seeking to recover from him moneys due on judgments which they had obtained against him in Puertoi Rico. Hilton’s judgment, recovered in the Superior Court of Puerto Rico, San Juan Section, was for $5,000 and the judgment in favor iof plaintiff San Juan Hotel Corporation (San Juan), recovered in the District Court of Puerto Rico, San Juan Section, was for $2,000, plus costs. Silverman interposed a general denial and, in separate defenses, claimed, among other things, that he was not in Puerto Rico on July 19 and 20, 1968 and did not sign any of the documents attached to the complaint.
+Plaintiffs jointly moved for summary judgment, each for the amount of its Puerto Rico judgment, with interest. By affidavit in opposition, Silverman maintained in part that he is not indebted in any amount to either plaintiff; that neither he nor his wife ever borrowed any money from either of the hotels; that the signature “Jack Silverman” on various documents attached to the complaint was not his signature; that the only notice he ever received from Puerto Rico was a complaint in the action by Hilton in which defendant therein was “listed” as a resident of Missouri; that he answered that complaint; that he did not receive any notice of motion for judgment or notice of trial from the court in Puerto Rico, and that he did not receive any notice of entry of the Puerto Rico judgments. After hearing, the joint motion for summary judgment was denied. It appears that an appeal from the denial was not sought. Instead, a little over a year later, plaintiffs again jointly moved for summary judgment relying on the same affidavit which they submitted in support of their first motion. Silverman’s opposing affidavit was substantially the same as that submitted on the earlier motion. Another judge heard the second joint motion of the two plaintiffs. He granted Hilton’s application, ordered the entry of judgment in its favor and against Silverman for $6,800, with interest and costs, and denied San Juan’s application.
+On this appeal, defendant contends: that the trial court’s denial of Hilton’s first application for summary judgment barred its consideration of the second application for the same relief; that he (Silverman) should have been allowed to attack in this State the validity of Hilton’s Puerto Eico judgment, and that the trial judge erred in allowing Hilton interest of $1,800 on that judgment.
+We reverse. A summary judgment for Hilton was, in the circumstances, inappropriate. R. 4:46-2. Silverman’s opposing affidavit reveals a genuine issue of fact, viz., whether, in Hilton’s suit in Puerto Eico, he was served with any notice of motion for judgment or notice of trial or of entry of judgment. In short, an obvious issue requiring resolution is whether Silverman, after filing an answer in the action commenced by Hilton in Puerto Eico, was given notice of the subsequent proceedings in that action, which gave rise to the entry of the Puerto Eico judgment against him, sufficient to satisfy the reasonable notice demand of the due process clause. See Griffin v. Griffin, 327 U. S. 220, 66 S. Ct. 556, 90 L. Ed. 635 (1946), reh. den. 328 U. S. 876, 66 S. Ct. 975, 90 L. Ed. 1645 (1946) ; Zelek v. Brosseau, 47 N. J. Super. 521, 527 (App. Div. 1957), aff’d 26 N. J. 501 (1958) ; Kesler v. Pritchard, 362 Mass. 132, 284 N. E. 2d 602 (Sup. Jud. Ct. 1972). As Chief Justice Stone pointed out in his opinion for the court in Griffin v. Griffin, supra:
+A judgment obtained in violation of procedural due process is not entitled to full faith and credit when sued upon in another jurisdiction. * * * Moreover, due process requires that no other jurisdiction shall give eflect, even as a matter of comity, to a judgment elsewhere acquired without due process. [327 U. S. at 228-229, 66 S. Ct. at 560, 90 L. Ed. at 640]
+On the record, before us, defendant should have been allowed to pursue his attack against the validity of the Puerto Rico judgment as having been obtained in violation of procedural due process. Clearly, it was error to preclude him from doing so. James v. Francesco, 61 N. J. 480, 485 (1972).
+The summary judgment under review is'reversed and the cause is remanded for trial. In view of our determination, we find no need to comment on the remaining issues raised by defendant.
+Referred to in the order directing the entry of judgment as “Hilton International Oo., d/b/a Caribe Hilton Hotel.”
+In a second count of the complaint, later withdrawn, Hilton sought recovery of the $5,000 from Silverman alleging that it operated a gambling establishment in its hotel in San Juan, Puerto Rico; that on or about July 19 and 20, 196S, Silverman had borrowed from it, and had not repaid, the sum of $4,000; and that Silverman’s ^undertaking provided that in the event legal action was necessary, he would pay, as attorneys fees, 25% of the obligation sued upon.
