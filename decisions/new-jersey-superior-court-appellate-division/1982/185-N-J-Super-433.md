@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1982-06-22"
+citations: ["185 N.J. Super. 433"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOSEPH RYBSKI, PETITIONER-APPELLEE, v. JOHNS-MAN-VILLE PRODUCTS CORP., A CORPORATION, RESPONDENT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/185/cases/0433-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 887066
+cites_cases: ["87 N.J.L. 36"]
+---
+
+# Rybski v. Johns-Manville Products Corp.
+
+## Majority (PRESSLER, J. A. D.)
+
+The opinion of the court was delivered by
+PRESSLER, J. A. D.
+This is a workers’ compensation case. Respondent JohnsManville Products Corp. appeals from an award of 5% of partial total permanent disability made to its employee, petitioner Joseph Rybski. The basis of the award was the conclusion of the judge of compensation that that award represented the extent, as of August 21, 1979, of petitioner’s disability resultant from asbestosis.
+The issue here raised implicates the comprehensive revision of the Workers’ Compensation Act effected by L.1979, c. 283, and more particularly the amendment of N.J.S.A. 34:15-36 defining disability in terms of an impairment “based upon demonstrable objective medical evidence.” The objective medical evidence here offered demonstrated that petitioner indeed had pulmonary asbestosis attributable to his long-term employment by respondent. That evidence, as found by the judge, consisted of proof that petitioner had sustained structural lung changes. There was no objective medical evidence, however, that petitioner’s lung function had been impaired by these structural changes. To the contrary, as also found by the judge, medical tests performed to measure breathing function were relatively normal. Nevertheless, there was subjective evidence of impairment consisting of petitioner’s testimony, fully credited by the judge, of undue coughing and shortness of breath. The judge was further satisfied that these subjective symptoms constituted a manifestation of the objectively demonstrated asbestosis. The judge further regarded this subjective evidence of impairment as a sufficient basis for a disability finding, having concluded that the amendment of N.J.S.A. 34:15-36 was not retroactively applicable in respect of a petition such as this which was filed prior to the effective date of the amendment and was based on manifestations of an occupational disease appearing prior to that effective date. We are persuaded that this conclusion was correct.
+We are satisfied that the effect of the pertinent amendment of N.J.S.A. 34:15-36 was not to change the basic definition of disability but only to specify and limit the nature of the proof required to demonstrate its existence. Thus, even before the amendment, disability was equatable with impairment of a physical function. See, e.g,, Burbage v. Lee, 87 N.J.L. 36, 38 (Sup.Ct.1915). The import of the amendment is not, therefore, the defining of disability as impairment — that has always been the case — but rather the insistence upon objective medical evidence to establish impairment. Thus, as we understand it, the difference is that prior to the effective date of the amendment, impairment could be proved by way of subjective complaints resultant from a medically proved underlying condition. Impairment after the effective date must be proved by objective medical evidence both of the underlying condition and of the disabling consequences thereof.
+Here, the existence of the underlying asbestosis was medically proved. Shortness of breath resultant therefrom is a disabling consequence of that disease. That disability was proved by subjective evidence. For the foregoing reasons we are persuaded that these proofs were adequate to sustain the award if the pre-amendment version of N.J.S.A. 34:15-36 controls but not adequate, as respondent claims, if the amended version controls.
+In concurring with the judge’s conclusion that the amendment does not apply retroactively here, we rely on L.1979, c. 283, § 19, codified as a note to N.J.S.A. 34:15-7, as amended, and providing in full as follows:
+The provisions of this amendatory and supplementary act shall apply to accidents and occupational disease exposures which occur on or after January 1, 1980 and shall not be applied retroactively to accidents or occupational diseases occurring prior to January 1, 1980 except to cases where claim is made for an occupational disease characterized by latent manifestation as set forth in R.S. 34:15-34.
+The claim petition here was filed on June 27, 1979 and alleges disability resultant from occupational exposure which was continuous since 1956. The injury is defined in the petition as “pulmonary and asbestosis.” The pretrial memorandum, moreover, states an examination of petitioner by his expert witness on August 21, 1979, by which date the manifestations of the disease were already clearly apparent. Thus, by the express terms of § 19, the amendatory act is not applicable here for two reasons. First, the occupational disease exposures on which this petition was based occurred prior to January 1, 1980, and the amendatory act does not apply retroactively to such exposures. Second, the final clause of § 19, by the nature of its reference to N.J.S.A. 34:15-34, is not eonstruable as excepting from the rule of nonretroactivity those occupation disease exposures resulting in symptomatology patently manifested prior to January 1,1980, and on the basis of which claim petitions were filed prior to that date.
+Affirmed.
