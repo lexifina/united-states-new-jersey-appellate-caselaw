@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1995-11-21"
+citations: ["285 N.J. Super. 365", "666 A.2d 1386"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. MARK BICKHAM, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/285/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 748687
+cites_cases: ["114 N.J. 169", "114 N.J. 181", "151 N.J.Super. 138", "279 A.2d 675", "364 U.S. 206", "376 A.2d 596", "403 U.S. 443", "524 Pa. 373", "553 A.2d 326", "553 A.2d 332", "58 N.J. 586"]
+---
+
+# State v. Bickham
+
+## Majority (BAIME, J.A.D.)
+
+The opinion of the court was delivered by
+BAIME, J.A.D.
+Following the denial of his motion to suppress evidence, defendant pled guilty to third degree possession of marijuana with intent to distribute (N.J.S.A. 2C:35-5a(1) and 5b(11)) and was sentenced to a term of four years. The plea resulted in the revocation of defendant’s probation on a more serious prior conviction for possession of a large quantity of cocaine with intent to distribute (N.J.S.A. 24:21-19a(1)). Although defendant had previously been sentenced to thirteen and one-half years on that conviction, the sentence had been modified to permit his entry into a drag treatment program. Upon the revocation of defendant’s probation, the Law Division reinstated the thirteen and one-half year sentence imposed previously. This appeal followed.
+Defendant, whose guilt is plain, first contends that the incriminating evidence against him should have been suppressed because the police inadvertently executed the search warrant some thirty-nine minutes earlier than authorized by the issuing judge. The warrant authorized a search of the described apartment between 10:00 a.m. and 10:00 p.m. The warrant was executed at 9:21 a.m. We are satisfied that this technical violation did not infringe upon defendant’s privacy rights.
+Application of the exclusionary rule must be anchored to the reason for its creation. The evil sought to be ended was insolence in office. The purpose of excluding illegally seized evidence was to “ ‘compel respect for the constitutional guaranty in the only effectively available way — by removing the incentive to disregard it.’ ” Coolidge v. New Hampshire, 403 U.S. 443, 488, 91 S.Ct. 2022, 2049, 29 L.Ed.2d 564, 595 (1971) (quoting Elkins v. United States, 364 U.S. 206, 217, 80 S.Ct. 1437, 1444, 4 L.Ed.2d 1669, 1677 (1960)). The exclusionary rule was thus fashioned to deter police misconduct, not to rectify past wrongs done to defendants. Ibid. Accordingly, not every technical error requires the exclusion of incriminating evidence. See State v. Bisaccia, 58 N.J. 586, 279 A.2d 675 (1971). It bears repeating that the conflict involved in applying the exclusionary rule is not between the State and the individual, but rather between competing rights of the citizen — the right to be protected against criminal attack and the sundry rights encompassed in the Fourth Amendment. Id. at 590, 279 A.2d 675. As Chief Justice Weintraub observed almost twenty-five years ago, “[w]hen the truth is suppressed and the criminal is set free, the pain of suppression is felt, not by the inanimate State or by some penitent police [officer], but by the offender’s next victims for whose protection we hold office.” Ibid.
+Against this backdrop, we are in complete accord with the Law Division’s conclusion that there was no basis to suppress the evidence found in the apartment or on defendant’s person. Here, the issuing judge and the executing police officers sought to abide by the Constitution. The place searched was undeniably the place described in the warrant. Nor did the deviation from the time set in the warrant for its execution taint the justice of the search. There is no question that probable cause existed at 9:21 a.m. no less than at 10:00 a.m. Cf. State v. Carangelo, 151 N.J.Super. 138, 376 A.2d 596 (Law Div.1977). In addition, there is not a hint of evidence that the police sought to harass defendant or that they harbored some undisclosed forbidden motive.
+To indiscriminately apply the exclusionary rule to such a minor and technical error would debase the judicial process and breed contempt for the deterrent thrust of the criminal law. Although we do not endorse the police officers’ inattention to the strict letter of the warrant, we will not magnify their trivial mistake by finding constitutional error. See Commonwealth v. Young, 524 Pa. 373, 572 A.2d 1217, 1224 (1990) (holding that police execution of a search warrant at 4:50 a.m. in violation of a state rule requiring warrants to be executed between 6:00 a.m. and 10:00 p.m. was “technical violation” that did not justify exclusion of the evidence seized during the search).
+We also find no merit in defendant’s argument that the sentence imposed on his prior conviction was excessive. Contrary to defendant’s claim, the Law Division judge did not use the revocation of probation as an aggravating factor. Instead, the judge found that defendant’s lawlessness diminished the mitigating factors found to exist when he was originally granted probation. See State v. Baylass, 114 N.J. 169, 553 A.2d 326 (1989); State v. Molina, 114 N.J. 181, 553 A.2d 332 (1989). This was entirely proper.
+Affirmed.
