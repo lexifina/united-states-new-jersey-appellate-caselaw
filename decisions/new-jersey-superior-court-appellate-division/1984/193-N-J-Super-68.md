@@ -1,0 +1,26 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1984-02-01"
+citations: ["193 N.J. Super. 68"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LESLIE W. MERKER, JR., EXECUTOR OF THE ESTATE OF OLIVE A. MERKER, DECEASED, PLAINTIFF-RESPONDENT, v. DIVISION OF MEDICAL ASSISTANCE AND HEALTH SERVICES, DEPARTMENT OF HUMAN SERVICES, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/193/cases/0068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 901048
+cites_cases: ["165 N.J.Super. 122", "171 N.J.Super. 588", "42 U.S.C.A. § 1396", "448 U.S. 297"]
+---
+
+# Merker v. Division of Medical Assistance & Health Services
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Pursuant to N.J.S.A. 30:4D 7.8, plaintiff challenged the validity of a lien imposed by defendant Division of Medical Assistance and Health Services for Medicaid payments correctly paid to decedent Olive Merker after she attained age 65. From summary judgment in plaintiff’s favor, defendant appeals.
+The plain wording of N.J.S.A. 30:4D - 7.2a bars defendant’s lien because decedent, who died on June 23, 1982, was survived by a child, in fact eight children all over age 21. Defendant nevertheless argues that “surviving child” in N.J.S.A. 30:4D-7.-2a should be read as “surviving child under age 21” in the light of the legislative and administrative history; and that the trial court’s broader construction of “surviving child” would impel a forfeiture of Federal funding under 42 U.S.C.A. § 1396c because of non-compliance with a requirement of State Medicaid plans under 42 U.S.C.A. § 1396a(a)(18) and § 1396p. We reject both arguments advanced by defendant.
+Between 1969 and July 20,1981, the effective date of N.J.S.A. 30:4D-7.2a, defendant, by regulation until 1980 and under N.J. S.A. 30:4D-7.2(a) thereafter, filed liens against the estates of individuals to whom Medicaid payments were correctly paid at age 65 or older, but only if there was no surviving spouse or child under age 21. See In re Estate of Fisher, 165 N.J.Super. 122, 125 (Law Div.1978), aff’d o.b. 171 N.J.Super. 588 (App.Div. 1980). N.J.S.A. 30:4D-7.2a imposed a further restriction against such recoveries if there was a surviving child over age 21. The 1981 enactment also authorized recovery for the first time of correctly paid payments under the Pharmaceutical Assistance to the Aged program, N.J.S.A. 30:4D-20 et seq., from the estates of recipients without a surviving spouse or child irrespective of age.
+We discern no legislative intent to limit the definition of “surviving child” in N.J.S.A. 30:4D-7.2a to “surviving child under age 21”. The Department of Treasury fiscal note estimating little or no fiscal effect provides no support for that interpretation of “surviving child”. Offsetting losses and gains of revenue to the State were to be anticipated as a consequence of the enactment of Assembly Bill 773 as N.J.S.A. 30:4D-7.2a, losses because of the further restriction on Medicaid recoveries and gains because of additional Pharmaceutical Assistance recoveries.
+We also attach no merit to defendant’s contention that, because of the designation in its title as a supplement, N.J.S.A. 30:4D-7.2a cannot be construed in conflict with N.J.S.A. 30:4D-7.2(a). We do not so construe it. The two statutes should be read together. The prior enactment, insofar as pertinent, permits liens unless there is a surviving child under age 21; the latter enactment, as we have pointed out, extends the exemption to the estates of decedents survived by a child of any age, in effect a statutory supplement or addition. The designation as a supplement is also appropriate to the newly enacted provision authorizing recoveries of correctly paid Pharmaceutical Assistance payments. We view as without materiality Governor Byrne’s apparently mistaken statement of prior law in his veto message to Assembly Bill 773 as initially enacted, which barred any recovery of correctly paid Medicaid or Pharmaceutical Assistance payments.
+A State in adopting a Medicaid plan must comply with the requirements of 42 U.S.C.A. § 1396 et seq., Harris v. McRae, 448 U.S. 297, 300, 100 S.Ct. 2671, 65 L.Ed.2d 784 (1980). Contrary to defendant’s argument we perceive no conflict between N.J.S.A. 30:4D-7.2a and the prohibition of 42 U.S.C.A. § 1396a(a)(18) and 1396p, against a State’s recovery of correctly paid Medicaid payments from the estate of a recipient unless the recipient was age 65 or older and not survived by a spouse or a child under age 21, blind or permanently and totally disabled. In N.J.S.A. 30:4D-7.2a, this State has not authorized recoveries prohibited under the Federal Act; rather, as a matter of State legislative policy, it has further restricted recoveries by extending the exemption to the estates of recipients who are survived by a child of any age. If we apply a rule of construction that the legislative intent must have been not to risk forfeiture of Federal funding by offending or conflicting with the Federal Medicaid Act, N.J.S.A. 30:4D-7.2a, as we construe it, is consistent with that intent.
+We affirm.
