@@ -1,0 +1,37 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1980-08-14"
+citations: ["175 N.J. Super. 396"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY IN INTEREST OF J.A.B., JUVENILE-APPELLANT."]
+source_url: "https://static.case.law/nj-super/175/cases/0396-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 291390
+cites_cases: ["250 Pa.Super. 74", "361 A.2d 513", "50 N.J. 501", "64 N.J. 438", "70 N.J. 488", "79 N.J. 503"]
+---
+
+# State ex rel. J.A.B.
+
+## Majority (FRANCIS, J. A. D.)
+
+The opinion of the court was delivered by
+FRANCIS, J. A. D.
+The juvenile appellant and his two juvenile companions were charged with armed robbery of a service station on Route 17 in Paramus. Thereafter, the State amended the complaint as it affects the appellant, to aiding and abetting robbery. The juvenile, who was 17 years of age, pleaded guilty on May 1, 1979 to the amended charge. At the subsequent dispositional hearing on July 2,1979, he was placed on probation for one year and on the motor vehicle prohibitory list for two years. There were other probationary conditions imposed which are not pertinent to this appeal. The court upon request of counsel stayed the entire disposition pending this appeal.
+The juvenile argues that the disposition is improper insofar as it includes a driver's license revocation as one of the conditions or probation. He also contends that in any event the two-year revocation period imposed exceeds the term of probation and is illegal and excessive.
+At the time of the dispositional hearing, N.J.S.A. 2A:168-1 conferred a general grant of probationary power on the Juvenile and Domestic Relations Court. This power was to be used only where “the best interests of the public as well as the person adjudged guilty of any offense . . . will be subserved .” The following section, N.J.S.A. 2A: 168-2, authorized the fixing of conditions of probation and enumerated many types of conditions, “among others” (emphasis added), which would be placed on one who is ordered to serve a period of probation. N.J.S.A. 2A:4-61e and R. 5:9 -9(b)(2)(C), a closely parallel court rule, specifically outline the dispositional alternatives in delinquency cases, and both state that the court may place a juvenile on probation “upon such written conditions as the court deems will aid in the rehabilitation of the juvenile.”
+Reading the above dispositional statute and court rule in pari materia with N.J.S.A. 2A:168-2, it is clear that a juvenile court judge could impose reasonable probationary conditions wherever consonant with the public interest and rehabilitative purpose sought to be attained with respect to the juvenile. State in Interest of D. G. W., 70 N.J. 488, 494, 361 A.2d 513 (1976).
+We disagree with the juvenile’s contention that the judge’s revocation order is discordant with this legislative plan. In the instant case we are concerned with a juvenile who pleaded guilty to aiding and abetting robbery. Seventeen years old at the time the crime was committed, the juvenile was given a disposition of probation for one year and placed on the motor vehicle prohibitory list. It is significant that the juvenile’s automobile played a key part in the crime, without which the crime could not have been committed. Further, the actual driving of the automobile by the juvenile to and from the scene of the crime comprised the juvenile’s total participation. The prohibition against driving was a reasonable measure, designed to emphasize to the juvenile that improper use of his automobile would result in a deprivation of it. The rehabilitative nature of this approach is self-evident.
+We note that in Commonwealth v. Russman, 250 Pa.Super. 74, 378 A.2d 459 (1977), a Pennsylvania appellate court interpreted a juvenile disposition statute worded somewhat like our own as allowing a court to prohibit, as a condition of probation, a juvenile from driving. As in the present case, the juvenile in Russman had driven a car in the commission of his offense.
+The juvenile’s reliance on State in Interest of M. L., 64 N.J. 438 (1974), is misplaced. In that case the Supreme Court refused to interpret N.J.S.A. 2A:168-2 in pari materia with the former juvenile disposition statute, N.J.S.A. 2A:4-37(a), to authorize the imposition of a fine, and it indicated that the “same result would appear to be called for” under the juvenile disposition law now in effect. 64 N.J. at 444. The Court ruled that the general probation statute did not confer power upon a court to impose a fine-only the authority to require payment of a fine otherwise provided for by law. Since-the juvenile statutes did not provide the underlying power to impose the penalty, the court refused to approve it as a condition of probation. Id. at 443.
+The Supreme Court clarified its holding in M. L., supra, two years later in State in Interest of D. G. W., supra, which authorized the imposition of restitution as a condition of juvenile probation. The court found fines to be essentially punitive in nature whereas it perceived the legislative policy with regard to juveniles to be to correct and rehabilitate. Having determined that restitution was not “primarily punitive,” the court held that its use “would not fall within the interdiction” of M. L., supra. 70 N.J. at 497-501. In the present case we similarly view the driver’s license revocation order as having a rehabilitative purpose, and as not being “primarily punitive” in nature. Therefore, the holding of M. L. does not apply.
+We add that although probation assumes that the offender can be rehabilitated without serving a jail sentence,
+. . . this is not to say that probation is meant to be painless. Probation has an inherent sting, and restrictions upon the freedom of the probationer are realistically punitive in quality. [In re Buehrer, 50 N.J. 501, 509 (1967)]
+The same is true of the driver’s license revocation now imposed as a condition of probation.
+The revocation order was, however, for a period of two years, and was therefore in contravention of N.J.S.A. 2A:4-63 which states:
+Any order of disposition entered in a case under this act shall terminate when the juvenile who is the subject of the order attains the age of 18, or 1 year from the date of the order whichever is later unless such order is pursuant to subsection h of section 20 or is sooner terminated by its terms or by order of the juvenile and domestic relations court.
+Since the juvenile was 18 years-old at the time of disposition, the order should not have been for a period longer than one year.
+We conclude that the revocation was a valid exercise of the judge’s dispositional power, limited in this circumstance due to J.A.B.’s age to a period of one year. As modified, we do not find the judge’s disposition to be excessive. State v. Whitaker, 79 N.J. 503 (1979).
+This statute was repealed by N.J.S.A. 2C-.98-2, effective September 1, 1979. However, there remains ample authority in N.J.S.A. 2A:4-61 for the Juvenile and Domestic Relations Court (J.D.R.Ct.) to grant probation. State in Interest of D. G. W., 70 N.J. 488, 499 (1976).
+This statute was also repealed by N.J.S.A. 2C:98-2, effective September 1, 1979. As the portion quoted infra indicates, N.J.S.A. 2A:4-61 c makes it clear that statutory authority still exists for a J.D.R.Ct. to impose conditions on a term of probation.
