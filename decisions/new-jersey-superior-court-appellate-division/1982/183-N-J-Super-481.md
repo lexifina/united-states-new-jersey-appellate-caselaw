@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1982-03-17"
+citations: ["183 N.J. Super. 481"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-APPELLANT, v. JOHNNY WATSON, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/183/cases/0481-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 889547
+cites_cases: ["102 S.Ct. 363", "218 Kan. 34", "276 Md. 698", "294 A.2d 445", "350 A.2d 661", "449 U.S. 117", "70 L.Ed.2d 191", "71 Wis.2d 251", "86 N.J. 1"]
+---
+
+# State v. Watson
+
+## Majority (MICHELS, P. J. A. D.)
+
+The opinion of the court was delivered by
+MICHELS, P. J. A. D.
+The State appeals pursuant to the provisions of N.J.S.A. 2C:44-1 f(2) of the New Jersey Code of Criminal Justice from a judgment of the Law Division wherein concurrent probationary terms and a fine of $1,500 were imposed upon defendant Johnny Watson for his convictions for sexual assault (N.J.S.A. 2C:14-2 c(1)) and kidnapping to facilitate the commission of such sexual assault (N.J.S.A. 2C:13-1 b(1)). The State contends that the imposition of noncustodial sentences in the circumstances of this case constituted a manifest abuse of discretion by the trial judge and urges us to reverse the sentences and impose the presumptive terms of imprisonment provided by N.J.S.A. 2C:44-1 f(l).
+While we are satisfied from our study of the record and consideration of all of the pertinent factors, particularly the heinous nature of the crimes and the circumstances attendant to their commission, that the trial judge mistakenly exercised his discretion by imposing probationary sentences upon defendant, we lack the power to change them. The State failed to appeal from the sentences within the time provided by statute, and we therefore do not have jurisdiction over this matter.
+The right of the State to appeal a probationary sentence imposed upon a defendant for a conviction of a first or second degree crime, such as kidnapping and sexual assault, is purely statutory. N.J.S.A. 2C:44-1 f(2) (L. 1978, c. 95; N.J.S.A. 2C:44-1; amended by L. 1979, c. 178, § 93), which became effective on September 1, 1979, provides:
+In cases of convictions for crimes of the first or second degree where the court is clearly convinced that the mitigating factors substantially outweigh the aggravating factors and where the interest of justice demands, the court may sentence the defendant to a term appropriate to a crime of one degree lower than that of the crime for which he was convicted. If the court does impose sentence pursuant to this paragraph, or if the court imposes a non-custodial or probationary sentence upon conviction for a crime of the first or second degree, such sentence shall not become final for 10 days in order to permit the appeal of such sentence by the prosecution.
+Under the clear and explicit language of the foregoing statute the State has ten days within which to appeal from the imposition of certain sentences. The record shows that on May 14, 1980, following a lengthy jury trial, defendant was convicted of sexual assault, a second degree crime, and kidnapping to facilitate the commission of the sexual assault, a first degree crime. On August 8, 1980 the trial judge sentenced defendant to three years probation for the sexual assault, and to a concurrent three-year probationary term and a fine of $1,500 for kidnapping to facilitate such assault. On August 8,1980, following the imposition of the sentences, defendant reported to the Essex County Probation Department, signed a form setting forth the conditions of probation and was directed to report weekly to his probation supervisor. In accordance with such directions, defendant reported to his probation supervisor on August 12, August 19 and September 2,1980. On the latter date defendant was told by his probation supervisor not to report anymore. The probation supervisor acted upon instructions from the Essex County Prosecutor’s Office. On August 20, 1980 the State’s motion to stay the judgment of conviction and the sentences imposed thereon was granted, and the State filed its notice of appeal.
+It is abundantly clear that the State failed to file an appeal from defendant’s sentences within the ten days provided by N.J.S.A. 2C:44-1 f(2). Since the State’s right of appeal in this case is purely statutory, the ten-day time requirement is jurisdictional and must be complied with strictly. See Brown v. Brown, 218 Kan. 34, 542 P.2d 332, 334-335 (Sup.Ct.1975); Harris Baking Co. v. Mazzeo, 294 A.2d 445, 453 (Me.Sup.Jud.Ct.1972); Eastgate Associates v. Apper, 276 Md. 698, 350 A.2d 661, 663 (Ct.App.1976); Smith v. Plankinton dePulaski, 71 Wis.2d 251, 238 N.W.2A 94, 97 (Sup.Ct.1976). Because the State failed to file its appeal within the ten-day period provided by the statute, this court does not have jurisdiction and therefore the State’s appeal must be dismissed.
+Furthermore, even though the trial court attempted to stay the sentences, defendant’s sentences became final. Defendant commenced serving his probationary term before the State filed its notice of appeal. In these circumstances we hold to the view that jeopardy had attached and that this court cannot avoid dismissing the State’s appeal without violating defendant’s constitutional right to be free from double jeopardy as guaranteed by the United States Constitution and New Jersey Constitution. See State v. Ryan, 86 N.J. 1 (1981), cert. den.-U.S.-, 102 S.Ct. 363, 70 L.Ed.2d 191 (1981). But cf. United States v. DiFrancesco, 449 U.S. 117, 101 S.Ct. 426, 66 L.Ed.M 328 (1980).
+Accordingly, the appeal is dismissed.
