@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1963-02-04"
+citations: ["78 N.J. Super. 158"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. CARMINE PIRONE, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/78/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 517157
+cites_cases: ["10 N. J. 355", "11 N. J. L. 203", "23 N. J. 59", "36 N. J. 80", "41 N. J. Super. 445", "54 N. J. L. 416", "54 N. J. Super. 355", "67 N. J. L. 14", "73 N. J. L. 77", "98 N. J. L. 350", "98 N. J. L. 576"]
+---
+
+# State v. Pirone
+
+## Majority (Gaulkin, J. A. D.)
+
+The opinion of the court was delivered by
+Gaulkin, J. A. D.
+Defendant was convicted upon an indictment which charged that he “did willfully and maliciously set fire to and burn certain shops and buildings situate and commonly known as 5616-18-20 Bergenline Avenue, * * * West New York * * *.” He appeals.
+His first point is that the trial court should have granted his motion to dismiss the indictment on the ground that “it is fatally defective and [in?] that it utilizes a single count for the purpose of joining separate and distinct offenses of a like nature.” In short, defendant contends that the indictment was fatally duplicitous.
+To begin with, if the indictment were duplicitous it would ordinarily be ground for the striking of one of the crimes from it, but not for its dismissal. State v. Weleck, 10 N. J. 355, 375 (1952); State v. Torrance, 41 N. J. Super. 445, 453 (App. Div. 1956), certif. denied 23 N. J. 59 (1956). Cf. State v. Gleitsmann, 54 N. J. Super. 355 (App. Div. 1959). However, defendant claims this indictment is incurably defective because it joined in one count willful and malicious burning, and setting fire with intent to burn, which defendant contends are two separate and distinct crimes, citing State v. Quatro, 31 N. J: Super. 51 (App. Div. 1954).
+State v. Quatro did not deal with an indictment which charged both crimes but with one which failed to charge either crime. We did not deal there with the question whether the two crimes may be charged in one count. We hold that when both crimes relate to the same fire (as they did here) they may be joined in one count.
+When they relate to the same fire, the willful and malicious setting of the fire with intent to burn is a preliminary to the willful and malicious burning. Even crimes which are by definition separate may be joined in a single count when they are component parts of a single offense. “If the several acts set forth enter into and constitute the principal offense, there is no duplicity.” Farrell v. State, 54 N. J. L. 416, 419 (Sup. Ct. 1892); O’Regan and Schlosser, New Jersey Criminal Practice § 195 (1950). Cf. State v. Price, 11 N. J. L. 203, 215 (Sup. Ct. 1830); State v. Hill, 73 N. J. L. 77, 78 (Sup. Ct. 1906); State v. Bove, 98 N. J. L. 350, 353 (Sup. Ct. 1922), aff’d. o. b. 98 N. J. L. 576 (E. & A. 1923).
+It is true that in Quatro we pointed out that prior to the adoption of N. J. S. 2A:89-2 the two crimes were set forth in separate sections of .the statutes. However, today they are in'the one section, and when “a statute makes it a crime to do this or that, mentioning several things disjunctively, the indictment may, as a general rule, embrace the whole in a single count.” State v. Hill, supra; State v. Bove, supra; State v. Price, supra; O’Regan and Schlosser, New Jersey Criminal Practice § 193.
+Furthermore, as defendant points out, the indictment in the ease at bar did not adequately charge the defendant with willfully and maliciously setting fire to the buildings with intent to bum, because the words “intent to bum” were omitted. State v. Quatro, supra. However, since that is so, there is no duplicity in the count. “* * * [I]f a count charge two or more offenses, yet but one of them sufficiently, it is not double. 1 Bish. New Crim. Pro., § 440.” State v. Middlesex & Somerset Traction Co., 67 N. J. L. 14, 16 (Sup. Ct. 1901).
+The case was presented on the theory that defendant had burned the described property. The words “set fire to and” were, at most, surplusage, and it is not suggested by defendant that he was prejudiced in any way by their presence in the indictment.
+Defendant contends it was error to deny his motion for acquittal at the end of the State’s case. We find that the motion was properly denied. When the State rested, it had introduced proof from which the jury was entitled to believe that the fire, which began in the Black Poodle Tavern, was of incendiary origin; defendant was seen at the tavern frequently during several weeks before the fire; on several occasions he ran errands for the owner, including the picking up of packages left in a neighboring shop when the tavern was closed; he was seen in front of the tavern with the tavern owner about 9 P. M. before the fire; the fire happened about 3:30 A. m. the following morning; there were an explosion and fire, and two witnesses saw a man fleeing from the tavern with his clothes burning; the fleeing man was described by one witness as about defendant’s, height and build; the fleeing man was met by two men and the three hurried off; at 9:05 a. m. defendant was admitted to the Kings County Hospital with severe and extensive burns; he then and at all times thereafter stated he did not know where he had sustained the burns. We hold that this was enough to withstand the motion for acquittal. State v. Fiorello, 36 N. J. 80 (1961).
+The defendant’s case consisted of a not very convincing claim of alibi. He testified in his own behalf. The jury had the right to find him a not very credible witness, not only because of his criminal record but also because of the manner and content of his testimony. Therefore, the motion for acquittal at the end of the entire case was properly denied.
+Defendant argues that the verdict should be set aside because it was against the weight of the evidence. Although there were some weaknesses and inconsistencies in the State’s case, and defendant denied any knowledge of a fire and even of the Black Poodle, it would serve no useful purpose to recapitúlate the evidence. Suffice it to say that we have examined it in detail and find that the verdict was not against the weight of the evidence.
+Affirmed.
