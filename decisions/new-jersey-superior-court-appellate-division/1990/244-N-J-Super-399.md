@@ -1,0 +1,26 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1990-10-29"
+citations: ["244 N.J. Super. 399", "582 A.2d 1004"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JOHN CIANCIULLI, PETITIONER-APPELLANT, v. BOARD OF TRUSTEES, PUBLIC EMPLOYEES’ RETIREMENT SYSTEM, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/244/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 305094
+cites_cases: ["100 N.J. 651", "113 N.J. 169", "113 N.J. 180", "115 N.J. 212", "189 N.J.Super. 491", "223 N.J.Super. 208", "224 N.J.Super. 417", "312 A.2d 497", "416 A.2d 314", "447 A.2d 151", "455 A.2d 460", "460 A.2d 1057", "498 A.2d 1252", "538 A.2d 432", "540 A.2d 908", "549 A.2d 1213", "549 A.2d 1218", "557 A.2d 1012", "64 N.J. 85", "83 N.J. 174", "90 N.J. 85", "92 N.J. 14"]
+---
+
+# Cianciulli v. Board of Trustees
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Petitioner John Cianciulli’s application for an accidental disability retirement pension was denied by the Board of Trustees, Public Employees’ Retirement System (P.E.R.S.), despite the recommendation in an initial decision of an administrative law judge (AU) for the grant of such disability pension. We reverse.
+Cianciulli was employed by the State of New Jersey as an instructor with the New Jersey Department of Corrections. On December 3, 1986, he was sent to a private business establishment to pick up a state owned bus that was parked behind a tire shop. The bus was parked in an area lower than the rear of the tire shop and it was necessary for Cianciulli to walk down an embankment to a lower road that led to the parked bus. After proceeding on a level pavement made of macadam to the top edge of the embankment, he reached the top of a dirt path that was wet and damp. The embankment sloped at approximately a 45 degree angle. As Cianciulli stepped off the level pavement on the top of the path, he started to slide. He was not able to catch himself or regain his balance because there was nothing for him to grab on to. He “slipped, fell, hit, and bounced,” approximately 20 feet to the bottom of the embankment landing on a paved road below. He hit the pavement at the bottom of the embankment with the lower part of his back.
+It was conceded by the State that petitioner was disabled as a result of the fall on December 3, 1986 and that it was his last date of employment. Cianciulli applied for accidental disability retirement, but was granted only an ordinary disability retirement by P.E.R.S. His appeal from that decision was transferred to the Office of Administrative Law. After a hearing the AU found that the only disputed issue was whether the fall constituted a traumatic event within the meaning of the statute and the applicable case law. The AU concluded that the fall constituted a traumatic event and in his initial decision recommended an accidental disability pension.
+In rejecting the AU’s determination P.E.R.S. found that petitioner was “totally and permanently disabled on an orthopedic basis as a direct result of [his] injury of December 3, 1986,” but nonetheless, the “incident was not a ‘traumatic event’ as detailed by statute and recent court decisions.” P.E.R.S. relied on Kane v. Board of Trustees, Police & Firemen’s Retirement System, 100 N.J. 651, 498 A.2d 1252 (1985), as well as the subsequent cases of Maynard v. Board of Trustees, T.P.A.F., 113 N.J. 169, 549 A.2d 1213 (1988); and Ciecwisz v. Board of Trustees, P.F.R.S., 113 N.J. 180, 549 A.2d 1218 (1988).
+However, P.E.R.S.’s reliance on these cases is inapposite in this situation. We recognize that it is the agency decision that we review, and not that of the AU. See In re Kallen, 92 N.J. 14, 20, 455 A.2d 460 (1983); In re Uniform Administrative Procedure Rules, 90 N.J. 85, 91, 447 A.2d 151 (1982); Public Advocate Department v. Public Utilities Board, 189 N.J.Super. 491, 507, 460 A.2d 1057 (App.Div.1983). Although we recognize that in the usual case we defer to agency expertise, see Gerba v. Board of Trustees, P.E.R.S., 83 N.J. 174, 189, 416 A.2d 314 (1980), the decision by P.E.R.S. here is wide of the mark on the undisputed facts and the law. Deference to the expertise of the agency does not require deference to the agency’s interpretation of case law or legal conclusions. Mayflower Securities Co., Inc. v. Bureau of Securities, 64 N.J. 85, 93, 312 A.2d 497 (1973). This case does not present the usual slip and fall situation. Indeed, what happened here is more akin to the example in Kane v. Board of Trustees, P.F.R.S., supra, of the fireman who falls off the top of the ladder.
+As stated, this is not merely a simple slip and fall case. See Ciecwisz v. Board of Trustees, P.F.R.S., supra; Maynard v. Board of Trustees, T.P.A.F., supra; and Gable v. Board of Trustees, P.E.R.S., 224 N.J.Super. 417, 540 A.2d 908 (App.Div.1988), aff’d 115 N.J. 212, 557 A.2d 1012 (1989). P.E.R.S. has taken too expansive a view of the language “considerable force and power” in Kane. In our view the requirements of Kane have been satisfied. See Duignan v. Board of Trustees, P.E.R.S., 223 N.J.Super. 208, 218, 538 A.2d 432 (App.Div.1988).
+We reverse and remand with direction to award petitioner an accidental disability pension.
