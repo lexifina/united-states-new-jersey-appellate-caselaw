@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1951-03-19"
+citations: ["12 N.J. Super. 316"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAKS & COMPANY, PLAINTIFF-RESPONDENT, v. HERBERT H. BENNETT, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/12/cases/0316-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 425606
+cites_cases: ["102 N. J. L. 166", "115 N. J. L. 71", "118 N. J. L. 398", "2 N. J. Misc. 79", "41 N. J. L. 454", "53 N. J. L. 516", "73 N. J. L. 136", "84 N. J. L. 626", "9 N. J. Misc. 1203"]
+---
+
+# Saks & Co. v. Bennett
+
+## Majority (Bigelow, J. A. D.)
+
+The opinion of the court was delivered by
+Bigelow, J. A. D.
+The respondent, Saks & Company, sued Herbert II. Bennett and wife for goods sold. It recovered several judgments against Mr. Bennett for $344 and against Mrs. Bennett for $27. The former appeals.
+All the articles for which judgment was rendered against the husband, were bought by the wife. To hold the husband liable, it must be shown that the wife was acting as his agent in making the purchases or that the articles were necessaries. Davis v. Freeman, 2 N. J. Misc. 79 (Sup. Ct. 1924).
+“Neither husband nor wife, by virtue of the relationship has power to act as agent for the other. The relationship is of such a nature, however, that circumstances which in the case of strangers would not indicate the creation of authority or apparent authority, may indicate it in the case of husband or wife.” Restatement, Agency, § 22(b). In the case before us, Mrs. Bennett does not appear to have contracted in her husband’s name. Her purchases were charged to her and not to him; for most of them she signed the 'sales slip in her own name alone. Nevertheless the plaintiff was not precluded from showing that the husband was an undisclosed principal. But there was no evidence that he authorized his' wife to buy, as his agent, the articles which are the subject of the suit, or to make him liable for the price. The judgment against appellant cannot be upheld on principles of agency as distinguished from his liability as husband for necessaries supplied to the wife.
+While a husband’s liability for necessaries furnished his wife, arises from his failure to perform his duty properly to support her, Wanamaker v. Ulizio, 102 N. J. L. 166, (E. & A. 1925), the liability is often expressed in terms of agency. Thus it is said that for the purchase of articles of domestic use, the law regards the woman as her husband’s agent. Wilson v. Herbert, 41 N. J. L. 454 (Sup. Ct. 1879). When the wife procures on credit “such things as fall within the domestic department ordinarily confided to her management, and for articles furnished to her for her personal use suitable to the'style in which the husband chooses to live,” her husband is prima facie liable. Vusler v. Cox, 53 N. J. L. 516 (Sup. Ct. 1891). Likewise, when she buys a radio or employs a domestic servant, lie must pay. Goldberg v. Choma, 9 N. J. Misc. 1203 (Sup. Ct. 1931) ; Auten v. Johnston, 115 N. J. L. 71 (Sup. Ct. 1935).
+But the husband may have a good defense for he need pay only once. “When he has supplied his wife with those necessaries which their station in life and his financial standing entitle her to have at his hands or has furnished her with moneys sufficient to enable, her to purchase them for herself, he is under no obligation to pay bills incurred by her for what would have been necessaries if he had not already supplied her therewith.” McCreery & Co. v. Marlin, 84 N. J. L. 626 (E. & A. 1913). Cf. Feiner v. Boynton, 73 N. J. L. 136 (Sup. Ct. 1905). The McCreery case also establishes the rule that the tradesman must, at his peril, inquire into the circumstances in order to ascertain whether the husband will be liable when his wife goes shopping. Where there were already two radios in their home, a third radio bought by the wife was not considered a necessary for which the husband could be made to pay. Gruenberg v. Douglas, 118 N. J. L. 398 (Sup. Ct. 1937).
+In the case at bar, the items total $514, against which payments on account reduce the balance to the sum for which judgment was rendered. Of the charges, $167 was the cost of articles for the use and comfort of Mrs. Bennett’s baby granddaughter, who was not a member of the Bennett household and was not the grandchild of appellant. Even so, appellant had given his wife $167 in cash to buy these very items, but she charged them instead. Certainly he is not liable a second time. The other items in the account were sundry articles, mostly clothing, which Mrs. Bennett testified she bought for her own use. This was in the months of March, May, June and July, 1949. In the year 1949, she received from her husband $4,125. In addition, he provided the house and an automobile; he paid for heat and light, telephone, the wages of a full-time maid. He paid for at least some of the food. The testimony of the appellant was uncontradieted that during the period of the purchases in question, his wife never complained that the amount of money received by her was insufficient. We are satisfied that the evidence proved that appellant properly supported his wife and that he is not liable for the purchases which were charged to her by Saks & Company.
+The judgment is reversed.
