@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1979-09-24"
+citations: ["170 N.J. Super. 394"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THOMAS SCELFO, JR."]
+source_url: "https://static.case.law/nj-super/170/cases/0394-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 477726
+cites_cases: ["441 U.S. 418", "68 N.J. 236", "77 N.J. 282"]
+---
+
+# In re Scelfo
+
+## Majority (MICHELS, J. A. D.)
+
+The opinion of the court was delivered by
+MICHELS, J. A. D.
+Defendant Thomas Scelfo, Jr. appeals from an order of the Law Division denying his application for conditional release from the Essex County Hospital Center and continuing his confinement there without modification of the terms and conditions thereof.
+In March 1978 defendant was acquitted, by reason of insanity, of assault with intent to kill while armed, and committed to the New Jersey State Hospital (Vroom Building) in Trenton. The order of commitment provided that if defendant’s condition improved he could be transferred to the Essex County Hospital Center. The court also directed a periodic review be held not later than six months after the entry of that order. Defendant was subsequently transferred to the Hospital Center.
+In June 1978 a periodic review hearing was held in accordance with the principles enunciated by the Supreme Court in State v. Krol, 68 N.J. 236 (1975), and in R. 4:74~7(e), (f) and (g). At the conclusion of the hearing the court found that defendant continued to suffer “from schizophrenia, a paranoid type and that he remains a danger to himself and society.” The court thereupon continued defendant’s confinement but ordered that he could be released to the custody of his father Thomas Scelfo, Sr. on weekends, and directed the Hospital Center to submit monthly progress reports. Again, a further review hearing was ordered to be held within six months.
+A second periodic review hearing was held in January 1979, at which time defendant sought to be conditionally released from the Hospital Center to reside with his father and receive out-patient psychiatric treatment and therapy. This hearing was held in accordance with the principles enunciated by our Supreme Court in State v. Fields, 77 N.J. 282 (1978), and State v. Krol, supra, as well as the aforementioned rules of court. At the conclusion of this hearing the court found that “a structured setting of some type is still necessary for the de-escalation of this patient’s treatment program,” and that he still would be a danger to himself and society if he were released. The court thereupon denied defendant’s application for conditional release and continued his confinement at the Hospital Center. This appeal followed.
+While this appeal was pending the United States Supreme Court decided Addington v. Texas, 441 U.S. 418, 99 S.Ct. 1804, 60 L.Ed.2d 323 (1979), establishing the standard of proof in civil commitment proceedings necessary to satisfy the due process guarantees of the Fourteenth Amendment. The United States Supreme Court specifically rejected the “preponderance of evidence,” standard finding that such standard fell short of meeting the demands of due process. 441 U.S. at 427, 99 S.Ct. at 1810, 60 L.Ed. at 332. The Supreme Court also found that the strict criminal standard of “proof beyond a reasonable doubt” was inappropriate in civil commitment proceedings, determining that
+To meet due process demands, the standard has to inform the factfinder that the proof must be greater than the preponderance of the evidence standard applicable to other categories of civil cases.
+We noted earlier that the trial court employed the standard of “clear, unequivocal and convincing” evidence in appellant’s commitment hearing before a jury. That instruction was constitutionally adequate. However, determination of the precise burden equal to or greater than the “clear and convincing” standard which we hold is required to meet due process guarantees is a matter of state law which we leave to the Texas Supreme Court. [441 U.S. at 433, 99 S.Ct. at 1813, 60 L.Ed.2d at 335]
+While the United States Supreme Court did not state that its ruling was to have retroactive application, we have no hesitancy in concluding that the standard of proof established in the Addington case should have retroactive application to all persons who have been acquitted by reason of insanity who are presently subject to any restraints upon their liberty. State v. Fields, supra, 77 N.J. at 311. Here, of course, the trial judge, rather than applying the clear and convincing evidence standard required under the Addington case, required the State to prove by a mere preponderance of the evidence the necessity of the continuance of restraints upon defendant’s liberty. Thus, we are constrained to reverse and remand this matter for a new hearing in accordance with the standard of “clear and convincing evidence.”
+Accordingly, the order denying defendant’s application for a conditional release is reversed and the matter remanded to the trial court for a new periodic review hearing (to which defendant would be entitled in any event on or before January 9,1980 under R. -4:74 — 7(f)(3)), in accordance with the standard of proof established by the United States Supreme Court in Addington v. Texas, supra, and the guidelines enunciated by our Supreme Court in State v. Fields, supra. We emphasize that “[t]he final decision on the need for and appropriate extent of restrictions on the committee’s [defendant’s] liberty is for the court, not the psychiatrists.” State v. Fields, supra, 77 N.J. at 308, emphasis in original. Consequently, we direct that upon rehearing, if defendant’s confinement is continued, the trial judge specify in detail what terms and conditions, if any, are to be imposed upon defendant’s commitment, and not leave this determination to the administration or medical staff of the hospital.
+Reversed and remanded. We do not retain jurisdiction.
