@@ -1,0 +1,45 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1964-03-26"
+citations: ["83 N.J. Super. 120"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["SAMUEL SEGAL, PLAINTIFF-APPELLANT, v. GREATER VALLEY TERMINAL CORP., ET AL., DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/83/cases/0120-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 511071
+cites_cases: ["103 N. J. Eq. 101", "109 N. J. Eq. 54", "12 F. 2d 73", "140 N. J. Eq. 490", "148 Neb. 378", "15 A. L. R. 2d 1199", "19 N. J. Eq. 462", "2 N. J. Super. 187", "22 Luz. Leg. Reg. 314", "273 U. S. 699", "47 S. Ct. 94", "69 N. J. Eq. 715", "71 L. Ed. 846", "78 N. J. Super. 42", "92 N. Y. S. 2d 527", "92 Pa. Super. 1"]
+---
+
+# Segal v. Greater Valley Terminal Corp.
+
+## Majority (Collester, J. A. D.)
+
+The opinion of the court was delivered by
+Collester, J. A. D.
+Plaintiff appeals from a summary judgment entered in the Superior Court, Law Division, in favor of defendants, dismissing the action brought by plaintiff. The Law Division’s opinion is reported at 78 N. J. Super. 42 (Law Div. 1963).
+Plaintiff Samuel Segal, a resident of Philadelphia, on September 1, 1954 leased certain real property located in Pennsauken, New Jersey, to defendant Greater Yalley Terminal Corporation (Greater Yalley), a New Jersey corporation, for a period of 99 years. The lease provided that said property was to be used and occupied as shipping, receiving and warehousing facilities for petroleum products. The lease was executed in Pennsylvania and rents were to be paid at the lessor’s office in Philadelphia.
+The lease contained the following covenant:
+“Lessee covenants and agrees tliat he will do none of the following things without the consent in writing of Lessor first had and obtained:
+(b) Assign, mortgage or pledge this lease or under-let or sub-lease the demised premises, or any part thereof, or permit any other person, firm or corporation to occupy the demised premises, or any part thereof; * * ®”
+Plaintiff was given a right of re-entry for violation of said covenant.
+On December 30, 1958 the lessee changed its corporate name to Greater Valley Oil & Terminal Corporation.
+On July 26, 1960 defendant Paragon Oil Company, Inc. (Paragon), a New York corporation, owned all outstanding shares of each class of stock of Greater Valley and, pursuant to a resolution adopted by Paragon’s board of directors on that date. Greater A^alley was merged into Paragon. A certificate of ownership effecting the merger was filed with the Department of State of New York on August 1, 1960, and a copy was filed in the office of the Secretary of State of New Jersey on October 20, 1960.
+Greater AI. *****7alley executed no assignment or sublease. Plaintiff contends, however, that the merger worked a violation of the provision quoted above, giving him the right of re-entry.
+On cross-motions for summary judgment the court below ruled in defendants’ favor.
+I.
+In New Jersey the sale of the shares of stock of a lessee corporation to another company, resulting in the relationship of parent and wholly-owned subsidiary, does not constitute an assignment of the lease or an underletting of the premises. Posner v. Air Brakes & Equipment Corp., 2 N. J. Super. 187 (Ch. Div. 1948); Rivoli Holding Co. v. Ulicny, 109 N. J. Eq. 54 (Ch. 1931). A subsequent merger of the parent and subsidiary into one corporation, achieved as it was in the present case by the filing of a certificate of ownership and the elimination of Greater Valley’s stock and name, in no way changed the beneficial ownership, possession, or control of Greater Valley’s property or leasehold estate. The effect of such a formal step on the lease agreement is no different from the effect produced by the original purchase of the subsidiary’s stock—no assignment or similar transfer of the lease occurred.
+Yet even if the merger were considered to create an assignment, it would not violate the covenant in the lease. In authorizing a corporate merger, the Legislature provided that the rights, privileges, powers, franchises “and all and every other interest” of each component corporation shall vest in the successor corporation. B. S. 14:12-5. The passage of such interests under the statute, whether labeled an assignment, sublease, or transfer, is by operation of law, and it will not operate as a breach of a covenant barring assignment. Siesel v. Mandeville, 140 N. J. Eq. 490, 492 (Ch. 1947); Millmoe v. Sapienza, 103 N. J. Eq. 101, 106 (Ch. 1928); Fleming v. Fleming Hotel Co., 69 N. J. Eq. 715, 717 (Ch. 1905); 3A Thompson on Real Property, § 1212, pp. 68, 73 (1959).
+A covenant not to assign, being in restraint of alienation, is subject to the doctrine of strict construction which tends to limit its operation. Implied covenants against transfer by operation of law are disfavored, and courts are astute in finding ways to avoid even an express provision restricting transfer by operation of law. 1 American Law of Real Property, § 3.58, pp. 301-02. A technical transfer that is not fairly and substantially an assignment will not violate such a covenant. Chesnut v. Master Laboratories, 148 Neb. 378, 27 N. W. 2d 541, 548-549 (Sup. Ct. 1947).
+II.
+Plaintiff argues that the law of Pennsylvania rather than of New Jersey must be applied to this case. It is a generally accepted principle that the law of the state where land is situated controls its title, transfer, and disposition. In re Barnett, 12 F. 2d 73, 76-77 (2 Cir. 1926), certiorari denied United Cigar Stores Co. v. Rayher, 273 U. S. 699, 47 S. Ct. 94, 71 L. Ed. 846 (1926); Bentley v. Whitt emore, 19 N. J. Eq. 462, 467 (E. & A. 1868); Annotation, 15 A. L. R. 2d 1199, 1200; 11 Am. Jur., Conflict of Laws, § 30, p. 328. Bnt plaintiff relies on the rule that rights in personam, though made a provision of the lease, are governed by the law of the place where the contract is made and performed. In re Barnett, supra. He asserts that although the property is located in New Jersey, the contract was executed in Pennsylvania and rents are payable there, establishing that state as the place of the contract.
+Plaintiff offers no persuasive reason why the covenant in question should be considered to deal with personal rights. Clearly, its subject matter is possession of the property, a right in rem. There is authority for the proposition that New Jersey law is applicable in the construction of a provision not to assign in a lease of property located in New Jersey. Bowen v. Frank, 92 N. Y. S. 2d 527 (Sup. Ct. 1949); 1 Restatement, Property, § 7, p. 19 (1936); Restatement, Conflict of Laws, § 223, p. 314 (1934).
+III.
+Pennsylvania law, were it to apply, would offer little support for plaintiff’s contention that the lease was violated. The only Pennsylvania decision on which plaintiff relies is Feeley v. Harwood Electric Company, 22 Luz. Leg. Reg. 314 (Pa. C. P. 1920). There the court held that a merger and consolidation of Harwood Electric Company and other companies to form the Pennsylvania Light and Power Company violated the terms of a provision not to assign in a lease between defendant and Feeley. No authority was cited for this holding, and it has been subsequently discredited, if not specifically overruled, in its own state. See In re Berman’s Estate, 58 Pa. Dist. & Co. R. 678 (Orph. Ct. 1947); Pittsburgh Terminal Coal Corporation v. Potts, 92 Pa. Super. 1 (Super. Ct. 1927).
+Furthermore, Feeley is factually distinguishable. The provision not to assign in that case was more inclusive than the clause in the case sub judice. In Feeley, the word "assignment” was expressly "intended to comprehend not only the voluntary action of the lessee but also every levy or execution or other legal process, and every act of bankruptcy, insolvency, or under any other compulsory procedure or order of Court.” Feeley v. Harwood Electric Company, 22 Luz. Leg. Reg., supra, at p. 316.
+IY.
+Plaintiff cannot be heard to complain that he relied upon some notion that the personnel occupying the premises would remain the same for the duration of the lease. He must have realized that changes in their identity were bound to occur during a 99-year term.
+Furthermore, one who deals with a corporation must realize that the beneficial ownership of that corporation can be changed at any time. Merger is only one of the ways in which that change may be made. To deny the benefit of a merging corporation’s nonassignable contracts to the surviving corporation in a merger authorized by statute would sharply limit the utility of such statutes.
+Plaintiff has not been injured by the merger in the instant case. While Paragon enjoys the benefits of the lease, it also has assumed the burdens thereof. Plaintiff might have provided against a merger, but did not do so. He now seeks re-entry. The court will not assist him in that endeavor.
+The decision of the Law Division is affirmed.
