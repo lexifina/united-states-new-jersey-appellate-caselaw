@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1981-04-06"
+citations: ["178 N.J. Super. 191"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE REVOCATION OF THE LICENSE OF IRWIN JACOB POLK, M. D., LICENSE NO. 14816, TO PRACTICE MEDICINE AND SURGERY IN THE STATE OF NEW JERSEY."]
+source_url: "https://static.case.law/nj-super/178/cases/0191-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 900214
+cites_cases: ["151 N.J.Super. 179", "169 N.J.Super. 243", "36 N.J. 401", "37 N.J. 143", "65 N.J.L. 142", "70 N.J. 222", "73 N.J. 292", "84 N.J. 303"]
+---
+
+# In re the Revocation of the License of Polk
+
+## Majority (ALLCORN, P. J. A. D.)
+
+The opinion of the court was delivered by
+ALLCORN, P. J. A. D.
+In a relatively recént determination, our Supreme Court once again set forth the policy bases underlying the disciplining of attorneys and the imposition of sanctions in appropriate cases. The court stated in In re Logan, 70 N.J. 222 (1976):
+The purpose of a disciplinary sanction, whether it be a reprimand, suspension, or a disbarment, is not punishment, but maintenance of the integrity and purity of the bar, elimination of unfit persons from the practice of law, and vindication of public confidence in the bar and the administration of justice, [at 227]
+Hence, the court is looking principally to the protection of the public and the public interest in its oversight of the members of the bar.
+Quite obviously, a similar concern of the State for the safeguarding of the members of the public and the public interest in the quality of the medical services supplied and delivered by and the integrity of the members of the medical profession form the foundation underlying the educational and other licensing prerequisites, as well as the authorization for appropriate disciplinary action and sanctions for misconduct and other improprieties, by members of the medical profession. See, e. g. N.J.S.A. 45:9-6, 45:9-16.
+In the exercise of these oversight functions in the practice of law and the practice of medicine, charges of misconduct and other improper conduct and activities for some years were seemingly subject to a preponderance-of-evidence standard of proof in order to establish the asserted impropriety by the attorney or physician so charged. See In re Heller, 73 N.J. 292 (1977); Atkinson v. Parsekian, 37 N.J. 143 (1962); but cf. In re Noonan and Simpson, 65 N.J.L. 142 (Sup.Ct.1900).
+Be this as it may, with its determination in the case In re Pennica, 36 N.J. 401 (1962), our Supreme Court clearly enunciated the proposition that, in proceedings for disbarment or other disciplinary sanctions against members of the bar, the quantum of proof essential to establish guilt is the clear-and-convincing standard—the court at the same time recognizing that such standard had not been “articulated previously in this State.” The explication of the basis for its application of the clear-and-convincing standard was stated by the court to be:
+Because of the dire consequences which may flow from an adverse finding, however, we regard as necessary to sustain such a finding the production of a greater quantum of proof than is ordinarily required in a civil action, /. e., a preponderance of the evidence, but less than that called for to sustain a criminal conviction, i. e., proof of guilt beyond a reasonable doubt. Although the specific rule has not been articulated previously in this State, we declare it to be that discipline or disbarment is warranted only where the evidence of unethical conduct or unfitness to continue in practice against an attorney is clear and convincing, [at 419]
+Subsequent to the Pennica determination, the use of the clear-and-convincing standard of proof solely in disbarment proceedings and not in those disciplinary proceedings involving other professions, including physicians, has been noted and the disparate treatment questioned by this court and by the Board of Medical Examiners as well. In re Silberman, 169 N.J.Super. 243, 253 n. 2 (App.Div.1979), aff’d o.b. 84 N.J. 303 (1980); compare, In re Kerlin, 151 N.J.Super. 179, 184 n. 2 (App.Div. 1977). In neither case, however, does the disparity of treatment seem to have been urged as an issue or as a ground for reversal. In the appeal presently before the court, appellant invokes the equal protection proscriptions of the Federal and State Constitutions and challenges the validity of the use of the preponderance-of-evidence standard of proof in a disciplinary proceeding against a physician, in the face of the use of the clear-and-convincing standard in a disciplinary proceeding against an attorney, asserting that there are no reasonable bases for the disparate treatment.
+It is our considered conviction that, quite aside from a violation of any constitutional prohibitions, considerations of fundamental fairness alone demand that disciplinary proceedings against physicians (essentially no different in purpose and no less crucial in effect upon the physicians than upon the lawyers) be subject to the clear-and-convincing standard of proof. In each instance, the protection of the public interest is the paramount concern, and “the dire consequences which may flow from an adverse finding” are identical. In short, we are unable to perceive any justifiable basis for the lawyer to receive the advantage of the more favorable standard of quantum of proof in disciplinary proceedings, while denying the benefit of the same standard to the physician similarly situated.
+We conclude, consequently, that the within cause must be reversed and remanded to the New Jersey Board of Medical Examiners for a redetermination of the charges of which the appellant was found guilty, such determination to be made on the evidence already before the Board, using the clear-and-convincing standard of proof. In the event the Board finds that any one or more of said charges have been so established, it shall reconsider and reassess the sanction or sanctions to be imposed.
+The foregoing disposition makes unnecessary a consideration of the other issues raised by the appellant.
+Accordingly, the cause is reversed and remanded to the Board of Medical Examiners for further proceedings in accordance with this opinion. We do not retain jurisdiction.
