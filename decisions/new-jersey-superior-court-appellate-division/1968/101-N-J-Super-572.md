@@ -1,0 +1,41 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1968-07-01"
+citations: ["101 N.J. Super. 572"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM T. JACOBS, PLAINTIFF-APPELLANT, v. NEW JERSEY STATE HIGHWAY AUTHORITY, GARDEN STATE PARKWAY, D. LOUIS TONTI, EXECUTIVE DIRECTOR, AND SYLVESTER C. SMITH, CHAIRMAN, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/101/cases/0572-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 326997
+cites_cases: ["15 N. J. 334", "32 N. J. 561"]
+---
+
+# Jacobs v. New Jersey State Highway Authority
+
+## Majority (Carton, J. A. D.)
+
+The opinion of the court was delivered by
+Carton, J. A. D.
+The issue in this case is the power of the New Jersey State Highway Authority to adopt a regulation requiring its employees to retire at age 65. Appellant Jacobs, having been forced to retire pursuant to this administrative mandate, filed a complaint in the Chancery Division on August 14, 1967. The cause was transferred to this court in accordance with R. R. 1:27D.
+Jacobs was employed by the Authority on September 2, 1954 and, as required by law, joined the Public Employees’ Retirement System effective February 2, 1955. On October 30, 1964 the Authority notified its employees by letter that it had adopted
+“* * * a Retirement Policy which provides that ail Authority employees shall retire upon attaining age 65 effective January 1, 1965, with the understanding that the Personnel Committee upon application of a department or Staff Division Head may extend the retirement date of an employee with the approval of the Executive Director.”
+The letter notice alluded to a Public Employees’ Retirement System requirement permitting employees to retire at age 60, and making retirement compulsory at 70. The letter also noted: “In 1955 the Public Employees’ Retirement System was integrated with the Federal Social Security System which generally provides for retirement at ages 62 to 65.”
+Since Jacobs would attain the age of 65 on April 15, 1965, he was due to retire on that date. In the fall of 1964, however, his retirement date was extended for one year “in order to train a replacement” for him. Jacobs later requested an additional extension but this request was denied and his retirement from service became effective on April 15, 1966. This proceeding followed.
+Appellant here assails the power of the Authority to adopt the retirement policy it did. He predicates his attack upon the absence of a grant of such power in the New Jersey Highway Authority Act (N. J. S. A. 27:12B-1 et seq.) and the asserted interdiction of such action in the Public Employees’ Retirement Act (N. J. S. A. 43:15A-1 et seq.).
+The Authority’s position is that although the Public Employees’ Retirement Act governs the pension rights of Authority employees (N. J. S. A. 43 :15A-73), it does not affect the Authority’s autonomy over the employment of its personnel, the terms of that employment or its termination. The Authority bases its power to adopt a retirement policy free from outside restraint upon N. J. S. A. 27:12B-5, which provides that the Authority shall have the power, among others:
+“(q) To * * * employ such * * * employees and agents as the Authority deems advisable and as may be necessary in its judgment; to fix their compensation; and to promote and discharge such officers, employees and agents; all without regard to the provisions of Title 11 of the Revised Statutes [Civil Service Act! * *
+It is clear that by this provision the Legislature has conferred upon the Authority very broad and sweeping powers relating to its personnel. Thus, the Authority is empowered to hire such employees “as the Authority deems advisable and as may be necessary in its judgment” (emphasis added). No limitation is imposed upon the power to “fix their compensation” or “to promote and discharge” such employees.
+Underscoring the autonomy granted the Authority by the Legislature in dealing with its personnel is the express exemption of the Authority from compliance with the Civil Service laws. Since one of the primary purposes of the Civil Service Act is to afford tenure to those who come under its protection (State Dept. of Civil Service v. Clark, 15 N. J. 334, 341 (1954); R. S. 11 :4-1), it may reasonably be inferred that the Legislature, by this exemption, intended to give the Authority the widest latitude in its employment practices.
+Jacobs argues that he “has a vested right to remain in employment until age 70” by virtue of the provisions of N. J. S. A. 43 :15A-47, which reads:
+“Retirement from service shall be as follows:
+a. A member who shall have reached 60 years of age may retire from service by filing with the board of trustees a written statement, duly attested, stating at which time subsequent to the execution and filing thereof he desires to be retired. The board of trustees shall retire him at the time specified or at such other time within 30 days after the date so specified as the board finds advisable.
+b. A member who shall have readied 70 years of age shall be retired by the board for service forthwith, or at such time within 90 days thereafter as it deems advisable, except that an employee reaching 70 years of age may be continued in service from time to time upon written notice to the board of trustees by the head of the department where the employee is employed.”
+Appellant’s argument rests upon the assumption that the Public Employees’ Betirement Act was intended to afford tenure rights to all public employees. The act cannot be interpreted as creating, by its own terms, any system or right of tenure. Totally absent is the machinery for implementing such rights, ordinarily found in statutes creating tenure. Por example, the act sets forth no specification of the grounds necessary for removing an employee, or a procedure for determining whether those grounds exist. The only vested right which Jacobs had under the Public Employees’ Betirement Act was the right to a pension and not to a tenure of some shadowy or indefinite nature.
+Nor does the Public Employees’ Betirement Act reveal any intention on the part of the Legislature to curtail the employment autonomy of the Authority. The act was designed, as its title states, “to provide coverage for certain * * * public employees, under the provisions of Title II of the Federal Social Security Act * * *; granting * * * membership in the Public Employees’ Eetirement System created hereunder, specifying contributions to be paid and benefit rights therein.” Its benefits are made applicable, not only to employees of the Authority, but to other public employees as well. The act is far broader in its scope than the statute creating the Authority and cuts across numerous classifications and categories of public-employees.
+It is inconceivable that by its enactment of a program concerned with the mechanics of a pension system, the Legislature intended to' promulgate a state-wide policy governing a mandatory retirement age for all public employees. The Public Employees’ Eetirement Act simply establishes a system for the accumulation, investment and disbursal of a pension fund and the rights of a member as against the Pension Fund upon retirement for age, and prescribes minimum and maximum retirement ages.
+Messano v. Board of Education of Jersey City, 32 N. J. 561 (1960), relied upon by appellant, is readily distinguishable from the present case. It involved the rights of tenure employees and has no application here.
+We' conclude, therefore,' that the Authority had the power to adopt a regulation fixing a mandatory retirement age at 65. '
+We observe that appellant’s right to relief may also be barred by his failure to take timely action to assert his rights. Although his employment ended on April 15, 1966, this action -was not begun until August 14, 19>67, some 16 months later. This is considerably beyond the 45-day limit or any ordinary extension we might have granted upon timely application under R. R. l:27B(d). However, because the case concerns a matter of public interest,- we prefer to rest our decision upon the merits:
+The action appealed from is affirmed.
