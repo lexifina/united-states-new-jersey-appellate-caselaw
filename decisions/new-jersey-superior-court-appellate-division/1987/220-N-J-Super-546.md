@@ -1,0 +1,35 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1987-10-14"
+citations: ["220 N.J. Super. 546"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELLIOT FRIEDMAN AND SABINA FRIEDMAN, PLAINTIFFS-APPELLANTS, v. RAJINDAR PAUL CHOPRA AND AZORA CHOPRA, DEFENDANTS-THIRD PARTY PLAINTIFFS-RESPONDENTS, v. BRUCE F. DONALDSON, INDIVIDUALLY AND T/A THE DONALDSON AGENCY, THIRD PARTY DEFENDANT."]
+source_url: "https://static.case.law/nj-super/220/cases/0546-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 301961
+cites_cases: ["186 So.2d 640", "190 So.2d 230", "193 N.J.Super. 550", "249 La. 706", "377 A.2d 22", "518 N.Y.S.2d 411", "99 N.J. 207"]
+---
+
+# Friedman v. Chopra
+
+## Majority (BRODY, J.A.D.)
+
+The opinion of the court was delivered by
+BRODY, J.A.D.
+The issue in this appeal is whether the contract purchasers of real property satisfied the mortgage contingency clause in the contract when they obtained a mortgage commitment in an amount less than the amount stated in the clause. We hold that where, as here, the contingency may be waived by the purchasers, a mortgage in any amount that satisfies the purchasers also satisfies the contingency clause.
+The parties entered into a contract for the sale of a five-family building by defendants (sellers) to plaintiffs (purchasers). The contract provided that the sale would be subject to purchasers’ obtaining a mortgage in the amount of $145,800, which is 90% of the $162,000 purchase price. The clause reads as follows:
+The Purchaser agrees to apply immediately through the office of the named REALTOR for a mortgage loan. The amount of the mortgage loan required by the Purchaser is $145,800.00 and will be what is commonly known as the conventional 30 year direct reduction plan with interest at prevailing interest rate. Either Purchaser or Seller may void this Agreement by written notice to the other party if the mortgage loan has not been arranged (or if Purchaser has not notified Seller of his decision to complete the purchase transaction without his obtaining a mortgage commitment) within 45 days from the date of this fully executed agreement.
+Thus upon notice to sellers within the 45-day period, purchasers had the express right under this clause to “complete the purchase transaction” without having obtained a mortgage commitment.
+Purchasers encountered difficulty obtaining a conventional mortgage for 90% of the purchase price. Within the 45-day period they proposed extending the period to 60 days. Sellers rejected the proposal. Purchasers then obtained a commitment for a mortgage in the amount of $129,000, only 80% of the purchase price, and notified sellers within the 45-day period that they were prepared to complete the purchase transaction with the smaller mortgage. Sellers nevertheless declared the contract void because the commitment obtained was for an amount less than the amount stated in the mortgage contingency clause. Purchasers thereupon brought this suit for specific performance.
+The matter was presented to the trial judge on cross-motions for summary judgment. He held that sellers properly voided the contract because the amount of the mortgage obtained was less than the amount stated in the mortgage contingency clause. Addressing purchasers’ attorney the judge elaborated as follows:
+I am saying you did not get a commitment to make these people secure that there was $145,800 available to close this deal. All you had was a commitment for something less, and their promise, don’t worry, we’ll make up the difference. That doesn’t meet what was required here.
+The judge thereupon denied purchasers’ motion for a judgment of specific performance and dismissed the suit. We now reverse.
+In Schultz v. Topakyan, 193 N.J.Super. 550 (App.Div.1984), certif. den. 99 N.J. 207 (1984), we held that a mortgage contingency is satisfied if the commitment issues within the contingency period even though the sellers do not learn that it had issued until after the period. Id. at 553. We noted there that although a mortgage contingency clause primarily protects buyers, the deadline for obtaining the mortgage protects sellers and is therefore of the essence of the contract. Sellers need the definite assurance that if the mortgage is not obtained by the deadline, they are free to return the property to the market. Once the commitment has issued, however, sellers are secure and therefore not prejudiced by a delay in receiving notice of its issuance. Id. at 553.
+The trial judge relied upon our statement in Schultz that sellers’ interests are served by requiring purchasers to obtain a mortgage commitment within the contingency period. From that statement he concluded that sellers’ interests are similarly served by requiring that the amount of the mortgage be sufficient to enable the purchasers to close. Inferentially he reasoned that because a mortgage in an amount less than the amount stated in the contingency clause could be insufficient to enable purchasers to close, when such a commitment is issued sellers should be free to void the contract and immediately return the property to the market.
+We need not consider whether the smaller mortgage impaired or should be deemed to have impaired these purchasers’ ability to close, because the parties had expressly agreed that purchasers could waive the mortgage contingency altogether. Where sellers agree that purchasers may close with no mortgage, they cannot complain if the purchasers choose to close with a mortgage in an amount less than the amount stated in the mortgage contingency clause.
+Even where the contingency clause does not give purchasers the express right to waive the mortgage contingency, courts have held that because the clause is primarily for the purchasers’ benefit their right to waive is implied and purchasers are therefore free to close with a smaller mortgage or no mortgage at all. Schroeder v. Krushevski, 186 So.2d 640, 643 (La.App. 1966), writ refused, 249 La. 706, 190 So.2d 230 (1966); Wolf v. Crosby, 377 A.2d 22, 27 (Del.Ch.1977).
+On the other hand where the contingency clause expressly permits either party to cancel “[i]n the event that the Purchaser is unable to obtain a mortgage commitment in the amount and on the terms set forth' herein” it has been held that the purchaser could not unilaterally waive the clause and offer to close without having obtained the mortgage specified in the clause. Dale Mortg. Bankers v. 877 Stewart Avenue, 518 N.Y.S.2d 411, 412 (App.Div.1987).
+We reject as clearly without merit sellers’ additional argument that purchasers’ unsuccessful effort to obtain an extension of the contingency period invalidated the existing contract. R. 2:ll-3(e)(l)(E).
+The parties advised us at oral argument that sellers have not sold the property. We therefore reverse and remand for the entry of a judgment of specific performance in favor of plaintiffs.
