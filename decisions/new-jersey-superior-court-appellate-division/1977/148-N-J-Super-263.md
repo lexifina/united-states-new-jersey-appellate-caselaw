@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1977-03-14"
+citations: ["148 N.J. Super. 263"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-APPELLANT, v. AYRTON O. REID, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/148/cases/0263-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 867749
+cites_cases: ["105 N. J. L. 29", "113 Cal. Rptr. 272", "147 U. S. App. D. C. 75", "17 Ariz. App. 553", "212 F. 2d 919", "348 U. S. 840", "35 L. Ed. 2d 611", "38 Cal. App. 3d 484", "410 U. S. 945", "454 F. 2d 918", "500 P. 2d 247", "531 F. 2d 946", "75 S. Ct. 46", "93 S. Ct. 1389", "99 L. Ed. 663"]
+---
+
+# State v. Reid
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The State appeals from an amended judgment of the Law Division resulting from (1) the granting of defendant’s petition for post-conviction relief, (2) the vacation of a sentence previously imposed upon him for possession of marihuana and (3) the acceptance of a plea of guilty by defendant to a charge of possession of a gun.
+The indictment charged defendant and his wife Dolories J. Reid and his brother Carol E. Reid in the first count with possession of marihuana, the second count charged the same persons with possession of a dangerous instrument known as a machete, and the third count charged only defendant’s wife Dolories J. Reid with possession of a .32-caliber automatic pistol.
+Pursuant to a plea bargain defendant entered a plea of guilty to the first count of the indictment. Although he was not named as a defendant in the third count, he also pleaded guilty to the third count. On December 2, 1974 the trial judge sentenced defendant to two concurrent terms of one to two years in the New Jersey State Prison which were suspended. Defendant was placed on probation for two years and fined $200. Pursuant to the plea bargain, the prosecutor moved to dismiss all three counts of the indictment with respect to the remaining defendants, as well as the second count as it related to defendant Ayrton Peid. The judge granted the motion.
+Shortly after sentencing defendant’s counsel moved to vacate the conviction and sentence on the third count charging possession of the gun. That motion was granted.
+On December 8, 1975 defendant filed a petition for post-conviction relief seeking “to vacate conviction for possession of marijuana and request to bo allowed to plea to possession of weapon.”
+The judge held a hearing on the petition for postconviction relief. Defendant testified that he was a native of Jamaica and was the subject of deportation proceedings because of his conviction for possession of marihuana. He stated that he would not have pleaded guilty to the marihuana charge if he knew it would subject him to deportation and that he believed he would not be as likely to be deported if he pleaded guilty to possession of a gun since his wife was an American citizen.
+Over the objection of the State, which the judge characterized as technical, defendant’s application to withdraw his plea of guilty to the marihuana charge in the first count was granted. The judge also granted defendant’s motion to amend the third count by including him as a named defendant. The court then accepted defendant’s plea of guilty to possession of the gun and sentenced him as follows:
+Ordered and Adjudged that the defendant be and is sentenced to the Middlesex County Workhouse for One (1) day, sentence suspended. Defendant placed on PROBATION for 1% years, commencing this day. (NOTE: said probation to be transferred to Philadelphia). The standard conditions of probatin [sic] are incorporated herein and made a part hereof. Defendant fined $200.00 said fine suspended on the condition that the defendant does not apply for return of $200.00 fine previously paid.
+We have carefully reviewed the record of the proceedings below and have concluded that the trial judge mistakenly exercised his discretion in several respects.
+Amendment of the third count of the indictment so as to include defendant’s name was improper. Art. 1, of the New Jersey Constitution provides, with exceptions not pertinent here, that “no person shall be held to answer for a criminal offense unless on the presentment or indictment of a grand jury.” The rules of court permit the amendment of an indictment to “correct an error of form or the description of the offense,” R. 3:7-4, but an amendment to add an additional defendant is not within the contemplation of the rule. Cf. State v. Cohen, 105 N. J. L. 29 (Sup. Ct. 1929). A defendant may waive his right to indictment and elect to proceed on an accusation. However, R. 3:7-2 requires that he be advised of his right to indictment and execute a waiver in writing, neither of which was done in the instant proceedings.
+Of more significant importance, however, is the lack of an adequate reason in the record to justify the granting of the motion to vacate the plea of guilty to the marihuana charge. Defendant freely and openly admitted his guilt at the time of the entry of his plea in 1974. At the hearing on his petition for post-conviction relief defendant did not deny his guilt. The only reason advanced to justify vacation of the plea was defendant’s lack of an understanding of the collateral consequences insofar as his immigration status was concerned. Such a reason is not adequate since it does not relate to the penal consequences of the plea. United States v. Parrino, 212 F. 2d 919 (2 Cir. 1954), cert. den., 348 U. S. 840, 75 S. Ct. 46, 99 L. Ed. 663 (1954); Fruchtman v. Kenton, 531 F. 2d 946 (9 Cir. 1976); United States v. Sambro, 147 U. S. App. D. C. 75, 454 F. 2d 918 (1971); People v. Flores, 38 Cal. App. 3d 484, 113 Cal. Rptr. 272 (D. Ct. App. 1974); Tafoya v. State, 500 P. 2d 247 (Alaska Sup. Ct. 1972), cert. den., 410 U. S. 945, 93 S. Ct. 1389, 35 L. Ed. 2d 611 (1973); State v. Rodriguez, 17 Ariz. App. 553, 499 P. 2d 167 (App. Ct. 1972).
+The order amending the indictment is vacated. The judgment of conviction for possession of a gun is vacated. The order granting the petition to withdraw the plea is vacated. The judgment of conviction under the first count of the indictment charging possession of marihuana is reinstated.
