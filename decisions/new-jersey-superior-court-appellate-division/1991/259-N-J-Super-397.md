@@ -1,0 +1,50 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1991-07-30"
+citations: ["259 N.J. Super. 397", "613 A.2d 1167"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LACEY TOWNSHIP BOARD OF EDUCATION, PLAINTIFF-RESPONDENT, v. LACEY TOWNSHIP EDUCATION ASSOCIATION, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/259/cases/0397-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 342182
+cites_cases: ["443 A.2d 187", "449 A.2d 1244", "453 A.2d 176", "489 A.2d 159", "88 N.J. 393", "91 N.J. 18", "91 N.J. 464", "98 N.J. 523"]
+---
+
+# Lacey Township Board of Education v. Lacey Township Education Ass'n
+
+## Majority (D’ANNUNZIO, J.A.D.)
+
+The opinion of the court was delivered by
+D’ANNUNZIO, J.A.D.
+Lacey Township Education Association (Association) appeals from a May 4, 1990 Chancery Division judgment vacating an arbitration award because it “was procured by undue means within the meaning of N.J.S.A. 2A:24-8(a).” This ruling was based on the trial judge’s finding that the award interfered with a management prerogative. We now reverse.
+This litigation arises out of the observation and evaluation of a tenured teacher, Mary Ann Mutter, by an evaluator, Robert Ranta. Ranta observed Mutter in her English class on September 22, 1987. A post-observation conference between Ranta and Mutter was scheduled and held shortly thereafter.
+Article XXI, c. 3 of the collective bargaining agreement provides:
+A teacher shall be given a copy of any class visit or evaluation report prepared by his evaluators before any conference to discuss it. If a teacher or the administration, having received a copy of a class visit or evaluation report, wishes one or two days delay before conferring on the subject matter of the report, such limited delay shall be a matter of right. No such report shall be submitted to the central office, placed in the teacher’s file or otherwise acted upon without prior conference with the teacher.
+It is conceded that Mutter did not receive a copy of the evaluation report prior to her conference with Ranta. It also is conceded that the report did not exist when Mutter and Ranta conferred, but that it was prepared by Ranta after the conference.
+The Association filed a grievance seeking to have Ms. Mutter “made whole.” At level three of the grievance procedure the dispute was before the Board of Education (Board). The Board rejected those aspects of the grievance which attacked the substance of the report and the overall rating that Ms. Mutter eventually received. Regarding the procedural aspects of the evaluation, the Board’s decision stated that “the Administration is directed to comply in the future with the provision of Article XXI C3 of the contract.” Pursuant to the collective bargaining agreement, the Association filed a demand for arbitration. The demand described the dispute as follows:
+1. Changing from a satisfactory evaluation rating to an unsatisfactory rating.
+2. Conference conducted prior to written report being distributed as set forth in contract.
+The remedy sought was that “Ms. Mutter be made whole.” The Board sought an arbitrability determination from the Public Employment Relations Commission (PERC). PERC made the following final determination:
+To the extent that the grievance alleges that the change of evaluation rating from equivocal to negative was done in reprisal for a grievance filing, the grievance is non-negotiable and non-arbitrable. Accordingly, the Association is restrained from proceeding with the arbitration on this issue pending a decision by the full Commission.
+To the extent that the grievance alleges that the Board did not provide grievant Mutter with a timely written evaluation, the issue is mandatorily negotiable and arbitrable. Accordingly, the Board’s request for a temporary restraint of arbitration of this issue is denied.
+The matter proceeded to arbitration. Since it was conceded that the administration had violated the requirement that an evaluation report be provided to the teacher before the conference, the only issue before the arbitrator was one of the appropriate remedy. The arbitrator rendered his decision in a written opinion and made the following award:
+The remedy to the admitted violation of Article XXI, C3 of the contract is to make Ms. Mary Ann Mutter whole by expunging and destroying the evaluation report dated September 23, 1987.
+The Board commenced this action to vacate the award and the Association counterclaimed, seeking its confirmation.
+We conclude that the arbitrator’s remedy did not substantially interfere with the school administration’s management prerogatives and did not violate any statutory policy. Old Bridge Tp. Bd. of Educ. v. Old Bridge Educ. Ass’n., 98 N.J. 523, 525, 527-528, 489 A.2d 159 (1985).
+The Board negotiated the requirement that the evaluated teacher receive a copy of the evaluation before the conference. Negotiability and arbitrability were confirmed by PERC. The remedy of expungement merely eliminated a document. The evaluation reflected in that document did occur, presumably to the benefit of the teacher and the evaluator. Nothing in the remedy prohibited subsequent evaluation of the same teacher.
+We are satisfied that the remedy was a measured response to the conceded procedural violation. Arguably, one of the purposes of pre-conference distribution of the evaluation report, in addition to notice and an opportunity to prepare a response, is to protect the teacher by requiring the evaluator to commit himself before the conference. In this case, the procedural lapse was aggravated by the post-conference preparation of the report.
+Reversed.
+The parties agree that subsequent evaluations have taken place.
+
+## Dissent (GRUCCIO, J.A.D.,)
+
+GRUCCIO, J.A.D.,
+dissenting.
+Although the Association contends that judicial review is limited to determining whether the interpretation of the contract language is “reasonably debatable,” that standard applies only to “matters of interpretation.” Old Bridge Tp. Bd. of Educ. v. Old Bridge Educ. Assoc., 98 N.J. 523, 527, 489 A.2d 159 (1985) (citing State v. State Troopers Fraternal Assoc., 91 N.J. 464, 469, 453 A.2d 176 (1982)). As in Old Bridge, our task here is not to determine whether the interpretation of the language of the agreement is reasonably debatable, but rather whether the arbitrator followed the inherent guidelines applicable to public sector arbitration. Old Bridge, supra, 98 N.J. at 527, 489 A.2d 159.
+Here, proper remedies were open to the arbitrator. Board Policy No. 4115 provides that a tenured teacher may request additional observations by filing a written request with his administrative supervisor. The arbitrator should have fashioned a remedy consistent with this policy statement. Moreover, Mutter could have requested additional observations herself. In addition, if the arbitrator was, in fact, concerned with the procedures by which the evaluation at issue was made, the preferred course would have been to direct the administration to comply with Article XXI C3 of the teacher’s contract, which governs evaluation procedures. In fact, this step was taken by the Board of Education.
+I recognize that our Supreme Court has distinguished between a public employer’s substantive decision to transfer or assign employees, which constitutes inherent managerial prerogatives, and the procedural process to be followed in making such a decision. New Jersey State College Locals v. State Bd. of Higher Educ., 91 N.J. 18, 32-33, 449 A.2d 1244 (1982) (citing In re IFPTE Local 195 v. State, 88 N.J. 393, 402, 443 A.2d 187 (1982)). However, the Court held in Local 195 that the procedures for implementing substantive decisions relating to transfers and reassignments are subject to mandatory negotiation because procedural matters pose no significant threat of interference with the public employer’s ability to make substantive policy determinations. Local 195, supra, 88 N.J. at 417, 443 A.2d 187. By contrast, here, the challenging of the procedure by which an evaluation is made poses a very significant threat in that it can now be a “back-door” approach of challenging the substance of an evaluation. Consequently, the arbitrator’s decision to expunge the entire record of Mutter’s first evaluation not only puts the Board in the position of not meeting its statutorily-required annual evaluation of teachers, it also has the potential to allow teachers’ associations to, in effect, be able to delete poor evaluations of its members.
+I am constrained to note that although the grievance filed by the Association seems to contend that Ranta’s change of Mutter’s evaluation from satisfactory to unsatisfactory was done in reprisal for the Association’s filing of a grievance, the record clearly shows that in his first report, under the heading of “overall rating,” Ranta wrote: “Except as noted in the summary, this is á satisfactory observation report.” Subsequently, Frank Cangelosi, the high school principal, informed Ranta that the administration’s policy required that the evaluation report contain an unequivocal statement as to whether or not Mutter’s performance was satisfactory. Ranta amended the evaluation report to state: “This was an unsatisfactory observation.” This shows that not only was the amending of the evaluation not done in reprisal for the Association’s filing of a grievance, but also that Ranta, having first given Mutter a somewhat satisfactory evaluation, was not “out to get” Mutter.
+Moreover, no harmful error occurred here. Subsequent to the evaluation at issue, another evaluation was made following proper procedure which confirmed the unsatisfactory evaluation previously given. Thus, Mutter was not harmed by the first evaluation during which improper procedure was followed. Consequently, the Appellate Division must disregard any error which occurred. R. 2:10-2.
+For the above reasons, I would affirm the Chancery judge’s decision.
