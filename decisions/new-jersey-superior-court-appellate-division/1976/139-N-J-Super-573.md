@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1976-03-11"
+citations: ["139 N.J. Super. 573"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["INTERNATIONAL TRACERS OF AMERICA INC., A CORPORATION OF THE STATE OF FLORIDA, LICENSED TO DO BUSINESS IN NEW JERSEY, PLAINTIFF-APPELLANT, v. CAROLYN B. SNYDER RINIER, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/139/cases/0573-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 302882
+cites_cases: ["121 N. J. Eq. 213", "2 N. J. Super. 458", "268 Cal. App. 2d 86", "42 N. J. 87", "7 N. J. 118", "73 Cal. Rptr. 599"]
+---
+
+# International Tracers of America Inc. v. Rinier
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff is a corporation of the State of Florida, authorized to do business in New Jersey. While conducting research in another, case, Stephen Sonson, president of plaintiff corporation, came across certain documents in the Mercer County Surrogate’s office which indicated that defendant was the missing heir in the estate of one Joseph Snyder.
+Sonson then undertook to locate the missing heir by cheeking marriage records in Philadelphia, death indices, making telephone calls, following leads and ultimately located defendant. He then telephoned defendant and told her that she might be entitled to an unclaimed asset. The following day (November 17, 1971) Sonson went to defendant’s home where, in the presence of her husband, he offered to divulge the information he had in exchange for her agreeing to pay plaintiff 25% of any amount which she recovered.
+The trial judge in his written opinion found that Sonson asked defendant to sign an agreement to that effect. He told her she could consult an attorney if she wished but that he would have to have an answer right there and then or he would drop the matter. Defendant attempted to reach her personal attorney by telephone, but was unable to do so. Upon Sonson’s insistence that she make an immediate decision, defendant then signed the agreement which read as follows:
+In consideration of your investigations in connection with monies to which I am, or may be, entitled, I hereby agree to pay you twenty-five percent (25%) of any amount which may be collected for me. Tou are hereby authorized as my agent to do everything to protect my share of the asset, as well as your own. It is distinctly understood that I am to have absolutely no personal responsibility to you, or anyone else, for costs or expenses of any kind.
+After the agreement was executed, Sonson informed Mrs. Einier that the asset was the estate of her deceased grandfather, Joseph E. Snyder. While defendant had known of the death of her grandfather in January 1971 and at that time had contacted Anna M. Savadge who was later appointed administratrix of the estate, she did not know that she was entitled to his estate. Neither Sonson nor anyone else for International Tracers did anything else in connection with this matter. However, Sonson did telephone defendant on November 18 and suggested an attorney (the same attorney who represented plaintiff in this suit below) to represent and secure her interests in the Snyder estate. Defendant did not accept the recommendation but retained her family attorney.
+The inventory and appraisement filed by the administra-trix c.t.a. fixed the market value of the personal property at $55,354. Additionally, Mrs. Einier received a house which sold for $26,000. Defendant never paid anything to the plaintiff. This suit was instituted to recover on the agreement. Defendant contended the agreement was void and consequently she had no obligation to pay plaintiff.
+The trial judge found that the contract granted to plaintiff authority which, if acted upon, would constitute the illegal practice of law, in violation of N. J. S. A. 2A:170-78 and 2A:170-79; that plaintiff was asking the court to enforce a contract part of which was void because it involved the plaintiff in illegal activity, and hence he left the parties where he found them, citing Carey v. Thieme, 2 N. J. Super. 458 (Ch. Div. 1949), and Stack v. P. G. Garage, Inc., 7 N. J. 118, 120-121 (1951).
+On appeal plaintiff contends that the trial judge (1) unfairly based his opinion on an issue not contemplated by the pretrial order, i. e., the contract called for an unlicensed person to engage in the practice of law, in violation of N. J. S. A. 2A:170-78 and 2A:170-79; (2) erred in holding that plaintiff was engaged in the unauthorized practice of law; (3) failed to construe the contract so as to effectuate the intention of the parties; (4) should have severed the void portion of the agreement and enforced the balance of the contract, and (5) incorrectly limited plaintiff’s cross-examination so as to preclude adequate proof of the sums due plaintiff.
+Preliminarily, we note the pretrial order in Item 7 specifically raised the issue of illegality of contract, and prior to trial defendant’s memorandum of law specifically referred to the applicability of N. J. S. A. 2A:170-78 and N. J. S. A. 2A:170-79(a).
+Jurisdictions which have found probate research contracts void as involving the illegal practice of law have also considered them a “commercial exploitation of the legal profession” and violative of public policy as a “commercial exploitation of estate litigation”. See, e. g. In re Estate of Collins, 268 Cal. App. 2d 86, 73 Cal. Rptr. 599, 602 (D. Ct. App. 1968) and cf. Carey v. Thieme, supra.
+Consideration of the solicitation approach of plaintiff in light of the “established hostility toward so-called fiieir-hunting’ ” referred to in Bron v. Weintraub, 42 N. J. 87, 95 (1964), and aside from any consideration of whether plaintiff’s activities constituted an unlawful practice of law, leads us to conclude said activities are “inimical to the public policy of protecting beneficiaries of estates from imposition and unnecessary expense.” Carey v. Thieme, supra 2 N. J. Super. at 466.
+Since the illegality which renders the contract void is one that goes to the main body of the agreement and the portion of the contract which is void does not constitute an insubstantial part thereof, it cannot be severed and the remainder enforced. Lodi Tp. v. Little Ferry Nat. Bank, 121 N. J. Eq. 213, 215 (Ch. Div. 1937).
+In view of our conclusions we do not reach nor need we pass upon plaintiff’s contention that the trial judge improperly limited its cross-examination of defendant regarding the value of the estate and the sums due plaintiff.
+Affirmed.
