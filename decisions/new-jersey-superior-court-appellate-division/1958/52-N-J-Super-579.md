@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1958-11-26"
+citations: ["52 N.J. Super. 579"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALBERTO RESTO, PLAINTIFF-RESPONDENT, v. ROSECLIFF REALTY CO., INC., DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/52/cases/0579-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 396029
+cites_cases: ["118 N. J. L. 10", "16 N. J. Super. 484", "19 N. J. Super. 339", "2 N. J. 490", "4 N. J. 150", "48 N. J. Super. 300"]
+---
+
+# Resto v. Rosecliff Realty Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Appeal is from a Superior Court, Law Division judgment in favor of plaintiff entered on a jury’s verdict. It is contended that the trial court erred in denying defendant’s motions for judgment at the end of the plaintiff’s case and at the end of the entire case, and its motion to set aside the verdict and for a new trial.
+Suit was instituted by plaintiff for personal injuries alleged to have been sustained from a fall on July 31, 1955, on which date plaintiff was an invitee at defendant’s swimming pool at Palisades Park. Plaintiff testified that he entered the pool at its shallow end near a sand beach. He was carrying his infant grandniece in his arms. He alleged that, when about four feet from the edge of the pool while in about 12 inches of water, he stepped on something slimy and slippery which caused him to fall and sustain injuries. Plaintiff did not see the object on which he slipped.
+A nephew of plaintiff and father of the child testified that he heard a splash when plaintiff fell and rushed to his aid. He stated that while helping plaintiff out of the water, he saw “some green,” “very hairy” object or “growth” on the base of the pool under the water near where plaintiff fell. After helping plaintiff this witness did not return to the pool to investigate further what caused the fall or what was the exact nature of the alleged substance. On cross-examination he testified that the object or growth was moving around. This testimony contradicted his previous testimony that what lie saw was a growth on the bottom of the pool. The witness characterized this object as a “growth” because it seemed to him similar to growths which he had observed on previous occasions at various beaches and in the East Eiver.
+Defendant’s superintendent testified that the pool was thoroughly drained and scrubbed only the night before the incident and that this procedure was generally followed at least twice a week.
+As stated above, defendant contends that the trial court committed reversible error in denying defendant’s three motions. However, we feel that a determination on the single issue of the propriety of the trial court’s denial of defendant’s motion for judgment at the close of the entire case will be dispositive of this appeal. The motion was properly denied if, upon the evidence as it stood at the close of the entire case, the jury could reasonably find that there was a growth and that such growth existed for so long a time that, by the exercise of reasonable care, defendant had the opportunity to discover and to remove it. “In the absence of proof of either, the legal presumption is that defendant had used reasonable care.” Thompson v. Giant Tiger Corp., 118 N. J. L. 10, 13 (E. & A. 1937). If it was not a growth, but some mass or object, there was no proof who placed it there or how long it had been there.
+It is conceded that plaintiff was a paying patron on defendant’s premises. One who invites customers to come upon his business premises is under a duty to exercise ordinary care to render the premises reasonably safe for such purpose. The proprietor is not an insurer, but he is liable for defects of which he knows or which have existed for so long a time that, by the exercise of reasonable care, he had both an opportunity to discover and to remedy. Nelson v. Great Atlantic & Pacific Tea Co., 48 N. J. Super. 300, 305 (App. Div. 1958); Restatement, Torts, N. J. Annot., § 343 (1940).
+In Simpson v. Duffy, 19 N. J. Super. 339 (App. Div. 1952), plaintiff slipped on a green vegetable leaf near the vegetable counter in defendant’s store. Affirming a judgment for defendant entered on motion at the close of the trial, we said (19 N. J. Super, at page 345):
+“* * * it jg piain that to submit the question of whether or not the vegetable matter had been dropped by an employee of the store operator would be to authorize and direct the jury to decide the responsibility of the defendant on the basis of speculation and conjecture.”
+That it was a growth was not supported by the testimony. Plaintiff actually had no knowledge what it was and so testified. His nephew testified at one point that it was a growth on the concrete and at another point that it was moving. His observation was fleeting through at least a foot of water, in the midst of the excitement of lifting his uncle from the water and seeing to his and his daughter’s welfare. To accept his testimony that it was a growth, i. e., something which must have been there for some time and which defendant or its agents saw or should have seen, would be to base the conclusion on mere conjecture. Callahan v. National Lead Co., 4 N. J. 150, 155 (1950); Gaffney v. America on Wheels, 16 N. J. Super. 484, 486 (App. Div. 1951).
+Additionally, several factors militate against plaintiff here. As stated above, defendant’s superintendent testified that the pool was completely drained and scrubbed the night before the accident. We conclude that at the close of the entire case plaintiff had not submitted proof sufficient to justify the trial court’s action in allowing the case to go to the jury. See Oelschlaeger v. Hahne lc§ Co., 2 N. J. 490 (1949); Restatement, Torts, § 343; Prosser on Torts (2d ed. 1955), page 459. Defendant’s motion for judgment at the close of the entire case should have been granted.
+Reverse. Judgment for defendant is directed to be entered.
