@@ -1,0 +1,35 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1980-10-28"
+citations: ["176 N.J. Super. 141"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-APPELLANT, v. SIMA MRAOVITCH, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/176/cases/0141-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 293185
+cites_cases: ["171 N.J.Super. 157", "38 L.Ed.2d 733", "414 U.S. 1106", "63 N.J. 351", "81 N.J. 475", "94 S.Ct. 831"]
+---
+
+# State v. Mraovitch
+
+## Majority (FURMAN, J. S. C. (temporarily assigned).)
+
+The opinion of the court was delivered by
+FURMAN, J. S. C. (temporarily assigned).
+This appeal by the State raises an issue in the administration of the Code of Criminal Justice, N.J.S.A. 2C:1-1 et seq.
+Defendant was indicted in July 1977 for criminal contempt in violation of N.J.S.A. 2A:85-1. He had breached a custody and visitation order of the Juvenile and Domestic Relations Court by removing his infant son to his native Yugoslavia. After a 2V2- year interval during which the indictment was on the inactive list, he appeared for arraignment in January 1980. The judge below permitted him to plead guilty to interference with custody, a disorderly persons offense, in violation of N.J.S.A. 2C:13-4, and imposed a $100 fine. The equivalent or congruent offense to the Title 2A crime of criminal contempt of a custody order is interference with custody under the Code. The 1977 indictment was not dismissed. The trial judge commented: “We are not talking about dismissals of the indictment. We are talking about handling the charge as a disorderly persons charge.”
+The State appeals from the order permitting entry of the plea of guilty, contending that the trial judge erred in accepting such plea to a criminal act committed prior to the effective date of the Code, September 1, 1979.
+According to N.J.S.A. 2C:l-l(b) the Code is inapplicable to offenses committed prior to its effective date, except for the provisions of N.J.S.A. 2C:l-l(e) and (d). Section (d), dealing only with persons convicted prior to the Code’s effective date, is not relied upon by defendant. His argument is that the order appealed from is in accordance with 2C:l-l(c)(l), which provides that in any case pending on or initiated after the effective date of the Code involving an offense committed prior thereto:
+The procedural provisions of the Code shall govern, insofar as they are justly applicable and their application does not introduce confusion or delay; ...
+We disagree with defendant’s argument. The classification of criminal conduct, what degree of crime, has the substantive effect of fixing the limits of punishment. The provision of N.J.S.A. 2C:1-1(C)(1) that the Code governs procedure in the prosecution and disposition of offenses committed prior thereto does not expressly authorize and should not be construed as authorizing the prosecution and disposition of a pending indictment for a Title 2A crime as a disorderly persons charge.
+In State v. Molnar, 81 N.J. 475 (1980), the Supreme Court designated the burden of proof on the defense of amnesia as procedural within N.J.S.A. 2C:1 — 1(c)(1) but upheld the trial judge’s charge to the jury according to the law prevailing at the time of the trial, prior to the effective date of the Code, because, in the Supreme Court’s view, the Code provisions were not justly applicable and would introduce confusion and delay.
+In discussing the distinction between procedural law, subject to N.J.S.A. 2C:l-l(c)(l), and substantive law, the Supreme Court commented:
+While in most contexts “it is simplistic to assume that all law is divided neatly between ‘substance’ and ‘procedure,’ ” Busik v. Levine, 63 N.J. 351, 364 (1973), app. dism., 414 U.S. 1106, 94 S.Ct. 831, 38 L.Ed.2d 733 (1973), the Legislature apparently intended to draw just such a distinction in N.J.S.A. 2C:l-l(cXl). The guideposts of “confusion or delay” in 2C:l-l(c) indicate that this provision broadly encompasses the process by which the State attributes guilt and imposes punishment. In the context of a codified criminal law, “procedure” refers to the conduct of a “prosecution” for [an] offense,” N.J.S.A. 2C:l-l(b), as contrasted with the “substantive” definitions of conduct declared to be criminal. “A rule of procedure may have an impact upon the substantive result and be no less a rule of procedure on that account.” Busik, supra, 63 N.J. at 364. [at 488]
+Defendant’s construction of N.J.S.A. 2C:l-l(c)(l) would result in inconsistency between that subsection and other provisions of the Code. The legislative objective of uniformity in punishment for the same substantive criminal conduct is accomplished not by N.J.S.A. 2C:l-l(c)(l) but by N.J.S.A. 2C:l-l(c)(2), which empowers a sentencing court, with the consent of the defendant, to sentence under the provisions of the Code upon conviction of an offense committed prior to its effective date. The latter subsection would add nothing if the preceding subsection had the broad effect which defendant argues for. Rather, the legislative intent is manifest that pending Title 2A indictments and charges were to be prosecuted as such but that sentencing upon a conviction of the Title 2A offense might be, with defendant’s consent, in accordance with the sentence provisions in the Code for the corresponding Code offense.
+The broad construction of NJ.S.A. 2C:l-l(c)(l) urged by defendant is also at variance with NJ.S.A. 2C:l-l(d)(2), which provides for a judicial proceeding on motion for a resentence by a defendant convicted of a Title 2A offense to determine the equivalent or congruent offense under the Code, whether the maximum term of imprisonment for the Code offense is less than that for the Title 2A offense and whether defendant has shown good cause for resentencing. The substantive elements of many Title 2A offenses do not coincide precisely with Code offenses. The exclusion of any provision for judicial determination of equivalency in N.J.S.A. 2C:l-l(c)(l) is further support that the legislative intent was not to reclassify pending indictments for Title 2A offenses, by operation of law, into charges for equivalent or congruent Code offenses, even if the Title 2A offense was downgraded in the Code.
+Nor can defendant rely on N.J.S.A. 2C:l-l(c)(3), which provides:
+The court shall, if the offense committed is no longer an offense under the provisions of the code, dismiss such prosecution.
+A disorderly persons offense is an offense within the definition in the Code, NJ.S.A. 2C:1-14, and a pending indictment for a Title 2A crime involving the same substantive criminal conduct which constitutes a disorderly persons offense under the Code is not subject to dismissal under N.J.S.A. 2C:l-l(c)(3). Accord, State v. Glass, 171 N.J.Super. 157 (Law Div. 1979).
+We reverse and remand for disposition of the pending indictment for criminal contempt against defendant. We do not retain jurisdiction.
