@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1977-05-18"
+citations: ["150 N.J. Super. 5"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ALENE S. AMMOND, PLAINTIFF-APPELLANT, v. MICHAEL KEATING ET AL., DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/150/cases/0005-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 869311
+cites_cases: ["352 F. Supp. 85", "353 F. Supp. 1211", "38 L. Ed. 2d 39", "383 F. Supp. 1287", "414 U. S. 802", "420 U. S. 958", "43 L. Ed. 2d 435", "6 N. J. 560", "94 S. Ct. 125", "95 S. Ct. 1346"]
+---
+
+# Ammond v. Keating
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals from a trial court judgment invalidating those portions of N. J. Const. (1947), Art IV, § I, par. 2, and its statutory implementing provision, N. J. S. A. 52.T0B-6, which impose a one-year residency requirement in the Senatorial District from which a State Senator seeks election as a condition to membership in the State Senate. The trial judge concluded that such a requirement was offensive to the Fourteenth Amendment of the Federal Constitution. We reverse.
+The facts are undisputed. Plaintiff Alene S. Ammond, a Democrat and incumbent State Senator for the 6th Senatorial District, is a candidate for reelection to that office whose right to run in the 1977 general election will be determined in the primary election of the Democratic Party scheduled to be held on June 7, 1977. Michael Keating, also a Democrat and, incidentally, Clerk of Camden County, has filed with the acting Secretary of State petitions to be nominated to run in the same primary in opposition to plaintiff. It is stipulated that Michael Keating has been a resident of the 6th Senatorial District for less than a year. Plaintiff’s challenge to his right to appear on the primary election ballot is based upon that stipulated fact.
+Because of the imminence of the primary election and the necessity of printing ballots, the appeal has been presented to us on emergent basis. Following oral argument, specially scheduled, we rendered an oral opinion from the bench so as to permit further action by the litigants within the required time frame. The following is our written opinion required by R. 2:11-3(a).
+One year’s residency “next before his election” in the Senatorial District from which election is sought is made a condition to the office of State Senator by N. J. Const. (1947), Art. IV, § I, par. 2, and N. J. S. A. 52:10B-6. It is stipulated that Michael Keating does not fulfill that requirement. The sole question posed is whether that residency requirement offends the Fourteenth Amendment to the Federal Constitution. The trial court held that it did, taking the view that the right to seek elective office is a fundamental right necessitating application of the so-called “compelling interest” test to determine its constitutional validity. Finding no compelling state interest justifying imposition of such a residency requirement, the constitutional and statutory provisions imposing it were stricken and the name of Michael Keating was ordered placed on the primary election ballot.
+In confronting the federal question presented, we are not treading on virgin soil. Recent decisions from the United States Supreme Court affirm the validity of longer durational residency requirements for state office' than the requirement invalidated in the present case. At issue in Sununu v. Stark, 383 F. Supp. 1287 (D. N. H. 1974), aff’d mem. 420 U. S. 958, 95 S. Ct. 1346, 43 L. Ed. 2d 435 (1975), was a seven-year durational residency requirement upon those seeking election as State Senator. There, too, it was stipulated that the proposed candidate failed to meet that requirement which was upheld as justified by a compelling state interest. The United States Supreme Court summarily affirmed. Chimento v. Stark, 353 F. Supp. 1211 (D. N. H.), aff’d mem. 414 U. S. 802, 94 S. Ct. 125, 38 L. Ed. 2d 39 (1973), upheld a seven-year durational residency requirement for Governor against the contention that the requirement violated the Equal Protection Clause of the Fourteenth Amendment, or the fundamental right to interstate travel. See also, Walker v. Yucht, 352 F. Supp. 85 (D. Del. 1972), which upheld a three-year state residency requirement and a one-year district residency requirement against a federal constitutional challenge.
+In the face of these authoritative opinions from the court of last resort, and convinced that the one-year district residency requirement at issue here at least bears a rational relation to legitimate state goals, see Stothers v. Martini, 6 N. J. 560, 567 (1951), we perceive no justification for concluding otherwise. In our view, the constitutional and statutory residency requirement for the office of State Senator fills a compelling state need and is rationally related to legitimate state objectives.
+The judgment of the trial court is reversed and the name of Michael Keating is ordered stricken from the primary election ballot.
+Art IV, § I, ¶ 2 —
+No person shall be a member of the Senate who shall not have attained the age of thirty years, and have been a citizen and resident of the State for four years, and of the district for which he shall be elected one year, next before his election. No person shall be a member of the General Assembly who shall not have attained the age of twenty-one years and have been a citizen and resident of the State for two years, and of the district for which he shall be elected one year, next before his election. No person shall be eligible for membership in the Legislature unless he be entitled to the right of suffrage.
+N. J. S. A. 52:10B-6 —
+No person shall be a member of the Senate who shall not have attained the age of 30 years, and have been a citizen and resident of the State for 4 years, and of the district for which he shall be elected for 1 year, next before his election, and unless he be entitled to the right of suffrage.
+Because of the speed with which this matter was heard and decided, the transcript of the trial judge’s oral opinion was not given us and we rely upon agreed representations by counsel as to the basis for the opinion.
