@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1960-05-24"
+citations: ["61 N.J. Super. 457"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE SCHEDULE FILED BY HACKENSACK WATER COMPANY, INCREASING AND CHANGING RATES FOR WATER SERVICE; HACKENSACK WATER COMPANY, APPELLANT, v. BOARD OF PUBLIC UTILITY COMMISSIONERS, DEPARTMENT OF PUBLIC UTILITIES, STATE OF NEW JERSEY, RESPONDENT."]
+source_url: "https://static.case.law/nj-super/61/cases/0457-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 420564
+cites_cases: ["57 N. J. Super. 180"]
+---
+
+# Hackensack Water Co. v. Board of Public Utility Commissioners
+
+## Majority (Haneman, J. A. D.)
+
+The opinion of the court was delivered by
+Haneman, J. A. D.
+Hackensack Water Company (Hackensack) appeals from a decision of the Board of Public Utility Commissioners (the Board) allowing a credit to it for the payment of 55.6% of the total operating charges of DeEorest Lake Reservoir (DeEorest) to Spring Valley Water Works and. Supply Company (Spring Valley) in conneetion with Hackensack’s application for the establishment of rates. The decision results from a remand by this court for additional findings and conclusions. See In re Schedule Filed by Hackensack Water Co., 57 N. J. Super. 180, 188 (App. Div. 1959).
+The sole question presented to this court is whether the Board has justified its decision that Hackensack may receive a credit of 55.6% of such charges by a reasoned conclusion based upon legitimately determined factual findings.
+Consistent with the above referred to remand, the Board afforded the parties an opportunity for a further hearing. Although no additional testimony was adduced, counsel then submitted memoranda presenting their respective positions.
+No needful purpose will here be served by a detailed recital of the facts which are set forth in our prior opinion cited above and which are here incorporated by reference. However, it is well to repeat that under the terms of Hackensack’s contract with Spring Valley, the former is obliged to pay a percentage of the operating costs of DeEorest. Under that agreement the specific annual percentage of those costs to be borne by Hackensack depends upon the ratio of the amount of water diverted by Spring Valley from DeEorest to the entire available yield of DeForest. Under the formula included in the contract, Hackensack’s maximum payment could be 95% and its minimum payment 55.6% of such costs. Hackensack is presently paying the maximum — 95%. The costs for the year 1957 were $820,938 of which sum all except $28,954 reflects fixed charges, i. e., provision for return on investment, taxes, and depreciation.
+Hackensack again argues that it should be allowed 95% of the operating costs — the full amount of the payment made to Spring Valley as required by the terms of the contract with that company. Bate counsel argues that the allotment of such costs to Hackensack should not exceed 38.75% based upon the eventual contractual allocation of water from DeEorest to Hackensack’s consumers.
+The Board, in its decision, reasoned that the basic decisive factor in determining the share of operating costs of De-Porest allowable to Hackensack in connection with its rate application was the ultimate full optimum use rather than the present actual use of water by New Jersey and New York consumers, i. e., approximately 40% and 60% respectively. The Board’s decision that fixed charges are more “properly related to the overall capacity of the reservoir and the ultimate benefits which each party may receive from the facility than to present use is entirely justified and reasonable. The Board, admitted that a reasoned estimate of the percentage of the costs to be borne by Hackensack and Spring Valley respectively could not be made with mathematical certainty. However, having in mind the benefit which New Jersey consumers obtain from the availability of the additional dependable capacity of water through the discretionary act of a sister state, the Board found that the percentage of such costs to be allocated to New Jersey consumers should, in all fairness and equity, somewhat exceed the ratio of ultimate optimum use by Hackensack to total available supply.
+The physical structure and equipment of DePorest reflects a considerable investment and carries with it an annual burden of taxes as well as a depreciation factor. Depreciation is a method of charging off the original cost. It is no more than fair that both New Jersey and New York consumers presently participate in bearing a fair share of these costs. Por New Jersey consumers to pay'95% of the ongoing fixed charges at this time would result in a windfall for New York consumers in the future when they make use of the impounded waters of DePorest unless some greater proportionate share of those charges is borne by Spring Valley in the interim. An apportionment of fixed charges on the basis of present consumption of water is unfair to Hackensack and its customers. The most reasonable approach to the problem is for consumers on both sides of the New Jersey-New York boundary to assume a reasonable portion of the burden, to be measured as nearly as possible by the ultimate optimum consumption by all parties with some additional charge upon Hackensack by assuming a portion of the fixed charges for having made available to it the physical assets of DeForest while New York consumers do not have the benefit of ultimate optimum use from that reservoir.
+The stated reasoning of the Board, based upon its factual findings, amply justifies the reasonableness of the decision that Hackensack should be allowed a credit for the payment to Spring Valley of 55.6% of the operating costs of DeForest.
+Hate counsel’s argument that the allowance to Hackensack should not exceed 38.75% is identical with that advanced by him in the initial appeal. For the reasons stated in 57 N. J. Super., at page 193, and the reasons above noted, we again find them without merit.
+Affirmed.
