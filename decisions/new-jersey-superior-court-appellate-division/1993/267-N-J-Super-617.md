@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1993-11-01"
+citations: ["267 N.J. Super. 617", "632 A.2d 548"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LEON BUCKWALD, APPELLANT, v. BOARD OF REVIEW, RESPONDENT."]
+source_url: "https://static.case.law/nj-super/267/cases/0617-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 726033
+cites_cases: ["1 N.J. 545", "231 N.J.Super. 341", "431 U.S. 471", "434 U.S. 100", "555 A.2d 710", "64 A.2d 443"]
+---
+
+# Buckwald v. Board of Review
+
+## Majority (SKILLMAN, J.A.D.)
+
+The opinion of the court was delivered by
+SKILLMAN, J.A.D.
+This is an appeal from a final decision of the Board of Review affirming a decision of an Appeal Tribunal finding appellant ineligible to receive unemployment compensation benefits because he was an officer and owner of more than 5% of the stock of his corporate employer.
+Appellant was the manager of Buckwald’s Leisure Lounge in Lakewood. He also was the Vice President and owner of more than 5% of the stock of Leisure Lounge, Inc., the corporation which operates this establishment. On March 23, 1992, the Leisure Lounge was seriously damaged by a fire and had to cease operations temporarily. As a result, the corporation stopped paying appellant’s $750 per week salary.
+On March 29, 1992, appellant filed an application for unemployment compensation benefits. A claims examiner denied this application on the ground that appellant was disqualified under N.J.S.A. 43:21-19(m)(l), which provides:
+An individual shall be deemed “unemployed” for any week during which he is not engaged in full-time work and with respect to which his remuneration is less than his weekly benefit rate, ... except that ... an officer of a corporation, or a person who has more than a 5% equitable or debt interest in the corporation, whose claim for benefits is based on wages with that corporation shall not be deemed to be unemployed in any week during the individual’s term of office or ownership in the corporation.
+Appellant appealed this denial to the Appeal Tribunal, which held a hearing on April 29, 1992. Appellant testified that he had been attempting to resolve the Leisure Lounge’s fire damage claim with its insurance carrier, and that the business was attempting to resume operations. When asked how soon the business would resume, appellant stated:
+[I]t is a matter of how much they are going to give me and when they are going to give it to me and we are just going daily, week after week, and we haven’t come to any conclusion yet....
+Based on the fact that appellant was a corporate officer, the Appeal Tribunal affirmed the denial of his application for unemployment compensation benefits. This decision was subsequently affirmed by the Board of Review. We now affirm the Board’s decision.
+Appellant’s situation after the fire at the Leisure Lounge fell squarely within the terms of N.J.S.A. 43:21-19(m)(l). Appellant was an officer and owned more than 5% of the stock of his corporate employer and he sought benefits for weeks “during ... [his] term of office or ownership in the corporation.” Although the Leisure Lounge was not conducting business during the weeks in question, appellant continued to serve as its Vice President and retained ownership of its stock.
+Appellant argues, relying upon Nota v. Board of Review, 231 N.J.Super. 341, 555 A.2d 710 (App.Div.1989), that the ineligibility for unemployment compensation benefits mandated by N.J.S.A 43:21-19(m)(l) is inapplicable because his unemployment resulted from the involuntary suspension of his employer’s business operations. Although it had not been formally dissolved, the corporate employer in Nota had permanently ceased doing business before the period for which the claimant sought benefits. The abandonment of the corporation was evidenced by the expiration of its only contract, its filing of final tax returns and complete depletion of its checking account. Id. at 344-45, 555 A.2d 710. The court con-eluded that in the absence of a contrary administrative regulation, a permanent cessation of all corporate operations should be viewed as a termination of the corporation’s existence for the purpose of determining eligibility for unemployment compensation benefits under N.J.S.A. 43:21-19(m)(1). Id. at 347-48, 555 A.2d 710.
+The court’s holding in Nota does not extend to this case, because appellant’s corporate employer had not permanently ceased doing business prior to the weeks for which appellant sought benefits. The corporation had a claim against its fire insurer which it was actively pursuing. It also had obligations to suppliers and utilities. In addition, the corporation continued to hold a liquor license and apparently maintained an inventory during the weeks its premises were closed. And most significantly, the corporation was seeking to resume operations. Therefore, the Board correctly determined that appellant was ineligible for unemployment compensation benefits.
+Defendant also argues that N.J.S.A 43:21-19(m)(l) denies him a property right without due process and deprives him of equal protection of the law because it “treats him differently than all other claimants without valid constitutional justification.” A classification in economic legislation such as the Unemployment Compensation Law satisfies the requirements of the Due Process and Equal Protection Clauses of the United States Constitution if it is rationally related to a legitimate state interest. Idaho Dep’t. of Employment v. Smith, 434 U.S. 100, 101, 98 S.Ct. 327, 328, 54 L.Ed.2d 324, 327 (1977); Ohio Bureau of Employment Servs. v. Hodory, 431 U.S. 471, 489, 97 S.Ct. 1898, 1908-09, 52 L.Ed.2d 513, 527 (1977); Washington Natl Ins. Co. v. Board of Review, 1 N.J. 545, 552, 64 A.2d 443 (1949). The Legislature rationally could have concluded that corporate officers and stockholders ordinarily control the terms of their own employment and therefore would be able to manipulate the system to obtain benefits if they qualified for unemployment compensation. The Legislature also rationally could have concluded that corporate officers and stockholders are ordinarily better situated financially than most other employees and therefore have a lesser need for benefits if they become unemployed. Therefore, there is a rational basis for the classification reflected in N.J.S.A. 43:21-19(m)(l) and its constitutionality must be sustained.
+Affirmed.
+Appellant’s counsel advised us at oral argument that the business resumed operations four months later.
