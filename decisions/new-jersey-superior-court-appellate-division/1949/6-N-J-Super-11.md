@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1949-12-07"
+citations: ["6 N.J. Super. 11"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GENEVIEVE McDONALD, PLAINTIFF-RESPONDENT, v. JOSEPH N. McDONALD, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/6/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 361418
+cites_cases: ["1 N. J. Super. 306", "119 N. J. Eq. 27"]
+---
+
+# McDonald v. McDonald
+
+## Majority (Eastwood, J. A. D.)
+
+The opinion of the court was delivered by
+Eastwood, J. A. D.
+Defendant appeals from an order of the Superior Court, Chancery Division, denying his application for modification of order for payment of alimony to plaintiff, allowance of counsel fee of $750 and directing defendant to post bond in the sum of $10,000 to assure his compliance with the alimony order.
+On October 24, 1934, a Decree of Divorce was entered by the former Court of Chancery, in favor of the plaintiff, the custody of their son was awarded to plaintiff and the defendant was directed to pay plaintiff the sum of $57.70 per week for the support of herself and child. By reason of their son’s entry into the United States Naval Reserve on August 5, 1943, a consent order was made reducing payments to $150 per month for the wife only. On March 7, 1949, defendant made application to terminate all alimony payments. Plaintiff made a counter application seeking an increase. Following a hearing and oral argument of counsel, the court denied defendant’s application for termination of the payments, denied plaintiff’s application for an increase, awarded to plaintiff’s counsel a fee of $750 to include disbursements, and directed defendant to furnish bond in the sum of $10,000 for the faithful performance of the alimony order.
+In support of his appeal for a reversal, defendant argues that the proofs adduced established his contention that the changed financial situation of himself and wife subsequent to the entry of the earlier decree warranted the termination of all alimony payments to his wife.
+B. 8. 2:50-37 (as amended P. L. 1948, p. 1291), provides that awards of alimony “may be revised and altered by the court from time to time as circumstances may require.” A review of the record here convinces us that the defendant failed to meet the burden placed upon him to establish that such a change of financial circumstances had occurred as Avould justify any modification of the alimony order then effective. In fact, defendant’s application was prematurely made. The basis of his application was that his position as general advertising manager of the Anaconda Copper Company for which he received an annual salary of $17,200, was being terminated. His notice of intended application to modify was dated March 7, 1949. He was relieved of his duties by his employer on February 28, 1949, but the termination of his employment was not to become effective until April 30, 1949, having been given a two months vacation with pay, following which he was granted a year’s salary. It is apparent, therefore, that his financial circumstances had not been altered when he made his application. For income tax purposes, defendant chose to take' the salary in four annual installments. He argues that consequently his financial situation has been so materially altered that it warrants the termination of the alimony payments. In addition to his salary payments, defendant has income from other investments of approximately $3,000 per annum and at the time of the hearing his total income was much greater than it was when the original award of $57.70 per week was made. The defendant is urging, in effect, that we determine his application prospectively, i. e.j that we take into consideration that at the end of the period Avithin which he receives his vacation pay and additional year’s salary, his income will then be so reduced as to make it impossible to continue the alimony payments. Such is not the applicable rule. Sassman v. Sassman, 1 N. J. Super. 306 (1949). Such a situation may never arise — it certainly did not exist at the time of his application and the hearing. Defendant is obviously highly capable and experienced in the advertising field and it is logical to assume that, if he so chooses, he will not be unemployed very long. In fact, for reasons best known to himself, he has already refused a position paying a salary of $7,000 per annum.
+Defendant argues that consideration must be given to the fact that his wife is gainfully employed at a salary of $3,351 per annum. However, that is not a determinative factor in deciding the issue here. It is merely one of the aspects of the situation necessarily requiring consideration in fixing the amount of alimony to be paid her. Schaeffer v. Schaeffer, 119 N. J. Eq. 27 (E. & A. 1935).
+Hnder R. S. 2:50-37, supra, the Superior Court may, in its discretion, “require reasonable security for the due observance” of the order for alimony. While the record reveals that defendant, although a non-resident, faithfully made the alimony payments, and never at any time defaulted therein, the court’s direction that defendant furnish a bond for $10,000 was within its discretion. We do not think under the circumstances that we should disturb it.
+We think the counsel fee of $750 was somewhat high and should be reduced to $500.
+The judgment of the Superior Court is affirmed, with the exception of the allowance of counsel fee which is reduced to $500. The cause will be remanded to the Superior Court for the entry of an order in conformity with the foregoing determination.
