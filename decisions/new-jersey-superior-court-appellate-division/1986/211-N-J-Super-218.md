@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1986-06-18"
+citations: ["211 N.J. Super. 218"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LAWRENCE GALANTER AND ELIZABETH GALANTER, HIS WIFE, AND SUSAN ARNOLD, PLAINTIFFS-RESPONDENTS, v. PLANNING BOARD OF THE TOWNSHIP OF HOWELL, CENTRAL CONCRETE COMPANY, A NEW JERSEY CORPORATION, NELSON K. WALLING AND GARY O. WALLING, DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/211/cases/0218-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1876749
+cites_cases: ["17 N.J.Super. 395", "29 N.J. 220", "424 A.2d 988", "47 N.J. 441", "56 Pa. Commonwealth Ct. 232"]
+---
+
+# Galanter v. Planning Board
+
+## Majority (SIMPSON, J.A.D.)
+
+The opinion of the court was delivered by
+SIMPSON, J.A.D.
+Defendants property owners or contract purchasers appeal from a November 12, 1985 Law Division judgment reversing site plan approval granted by the Howell Township Planning Board for construction of a cement plant on lots 1 and 1.01 as shown on the Township Tax Map. Plaintiffs are owners of adjoining properties. The operative facts are not in dispute and the question presented is whether the zoning ordinance requires minimum lot frontage on both streets in the case of a corner lot. In a letter opinion of October 25, 1985 the trial judge answered the question in the affirmative. We disagree and therefore reverse.
+The parcel is a 4.79 acre site in the industrial zone with 580 feet bordering on Yellowbrook Road and 218.71 feet along Cranberry Road. The Howell Township Land Use Ordinance schedule requires “Minimum Lot Frontage of 250 feet.” No other bulk, dimensional, height and related requirements are in dispute, but plaintiffs successfully contended below that the 218.71 feet frontage on Cranberry Road was insufficient and a variance would be required. Section 14-21.4b. requires that “Each lot shall have frontage on an improved public street” (emphasis added). Another section of the ordinance provides that:
+"Lot Frontage" shall mean that portion of a lot extending along a street line. In existing odd shaped or triangle shaped lots or proposed lots extending along a curved street line the length of the frontage may be considered to be the same as the lot width except that such length of frontage shall not be less than one-half of minimum frontage required and in no case less than 50 feet in length as measured along the street line, except as otherwise provided in the within chapter. [Emphasis added]
+The only provisions as to corner lots in the ordinance read as follows:
+14-9.2 Corner Lots. Any principal or accessory building located on a corner lot shall have a minimum setback from both street lines equal to the required front yard and shall not interfere with any required sight triangle.
+14-9.3 Yards. No area set aside for the purpose of meeting front, side, or rear yards for one building shall be considered as meeting the yard provisions of another building. On a lot extending through a block resulting in frontage on two or more streets, including corner lots, the building setback from each street shall not be less than the required front yard.
+The Planning Board did not address the issue directly, but impliedly found that the 250 foot frontage requirement only applied to one street. The judge noted that “frontage” is not defined in the Municipal Land Use Law, N.J.S.A. 40:55D-1 et seq. and the only references thereto in the ordinance are cited above. Cases cited by the court and counsel do not specifically address the issue either. It is apparent, however, that there is a double significance to the term when a corner lot is involved. Frontage on an improved street, to permit access by fire, police and ambulance vehicles, obviously promotes the public health, safety and general welfare. N.J.S.A. 40:55D-2.a. and b.; 40:55D-35. See also, Yokley, 4 Zoning Law and Practice, § 23-8 at 149 (4th Ed., 1979). The frontage on Yellowbrook Road serves these purposes in the present case, regardless of additional frontage on Cranberry Road. As to a corner lot, however, restrictions as to setbacks and front, side and rear yard requirements also protect other owners on both streets and this is the obvious purpose of Howell Township Land Use Ordinance Sections 14-9.2 and 14-9.3 set forth above. As already noted, the site plan meets all such bulk dimensional requirements. See Anderson, 2 American Law of Zoning 2d, § 9.55 at 227 (1976).
+Analogous to the present case was the situation in Trush v. Township of Bensalem, 56 Pa. Commonwealth Ct. 232, 424 A.2d 988 (1981), reversing a lower court determination that a minimum frontage requirement was applicable to both streets in the case of a corner lot, notwithstanding the ordinance requirement of front yards on both streets similar to required front yards for lots facing on only one street. The appellate court noted that the terms “frontage” and “front yard” have separate meanings and may not be used interchangeably. Id. 424 A. 2d at 989. Similarly, a restrictive covenant precluding erection of a building within 35 feet of the front or street line of the property was held inapplicable to the side street of a corner lot. Schlichting v. Winter, 17 N.J.Super. 395 (Ch.Div.1952).
+Finally, statutes are to be read sensibly rather than literally, Schierstead v. Brigantine, 29 N.J. 220, 230 (1959), and interpretations which lead to absurd or unreasonable results are to be avoided. State v. Gill, 47 N.J. 441, 444 (1966). Since the front yard, setback, and all other bulk and related requirements are met as to both streets, no reason appears why the lot frontage requirement should be applicable to both Yellowbrook Road and Cranberry Road. As defendants have also pointed out, they could probably avoid any such requirement by simply conveying a small strip of land, say two feet, along Cranberry Road and then they would no longer have “frontage” on that street.
+Reversed and remanded for the entry of a judgment reinstating the site plan approval.
