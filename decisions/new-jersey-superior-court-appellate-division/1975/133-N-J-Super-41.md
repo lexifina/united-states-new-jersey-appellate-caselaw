@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1975-01-30"
+citations: ["133 N.J. Super. 41"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MIDDLESEX COUNTY BOARD OF TAXATION, PLAINTIFF-RESPONDENT, v. BOROUGH OF SAYREVILLE, A MUNICIPAL CORPORATION OF THE STATE OF NEW JERSEY, ETC., ET AL., DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/133/cases/0041-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 298811
+cites_cases: ["104 N. J. Super. 499", "114 N. J. Super. 140", "126 N. J. Super. 239", "2 L. Ed. 2d 1371", "23 N. J. 580", "26 N. J. 172", "31 N. J. 420", "357 U. S. 928", "365 U. S. 648", "38 L. Ed. 2d 219", "414 U. S. 976", "5 L. Ed. 2d 857", "62 N. J. 473", "78 S. Ct. 1373", "81 S. Ct. 834", "92 N. J. Super. 338", "94 S. Ct. 292", "95 N. J. Super. 327"]
+---
+
+# Middlesex County Board of Taxation v. Borough of Sayreville
+
+## Majority (Halpern, P. J. A. D.)
+
+The opinion of the court was delivered by
+Halpern, P. J. A. D.
+On May 1, 1973 the Middlesex County Board of Taxation (Board), with the approval of the Director of the Division of Taxation (Division), by written directive ordered the Middlesex County municipalities of Sayreville, South Plainfield, Dunellen, Carteret, South Am-boy and their respective tax assessors to make a complete revaluation of all taxable real property within each municipality, to be effective in 1975. When it became obvious that the five municipalities were not complying with the order, a prerogative writ suit was commenced on January 21, 1974 to enforce the order of May 1, 1973.
+At a summary hearing held in the Law Division on March 7, 1974 the trial judge dismissed the suit against Carteret and South Amboy because they were then complying with the Board’s order. He ordered Sayreville, South Plainfield and Dunellen to comply with the Board’s order immediately. This appeal is by the three municipalities from the latter order. No review was sought before the State Division of Tax Appeals. On the joint application of appellants and respondent the appeals were consolidated and the trial judge’s order amended, extending appellants’ time to make their revaluations for the 1976 tax year.
+The narrow issue raised by appellants is that the Board’s order is unlawful and ill-advised because (1) it allegedly would compel them to help support a statewide system of financing public education which was held to be unconstitutional in Robinson v. Cahill, 62 N. J. 473 (1973), cert. den. 414 U. S. 976, 94 S. Ct. 292, 38 L. Ed. 2d 219 (1973), as supplemented by Bonnett v. State, 126 N. J. Super. 239 (App. Div. 1974), and (2) it is inadvisable for appellants to needlessly spend huge sums of money in making revaluations until such time as either the Legislature or the New Jersey Supreme Court implement Robinson v. Cahill. We disagree.
+The New Jersey Constitution (1947), in Art. VIII, § I, par. 1 mandates in relevant part that:
+Taxation; assessment
+1. (a) Property shall be assessed for taxation under general laws and by uniform rules. All real property assessed and taxed locally or by the State for allotment and payment to taxing districts shall be assessed according to the same standard of value, except as otherwise permitted herein, and such real property shall be taxed at the general tax rate of the taxing district in which the property is situated, for the use of such taxing district.
+In accordance with this constitutional mandate the Legislature enacted N. J. S. A. 54:3-13, 14 and 16, together with N. J. S. A. 54:4-47, which laws empowered county tax boards and their local tax assessors to carry out and enforce the aforementioned constitutional mandate. In short, the Legislature, through the county boards of taxation and the local tax assessors, has created a taxation plan designed to insure the prompt, ¡equal and efficient implementation of a statewide taxing program. The purpose of total revaluation is to achieve tax equality not only as to any given taxing district but also between municipalities of the same county. Orders to accomplish this result are enforceable by mandamus. Essex Cty. Bd of Taxation v. Belleville, 92 N. J. Super. 338 (Law Div. 1966), aff'd 95 N. J. Super. 327 (App. Div. 1967). See also, Switz v. Middletown Tp., 23 N. J. 580 (1957) and Ridgefield Park v. Bergen Cty. Bd. of Taxation, 31 N. J. 420 (1960), app. dism. 365 U. S. 648, 81 S. Ct. 834, 5 L. Ed. 2d 857 (1961).
+We see no inconsistencies between the order herein entered pursuant to the constitutional mandate and the decisions in Robinson and Bonnett. The latter decisions are primarily concerned with the method of financing public education, evidenced by the dollar amount spent per pupil, and not the power of municipalities to assess real property on an equal basis in accordance with law. The mere uncertainty over what tax policy the Legislature or the Supreme Court may adopt, or when such may be accomplished, is not a valid legal reason to delay the execution of constitutional and statutory mandates which are otherwise legal and necessary for the public good. To accept what appears to be a prime reason for delay advanced by one of the appellants in its brief, that “It is not unreasonable for the parties in this matter [appellants] to take a wait and see attitude before the revaluation process proceeds,” is ludicrous and deserves no extended discussion.
+In view of the importance of the issue involved, and the shortness of time remaining for appellants to comply with the outstanding judgment, we have decided the merits — bypassing the accepted practice which requires appeals from orders of county tax boards to go to the Division of Tax Appeals. See N. J. S. A. 54:2-35; Central R. R. Co. of N. J. v. Neeld, 26 N. J. 172 (1958), cert. den. 357 U. S. 928, 78 S. Ct. 1373, 2 L. Ed. 2d 1371 (1958); Bergen Cty. Bd. of Taxation v. Bogota, 104 N. J. Super. 499 (Law Div. 1969), aff'd 114 N. J. Super. 140 (App. Div. 1971).
+Affirmed.
