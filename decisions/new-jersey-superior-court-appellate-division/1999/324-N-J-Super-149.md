@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "1999-08-03"
-citations: ["324 N.J. Super. 149", "734 A.2d 817", "324 N.J. Super. 166", "734 A.2d 826"]
+citations: ["324 N.J. Super. 149", "734 A.2d 817"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["NEW YORK SMSA LIMITED PARTNERSHIP, D/B/A BELL ATLANTIC NYNEX MOBILE, 
 source_url: "https://static.case.law/nj-super/324/cases/0149-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 58212
-cites_cases: ["100 N.J.Super. 95", "107 N.J. 1", "110 Stat. 56", "127 N.J. 152", "127 N.J. 325", "152 N.J. 309", "160 N.J. 1", "160 N.J. 21", "176 F.3d 630", "179 N.J.Super. 203", "202 N.J.Super. 312", "212 A.2d 153", "225 A.2d 321", "228 N.J.Super. 226", "234 A.2d 385", "234 A.2d 681", "24 F.Supp.2d 359", "240 N.J.Super. 250", "241 A.2d 252", "305 N.J.Super. 151", "324 N.J.Super. 149", "324 N.J.Super. 166", "430 A.2d 925", "431 A.2d 163", "434 A.2d 1099", "45 N.J. 268", "47 C.F.R. § 22.940", "47 U.S.C.A. § 332", "48 N.J. 277", "495 A.2d 119", "50 N.J. 268", "50 N.J. 302", "526 A.2d 109", "549 A.2d 469", "604 A.2d 600", "86 N.J. 303", "87 N.J. 428", "996 F.Supp. 253"]
+cites_cases: ["100 N.J.Super. 95", "107 N.J. 1", "110 Stat. 56", "127 N.J. 152", "152 N.J. 309", "160 N.J. 1", "160 N.J. 21", "179 N.J.Super. 203", "202 N.J.Super. 312", "212 A.2d 153", "225 A.2d 321", "228 N.J.Super. 226", "234 A.2d 385", "234 A.2d 681", "241 A.2d 252", "305 N.J.Super. 151", "324 N.J.Super. 166", "430 A.2d 925", "431 A.2d 163", "434 A.2d 1099", "45 N.J. 268", "47 U.S.C.A. § 332", "48 N.J. 277", "495 A.2d 119", "50 N.J. 268", "50 N.J. 302", "526 A.2d 109", "549 A.2d 469", "86 N.J. 303", "87 N.J. 428"]
 ---
 
 # New York SMSA Ltd. Partnership v. Board of Adjustment
