@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1986-12-19"
+citations: ["214 N.J. Super. 374"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BARBARA JOAN COLFER, PLAINTIFF-APPELLANT, v. ROYAL GLOBE INSURANCE CO., DEFENDANT-RESPONDENT. and KENNETH R. CLAUDAT, ESQ., JOHN B. DWYER, ESQ., AND ROBERT COLFER, DEFENDANTS/THIRD-PARTY PLAINTIFFS, v. NANCY J. COLFER, THIRD-PARTY DEFENDANT."]
+source_url: "https://static.case.law/nj-super/214/cases/0374-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 716879
+cites_cases: ["104 N.J.Super. 530", "108 N.J.Super. 414", "113 N.J.Super. 240", "140 Vt. 580", "181 N.J.Super. 121", "186 N.W.2d 35", "205 N.J.Super. 600", "30 Mich.App. 30", "403 A.2d 1206", "56 N.J. 245", "573 A.2d 1075"]
+---
+
+# Colfer v. Royal Globe Insurance
+
+## Majority (COHEN, R.S., J.A.D.)
+
+The opinion of the court was delivered by
+COHEN, R.S., J.A.D.
+The issue presented here is whether a settlement of a UMI claim made by parents on behalf of a minor child bars a later claim independently made by the child who did not receive the benefits of the settlement. We hold that the child’s claim is not barred in the absence of court approval of the parents' settlement.
+This is what happened. In 1976, plaintiff Barbara Colfer was struck and injured by an automobile while she was riding her bicycle. Her parents started suit against the motorist, and then, when they discovered he was uninsured, made a demand for UMI arbitration under their Royal Globe Insurance Company policy. Before arbitration, a settlement was reached in the amount of $12,200. A “Parents’ Release and Indemnification Agreement” was prepared and a check made to the parents was sent by Royal Globe to the family’s attorney. The net proceeds were- ultimately deposited into a savings account in plaintiff’s name. Her father took the account from her while she was still a minor, promising to repay her some day. He used all of the money to pay his own unrelated obligations and living expenses. There is nothing to indicate plaintiff benefited from the use of any of the proceeds.
+After reaching majority, plaintiff unsuccessfully pursued her father for the money. Ultimately she started this suit and renewed the demand for arbitration of her UMI claim. The complaint alleged breach by Royal Globe of a duty to the injured minor not to pay out benefits without judicial approval, and asserted that the demand for arbitration was not barred by the parents’ release. The Law Division granted Royal Globe’s motion for summary judgment, dismissed the suit and barred the arbitration, holding that the settlement precluded further claims. We disagree and therefore reverse.
+It is long out of doubt that a parent or appointed guardian cannot dispose of a child’s cause of action without statutory authority or judicial approval. Wilkins v. Smith, 181 N.J.Super. 121, 126 (App.Div.1981); Bauer v. Griffin, 104 N.J.Super. 530, 546 (Law Div.1969), aff’d 108 N.J.Super. 414 (App.Div.), certif. den. 56 N.J. 245 (1970); Mack v. Berry, 205 N.J.Super. 600 (Law Div.1985); Whitcomb v. Dancer, 140 Vt. 580, 443 A.2d 458, 460-461 (1982); Doyle v. Bowdoin College, 403 A.2d 1206, 1208 n. 3 (Me.1979); Dacanay v. Mendoza, 573 A.2d 1075, 1078-1079 (9 Cir.1978); Centala v. Navrude, 30 Mich.App. 30, 186 N.W.2d 35 (1971).
+The purpose of the rule is not only to guard a minor against an improvident compromise but also to secure the minor against dissipation of the proceeds. See R. 4:48A; N.J.S.A. 3B:12-6; 3BA5-16, 17, all governing the disposition of the proceeds of infant’s judgments and settlements.
+It makes no difference whether the claim is in suit. There is no sensible reason why parents who may not settle their child’s suit without judicial approval should be able to bind the child by settling a claim not yet in court. The dangers are identical of disadvantageous compromises and improper disposition of proceeds. Our rules clearly provide for the institution of suit on behalf of a minor solely to seek approval of a proposed settlement of a claim not in suit. R. 4:44-1. A guardian ad litem wishing to accept an award arising out of statutory arbitration of auto negligence actions, N.J.S.A. 39:6A-24 et. seq., must submit it for approval. R. 4:21 A-7. A defendant in any case wishing to secure a final disposition of a child’s claim for its own protection must see that a judgment is entered with court approval.
+It is not only personal injury claims sounding in tort whose settlement requires judicial approval. It is of no consequence, therefore, that the present claim against Royal Globe arises out of the provisions of an insurance contract rather than out of a negligent tort.
+We do not hold that Royal Globe breached a duty to plaintiff by not insisting on court approval of the settlement. If the settlement does not bind plaintiff, Royal Globe has no duty to guard plaintiff against it. However, one who pays the parents to settle a minor’s claim without judicial approval or statutory authority remains liable to the minor, and takes the risk that the parents’ indemnification agreement may be an empty guarantee. As between a minor with a dissipated claim and an insurer which could have guarded against the danger of multiple payments, our choice is not a difficult one.
+Judgment against plaintiff is reversed. The matter is remanded to the Law Division for the entry of a judgment directing the parties to proceed to arbitration.
+There was an adverse ruling by another Law Division Judge on an earlier motion by Royal Globe for summary judgment. The parties have argued whether that earlier ruling should have barred the court’s later judgment. We find it unnecessary to deal with the issue.
+We express no opinion on the circumstances presented in Boyce v. Doyle, 113 N.J.Super. 240 (Law Div.1971), where a minor sought to disavow his own release without returning the consideration he received. Also, we do not deal with a case in which the parents have applied the settlement proceeds to the use of the child and the insurer seeks a credit or other adjusting relief on that basis.
