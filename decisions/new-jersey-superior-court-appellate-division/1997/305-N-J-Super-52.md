@@ -1,0 +1,35 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1997-10-15"
+citations: ["305 N.J. Super. 52", "701 A.2d 942"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GARDEN PARK MOBILE HOME OWNERS ASSOCIATION AND THOMAS LONGETTE, PLAINTIFFS-RESPONDENTS, v. GARDEN PARK ASSOCIATES, A NEW JERSEY PARTNERSHIP, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/305/cases/0052-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1183220
+cites_cases: ["292 N.J.Super. 442"]
+---
+
+# Garden Park Mobile Home Owners Ass'n v. Garden Park Associates
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Defendant Garden Park Associates (GPA) appeals from the order of final judgment which denied GPA’s motion for summary judgment, granted the motion for summary judgment of plaintiffs Garden Park Mobile Home Owners Association (Home Owners) and Thomas Longette, awarded attorney’s fees to plaintiffs, and denied GPA’s motion for reconsideration. We affirm.
+The denial of GPA’s motion for summary judgment was reported in Garden Park Mobile Home Owners Ass’n v. Garden Park Assocs., 292 N.J.Super. 442, 678 A.2d 1191 (Law Div.1996). We briefly quote the facts from Judge Locascio’s opinion.
+Plaintiff Home Owners is an unincorporated association of residents of mobile home units in Garden Park, located in Hazlet. GPA is the owner and operator of mobile home parks in Hazlet and Holmdel, of which Garden Park is one. As owner of Garden Park, GPA leases space to those who own mobile home units.
+In January 1992, GPA promulgated rules and regulations requiring all tenants of Garden Park to convert their existing oil heating systems to natural gas by July 15, 1992. In a letter to GPA dated February 24, 1992, plaintiffs’ attorney objected to this regulation, asserting that it represented an unreasonable restriction on his clients’ ownership of their homes.
+In November 1992, GPA modified its rules and regulations to require Garden Park tenants to remove existing oil tanks and convert to gas only upon the sale of the units to prospective tenants. Plaintiff Longette, at one time, was a Garden Park resident. Longette has since sold his unit to James Tyrell, but not before he was required to expend $1,200 to convert to gas and have his above-ground oil storage tank removed as a condition of selling his mobile home. Plaintiffs sought declaratory relief, an injunction and damages, arguing that GPA wrongfully imposed conditions upon the resale of the mobile home units in contravention of N.J.S.A. 46:8C-3c.
+GPA moved for summary judgment, claiming that plaintiffs lacked standing to bring the action, and that the removal/conversion condition set by GPA was, as a matter of law, reasonable and within its statutory authority.
+Judge Locascio determined that plaintiffs had standing to bring this action, finding that they did not need to meet the definition of “Association” provided in the Mobile Home Park Act, N.J.S.A 46:8C-15, because they were not exercising a right of first refusal to purchase the park. Plaintiffs also had standing because GPA had recognized the Home Owners Association as the representative of the Garden Park residents in the past. Garden Park Assocs., supra, 292 N.J.Super. at 446-48, 678 A.2d 1191.
+With respect to the removal/conversion condition, GPA relied upon three expert reports to support its contention that the above-ground oil storage tanks were potentially hazardous, thereby warranting the reinovai/eonversion requirement. Judge Locascio found that these reports did not support defendant’s position. Rather, the reports made no definitive findings of hazardous conditions in connection with the tanks, and only suggested that the removal of the tanks and conversion to gas was merely a “sound alternative.” It was further determined that defendant’s experts “fail[ed] to establish that plaintiffs’ above ground oil tanks fall within the Uniform Construction Code’s [N.J.A.C. 5:23-1, et seq.'l definition of an unsafe structure.” Id. at 449, 678 A.2d 1191. Judge Locascio concluded that the removal/eonversion was per se “unreasonable,” and in violation of Section 217-33C of the Hazlet Rent Leveling Ordinance, which provides:
+No landlord shall demand or receive, directly or indirectly, any premium or any thing of value, other than the rent fixed by this article, as a condition to the rental of any mobile home and/or mobile home space.
+Judge Locascio found that the ordinance prohibited the required conversion, which operated as a condition for approval of the purchaser as a tenant of Garden Park, because it was a “premium or other thing of value.” Accordingly, the judge denied defendant’s motion for summary judgment.
+Following this decision, plaintiffs submitted their own motion for summary judgment, seeking a ruling that the removal/eonversion requirement was unreasonable as a matter of law. Judge Locascio granted this motion, finding that GPA was attempting to obtain the benefit of a gas conversion at a cost to its tenants. The judge also awarded compensatory damages and counsel fees to plaintiffs pursuant to N.J.S.A. 46:8C-3c.
+Subsequent to this decision, GPA filed a motion for reconsideration. It argued that the trial court's grant of plaintiffs’ motion for summary judgment was erroneous because plaintiff Longette never approached GPA to request approval of his sale. Therefore, a question of fact existed as to whether Longette qualified as a claimant under N.J.S.A, 46:8C-3c. Judge Locascio denied GPA’s reconsideration motion.
+On appeal, GPA argues that the denial of its motion for summary judgment should be reversed because plaintiffs failed to offer competent evidence in opposition to the motion. Defendant GPA also contends that the grant of summary judgment in favor of plaintiffs should be reversed on the following grounds: (1) the trial court incorrectly ruled that GPA’s removal/conversion requirement was “unreasonable” as a matter of law; (2) plaintiffs failed to provide any certification setting forth the essential elements of their claim; (3) the trial court’s decision was based upon inapplicable case law; (4) plaintiffs lacked standing to sue; and (5) plaintiffs failed to join all persons who would be affected by the outcome of this matter. Additionally, defendant asserts that the trial judge abused his discretion in denying its motion for reconsideration and further erred in awarding counsel fees to plaintiffs.
+We reject GPA’s arguments that plaintiffs lacked standing to sue and that the trial court incorrectly ruled that GPA’s removal/conversion requirement was unreasonable as a matter of law substantially for the reasons expressed in Judge Loeascio’s decision. Garden Park Assocs., supra, 292 N.J.Super. at 446, 448, 678 A.2d 1191.
+. [Additional issues are addressed in the remainder of the opinion. The discussion does not merit publication and is therefore omitted from the opinion as published.]
+Affirmed.
