@@ -1,0 +1,47 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1952-10-03"
+citations: ["21 N.J. Super. 544"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MARJORIE PUCCIO AND HARRY PUCCIO, PLAINTIFFS-APPELLANTS, v. GERALD CUTHBERTSON AND WALTER CUTHBERTSON, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/21/cases/0544-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 453067
+cites_cases: ["109 N. J. L. 321", "12 N. J. Super. 554", "137 N. J. L. 695", "4 N. J. Super. 321", "5 N. J. Super. 338", "5 N. J. Super. 451", "5 N. J. Super. 577", "7 N. J. Super. 164", "7 N. J. Super. 251", "9 N. J. 156", "9 N. J. 390"]
+---
+
+# Puccio v. Cuthbertson
+
+## Majority (Eastwood, S. J. A. D.)
+
+The opinion of the court was delivered by
+Eastwood, S. J. A. D.
+On motion of the defendants, the Law Division dismissed the complaint without prejudice, on the ground it failed to set forth a cause of action. The plaintiffs appealed from the ensuing judgment.
+Aside from the recitals of ownership, possession and control of the premises in the defendants, and that the status of the plaintiff, Marjorie Puecio, was that of an invitee, the complaint alleges that (1) “The said building and premises was negligently and carelessly constructed, and negligently and carelessly kept and maintained by the defendants, inasmuch as there was a porch upon the front thereof which contained no guard rail and no light, causing a dangerous condition which was well known to the defendants”; (3) “The defendants constructed, kept and maintained the front porch of their said house and premises in such an improper, careless, reckless and dangerous manner so as to constitute and maintain a nuisance and a source of great danger to persons lawfully on the said premises”; that as a result thereof, Mrs. Puecio fell and was injured. Plaintiff, Harry Puecio, sues per quod. The defendants filed an answer denying the allegations of the complaint.
+The defendants' notice of motion for judgment on the pleadings was returnable at the scheduled pretrial conference. At the conclusion of the argument of the motion, the complaint was dismissed. Prior thereto, opportunity was given to plaintiffs to amend their complaint, but they declined to do so.
+The Superior Court rules governing general rules of pleading provide that:
+“A pleading which sets forth a claim for relief, whether an original claim, counterclaim, cross-claim, or third-party claim, shall contain (1) a statement of the facts on which the claim is based showing that the pleader is entitled to relief, and (2) a demand for judgment for the relief to which he deems himself entitled. * * *” Rule 3 :8-l.
+Under the provisions of Buie 3 :8-5, it is provided that:
+“Each averment of a pleading shall he simple, concise, and direct. No technical forms of pleading or motions are required.”
+And Buie 3 :8-6, provides:
+“All pleadings shall be so construed as to do substantial justice.”
+Rule 3:9-3 provides that with regard to pleading special matters :
+“Acts and contracts may be stated according to their legal effect, but in so doing, the pleading should be such as fairly to apprise the adverse party of the state of facts which it is intended to prove; thus, an act or promise of a principal other than a corporation, if in fact proceeding from an agent known to the pleader should be so stated. * i: *”
+In the case of Grobart v. Society for Establishing Useful Mfrs., 2 V. J. 136, 147, 150, 151 (1949), Chief Justice Vanderbilt took occasion to review the requirements of pleadings under onr new rules of practice. At pages 147 and 148, he stated:
+“* * * The purpose of a complaint under modern practice is no different than that of a declaration at common law; in each ease it is to state a claim for relief, Hule 3 :8-l. * * * While the names of modern pleadings have changed, among- other reasons to indicate that we have outgrown the legal 1 echnicalities and absurdities which under the name of special pleading brought disgrace on the common law in the nineteenth century, the essentials of good pleading remain, and necessarily so, because the human mind has not been able to find over the centuries any other methods of dealing on the merits with questions of law and fact, exjiressed or implicit, in an initial pleading.”
+And, further, at pages 150 and .151 :
+“* * * The flexibility and seeming informality of pleadings under the new rules should not deceive one into believing that the essentials of sound pleading at law or in equity have been abandoned. Quite the contrary; the objective of reaching an issue of law or of fact in two or at the most three simple pleadings has been attained, but not at the sacrifice of stating the elements of a claim or of a defense. They remain the same as at common law as a matter of substantive law as well as of good pleading: ‘The forms of action we have buried, but they still rule us from their graves,’ Maitland (1940), forms of Action at Common Law, p. 2, as a mere glance at our Statute of Limitations or a comparison of the essentials of any good complaint under the new rules with the elements of the several forms of action as expounded, e. g., in Maitland will demonstrate. The grand objective of the movement for simplified procedure by rules of court is the elimination of the interminable prolixity arid absurd technicalities of special pleading, which in the days of Baron Parke, gone never to return, made a mockery of substantive law as well as of substantial justice for the sake of the ‘record.’ * * *
+>5* # }$« s¡¡ # j¡: !{:
+“The common law has been saved from the excesses of special pleading and especially its verbosity and technicalities, and nowhere more effectively than in New Jersey, but in the process the substantive law has not been changed. On the contrary, it has been preserved and our procedure has been made to serve the ends of substantial justice, not by abandoning stating the essentials of a cause of action or of a defense, but by doing so in ‘simple, concise and direct terms,’ Rule 3:8-5 (a) ; see, also, Rules 3:8-1, 3:8-2.”
+In Cohen v. Miller, 5 N. J. Super. 451, 454 (Ch. Div. 1949), it is said:
+“* * * However, Rule 3:8-6, evidently intended for the court, provides ‘All pleadings shall be construed as to do substantial justice.’ In that light, the infirmities of the complaint will be overlooked in order to ascertain whether a cause of action is set forth.”
+While the content and form of pleadings are governed by Rule 3:8-l et seq., the defendants’ motion for judgment on the pleadings and the judgment entered thereon was made pursuant to Rule 3:12-3, which provides, inter alia:
+“After the pleadings are closed but within such time as not to delay the trial, any' party may move for judgment on the pleadings. If, on a motion for judgment on the pleadings, matters outside the pleadings are presented to and not excluded by the court, the motion shall be treated as one for summary judgment and disposed of as provided in Rule 3:56, and all parties shall be given reasonable opportunity to present all material made pertinent to such a motion by Rule 3:56.”
+It was held in Evangelista v. Public Service Coordinated Transp., 7 N. J. Super. 164, 167 (App. Div. 1950), that:
+“The power to grant judgment on the pleadings should not be exercised unless the legal insufficiency is clear and palpable. For the purposes of the motion, the defendant admits the truth of all facts well pleaded in the reply and all legitimate inferences which can be drawn therefrom. Kelly v. Hoffman, 137 N. J. L. 695 (E. & A. 1948). The motion for judgment on the pleadings is not favored by the courts; and pleadings alleged to state no cause of notion or defense will be liberally construed in favor of the pleader. 41 Am. Jur., Pleading, sec. 336; cf. West v. Marritz, 109 N. J. L. 321 (E. & A. 1932).”
+A motion for summary judgment should be granted with great caution. Mitchell v. Wrightstown Community Apartments, 4 N. J. Super. 321 (App. Div. 1949). Cf. Hodes v. Dunsky, 5 N. J. Super. 338 (App. Div. 1949). Where facts are disputed, summary judgment cannot be granted. Jersey Ins. Co. of N. Y. v. Altieri, 5 N. J. Super. 577 (Ch. Div. 1949); Mitchell v. Friedman, 7 N. J. Super. 251 (App. Div. 1950).
+In considering this appeal, under the record furnished us, we are limited to an interpretation of the language employed in the complaint.. Our new rules are intended to prevent the pleader from being foreclosed from asserting any rights to which he may be entitled until the true facts are made known. The power of discovery of the facts under the new practice and the ascertaining of the actual issues afforded by pretrial, which succeeds discovery, but precedes trial, should prevent sham and unnecessary pleadings from obscuring the true issues at trial. While the complaint is somewhat sketchy in its allegations of negligence, it must be construed iu the light most favorable to the plaintiffs and against the defendants. A liberal interpretation seems to spell out a right of action against the defendants. Young v. George C. Fuller Contracting Co., Inc., 12 N. J. Super. 554, 562 (Law Div. 1951). Cf. Allegro v. Afton Village Corp., 9 N. J. 156 (1952); Stacy v. Greenberg, 9 N. J. 390, 401 (1952).
+The judgment is reversed.
+Costs to abide the event.
