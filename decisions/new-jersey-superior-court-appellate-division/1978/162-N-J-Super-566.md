@@ -1,0 +1,23 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1978-10-02"
+citations: ["162 N.J. Super. 566"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JEAN MAURIO, EXECUTRIX OF THE ESTATE OF ANGELO MAURIO, DECEASED, JEAN MAURIO AND FRANK J. MAURIO, PLAINTIFFS-APPELLANTS. v. MERECK CONSTRUCTION CO., INC., GLYNN ECKART, SHAW AND HORNER ASSOCIATES, AND MOUNT HOLLY TOWNSHIP COUNCIL, ACTING AS URBAN RENEWAL AGENCY, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/162/cases/0566-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 892617
+cites_cases: ["125 N. J. Super. 159", "64 N. J. 319"]
+---
+
+# Maurio v. Mereck Construction Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Failure to supply an expert’s report in answer to an interrogatory requesting all such reports may, in the trial judge’s discretion, result in the exclusion of that expert’s opinion evidence. B. 4:17-4(e). Clark v. Fog Contracting Co., 125 N. J. Super. 159 (App. Div.), certif. den. 64 N. J. 319 (1973). Moreover, when such a report is furnished, the expert’s testimony at trial may be confined to the matters of opinion reflected in the report. That is how the trial court ruled in this case. Plaintiffs’ expert was confined in his testimony to the opinions, or lack thereof, reflected in the “report” furnished defendants. Our review of the record in this case convinces us that the report furnished contained no opinion and the trial judge acted well within the proper scope of his discretion when he limited the expert’s testimony to the material disclosed therein. Plaintiffs’ contention on appeal that the implied invitation contained in their answers to interrogatories for defendants to go through the expert’s file is totally unpersuasive. Nothing in the submitted report suggested that the expert had arrived at any opinion. In those circumstances defendants were not charged with the obligation of making a search thereof. Significantly plaintiffs failed to produce the expert’s file at trial to disclose what was contained therein, and even on appeal they failed to point to any significant opinion material which a search of such file would have revealed.
+Plaintiffs’ further contention, never made at trial, that the fact the expert was retained not primarily for testimonial purposes, in anticipation of litigation, but to perform service for plaintiffs, excused production of requested report, is frivolous. The purpose of the report is to forewarn the propounding party of the expected contents of the expert’s testimony in order to enable preparation to counter such opinions with other opinion material. That the expert served plaintiffs in two capacities, as one performing services and as a testifying expert, has no effect on the party’s obligation to produce his report, when a request therefor is made in interrogatories, as a basis for the expert’s later testimony.
+Counsel’s dereliction in this case was clear and inexcusable. The challenged trial court ruling cannot be viewed as an abuse of discretion. Nonetheless, we are reluctant to visit the consequences of an attorney’s dereliction on his client. Nor should opposing parties be prejudiced by such departures from normal .and required practice. Some relief is in order. We reject, however, plaintiffs’ contention that the trial judge should have granted their motion for a voluntary dismissal. Such action, involving the filing of new pleadings and initiating a new period of discovery, strikes us as needlessly expensive and time consuming. Pleadings have already been filed and discovery, with the exception of the expert reports, has been completed; indeed, the case was partially tried. Instead, we vacate the order of dismissal and order a new trial in the matter on the condition, however, that defendants be reimbursed, if they wish, for the costs, expenses and counsel fees attendant on the prior trial itself, as distinguished from what went before, and on this appeal. If defendants wish to avail themselves of this opportunity, they should within 30 days hereof notify plaintiffs’ counsel and submit itemized bills setting forth the costs and expenses actually incurred, together with reasonable counsel fees. The costs of reimbursement shall be borne by plaintiffs’ counsel and shall not be passed on to the plaintiffs themselves. Any dispute concerning the reasonableness of the charges contained in the itemized bill shall be resolved by the trial judge in advance of the trial.
+Reversed and remanded to the trial court for further proceedings consistent with this opinion. No costs to appellants on this appeal.
