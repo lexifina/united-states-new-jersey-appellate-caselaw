@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1954-01-15"
+citations: ["29 N.J. Super. 238"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BRUNSWICK VILLAGE, INC., A CORPORATION OF NEW JERSEY, PLAINTIFF-APPELLANT, v. EDWARD KNOF, BUILDING INSPECTOR OF THE TOWNSHIP OF EAST BRUNSWICK, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/29/cases/0238-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 377532
+cites_cases: ["117 S. W. 618", "136 Mo. App. 330", "19 L. R. A., N. S., 713", "25 Ky. Law Rep. 515", "258 F. 150", "27 N. J. Super. 109", "49 App. D. C. 6", "62 S. E. 688", "64 W. Va. 392", "76 S. W. 46", "95 S. W. 2d 990"]
+---
+
+# Brunswick Village, Inc. v. Knof
+
+## Majority (Clapp, S. J. A. D.)
+
+The opinion of the court was delivered by
+Clapp, S. J. A. D.
+This, an action in lieu of prerogative writ, was brought in the Superior Court. Law Division, Middlesex County. Plaintiff made a motion for summary judgment in the cause, arguing it orally before the Judge of the County Court of Middlesex County on June 26, 1953. On July 21, 1953, the Judge took testimony in the matter, and on the basis thereof, not only denied the motion but on September 10, 1953 gave judgment for the defendant. Plaintiff appeals, claiming that the Judge was without power in the premises. Reliance is put upon In re Application for Recheck of Irregular Ballots Cast for Mayor, etc. South River, Middlesex County, 27 N. J. Super. 109 (Law Div. 1953).
+There- are two orders of the Chief Justice, with which we are concerned here, each vesting the county judge, of whom we speak, with a certain authority over Superior Court matters. We take judicial notice of both. The first is a standing order dated October 30, 1952, the terms of which will be found stated, in part, in In re Application for Recheck of Irregular Ballot Cast for Mayor etc. South River, Middlesex County, 27 N. J. Super. 109 (Law Div. 1953), supra. By it the county judge was given authority to sit in the Superior Court, Law Division, Middlesex County “pursuant to Rule A18” (now R. R. 1:31 — 1), his authority being thus qualified by the provisions of that rule. The rule, which is concerned with the integrated list, provides that the “list shall not include proceedings in lieu of prerogative writs which shall only be heard by a judge of the Superior Court.”
+The second order was made May 20, 1953. By it, the county judge was assigned to sit in the Law Division of the Superior Court, Middlesex County, for a period extending from June 1 until June 27, 1953 — that is, it will be observed, until one day after the above-mentioned motion was argued orally. This order is in no way limited by the rule cited. It gives to the county judge, unqualifiedly, the power to pass upon any cause in the Superior Court within the Law Division, Middlesex County, and thus, by implication, upon actions in lieu of prerogative writ. Indeed an important purpose of the order was to enable the county judge to take cognizance of such actions, for the Superior Court judge regularly assigned to the county was then temporarily placed in the Appellate Division. The constitutionality of this order cannot be questioned. New Jersey Constitution, Art. XI, Sec. IV, par. 5; cf. Art. VI, Sec. V, par. 4.
+The order of October 30, 1952 was superseded from June 1 to June 27, 1953 by the order of May 20, 1953, but on June 27 its efficacy was restored. Was the county judge’s authority over the instant cause spent on June 27, 1953, so as to deprive him of the power to take the testimony on July 21 and to sign the judgment on September 10?
+We think the order of May 20, 1953 impliedly gave to the judge authority to complete the disposition of any matter undertaken between June 1 and June 27 in connection wiih an action in lieu of prerogative writ. So, if the hearing of a motion in such an action had been completed on June 26, he would have had the power to sign the order thereon on June 29, thereby obviating a rehearing of the motion before a Superior Court judge. The instant case goes further than that: the hearing of the motion here was only commenced on June 26. Nevertheless, we think the ease is governed by the same principle. Of course, a judge should endeavor to conclude such matters within the period of his assignment.
+Some analogy may be drawn between the situation here and that arising in jurisdictions where the authority of a special judge assigned to or elected for some county or district is brought to an end or vacated by the return of the regular judge. In such a case the special judge is allowed, indeed required, to complete trials and other matters already undertaken. Shore v. Splain, 49 App. D. C. 6, 258 F. 150 (Ct. App. D. C. 1919); Bohannon v. Tabbin, 25 Ky. Law Rep. 515, 76 S. W. 46 (Ct. App. 1903); State ex rel. American Nat. Bank v. Fidelity & Deposit Co., 136 Mo. App. 330, 117 S. W. 618 (Ct. App. 1909); Johnson v. Bussey, 95 S. W. 2d 990 (Tex. Ct. Civ. App. 1936); State v. Stevenson, 64 W. Va. 392, 62 S. E. 688, 19 L. R. A., N. S., 713 (Sup. Ct. 1908). In re Application for Recheck of Ballots Cast for Mayor etc. South River, Middlesex County, 27 N. J. Super. 109 (Law Div. 1953), supra, is clearly distinguishable.
+The matter first came before the court on a motion by appellant to vacate the judgment below (in effect, a motion for reversal because of allegedly palpable error below), and we shall treat this as a disposition of that motion. Application may be made for the fixing of times for the filing of briefs with respect to the merits of the appeal.
+Motion denied.
