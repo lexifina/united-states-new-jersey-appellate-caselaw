@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1958-12-05"
+citations: ["53 N.J. Super. 16"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM JONES, AN INFANT, BY HIS GUARDIAN AD LITEM FRANK JONES AND FRANK JONES, INDIVIDUALLY, PLAINTIFFS-RESPONDENTS, v. KATHLEEN P. WILLIAMS, DEFENDANT, UNSATISFIED CLAIM AND JUDGMENT FUND BOARD OF THE STATE OF NEW JERSEY, APPELLANT."]
+source_url: "https://static.case.law/nj-super/53/cases/0016-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 414504
+cites_cases: ["8 N. J. Misc. 929"]
+---
+
+# Jones v. Williams
+
+## Majority (Confoud, J. A. D.)
+
+The opinion of the court was delivered by
+Confoud, J. A. D.
+The Unsatisfied Claim and Judgment Fund Board (Board) appeals from an order of the Mercer County Court requiring it to pay $5,000 to plaintiff Frank Jones, as guardian ad litem, of the infant plaintiff William Jones, and an additional $5,000 to the said Frank Jones, father of the child, individually. Plaintiffs had recovered uncollected judgments against defendant for damages for and because of injuries sustained by the infant resulting from defendant’s negligence in the operation of an automobile. The judgment in favor of the child was for $12,000; that for the parent, in compensation for hospital and medical expenses necessitated by the child’s injuries, $9,588.50.
+The position of the Board is that the statute as it stood as of the date of the accident (N. J. S. A. 39:6-69), contemplated the allowance out of the fund of a maximum of $5,000 where only one person sustained bodily injury in the accident. Counsel for the Board conceded in the trial court, as they do on this appeal, that recovery against the fund may be had both by the person who sustains the bodily injury and by a person who, as in the case of the father of the infant plaintiff in the present case, incurs consequential losses of his own as a result of such injuries, although he sustained no bodily injury in the accident. On the basis of this concession the trial court deemed that there were two claimants against the fund and that the statutory maximum awurd properly applicable was therefore $10,000 rather than $5,000.
+So far as material tire particular statutory section directly applicable, N. J. S. A. 39:6 — 69, read as follows when the order here under review was entered (but see L. 1958, c. 99) :
+“When any qualified person recovers a valid judgment for an amount in excess of two hundred dollars ($200.00), exclusive of interest and costs, in any court of competent jurisdiction in this State, against any other person, who was the operator or owner of a motor vehicle, for injury to, or death of, any person or persons or for damages to property, except property of others in charge of such operator or owner or such operator's or owner’s employees, arising out of the ownership, maintenance or use of the motor vehicle in this State on or after the first day of April, one thousand nine hundred and fifty-five, and any amount in excess of two hundred dollars ($200.00) remains unpaid thereon, such judgment creditor may, upon the termination of all proceedings, including reviews and appeals in connection with such judgment, file a verified claim in the court in which the judgment was entered and, upon ten days’ written notice to the board may apply to the court for an order directing payment out of the fund, of the amount unpaid upon such judgment, which exceeds the sum of two hundred dollars ($200.00) and does not exceed—
+(a) The maximum amount or limit of five thousand dollars ($5,000.00), exclusive of interest and costs, on account of injury to, or death of, one person, in any one accident, and
+(b) The maximum amount or limit, subject to such limit for any one person so injured or killed, of ten thousand dollars ($10,000.00), exclusive of interest and costs, on account of injury to, or death of, more than one person, in any one accident * *
+We do not propose to pass upon the correctness of tire concession on behalf of the Board that the consequential damages of the plaintiff father are a proper subject of recovery under the statute, although we shall assume it for purposes of deciding the point under dispute. The issue is not free from doubt as a matter of statutory construction, and we have not had the benefit of argument for the contrary position. A definitive determination of the question ought to await an occasion when argument may be had from proponents of both sides of the issue. But see N. J. S. A. 39:6-65, 70(d), and 70(m), as well as 69. Consult Elder, "The Unsatisfied Judgment Fund and the Irresponsible Motorist ” in Current Trends in State Legislation (1954). Cf. Kula v. Jersey Mutual Casualty Insurance Co., 8 N. J. Misc. 929 (Sup. Ct. 1930). We are satisfied that the allowanee of $10,000 against the fund pursuant to the order under review must be found erroneous within what seems to us unambiguous and compelling verbiage in the statutory section directly implicated, and quoted above.
+Subparagraph (a) of section 69 plainly makes the determinant of the applicability of the $5,000 maximum limitation the fact of injury (or death) of "one person” “in any one accident” (emphasis supplied). Only where “more than one person” is injured (or dies) “in any one accident” does the $10,000 limitation apply. Subparagraph (b). Only one person was injured in the single accident which is the foundation for the present judgments and claims. Therefore the $5,000 limitation is applicable regardless of whether or not the claims of both plaintiffs are properly deemed compensable out of the fund.
+The same result has been arrived at elsewhere under comparable statutes on the theory that both the direct and the consequential injury claims are founded upon “one injury.” Klebanoff v. Price, 1949 2 D. L. R. 575 (Ontario Ct. of App.) (the New Jersey act is modeled upon the Ontario statute); Thomas v. Frank, 1950, 1 W. W. R. 947 (Alberla Cl. of App.).
+Reversed; no costs.
