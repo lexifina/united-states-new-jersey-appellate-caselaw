@@ -1,0 +1,45 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1987-10-30"
+citations: ["221 N.J. Super. 61"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CAROL LEVIN AND JOSEPH LEVIN, PLAINTIFFS-APPELLANTS, v. GEORGE W. DEVOE, CY SALTZMAN AND THE ESTATE OF MILTON SALTZMAN, INDIVIDUALLY AND AS PARTNERS OF CAFCO, A PARTNERSHIP ORGANIZED UNDER THE LAWS OF THE STATE OF NEW JERSEY, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/221/cases/0061-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 322089
+cites_cases: ["103 N.J. 471", "175 N.J.Super. 1", "206 N.J.Super. 336", "216 N.J.Super. 393", "28 N.J. 174", "38 N.J. 578", "70 N.J. 528", "87 N.J. 146"]
+---
+
+# Levin v. Devoe
+
+## Majority (BRODY, J.A.D.)
+
+The opinion of the court was delivered by
+BRODY, J.A.D.
+In this appeal we hold that the duty of a commercial property owner to maintain abutting sidewalks does not extend to maintaining curbs that are separated from the sidewalk by a grass strip.
+Plaintiff Carol Levin (plaintiff) sustained personal injuries when she tripped and fell on the curb in front of defendants’ apartment building as she was about to cross the street. Her husband, plaintiff Joseph Levin, sues per quod.
+Defendants’ building is on a two-way street. Plaintiff parked her automobile in front of the building, got out on the passenger side, walked to the rear of the vehicle along a grass strip between the sidewalk and curb, and fell when she stepped on the curb as she was about to cross the street behind her vehicle. Accepting plaintiffs’ claim that the curb had fallen into dangerous disrepair, Judge Mannion nevertheless granted defendants’ motion for summary judgment on the ground that defendants owed plaintiffs no. duty to maintain the curb.
+To arrive at the present state of the law regarding the duty property owners owe pedestrians to maintain the abutting public way requires us to consider two Supreme Court opinions, Yanhko v. Fane, 70 N.J. 528 (1976) and Stewart v. 104 Wallace St., Inc., 87 N.J. 146 (1981). In Yanhko the court summed up the common law in New Jersey on the subject and concluded that precedent established that an abutting property owner does not owe pedestrians the duty to maintain sidewalks against dangerous conditions caused by the public’s use, natural deterioration or the acts of third parties. The court followed the precedent.
+In its survey of the history of the allocation of the duty of maintenance between abutting property owners and the general public, the Yanhko court described the breadth of the public way to include the sidewalk and the road, and placed the duty of maintaining the public way solely upon the general public, which the Legislature may accept, reject or redirect:
+Presumably, defendants’ [abutting property owners’] title goes to the middle of the abutting street, subject to the public easement of vehicular passage in the street and of pedestrian passage on the sidewalk, with neither of which defendants are entitled to interfere. [Citations omitted.] In legal contemplation, the easement of public passage renders the sidewalk an integral part of the public highway. [Citations omitted.]
+The unrestrietable right of passage on the highway belongs to the public. In principle, therefore, a remedy for injury to a pedestrian caused by improper maintenance thereof should be subsumed under the heading of public liability. It should be for the Legislature as representative of the public at large to declare or regulate such liability. [70 N.J. at 534.]
+In Guerriero v. Palmer, 175 N.J.Super. 1, 5-7 (Law Div.1979), the Law Division relied on that language to render a public entity liable under N.J.S.A. 59:4-2 of the Tort Claims Act for a public sidewalk that had become dangerous, subject to the lower standard of care that the Act imposes on public entities for maintaining their property and subject to the Act’s qualified immunities.
+In Stewart the court carved out an exception to the general rule that an abutting property owner is not liable for deterioration of the public way. The court held:
+Today, for the reasons stated below, we overrule Yanhko and hold that a plaintiff has a cause of action against a commercial property owner for injuries sustained on a deteriorated sidewalk abutting that commercial property when that owner negligently fails to maintain the sidewalk in reasonably good condition. [Stewart, 87 N.J. at 149.]
+In determining that an owner of commercial property, which includes apartment buildings, id. at 160 n. 7, owes a duty to pedestrians to maintain the abutting sidewalk, the court made it clear that in all other respects the general “no liability” rule of Yanhko continues to apply:
+The duty to maintain abutting sidewalks that we impose today is confined to owners of commercial property. [Id. at 159.]
+We do not reach the question of whether the same duty should be imposed on owners of residential property or whether the policy considerations underlying the impositions of a duty on commercial property owners apply to residential property owners. We note, however, that the law of sidewalk liability is an appropriate subject for reconsideration by the Legislature. [Ibid. n. 6.]
+Nor are the arguments offered in support of the old rule sufficiently persuasive to justify its retention. Most important, sidewalk repair and maintenance can no longer accurately be characterized solely as a municipal responsibility. [Id. at 158.]
+The question of the possible liability of a municipality for injuries sustained on deteriorated sidewalks is not before us. Numerous provisions of the Tort Claims Act, N.J.S.A. 59:1-1 et seq., enacted in 1972, might be relevant to a determination of this issue in a given case. [Id. at 155 n. 3.]
+The Stewart court was thus careful to make it clear that the Yanhko rule was left undisturbed with respect to nonliability of noncommercial abutting property owners and with respect to liability of public entities under the Tort Claims Act.
+We conclude that except for sidewalks abutting commercial property and for curbs that are structurally an integral part of such sidewalks, Stewart similarly left undisturbed the Yanhko rule that an abutting property owner is not liable for maintaining the public way, which includes curbs. We base our conclusion primarily upon the court’s careful delineation of the exception it carved out of the Yanhko rule.
+Our conclusion is also consistent with general considerations relevant to the finding of a tort duty. Whether a tort duty exists “is ultimately a question of fairness.” Goldberg v. Housing Auth. of Newark, 38 N.J. 578, 583 (1962). The Stewart court concluded that it was fair to impose a tort duty to maintain sidewalks upon the owners of adjacent commercial properties for the following reason:
+For the protection of its patrons, every commercial establishment must maintain its premises, including means of ingress and egress, in reasonably safe condition. And although the paved sidewalks fronting a commercial establishment are primarily for the use of the public generally, their condition is so beneficially related to the operation of the business that the unrestricted legal duty of maintaining them in good repair might, arguably, be placed on it. [Stewart, 87 N.J. at 159 (quoting from Krug v. Wanner, 28 N.J. 174, 179-180 (1958)).]
+Arguably even a remote part of the public way confers a benefit upon a commercial establishment because the public way affords the public a means of ingress and egress. However, no one could reasonably suggest that the owner of commercial property owes a duty to pedestrians crossing the street to keep an abutting paved road in repair. A curb separated from the sidewalk by a grass strip is a feature of the road, not the sidewalk. Its primary functions are to channel surface water from the road into storm drains and to serve as a barrier for cars to park against. Although such a curb is sometimes used by pedestrians to cross the street, like a road it is a significantly less immediate means of pedestrian ingress and egress to the abutting property than is a sidewalk.
+Finally, plaintiffs argue that a municipal ordinance imposes upon defendants a duty to pedestrians. The ordinance provides in part:
+It shall be the duty of any owner or occupant within the Borough [of Highland Park] to keep the sidewalk and curb abutting such property maintained and properly repaired so as to minimize any endangerment to the public health, safety and welfare of any individual who might be using the sidewalks.
+Such ordinances do not create a tort duty to pedestrians. Yanhko, 70 N.J. at 536; Liptak v. Frank, 206 N.J.Super. 336, 339 (App.Div.1985), certif. den. 103 N.J. 471 (1986).
+Affirmed.
+We respectfully disagree with the holding in Christmas v. City of Newark, 216 N.J.Super. 393, 400 (App.Div.1987), that Stewart establishes an absolute municipal immunity for deteriorated sidewalks.
