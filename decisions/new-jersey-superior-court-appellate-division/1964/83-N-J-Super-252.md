@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1964-04-13"
+citations: ["83 N.J. Super. 252"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MICHAEL PASTOR, PETITIONER-APPELLANT, v. BAKELITE COMPANY, RESPONDENT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/83/cases/0252-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 511018
+cites_cases: ["67 N. J. Super. 302"]
+---
+
+# Pastor v. Bakelite Co.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Petitioner’s petition for workmen’s compensation was dismissed as having been filed out of time, and he appeals.
+Petitioner was injured on November 17, 1955. He was treated by Bakelite’s physicians until about June 195G, when he refused further treatment from them and turned to a physician of his own choice. Bakelite advised Pastor that treatment by his own physician was unauthorized, and offered him the services of an orthopedic specialist who had not previously treated him. Pastor ignored the offer, and refused to appear for further examination by Babelite’s physicians. On June 20, 1957 Bakelite filed a petition in the Division which set forth the foregoing facts and prayed “that the Division of Workmen’s Compensation enter an order * * * [that] if said Eespondent-Employee persists in his refusal to submit to such examination and x-rays, he shall be deprived of his right to compensation during the continuance of his refusal in accordance with the provisions of R. S. 34:15-19.”
+Pastor did not appear in answer to this petition and, on October 3, 1957, an order was entered in accordance with the prayer of the petition.
+Four years later, on October 13, 1961, Pastor filed a claim petition and also a notice that he would move “for an order to restore the above matter to the active trial list and schedule a date for trial.” The motion was denied and the claim petition was dismissed by the judge of compensation, who said:
+“The question presented is novel, and there has been no reported determination on point. There would appear to be no question that it lias been well established that R. S. 34:15-51 is not simply a statute of limitations but rather a jurisdictional requirement which is a necessary prerequisite to enable the Division to make an adjudication in a given case. See Van Duyne v. Caldwell Motors, 67 N. J. Super. 302 (1961).
+The employee relies upon the petition filed by the employer as satisfying the requirements of R. S. 34:15-51, contending the Order of Deputy Director Lorenz is an ‘open’ Order which does not make a disposition of the claim on the merits, and that therefore this Division has continuing jurisdiction and the employee may therefore proceed.
+It is my opinion that if the petition filed by the employer gave this Division general jurisdiction to adjudicate the claim in all its facets and phases, such jurisdiction would continue until final determination, thus enabling the petition-employee to proceed herein. However, an examination of R. S. 34:15-19 reflects that it is limited in its application to enable the employer to obtain medical examinations of the claimant where the claimant refuses to submit to same. The necessity for such examinations when the petitioner is pursuing a course of unauthorized treatment or following an adjudication as to the extent of disability before payments have been completed, is self-evident. The employer availed himself of its provisions in this case for the limited purpose of obtaining the relief sought. The Order of Deputy Director Lorenz of October 3, 1957 operated as a final determination upon the employer’s application, subject to the employee filing a proper claim petition pursuant to R. S. 34:15-51 in order to obtain a hearing on the merits of the claim. While R. S. 34:15-20 provides that either party may submit the claim as to questions of fact, the nature and effect of injuries and the amount of compensation, I cannot see how the petition in question filed by the employer could be interpreted as a petition filed under this section which would have the effect of submitting the claim both as to the questions of fact, the nature and effect of injuries and the amount of compensation.”
+The County Court affirmed for the same reasons.
+Pastor argues that the compensation judge and the County Court erred because the petition filed by Bakelite was itself "a valid claim petition and satisfied all the requirements” of R. 8. 34:15-51. His position is that, under R. 8. 34:15-20, either the employee or the employer may file a petition to have compensation fixed; the form of the petition is not important ; Bakelite’s petition admitted the injury and its compensability and therefore was a sufficient petition under said section 20; by it jurisdiction was conferred upon the Division within the time fixed by section 51; therefore the Division should have proceeded to award compensation when, in 1961, Pastor tendered himself for physical examination by Bakelite.
+We disagree with Pastor’s position, essentially for the reasons stated by the judge of compensation and the County Court.
+Said R. S. 34:15-19 is self-executing. It provides that “The refusal of the employee to submit to * * * examination shall deprive him of the right to compensation during the continuance of such refusal.” The employer is not required to file a petition to deprive the employee “of the right to compensation during the continuance of such refusal.” When the employer does file one, its purpose generally is to put pressure upon the employee to submit to examination, and, if he persists in his refusal, to establish as a matter of record that his refusal is unjustified.
+Obviously, section 19 was enacted by the Legislature to afford the employer certain protection. The petition was filed by Bakelite for the express purpose of availing itself of that protection. Bakelite did not intend it to be a submission under the terms of section 20, and we see no justification for turning it into one. At the oral argument, Pastor’s counsel admitted, with commendable frankness, that his contention meant that Pastor could have made his claim at any time after the filing of the Bakelite petition—even 20 years later. It seems to us that it would be most unfair and contrary to the legislative purpose, to turn section 19, intended as a protection of the employer, into such a weapon against it.
+Pastor also argues that Bakelite is estopped from asserting the defense of the lateness of the filing of the claim petition. We find no merit in this contention.
+The judgment is affirmed.
