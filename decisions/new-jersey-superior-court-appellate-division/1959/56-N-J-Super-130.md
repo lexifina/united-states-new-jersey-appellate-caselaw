@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1959-06-01"
+citations: ["56 N.J. Super. 130"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["CHARLES HOGG, PLAINTIFF-APPELLANT, v. THE EMPLOYEES RETIREMENT SYSTEM OF THE COUNTY OF ESSEX AND THE PENSION COMMISSION OF THE EMPLOYEES RETIREMENT SYSTEM OF THE COUNTY OF ESSEX, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/56/cases/0130-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 398842
+cites_cases: ["27 N. J. 144"]
+---
+
+# Hogg v. Employees Retirement System
+
+## Majority (Conford, J. A. D.)
+
+The opinion of the court was delivered by
+Conford, J. A. D.
+The principal issue involved is the construction of N. J. 8. A. 43 TO-18.12, a part of the county pension and retirement fund legislation. Plaintiff, retired under the act January 1, 1953 for total and permanent physical incapacity any longer to perform his duties as a park policeman, and receiving a pension therefor, has nevertheless since 1957 annually derived income from gainful employment in amounts which, when added to the pension, aggregate in excess of his former county annual salary rate. It is stipulated by both sides that plaintiff continues to be permanently and totally incapacitated to perform the duties of his former county position.
+Seeton 12 of the act, cited above, provides as follows:
+“Once each year the pension commission may, and upon his application, shall, require any member retired for disability who is under the age of sixty years to undergo medical examination by a physician or physicians designated by the commission. The examination shall be made at the residence of the beneficiary or any other place mutually agreed upon. If the physician or physicians thereupon report and certify to the commission that the disability beneficiary is not permanently and totally incapacitated either physically or mentally for the performance of duty and that he is engaged in a gainful occupation, and if the commission concurs in the report, then the amount of his pension shall be reduced to an amount which, when added to the amount then being earned by him, shall not exceed the amount of the compensation received by him at the time of his retirement. If subsequent medical examination of such a beneficiary shows that his earnings have changed since the date of his last examination, then the amount of his pension may be further altered but the new pension shall not exceed the amount of the pension originally granted nor shall the new pension when added to the amount then being earned by the beneficiary exceed the salary or compensation received by him at the time of his retirement.” (Emphasis added.)
+Defendant has apparently given this provision the practical construction of making the indicated deductions from pension on account of earnings from gainful employment whether or not there is any certification by a physician that the disability beneficiary is no longer permanently and totally incapacitated for the performance of his duties, and without regard to whether that is the fact. It is argued by defendant that the latter condition is not a statutory prerequisite for the reduction of the pension where there are earnings from employment to the extent specified. The Law Division agreed, holding that the contrary literal sense of the statutory language should bow to what it regarded as the obvious legislative intent. We cannot concur.
+While some aspects of this provision give us cause for wonderment (e. g., how can a medical examination show that "earnings have changed”?), there is no doubt that the plain import of the statute makes the conjunction of earnings from a gainful occupation and an alteration in the former condition of permanent and total disability to perform the duties of the public employment necessary before the-pension may be reduced on account of the earnings. It is to be noted that the reference to permanent and total incapacity for “the performance of duty” in section 12 is controlled by the definition in section 1 (N. J. 8. A. 43:10-18.1) of “permanent and total disability” as meaning incapacity to perform “the duties of his position or office.” The court cannot rewrite or ignore clear and unambiguous legislative language in order to effectuate a conjectured but unexpressed intent. Moreover, it is entirely conceivable that the Legislators actually intended to permit the pensioner to retain his outside earnings in addition to the full pension so long as 'the physical condition for which the disability pension was first allowed still existed to its orginal extent. If such was the intent, apt language was used to express it.
+Plaintiff is entitled to enjoy his full pension without deduction for earnings unless and until the additional statutory condition referred to is met.
+Defendant’s argument of waiver by the plaintiff of his full pension for 1957 and 1958 is not sustainable. Plaintiff did not, by writing letters to defendant undertaking to comply with defendant’s regulations requiring reports of earnings, thereby intentionally relinquish his legal pension rights, as he was then unaware of their extent. See West Jersey Title and Guaranty Co. v. Industrial Trust Co., 27 N. J. 144, 152 (1958).
+Defendant is not entitled to a return of the $185.50 balance remaining unreturned by plaintiff from the sum of $585.90 which defendant asserted plaintiff was overpaid in pension because of the claimed right of the defendant to a deduction for plaintiff’s earnings. As we have already held, no part of the earnings was deductible from the pension. Defendant therefore had no right to a return of any portion of the $585.90. However, as plaintiff concedes, he cannot recover the $400 he paid back to the defendant, that having been a voluntary payment.
+Reversed.
