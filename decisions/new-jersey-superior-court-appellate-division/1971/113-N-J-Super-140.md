@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1971-01-20"
+citations: ["113 N.J. Super. 140"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. JOSEPH FRANCIS VASSALLUZZO, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/113/cases/0140-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 343573
+cites_cases: ["114 N. J. Super. 153", "121 S. W. 751", "128 N. J. L. 429", "129 N. J. L. 384", "183 Neb. 499", "2 L. Ed. 2d 60", "21 N. J. Super. 497", "212 P. 336", "216 N. E. 2d 510", "23 Cal. Rptr. 366", "23 L. Ed. 2d 241", "28 N. J. 188", "28 N. J. Super. 45", "324 U. S. 884", "355 U. S. 850", "373 P. 2d 430", "395 U. S. 924", "44 N. J. Super. 110", "44 N. J. Super. 120", "48 N. J. Super. 276", "52 N. J. 538", "58 Cal. 2d 225", "65 S. Ct. 1025", "69 Ill. App. 2d 50", "78 S. Ct. 73", "89 L. Ed. 1434", "89 S. Ct. 1779", "91 Ark. 434", "98 N. J. Super. 430"]
+---
+
+# State v. Vassalluzzo
+
+## Majority (Mountain, J. A. D.)
+
+The opinion of the court was delivered by
+Mountain, J. A. D.
+Defendant pleaded guilty to a charge of entering with intent to rob (N. J. S. A. 2A:94—1) and to a charge of robbery (N. J. S. A. 2A:141-1). He received a sentence of 5-10 years in State Prison on the latter charge and a sentence of 3-5 years on the former, to be served consecutively. His appeal is directed to these sentences.
+Defendant first argues that he has received two sentences for what is in effect a single criminal act, the argument being that entering with intent to rob merges into the more serious crime of robbery. Reliance is placed upon such eases as State v. Hill, 44 N. J. Super. 110 (App. Div. 1957) (assault with intent to rob and robbery), and State v. Riley, 28 N. J. 188 (1958) (assault with intent to commit rape and rape). In these cases the lesser crime of assault with intent is held to merge with the greater crime. These decisions, however, are not applicable here. This case is controlled by State v. Byra, 128 N. J. L. 429 (Sup. Ct. 1942), aff’d 129 N. J. L. 384 (E. & A. 1943), cert. den. 324 U. S. 884, 65 S. Ct. 1025, 89 L. Ed. 1434 (1944). In considering this precise question the court there observed:
+* * * that under a count for breaking and entering with intent, the proof of the crime is complete when those two elements are shown, irrespective of whether there was a carrying out of the intent, and sentence may be pronounced accordingly; and * * * the actual perpetration of the larceny or other crime is no part of the offense of breaking- and entering with intent but is a separate and distinct offense at common law, and treated in a separate section of our Crimes Act. [at 431-432]
+Our courts have consistently followed this decision. State v. Louden, 21 N. J. Super. 497 (App. Div. 1952); State v. Compton, 28 N. J. Super. 45 (App. Div. 1953); State v. Quatro, 44 N. J. Super. 120, 127 (App. Div. 1957), cert. den. 355 U. S. 850, 78 S. Ct. 73, 2 L. Ed. 2d 60 (1957); State v. Craig, 48 N. J. Super. 276 (App. Div. 1958); State v Simmons, 98 N. J. Super. 430, 440 (App. Div. 1968), aff’d 52 N. J. 538 (1968), cert. den. 395 U. S. 924, 89 S. Ct. 1779, 23 L. Ed. 2d 241 (1969). Entering, whether with or without breaking, accompanied by the intent to commit a felony, and any subsequent larceny or robbery are separate and distinct offenses. There is no merger.
+The building that was entered in this case was a tavern and it is suggested that since it was open to the public, defendant’s entry cannot be condemned as a criminal act. The point is novel in this State but has been considered elsewhere. It is generally held that the invitation extended to the public is not intended to include a person who enters íot an improper or criminal purpose. In a ease involving theft from the Chicago Historical Society Museum, it was said,
+The opening of a museum’s doors to the public is an invitation to enter for the lawful purpose of viewing the exhibits on display. The authority of one who accepts such invitation is necessarily coincident with the terms of the offer, and it would be contrary to reason and ordinary human understanding to deduce that the welcome extended under those circumstances includes authority to enter for any different purpose, especially one which is unlawful or criminal. We therefore hold that the entry into an establishment which is open to the public, with the intent to commit a felony or theft, is without authority. [People v. Schneller, 69 Ill. App. 2d 50, 216 N. E. 2d 510, 512 (App. Ct. 1966)]
+To the same effect, see McCreary v. State, 25 Am. 1, 212 P. 336 (Sup. Ct. 1923) (room to which defendant had legitimate right of access); Pinson v. State, 91 Ark. 434, 121 S. W. 751 (Sup. Ct. 1909) (saloon); People v. Deptula, 58 Cal. 2d 225, 23 Cal. Rptr. 366, 373 P. 2d 430 (Sup. Ct. 1962) (bowling alley); State v. Baker, 183 Neb. 499, 161 N. W. 2d 864 (Sup. Ct. 1968) (store). We agree with these authorities.
+Finally, it is urged that the sentencing judge improperly increased the aggregate sentence because of defendant’s failure to appear for trial upon the scheduled date. The record does not sustain the contention. The judge did allude to defendant’s failure to appear, but there is no showing that he imposed a more severe sentence for this reason than would otherwise have been the case. The punishment is neither manifestly excessive nor unduly punitive and seems fittingly responsive to the crime. Accordingly, we affirm.
