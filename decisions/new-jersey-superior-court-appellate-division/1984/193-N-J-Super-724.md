@@ -1,0 +1,34 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1984-05-18"
+citations: ["193 N.J. Super. 724"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["FREEHOLD BOROUGH, PLAINTIFF-APPELLANT, v. FREEHOLD TOWNSHIP, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/193/cases/0724-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 901081
+cites_cases: ["10 N.J. 398", "106 N.J.Super. 204", "116 N.J.L. 413", "122 N.J.L. 77", "13 N.J.Misc. 775", "146 N.J.Super. 243", "181 A. 150", "25 N.J. 241", "49 N.J. 194", "6 N.J. 139", "71 N.J. 354", "99 N.J.Super. 69"]
+---
+
+# Freehold Borough v. Freehold Township
+
+## Majority (KING, J.A.D.)
+
+The opinion of the court was delivered by
+KING, J.A.D.
+This case presents the question of whether the Board of Public Utilities has jurisdiction over sewer fees charged by a municipality for services provided to customers residing in a neighboring municipality. The Borough of Freehold appeals from a summary judgment granted in the Law Division ruling that the Board of Public Utilities (BPU) had jurisdiction to review the increase in sewer rates imposed upon residents of Freehold Township whose sewage is treated by the Borough’s municipal sewer system. We reverse and remand to the Law Division for a trial on the merits of the Township’s contention that the newly-imposed rate increases are arbitrary, capricious and unreasonable.
+We conclude that the Board of Public Utilities has no jurisdiction to regulate sewerage charges of municipally-owned systems which serve users in adjoining municipalities. We disagree with the Law Division judge’s conclusion that certain broad language in In re Complaint of Morris Twp., 49 N.J. 194, 205 (1967), compelled a conclusion that the BPU had jurisdiction. Morris Twp. involved water-service charges, not sewer charges, and jurisdiction of the BPU was predicated on a specific legislative grant. N.J.S.A. 40:62-49(f) (water service supplied “under such terms and conditions as may be ordered by the board of public utility commissioners”).
+The general jurisdiction of the BPU is defined in N.J.S.A. 48:2-13 which has been interpreted as vesting jurisdiction in the BPU over private corporations only, and not over municipal corporations unless such jurisdiction is specifically delegated by statute. See In re Glen Rock, 25 N.J. 241, 246 (1954), overruled on other grounds, North Wildwood v. Bd. of Commissioners of Wildwood, 71 N.J. 354 (1976); Morris Twp., 49 N.J. at 204; Jersey City Incin. Auth. v. Dept. of Public Utilities, 146 N.J.Super. 243, 251-252 (App.Div.1976).
+The determination that municipal corporations are not included within the general grant of jurisdiction to PUC first appearing in the case of Ridgewood v. Hopper, 13 N.J.Misc. 775, 181 A. 150 (Sup.Ct.1935), aff’d o.b. 116 N.J.L. 413 (E. & A.1936), and reiterated in In re Glen Rock, supra, has thus been extant since 1935 and has not provoked the enactment of any legislation indicating a contrary intent. We may consider the legislative silence as acquiescence in this construction of the statute. Miller v. Hudson Cty. Bd. of Freeholders, 10 N.J. 398, 413 (1952); Barringer v. Miele, 6 N.J. 139, 144 (1951); State v. Moresh, 122 N.J.L. 77, 79 (E. & A.1939); cf. Closter Service Stations, Inc. v. Ridgefield Park Bd. of Comm’rs, 99 N.J.Super. 69, 75 (App.Div.1968).
+[Id. at 252-253],
+Moreover, the BPU itself has recognized the need for a specific statutory grant of power as a condition precedent to the exercise of jurisdiction over municipally owned and operated utilities. N.J.A.C. 14:3-1.1 provides
+“Utility” has the same meaning as defined in N.J.S.A. 48:2-13 and includes pipeline utilities as defined in N.J.S.A. 48:10-3, and municipally-operated utilities, insofar as the Board’s jurisdiction is extended to them under the appropriate statutes. (Emphasis added).
+As stated by this court in Jersey City Incin. the Legislature has had no problem specifically designating those areas in which it intended the BPU to have jurisdiction over municipal utilities
+When in the past the Legislature has intended to give PUC jurisdiction over a function of a local government, it has indicated that intent by the enactment of a specific statute. Examples are: N.J.S.A. 40:62-24 (“Every municipality in supplying electricity, gas, steam or other product beyond its corporate limits is hereby declared to be a public utility”; N.J.S.A. 40:14B-20(6), wherein PUC is given authority to approve a request by a municipality to purchase water at retail from a municipal water authority created pursuant to N.J.S.A. 40:14B-1 et seq.; N.J.S.A. 40:62-85.2, recently amended to explicitly provide for PUC jurisdiction “whenever any municipality solely owning or controlling waterworks or its own water supply is supplying water to the inhabitants of * * * any other municipality,” and N.J.S.A. 40:62-1, requiring every municipality operating any form of public utility service to keep records and accounts in a manner directed by the PUC and file with the Board such statement as shall be required by PUC. If it were the intent of the Legislature that a municipality furnishing utility services should be subject to the general jurisdiction of PUC, this section of the statute and the previously cited enactments would be unnecessary. See also, N.J.S.A. 40:62-21, 23, 25 and N.J.S.A. 40:14B-20(6).
+Recognizing as we do this grant of jurisdiction over municipal corporations in specific instances, we cannot infer general jurisdiction in PUC over municipal corporations based on N.J.S.A. 48:2-13.
+[ 146 N.J.Super. at 253-254 ].
+The Borough of Freehold was within its express grant of legislative power in setting the rates for service outside the municipality. See N.J.S.A. 40:63-7; N.J.S.A. 40:63-19; N.J. S.A. 40:63-68. Although compelling arguments of policy may be advanced for conferring BPU regulatory jurisdiction upon intermunicipal sewer systems, these contentions should be presented to the legislature and do not justify the generation of a grant of administrative jurisdiction solely by judicial edict.
+Finally, we reject as unpersuasive the Township’s contention that the language “or other product” in N.J.S.A. 40:62-24 confers jurisdiction on the BPU. This contention is without merit and contrary to the interpretation of this statute by our courts. See, In re Glen Rock, 25 N.J. at 146; Morris Twp., 49 N.J. at 206-207; Jersey City Incin., 146 N.J. at 253 n. 1. As we stated in Crowe v. Mayor & Council of Sparia, 106 N.J.Super. 204, 206 (App.Div.1969): “A municipality has plenary statutory power to charge for the use of sewerage facilities, N.J.S.A. 40:63-7, subject only to the general restriction against patent unreasonableness.”
+Reversed and remanded for trial.
