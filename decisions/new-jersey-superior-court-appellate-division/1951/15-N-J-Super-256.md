@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1951-09-19"
+citations: ["15 N.J. Super. 256"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE LEVITIN, PLAINTIFF-APPELLANT, v. DAVID MUSICANT AND OTHERS, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/15/cases/0256-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 715706
+cites_cases: ["6 N. J. 457", "91 N. J. Eq. 205"]
+---
+
+# Levitin v. Musicant
+
+## Majority (Bigelow, J. A. D.)
+
+The opinion of the court was delivered by
+Bigelow, J. A. D.
+The plaintiff appeals from the judgment of the Chancery Division in favor of the defendants. The action was brought by Levitin, as purchaser, for the specific performance of an oral contract for the conveyance of land or, in the alternative, for damages for breach of the contract. The land was owned by two of the defendants, Mr. and Mrs. Musicant, as tenants by the entirety, but the agreement to sell was made by Mr. Musicant alone, without the concurrence of his wife. It was evidenced by a memorandum that Levitin drew and which was signed by both parties in duplicate on May 17, 1949. We say in duplicate although there was a slight variance between the two papers. The purchase price was $6,000, of which $500 was paid upon signing the memorandum, $1,000 was payable “90 days from date or sooner, if search is completed before”; “balance of $4,500 payable over four years in equal installments, plus 4% interest.” At the time the bargain was agreed upon, Musicant was engaged in negotiations for a sale of the same land to Oak Realty Company. The parties contemplated that these negotiations would continue and that if the Realty Company should offer as much as $7,000, then the price that Levitin would have to pay would be increased to $6,600. This term of the contract was expressed in one of the memoranda as follows:
+“If a check from Oak Realty Company is given as deposit or purchase for the sum of $7,000, I agree that the purchase price will be $6,600 one week from above date.”
+In the other memorandum, ■ that is, the one which the defendants retained, the clause reads:
+“George Levitin agrees that the price is ,$(>,(>00 if a check is given as a deposit for the purchase for the sum of $7,000 one week from above date.”
+Oil May 18, tlie day following the signing of tlie above memoranda, the Musicanfs agreed to sell the property to the defendant Bross for $7,500, and were given a check as a deposit on account of the purchase price. The Bross agreement states that it is subject to “an existing memorandum of May 17, 1949 (the only written paper between the parties), between David Musicant and George Levitin.” Ultimately the premises were conveyed to Bross.
+On the appeal, Levitin advances tlie theory that he is entitled to specific performance against Musieant’s grantee and Mrs. Bross, to the extent of the estate derived from Musicant and not including the estate acquired from his wife. This theory was not presented and this relief was not sought iti the Chancery Division. There, Levitin endeavored unsuccessfully to prove that Musicant contracted, not only for himself but as agent for his wife, and he demanded judgment for a conveyance to him of the entire title. We decline to consider whether Levitin was, as a matter of law, entitled to Ihe relief which he now asks, since he did not seek it in the trial division. Morin v. Becker, 6 N. J. 457 (1951).
+Levitin next argues that he should have been awarded damages against Musicant. Of the several defenses advanced, we not'd consider only one. Three weeks after the signing of the memoranda of May 17, Levitin was told of Bross’ offer of $7,500 for the property and was shown the check which Musicant had received as a deposit, tie was reminded that lit' had agreed in such event to ail increase of the purchase price to $6,600. lie positively stated that he would not pay $6,600 and ihe negotiations between him and Musicant collapsed. Some time thereafter, the Musicanfs conveyed the premises to Bross.
+It was the intention of Levitin and Musicant that the price which Levitin must pay would be increased to $6,600 if Musicant were able to get a firm offer of $7,000 from a third party. As proof that the offer was not merely colorable, a deposit on account was required. One of the memoranda indicates that the deposit should be in the form of a check of Oak Realty Company. The other memorandum does not name the drawer of the check. We consider that the identity of the drawer is immaterial. The offer of Bross was bona fide and was supported by a substantial deposit. Levitin was not obligated to pay the increased purchase price unless Musicant obtained the $7,000 offer within one week. This he did. But Levitin argues that Musicant was required not only to obtain the offer, but to notify Levitin of it within the week. We are satisfied that this is not the correct interpretation of the agreement between the parties. It was enough that Musicant gave notice to Levitin within a reasonable time.
+When Levitin announced that he would not pay $6,600 for the property, his repudiation of his obligation under the contract excused Musicant from further performance and entitled him to consider the contract as terminated. Stein v. Francis, 91 N. J. Eq. 205 (Ch. 1919). But Levitin urges that the act of Mr. and Mrs. Musicant in signing a contract with the Brosses, only one day after Musicant had agreed to sell to Levitin, was itself a breach of contract, and the earliest breach. There was no impropriety in the bargain reached between the Musicants and Brosses, for it was made expressly subject to Levitin’s contract. But even if the Bross contract had constituted an anticipatory breach of the contract with Levitin, it could not affect the outcome of the litigation, for it occasioned no damage to Levitin, and he elected to consider his contract as remaining in full vigor and in this suit sought to enforce it.
+The judgment is affirmed with costs in favor of Bross and wife.
