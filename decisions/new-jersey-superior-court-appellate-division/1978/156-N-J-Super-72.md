@@ -1,0 +1,35 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1978-02-03"
+citations: ["156 N.J. Super. 72"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ROY ALLEN HOPKINS, PLAINTIFF-RESPONDENT, CROSS-APPELLANT v. LIBERTY MUTUAL INSURANCE COMPANY, DEFENDANT-APPELLANT, CROSS-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/156/cases/0072-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 873704
+cites_cases: ["122 N. J. Super. 68", "141 N. J. Super. 291"]
+---
+
+# Hopkins v. Liberty Mutual Insurance
+
+## Majority (Morgan, J. A. D.)
+
+The opinion of the court was delivered by
+Morgan, J. A. D.
+Defendant Liberty Mutual Insurance Company (hereinafter “Liberty”), appeals from summary judgment in favor of plaintiff, holding plaintiff’s injuries to have been sustained in circumstances entitling him to coverage under the no-fault provision of its policy.
+The facts material to the issues presented are without dispute. On May 18, 1976 plaintiff was injured while attempting to inflate an automobile tire mounted on a rim which came from a pickup truck owned by one Orville Chambers, a named insured on Liberty’s policy -which covered the truck. The day before Chambers, with the assistance of plaintiff and his brother, had mounted the tire on the rim for use as a spare on the truck if it inflated. He was, however, unable to inflate the tire because the local service station was closed. Plaintiff agreed with Chambers that he would arrange to have the tire inflated on the following day if he could use the truck to visit his mother.
+The following day plaintiff and his brother, in possession of the truck with Chambers’ permission, with the mounted tire in the rear of it, visited their mother and then stopped at a service station to inflate the tire as agreed. They had planned to return the truck to Chambers after the tire had been inflated.
+Upon arrival at the service station they parked the truck near the air hose, removed the tire from the back of the truck, and began putting air into it. Poliowing what appeared to be an extended period of frustration in their endeavor, the tire exploded, causing plaintiff the serious injuries which were the occasion for the present litigation.
+Both parties agree that N. J. S. A. 39:6A-4 controls as to the minimum coverage to be afforded under the no-fault provisions of Liberty’s policy:
+Every automobile liability insurance policy insuring an automobile as defined in this act against loss resulting from liability imposed by law for bodily injury, death and property damage sustained by any person arising out of ownership, operation, maintenance or use of an automobile shall provide additional coverage, as defined herein below, under provisions approved by the Commissioner of Insurance, for the payment of benefits without regard to negligence, liability or fault of any kind, to the named insured and members of his family residing in his household who sustained bodily injury as a result of an accident involving an automobile, to other persons sustaining bodily injury while occupying the automobile of the named insured or while using such automobile with the permission of the named insured and to pedestrians, sustaining bodily injury caused by the named insured’s automobile or struck by an object propelled by or from such automobile.
+Under this critical provision three classes of persons are afforded protection: (1) named insureds and members of their family are covered for bodily injury arising from an accident involving an automobile; (2) “other persons” are given protection for bodily injuries sustained “while occupying the automobile of the named insured or while using [it] with [the named insured’s] permission”; and (3) “pedestrians” are covered for injuries caused by the automobile or when struck by an object propelled by it.
+Plaintiff, not being a named insured or a member of his family, the first class of protected persons, can only derive protection, if any, from being a member oE the two other classes, “other persons” or “pedestrians.”
+Liberty contends that plaintiff is not covered as an “other person” because he was neither an occupant of the vehicle at the time of the accident since he was working outside of it, nor was he using the vehicle with the insured’s permission. We need not, however, determine whether in these circumstances plaintiff was an occupant of the vehicle because we are convinced that he was using it within the statutory meaning of the word “use.”
+By its policy Liberty afforded coverage to “other persons” using the insured vehicle with the permission of the named insured. Plaintiff’s permission to use the vehicle at the time of the accident is not in issue. It is undisputed that plaintiff was given the vehicle by the named insured for the purpose of allowing a visit to his mother. The mother was, in fact, visited before the accident occurred and it was during the return of the vehicle to the named insured when the accident occurred.
+Moreover, we are satisfied that when plaintiff attempted inflation of the tire to be used as a spare on the vehicle, he was using the vehicle within the statutory and policy meaning of that term. The tire was mounted on a rim which was part of the vehicle for which the inflated tire was to be used as a spare. It was, therefore, an integral and essential part of the vehicle itself. The fact that it was spatially separated from the vehicle at the time the accident occurred is without moment. Attempted inflation of the tire was as much a use of the vehicle as would be inflating a tire supporting the vehicle or cleaning its windshield or filling it with gas. All such operations, incident to the safe and efficient operation of the vehicle, must be regarded as an integral part of its normal use. See Liberty Mut. Ins. Co. v. O’Rourke, 122 N. J. Super. 68 (Ch. Div. 1973).
+Moreover, even were this not so, plaintiff would nonetheless be covered as a pedestrian. He was not physically within the truck when the accident occurred; he was working outside of it. His injuries, although not caused by the vehicle proper, were clearly caused by one of its essential parts, the tire which, when inflated, was to be used as its spare. In contemplation of the statute, plaintiff’s injuries were caused by the automobile. See Newcomb Hospital v. Fountain, 141 N. J. Super. 291 (Law Div. 1976).
+We, therefore, hold that plaintiff was covered as an “other person” using the vehicle with the permission of the named insured or as a pedestrian whose injuries were caused by the named insured’s automobile.
+The judgment is affirmed and the matter remanded to the trial court for disposition concerning the amount of Liberty’s liability, including the issues of interest and counsel fees raised by plaintiff. We do not retain jurisdiction.
+Althougli the judgment was technically an interlocutory one, we have elected to dispose of the issues raised herein on their merits.
