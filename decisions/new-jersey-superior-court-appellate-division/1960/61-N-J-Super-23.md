@@ -1,0 +1,38 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1960-04-11"
+citations: ["61 N.J. Super. 23"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["HILDA FLICKER, PLAINTIFF-APPELLANT, v. GENEVIEVE F. CHENITZ AND DAVID J. FLICKER, EXECUTORS OF THE ESTATE OF SOL (J.) FLICKER, DECEASED, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/61/cases/0023-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 420580
+cites_cases: ["30 N. J. 152", "31 N. J. 557", "54 N. J. Super. 555", "55 N. J. Super. 273"]
+---
+
+# Flicker v. Chenitz
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Following our decision in Flicker v. Chenitz, 55 N. J. Super. 273 (App. Div. 1959), and the abandonment of an appeal to the Supreme Court by the defendants after certification had been granted, 30 N. J. 152, 566 (1959) , both the plaintiff-wife and the defendants-executors submitted proposed forms of judgment to the Chancery Division, to which our mandate had remitted the record and proceedings “to be there proceeded with” consistently with our opinion.
+The proposed order for judgment submitted by the plaintiff contained, inter alia, a recital that the defendants could, upon notice to the plaintiff, move for a modification of the support provision, as we indicated they could in our opinion, 55 N. J. Super., at pages 281 and 292-293, recently quoted with approval in Schlemm v. Schlemm, 31 N. J. 557, 580 (1960) . But the plaintiff’s proposed order also contained the following provision:
+“It is further adjudged that defendants pay to plaintiff the sum of $11,060.00, being the amount in arrears under said agreement to and including October 10, 1959, together with a sum equivalent to interest on the installments comprising a part thereof from the time the same became respectively due.”
+The defendants’ proposed order for judgment made no mention of arrearages but included a provision setting the cause down for a hearing wherein all circumstances warranting modification would be considered. Defendants also made a motion for such a hearing, supported by an affidavit of one of the executors deposing that Dr. Flicker’s sons are now 21 and 18 years of age and that the gross assets of the estate on March 29, 1958 totaled $135,618.03.
+The trial judge signed the following order:
+“Application being made for the entry of an order consistent with the mandate of the Appellate Division of the Superior Court, dated April 21, 1959, reversing the judgment of this court entered September 5, 1958:
+It is on this 2nd day of December, 1959, OIÍDERED:
+1. The mandate of the Appellate Division directing that summary judgment be entered in favor of the plaintiff and against the defendants, to wit: That the agreement approved by the court as contained in the decree entered herein for support ‘during the lifetime of the wife’ be specifically performed, is hereby made the judgment of this court.
+2. The plaintiff wife, or the estate of the defendant husband, deceased, may apply to this court for a modification of the said decree if there is a material change of circumstances.”
+In. a letter memorandum of the same date he explained to respective counsel the reason for the inclusion of the second ordering provision:
+“The present status of the case suggests that in the interest of modification an application should now be made to have an adjudication thereon. Also pending that application the court suggests that counsel present a form of order to provide for pendente lite relief and meanwhile that the Executors of the Estate be enjoined from distribution of the assets, except as such that can be shown are essential for performance of their duties as executors.”
+Plaintiff has not acted upon the suggestion of the court that application be made for pendente lite relief, but has appealed from the judgment as entered on the grounds that it is meaningless, does not carry out our mandate, is “not in accordance with the Court Rules, the Dew Jersey Statutes, and the case law of this State, and is otherwise defective.”
+The principal difference between plaintiff’s form of order and the Chancery Division’s order is that the former calculated the arrearage, fixing it at $11,060. Defendants contend that the arrearage should not be fixed without a hearing. They argue for an opportunity to present proof warranting a reduction in the sum already due under the agreement, citing Welser v. Welser, 54 N. J. Super. 555 (App. Div. 1959), and contend that collection of the arrearage would in any event be stayed pending such a hearing, thus reducing the present dispute to a mere difference over form. Plaintiff, however, relies on the fact that her original complaint included a demand to recover the amount in arrears, and claims that the matter has already been decided, alluding to the last sentence of our prior opinion directing “that summary judgment be entered in favor of the plaintiff.”
+The direction that summary judgment be entered in plaintiff’s favor pertained solely to the question whether the agreement survived the husband’s death and whether it continued to be enforceable against his executors “during the lifetime of the wife.” We stated that to be “the question” at the outset of our opinion, 55 N. J. Super., at page 276, and it was manifestly not our intention to rule that there existed no genuine issue of material fact relative to the claim for arrearages. Referring to 55 N. J. Super., at page 282, plaintiff suggests that we expressly held that the question of modification was not presently in issue. Our reference at that point, however, was not to a modification of the agreement’s payment provisions, but to the original trial judge’s ruling that he would not modify the decree nisi so as to provide explicitly that the support obligation terminated upon the decedent’s death; we stated that modification of the decree nisi was not in issue because plaintiff was basing her entire case upon the voluntary, court-approved agreement.
+The order of the Chancery Division is, therefore, more nearly expressive of the intent of our direction than is the plaintiff’s form of order. The court’s determination that defendants were entitled to a hearing at this time to prove changed circumstances or other defenses to the collection of the arrearages was a proper exercise of its equitable power to supervise specific performance of husband-wife support agreements as the circumstances of the particular case may require. Schlemm v. Schlemm, supra, 31 N. J., at pages 581-582. Needless to say, if any action is taken at the hearing ox as a result thereof that is prejudicial to or in derogation of plaintiff’s rights to the extent we considered them on the prior appeal, a justifiable appeal will then lie.
+Similarly, the award of a counsel fee should be deferred until the trial court determines the amount due the plaintiff.
+The foregoing makes it unnecessary to consider the defendants’ contention that the instant appeal is from an interlocutory order.
+The order entered by the trial judge, to bo consistent with his letter memorandum, is modified to provide that the application by the defendants for a modification must be made, upon notice to plaintiff, within 30 days of the filing of this opinion; and if such application is not made, that defendants pay to plaintiff the amount of the arrearages plus interest, from the time the respective installments became due to the date of the judgment. The order should also provide that defendants’ motion for summary judgment is denied.
+Demanded to the Chancery Division for further proceedings not inconsistent with this opinion.
