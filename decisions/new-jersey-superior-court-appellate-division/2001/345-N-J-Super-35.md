@@ -1,0 +1,47 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2001-11-05"
+citations: ["345 N.J. Super. 35", "783 A.2d 267"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. JUAN ANDINO, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/345/cases/0035-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 341911
+cites_cases: ["166 N.J. 523", "168 N.J. 113", "219 N.J.Super. 283", "335 N.J.Super. 267", "337 N.J.Super. 259", "530 A.2d 334"]
+---
+
+# State v. Andino
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Defendant was charged in a single count indictment with committing an armed robbery, N.J.S.A. 2C:15-la(l) and (2), on December 20, 1998. Following the denial of defendant’s motion to suppress both a statement made to the police following his arrest and the knife used during the robbery, defendant was convicted at a trial by jury. He was sentenced to an extended term, as a persistent offender pursuant to N.J.S.A. 2C:44-3a, of thirty-five years in the custody of the Commissioner of Corrections with an 85% period of parole ineligibility period pursuant to the No Early Release Act (“ÑERA”), N.J.S.A. 2C:43-7.2.
+On the appeal defendant argues:
+POINT I THE DEFENDANT’S RIGHT TO CONFRONT WITNESSES AS GUARANTEED BY THE SIXTH AMENDMENT TO THE UNITED STATES CONSTITUTION AND ART. 1 PAR. 10 OF THE NEW JERSEY CONSTITUTION AND THE DEFENDANT’S RIGHT TO DUE PROCESS OF LAW AS GUARANTEED BY THE FOURTEENTH AMENDMENT TO THE UNITED STATES CONSTITUTION AND ART. 1 PAR. 1 OF THE NEW JERSEY CONSTITUTION WAS VIOLATED BY THE STATE’S USE OF ABSENTEE WITNESSES TO PROVE ITS CASE (Not Raised Below)
+POINT II THE DEFENDANT’S RIGHT TO DUE PROCESS OF LAW AS GUARANTEED BY THE FOURTEENTH AMENDMENT OF THE UNITED STATES CONSTITUTION AND ART. 1 PAR. 1 OF THE NEW JERSEY CONSTITUTION WAS VIOLATED BY THE TRIAL COURT’S INCOMPLETE INSTRUCTION TO THE JURY ON THE LAW OF ORAL STATEMENTS (A KOCIOLEK CHARGE) NOTWITHSTANDING THE STATE’S SUBSTANTIAL RELIANCE ON ORAL STATEMENTS TO PROVE ITS CASE (Not Raised Below)
+POINT III THE DEFENDANT’S RIGHT TO DUE PROCESS OF LAW AS GUARANTEED BY THE FOURTEENTH AMENDMENT TO THE UNITED STATES CONSTITUTION AND ART. 1 PAR. 1 OF THE NEW JERSEY CONSTITUTION WAS VIOLATED WHEN THE STATE’S LAY WITNESS RENDERED HIGHLY PREJUDICIAL OPINIONS THAT SHOULD HAVE BEEN EXCLUDED (Not Raised Below)
+POINT IV THE DEFENDANT’S RIGHT TO DUE PROCESS OF LAW AS GUARANTEED BY THE FOURTEENTH AMENDMENT TO THE UNITED STATES CONSTITUTION AND ART. 1 PAR. 1 OF THE NEW JERSEY CONSTITUTION WAS VIOLATED BY PROSECUTORIAL MISCONDUCT ON SUMMATION (Not Raised Below)
+POINT V THE TRIAL COURT DEPRIVED THE DEFENDANT OF DUE PROCESS OF LAW AS GUARANTEED BY THE FOURTEENTH AMENDMENT TO THE UNITED STATES CONSTITUTION AND ART. 1 PAR. 1 OF THE NEW JERSEY CONSTITUTION BY FAILING TO INSTRUCT THE JURY ON THE LESSER OFFENSE OF AGGRAVATED ASSAULT THAT WAS RATIONALLY SUPPORTED BY THE RECORD
+POINT VI THE STATE FAILED TO PROVE BEYOND A REASONABLE DOUBT THAT THE DEFENDANT HAD KNOWINGLY AND VOLUNTARILY WAIVED HIS MIRANDA RIGHTS
+POINT VII THE DEFENDANT’S SENTENCE IS EXCESSIVE:
+A. THE TRIAL COURT ERRED BY IMPROPERLY SENTENCING THE DEFENDANT IN ACCORDANCE WITH THE “NO EARLY RELEASE ACT”: THE STATE FAILED TO SHOW THAT THE DEFENDANT COMMITTED AN ACT OF VIOLENCE THAT IS ADDITIONAL TO THE CONSTITUENT ELEMENTS OF THE CRIME (Not Raised Below)
+B. THE TRIAL COURT ERRED BY IMPOSING AN EXTENDED TERM
+C. THE TRIAL COURT ERRED BY IMPROPERLY BALANCING THE AGGRAVATING AND MITIGATING FACTORS
+D. THE SENTENCE IS SO EXCESSIVE, IT SHOCKS THE JUDICIAL CONSCIENCE
+Our careful review of the record leads us to conclude that these contentions are without merit except as herein developed with respect to the sentence. R. 2:ll-3(e)(2).
+[In Points I-IV, the court rejects defendant’s contentions relating to the conviction. At the request of the Appellate Division, this portion of the opinion is omitted from publication.]
+V.
+Defendant was given a NERA parole ineligibility term on his thirty-five year extended sentence. As defendant was found guilty of first degree robbery based on the proofs at trial including the actual use of a knife, a NERA sentence was appropriate. State v. Johnson, 166 N.J. 523, 545-46, 766 A.2d 1126 (2001). However, the particular NERA sentence was not appropriate because it was based on the specific extended term.
+In State v. Allen, 337 N.J.Super. 259, 766 A.2d 1168 (App.Div. 2001), we held, in light of State v. Manzie, 335 N.J.Super. 267, 762 A.2d 276 (App.Div.2000), that a NERA ineligibility term may not be imposed upon an extended term sentence, but “that the imposition of an extended term for a first or second degree ‘violent crime’ (as defined in N.J.S.A. 2C:43-7.2d) must embody a parole ineligibility term at least equal to the NERA sentence applicable to the maximum ordinary term for the degree of crime involved.” State v. Allen, 337 N.J.Super. at 273-74, 766 A.2d 1168. Manzie was subsequently affirmed by an equally divided Supreme Court. State v. Manzie, 168 N.J. 113, 773 A.2d 659 (2001). In the view of the concurring justices who voted to affirm the Appellate Division judgment in Manzie, NERA did not apply to a murder conviction because of the ambiguity and vagueness of the statutory complex requiring an ineligibility term on an unquantifiable sentence of life imprisonment. State v. Manzie, 168 N.J. at 116-120, 773 A.2d 659.
+In Allen, we said:
+Of course, [defendant] could receive a sentence of a specific number of years between thirty years and life imprisonment [for the murder conviction], N.J.S.A. 2C:ll-3b(l), and if applicable, the length of the NERA ineligibility term would depend on the sentence imposed. On the other hand, if our interpretation of the Parole Act is incorrect and a life sentence cannot be quantified for purposes of NERA, the result in Manzie would be correct because there would be no basis on which to fix an 85% parole ineligibility term on a life sentence for murder or an extended sentence for a first degree crime, and it would be illogical to believe that the Legislature would have envisioned a thirty (or thirty-five) year parole ineligibility term for a life sentence for a person convicted of murder and a twenty-five year parole ineligibility term for other persons sentenced to life imprisonment, see N.J.S.A. 2C:43-7, but greater ineligibility terms for those sentenced to a lesser number of years for murder or an extended term for a, first degree crime.
+[337 N.J.Super. at 274 n. 12, 766 A.2d 1168 (emphasis added).]
+Thus, in Allen we concluded that a NERA sentence on an extended term had to be the NERA sentence that would be imposed had defendant been sentenced to the maximum ordinary term for the crime of which he is convicted. We added, however, that “imposition of a mandatory or discretionary ineligibility term on an extended term sentence could be longer if required or authorized by [a non-NERA] statute.” 337 N.J.Super. at 274, 766 A.2d 1168.
+The affirmance of Manzie and rationale of the concurring justices require us to adhere to our opinion in Allen as controlling the sentence governing the date of this offense. We recognize that subsequent to the Supreme Court’s opinion in Manzie, on June 29, 2001, the Acting Governor signed L. 2001, c. 129 revising NERA, and that legislation both quantified a life sentence for purposes of NERA and made clear its application to extended terms, as well to murder convictions. However, following the enactment of the new statute, the Supreme Court denied reconsideration of Manzie on July 18, 2001. Under the totality of circumstances, including the need to interpret the statutory complex as a logical and consistent whole for a crime occurring before June 29, 2001, we adhere to Allen by virtue of the Supreme Court’s affirmance of Manzie, denial of reconsideration after the enactment of the new statute, and the general prospectivity of a criminal statute. See generally Kendall v. Snedeker, 219 N.J.Super. 283, 286-88, 530 A.2d 334 (App.Div.1987) (discussing the concepts of “ameliorative,” “curative” and ex post facto legislation).
+Accordingly, the NERA ineligibility term must be 85% of the maximum ordinary term sentence for the first degree robbery, that is 85% of twenty years. See N.J.S.A. 2C:43-6a(l). We remand for the imposition of a parole ineligibility term consistent with State v. Allen, supra, 337 N.J.Super. at 273-74, 766 A.2d 1168.
+VI.
+The judgment of conviction is affirmed, and the matter is remanded to the Law Division for further proceedings consistent with this opinion.
+On March 3, 2000, we remanded the matter for reconstruction of the sentencing record because the verbatim record of the July 30, 1999 sentencing proceedings was lost. The reconstruction hearing was held on May 5, 2000.
+It is not suggested that in light of the need to vacate the NERA ineligibility term originally imposed, defendant's thirty-five year specific term sentence could otherwise be adjusted. While we are concerned with the "real time" consequences of defendant's sentence, double jeopardy and due process problems could flow from any upward adjustment of defendant's specific term sentence even under these circumstances in which the judge considered the impact of NERA in imposing defendant's original sentence.
