@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1979-05-30"
+citations: ["168 N.J. Super. 529"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GERARD VALERIUS AND ZAZZALI, ZAZZALI & WHIPPLE, PLAINTIFFS-RESPONDENTS, v. CITY OF NEWARK, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/168/cases/0529-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 898162
+cites_cases: ["117 N. J. Super. 268", "121 N. J. Super. 215", "124 N. J. Super. 217", "129 N. J. Super. 393", "147 N. J. Super. 9"]
+---
+
+# Valerius v. City of Newark
+
+## Majority (Contojíd, P. J. A. D.)
+
+The opinion of the court was delivered by
+Contojíd, P. J. A. D.
+(retired and temporarily assigned). The issue on this appeal is whether the defendant City of Newark is liable for the reasonable charges of the plaintiff law firm for services rendered the plaintiff Valerius, a Newark police officer, in successfully defending him in the trial of an indictment for misconduct in office. The trial judge, after a nonjury trial, held for plaintiffs, awarding them $18,215 plus costs and interest; the city appeals, and we reverse.
+The statutory foundation for the course of action here pursued is N. J. S. A. 40A:14~155, which reads as follows:
+Whenever a member or officer of a municipal police department or force is a defendant in any action or legal proceeding arising out of or incidental to the performance of his duties, the governing body of the municipality shall provide said member or officer with necessary means for the defense of such action or proceeding, but not for his defense in a disciplinary proceeding instituted against Mm by the municipality or in a criminal proceeding instituted as a result of a complaint on behalf of the municipality. If any such disciplinary or criminal proceeding instituted by or on complaint of the municipality shall be dismissed or finally determined in favor of the member or officer, he shall be reimbursed for the expense of his defense. [Emphasis supplied]
+This court interpreted the statute in Edison Tp. v. Mezzacca, 147 N. J. Super. 9 (App. Div. 1977), to distinguish between actions in proceedings affecting an officer instituted by or on complaint of the employing municipality and those not so instituted. In the latter the municipality ordinarily is to provide the means of defense at the outset of the proceeding, including provision of counsel; in the former the officer provides for his own defense and is reimbursed by the municipality for the expense thereof if the proceeding is finally determined in the officer’s favor. It is not disputed that in the instant case the indictment did not result from a complaint instituted by the municipality. Accordingly, if the indictment arose out of or incidental to the performance of Valerius’s duties as a police officer, the city was under an absolute obligation to provide him a defense at the outset; otherwise the city was under no obligation to him at .all.
+Plaintiff selected plaintiff law firm to represent him, but there is an open and undetermined question of fact as to whether the city ratified the selection, as the Mezzacca ease would have required in view of the indictment not having been returned on its complaint. Id. at 16. The trial judge skirted the issue by holding that the ruling in Mezzacca should be given prospective effect only, the critical events in the instant case having occurred prior to the decision therein. We have concluded that neither the factual nor the legal question adverted to requires resolution for the determination of this appeal. There must be a reversal of the judgment because the criminal indictment did not arise out of or incidental to the performance of Valerius’s duties as a police officer.
+Paraphrasing the substance of the indictment on its face, it charges that Valerius conspired with others in a scheme whereby the others were to pretend to sell a quantity of illegal drugs to two dupes for $23,000; that Valerius was to pretend to arrest the supposed sellers and to confiscate the money and drugs, and that Valerius and his confederates were to keep the money. The indictment also charged the substantive crime of false pretenses in obtaining the money in the course of the fraud. It is entirely clear to us that the conduct charged against Valerius, and therefore the indictment itself, did not arise out of or incidental to the performance of his duties as a police officer, but rather, if true, was a perversion and prostitution of his responsibilities as a police officer. Cf. Snell v. Murray, 117 N. J. Super. 268, 273 Div. 1971), aff’d 121 N. J. Super. 215 (App. Div. 1972); Corridon v. Bayonne, 129 N. J. Super. 393, 396-397 (App. Div. 1974).
+It is, of course, clear that under the statute the outcome of the criminal trial is irrelevant where the municipality has not instituted the complaint. The obligation of providing a defense for the officer, if otherwise called for by the statute, arises before the complaint is prosecuted and thus before the outcome is known. Obvious, also, is the fact that the statutory scheme precludes a judicial inquiry either in advance of or subsequent to the criminal prosecution as to whether the charges leveled against the officer are in fact true. The allegations in the indictment are necessarily controlling in respect of the issue as to whether the conduct charged arose out of or incidental to the performance of the officer’s duties. Here, as we have held, they did not.
+Plaintiffs contend that any indictment charging misconduct in office by a policeman is per se one that the municipality must provide a defense ifor. In support of this position they cite Borough, of Highlands v. Davis, 124 N. J. Super. 217 (Law Div. 1973), and an unreported decision of this court. We find neither ease to support the argument and cannot conceive that the Legislature so intended.
+In view of the foregoing conclusion we need not address other grounds of appeal by the city.
+Reversed.
