@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1969-01-31"
+citations: ["104 N.J. Super. 309"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ELEANOR LEAKE, PLAINTIFF-APPELLANT, v. EDNA BULLOCK, INDIVIDUALLY AND TRADING AS BULLOCK FUNERAL HOME, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/104/cases/0309-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 289327
+cites_cases: ["44 N. J. 100", "7 N. J. 436", "75 N. J. Super. 246"]
+---
+
+# Leake v. Bullock
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff appeals from a judgment of dismissal entered by the trial court upon the ground that her complaint was not filed within the two-year period of the statute of limitations, N. J. S. 2A :14-2.
+Plaintiff was injured on February 1, 1966, allegedly because of a negligent condition existing on defendant’s premises. Her complaint was mailed from Hackensack to the Clerk of the Superior Court at Trenton on Monday, January 29, 1968, at 0 p. m. A check to cover the filing fee was enclosed. The complaint was received and stamped by the Clerk as “filed Feb. 2, 1968,” a Friday.
+Defendant answered the complaint, pleaded the statute of limitations and moved for a judgment on the pleadings in that the complaint was not filed within the time provided for by the statute, N. J. S. 2A :14-2. This motion was granted and an order was entered dismissing the complaint.
+Plaintiff first contends that the complaint was “in fact” filed within the statute of limitations. In offering this contention plaintiff concedes that in computing the time under the statute the day on which the cause of action accrued is not to be counted. Poetz v. Mix, 7 N. J. 436, 445 (1951). In Poetz the accident occurred on July 16, 1947 and the two-year limitation period was held to have been reached on July 16, 1949. However, plaintiff argues that since a leap year was included within the two years in Poetz, and since the court therein gave the plaintiff one day more than two years, she too, should be given the benefit of an extra day. Thus, she asserts that February 2, 1968 should be held to constitute the end of the two years. This contention is frivolous. N. J. S. 2A :14-2 mandates that the action “shall be commenced within 2 years next after the cause of any such action shall have accrued.” By this provision the Legislature meant two calendar years. It did not intend to break these years into a certain number of days. If it had intended this result, it could have easily so provided. The court in Poetz did not consider the number of days involved. Only through a fortuity did the plaintiff there have the benefit of an extra day before the statute of limitations expired. But the period was not more than two calendar years. Here, there is no leap year involved in the two-year period and plaintiff is not entitled to a similar benefit. We hold that the two-year limitation period within which plaintiff could file her action was reached on February 1, 1968 and that the filing on February 2, 1968 was untimely.
+Plaintiff next contends that since the complaint was mailed well within the statute of limitations it should be considered as filed within that period. She also argues that equity and justice require that she should not be barred under the statute of limitations where mail should arrive within time in the ordinary course of business but for some unexplained reason does not. We find both of these contentions to be without merit.
+A civil action is commenced by filing the complaint with the court. R. R. 4:3—1. This is accomplished by filing the original and a copy thereof with the Clerk of the Superior Court or, in the alternative, with a judge who “shall note thereon the filing date * * * [and] forthwith forward the same to the clerk for filing.” R. R. 4:5-6(a). “In contemplation of law, a paper or pleading is considered as filed when delivered to the proper custodian and received by him to be kept on file.” Poetz, supra, at p. 442 (emphasis added).
+Gervolino v. Porter, 75 N. J. Super. 246 (App. Div. 1962), is inapposite. That case involved the giving of a statutory notice of intention to make a claim to the Unsatisfied Claim and Judgment Fund Board, which board has only one State office. The reasoning of that case is not applicable to the situation here present. Plaintiff could, -without any serious hardship, have persoiiallv filed the complaint with a Superior Court judge in her area before February 2 and thus completely avoided the possibility of a late filing.
+Statutes of limitations embody important public policy considerations in that they stimulate activity and punish negligence and promote repose by giving security and stability to human affairs. Kyle v. Green Acres at Verona, Inc. 44 N. J. 100, 108 (1965). They are intended to run against those who are neglectful of their rights and who fail to use reasonable and proper diligence in the enforcement thereof. Ibid.
+Plaintiff waited until four days before the expiration of the two-year limitation period before attempting to file her complaint. Due diligence would have required her either to have filed it directly with a Superior Court judge in her area or to have had it personally delivered to the clerk for filing. Since she chose to mail it to the clerk, reasonable diligence would require that she should have promptly inquired of the clerk to ascertain whether the complaint had been received. This she did not do. Under these circumstances, the risk of a delay in the mail is her own. We therefore conclude that she has not demonstrated any equity in her favor, assuming that equitable considerations could appropriately enter into our considerations.
+Judgment affirmed.
