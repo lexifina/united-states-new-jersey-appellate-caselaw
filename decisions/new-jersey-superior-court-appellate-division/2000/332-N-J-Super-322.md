@@ -1,0 +1,73 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2000-06-22"
+citations: ["332 N.J. Super. 322", "753 A.2d 732"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. CRAIG SZEMPLE, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/332/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1087167
+cites_cases: ["116 S.Ct. 949", "129 N.J. 189", "133 L.Ed.2d 873", "137 N.J. 434", "153 N.J. 216", "162 N.J. 197", "224 N.J.Super. 495", "307 N.J.Super. 1", "322 N.J.Super. 156", "407 U.S. 514", "422 U.S. 806", "466 U.S. 668", "474 U.S. 52", "516 U.S. 1129", "540 A.2d 1313", "708 A.2d 67", "743 A.2d 849"]
+---
+
+# State v. Szemple
+
+## Majority (STERN, P.J.A.D.)
+
+The opinion of the court was delivered by
+STERN, P.J.A.D.
+After defendant’s motion to dismiss the indictment on speedy trial grounds was denied, defendant entered a negotiated plea of guilty to the amended charge of aggravated manslaughter, N.J.S.A. 2C:11-4a, as a lesser-included offense to capital murder as alleged in count two of the indictment; to theft by deception, as alleged in counts thirteen and seventeen; and to attempted theft by deception, as alleged in count twenty-one. According to the negotiated plea form:
+Defendant retains right to appeal issue that indictment should be dismissed based on denial of speedy trial motion [and] incompetency of prior retained counsel for failing to move for speedy trial prior to Moras and Hudson County murder trials.
+That provision was detailed in a letter written by the prosecutor on the day of the plea, supplementing a prior letter detailing the offer. That letter stated:
+The defendant pursuant to R. 3:9 — 3(f) will reserve the right to appeal from so much of the Court’s order of November 10, 1997, as denied his motion to dismiss the indictment upon the legal and factual bases set fourth [sic] in Point I of the defendant’s letter brief of September 25, 1997, as well as from any denial of reconsideration of that motion by the trial court on January 9, 1998. The alleged failure of George Daggett, Esq. to move for a speedy trial prior to trial of defendant’s two non-capital murder charges is included within this speedy trial issue. This speedy trial argument is confined to the time of Mr. Daggett’s representation of defendant. It is stipulated that present counsel are fully prepared to proceed with trial.
+Confirming the contents of the plea form and colloquy with counsel, the trial judge developed the negotiated plea and sentence as follows:
+THE COURT: The State has made a recommendation as to your sentence here and that recommendation is as follows and I read up from Paragraph 13 of the plea agreement.
+“The sentence would be a life sentence with 25 year’s of parole ineligibility on Count 2, which would run consecutively to the sentence which you are presently serving for the Morris [Clounty murder conviction and concurrent to the sentence you are serving for the Hudson LC|ounty murder conviction. The sentence on Counts 13, 17, and 21 would run concurrent to the sentence on Count 2.”
+That’s what the plea agreement says. Do you understand that language?
+THE DEFENDANT: Can I get a minute with counsel, Your Honor?
+(Defendant confers with counsel)
+THE DEFENDANT: I understand, Your Honor.
+THE COURT: And you understand when we speak of parole ineligibility of 25 years, that means that it would be specified that you would be ineligible for parole for a period of 25 years. Do you understand that?
+THE DEFENDANT: Yes, I do.
+THE COURT: Okay.
+THE DEFENDANT: Yes, I do.
+THE COURT: In other words, that would be part of the sentence and the parole board would not be able to deviate from that.
+THE DEFENDANT: And this is because—
+THE COURT: With the 25 years.
+THE DEFENDANT: And this is because this is a second Graves off-offense, Your Honor?
+[PROSECUTOR]: Your Honor, the — as part of the plea agreement — you’ll get to it when you get to the letter attached to the back of the plea agreement, but the State specifies that we will ask this Court to impose what is obviously [a] discretionary extended term on the defendant as a persistent offender.
+We will also ask the Court to impose what we believe is a mandatory extended term with a parole disqualifier, this being a second Graves Act offense. The 25— and the fact that the 25 years on a life sentence is the mandatory parole disqualifier on a Graves Act.
+THE COURT: So the 25 is a mandatory — is mandatory?
+[PROSECUTOR]: That will be the State’s position, yes, Your Honor.
+THE COURT: In other words, based on the Graves Act it’s mandatory and the Court has no discretion on it.
+[PROSECUTOR]: If you impose a life sentence, it would be 25 years.
+THE COURT: If I impose the life sentence, then the Graves Act provisions kick in as 25 years parole ineligible.
+[PROSECUTOR]: That’s correct, Your Honor.
+THE COURT: Understood?
+[DEFENSE COUNSEL]: What has also been explained is that Your Honor does not have to impose the life with 25 sentence, but that’s a discretionary thing. If the Court -
+THE COURT: It will be up to your attorneys to argue for that, but I do have the power to do that under this plea agreement. Do you understand?
+THE DEFENDANT: Yes, I do.
+THE COURT: There is a letter attached to the plea agreement, Mr. Szemple, that is a letter dated January 5 from the Office of the Warren County Prosecutor to your attorneys. Have you reviewed that letter?
+THE DEFENDANT: Yes, Your Honor.
+THE COURT: And specifically Paragraph 3 provides that the State will apply for your sentencing as a persistent offender and as a second offender with a firearm and will seek an extended term as to the aggravated manslaughter charge with a parole disqualifier. The State will recommend that sentence with respect to the theft counts run concurrent with the sentence as to the aggravated manslaughter charge.
+They — the State will further recommend that your aggregate sentence on the plea be life imprisonment with a parole disqualifier of 25 years, concurrent to the Hudson [Cjounty sentence, but consecutive to the Morris [Cjounty conviction. And you will reserve your right to appeal from so much of the Court’s order of November 10, 1997 as denied your motion to dismiss the indictment based upon claim ground [sic] of your right to a speedy trial, as well as from a denial of any reconsideration on that motion. And I indicated that I am denying that motion and you will have a right to appeal that decision.
+Do you understand the contents of the letter?
+THE DEFENDANT: Yes, I do.
+Pursuant to the negotiated disposition, on April 17,1998, defendant was sentenced on count two to life imprisonment with twenty-five years before parole eligibility, concurrent to a murder sentence defendant was then serving in Hudson County, but consecutive to a murder sentence defendant was serving in Morris County. The twenty-five year ineligibility term was imposed “both on the persistent offender status and on the Graves Act.” In pleading guilty, defendant admitted shooting the victim with an “automatic weapon, a machine gun.”
+On this appeal defendant argues:
+POINT I THE COURT ERRED IN DENYING DEFENDANT’S MOTION TO DISMISS THE INDICTMENT BECAUSE THE DEFENDANT’S SIXTH AMENDMENT CONSTITUTIONAL RIGHT TO A SPEEDY TRIAL WAS VIOLATED
+POINT II THE COURT ERRED IN DENYING DEFENDANT’S MOTION TO DISMISS THE INDICTMENT BECAUSE THE DEFENDANT’S SIXTH AMENDMENT RIGHT TO EFFECTIVE ASSISTANCE OF COUNSEL WAS VIOLATED
+POINT III THE TRIAL COURT COMMITTED REVERSIBLE ERROR BY ABROGATING DEFENDANT’S ASSERTION OF HIS SIXTH AMENDMENT RIGHT OF SELF-REPRESENTATION
+POINT IV THE SENTENCE IMPOSED SHOULD BE VACATED AND THE MATTER REMANDED FOR RESENTENCING BECAUSE THE COURT ABUSED ITS DISCRETION IN SENTENCING DEFENDANT TO AN EXTENDED TERM AS A PERSISTENT OFFENDER
+POINT V BASED UPON CONSIDERATIONS OF DOUBLE JEOPARDY AND FUNDAMENTAL FAIRNESS THE STATE SHOULD BE PRECLUDED FROM SEEKING A CAPITAL REPROSECUTION OF THE DEFENDANT OR SEEKING ANY SENTENCE IN EXCESS OF THE SENTENCE IMPOSED PURSUANT TO THE PLEA AGREEMENT IN THE EVENT THAT HIS CONVICTION IS REVERSED ON SIXTH AMENDMENT GROUNDS
+In his brief, defendant repeatedly states “the only relief [he seeks is] — the dismissal of the indictment.” At oral argument before us, defendant’s counsel expressly said that defendant does not seek to vacate or withdraw his guilty plea, which would resurrect the murder count and the dismissed charges embodied in the eighty-one count indictment. As noted, he seeks only a dismissal of the indictment. However, only his speedy trial claim and his claim of ineffective assistance of counsel for failing to pursue a speedy trial or dismissal on speedy trial grounds, if successful, would warrant such relief. We reject these contentions essentially for the reasons expressed by Judge Kingfield in his oral opinions of October 31,1997, as developed further on January 9, 1998, on defendant’s motion for reconsideration. See State v. Douglas, 322 N.J.Super. 156, 170, 730 A.2d 451 (App.Div.) (noting that the determination of whether a defendant’s constitutional right to a speedy trial was violated is governed by the flexible four-part balancing analysis established in Barker v. Wingo, 407 U.S. 514, 92 S.Ct. 2182, 33 L.Ed.2d 101 (1972)), certif. denied, 162 N.J. 197, 743 A.2d 849 (1999). We add that, to the extent defendant sought a dismissal on the grounds of incompetence of counsel other than related to the lack of speedy trial, we agree with Judge Kingfield that a court in these circumstances cannot evaluate whether the second prong (“prejudice”) of the Strickland test is satisfied “without a trial actually taking place.” Defendant does not claim he pled guilty because of the ineffective assistance of the counsel who represented him at the time of plea, see State v. DiFrisco, 137 N.J. 434, 456-57, 645 A.2d 734 (1994), cert. denied, 516 U.S. 1129, 116 S.Ct. 949, 133 L.Ed.2d 873 (1996), or even that he pled guilty merely because of the “prejudice” to his defense caused by his prior counsel. See Hill v. Lockhart, 474 U.S. 52, 57-59, 106 S.Ct. 366, 369-70, 88 L.Ed.2d 203, 209-10 (1985). In any event, there is no dispute that the ineffective assistance of counsel claim was preserved under the conditional plea only with respect to the speedy trial claim, and defendant does not seek to withdraw his plea. Accordingly, even assuming that some claims of ineffective assistance of counsel may in extraordinary circumstances give rise to the relief defendant seeks, this is not such a case, and we need not review defendant’s claims of ineffective assistance of counsel beyond those contentions preserved for appeal.
+Defendant also claims he was denied the right of self-representation in violation of Faretta v. California, 422 U.S. 806, 95 S.Ct. 2525, 45 L.Ed.2d 562 (1975). However, as defendant, represented by subsequent counsel, pled guilty without preserving the issue under the conditional plea rule, R. 3:9 — 3(f), this contention has also been waived. State v. Smith, 307 N.J.Super. 1, 7-8, 704 A.2d 73 (App.Div.1997), certif. denied, 153 N.J. 216, 708 A.2d 67 (1998); State v. Robinson, 224 N.J.Super. 495, 498-99, 540 A.2d 1313 (App.Div.1988). Moreover, a Faretta violation would only warrant a new trial. But defendant does not desire to vacate or withdraw his guilty plea if the indictment is not dismissed, and he does not seek a trial. Accordingly, we decline to consider the Faretta contention because there appears to be no basis on which to dismiss the indictment even if defendant’s argument had merit.
+The post-plea issue relating to the sentence is cognizable on this appeal. State v. Vasquez, 129 N.J. 189, 194-95, 609 A.2d 29 (1992) (holding that at time of guilty plea the defendant did not waive his right to appeal the prosecutor’s attempt to invoke a parole ineligibility term). The negotiated disposition embodied a recommendation of life imprisonment with twenty-five years of parole ineligibility on count two, to run consecutively with the Morris County sentence but concurrently to the Hudson County sentence. The prosecutor explained in his plea offer letter, and the plea form and plea transcript confirm, that the prosecutor was seeking an extended term with a twenty-five year parole disqualifier. See N.J.S.A. 2C:43-7a, c; 2C:44-3a to -d. Even assuming a written application is needed to make a discretionary motion for an extended term of imprisonment, see R. 3:21-4(e), the judge also imposed an extended term under the Graves Act, which requires no motion. N.J.S.A. 2C:43-6c, -7c. In any event, there was no prejudice to defendant by the lack of a written motion for extended-term sentencing before his plea was entered. He fully understood the recommendation and his sentence exposure under the negotiated plea.
+Accordingly, the appeal is dismissed in part, and the judgment of conviction is affirmed.
+There may be some inconsistency between the way the sentences were orally imposed on counts thirteen and seventeen, and the negotiated plea, in terms of their relation to each other and count twenty-one. But as they were all made concurrent to count two, there is no adverse impact on the aggregate time defendant is now serving and he raises no issue with respect to same. Our affirmance is without prejudice to his ability to address the trial court on those counts.
+This case involved defendant’s only capital murder prosecution, and he believes that it should have been moved before the prosecutions involving the prior Hudson and Morris County murders to avoid the creation of an aggravating factor based on a prior murder conviction.
+See Strickland v. Washington, 466 U.S. 668, 687, 104 S.Ct. 2052, 2064, 80 L.Ed.2d 674, 693 (1984) (finding that to warrant reversal for ineffective assistance of counsel a defendant must show two things — first, "that counsel's performance was deficient," and second, "that the deficient performance prejudiced the defense”).
+Two years before the guilty plea was entered, we denied a motion for leave to appeal an interlocutory order which had denied defendant's application to represent himself, saying that defendant could raise the issue after judgment. Such is a general principle of law. We reject defendant’s contention that such an order preserves appealability when he subsequently pleads guilty and does not further preserve the issue. See R. 3:9 — 3(f).
+N.J.S.A. 2C:43-7c requires a twenty-five year parole ineligibility term on a lile sentence under N.J.S.A. 2C:43-6c (second Graves Act offense).
