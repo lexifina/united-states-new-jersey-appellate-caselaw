@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1973-11-26"
+citations: ["125 N.J. Super. 485"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-APPELLANT, v. NIKOLL BROZI, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/125/cases/0485-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 298671
+cites_cases: ["104 N. J. Super. 304", "107 N. J. Super. 96", "113 N. J. Super. 576", "114 N. J. Super. 146", "45 N. J. Super. 44", "55 N J. 309", "60 N. J. 1", "67 N. J. Super. 414"]
+---
+
+# State v. Brozi
+
+## Majority (Carton, P. J. A. D.)
+
+The opinion of the court was delivered by
+Carton, P. J. A. D.
+Defendant Brozi was convicted on a charge of kidnapping while armed and on two ■ charges of assault with an offensive weapon and carrying a weapon without a permit. He was sentenced to a term of not less than 30 nor more than 32 jrears on the kidnapping while armed charge, to be served at the Youth Correctional Institution Complex at Yardville. Defendant was further sentenced to indeterminate terms at Yardville on the remaining convictions, the sentences to run concurrent with each other and with the kidnapping sentence.
+On motion, defendant was resentenced on the kidnapping while armed charge to an indeterminate term with a maximum of 30 years. The State appeals, contending that the new sentence was improper because it failed to contain the minimum period of incarceration mandated by N. J. S. A. 2A :118-1. On this basis it urges that the original sentence should be reinstated.
+There is an obvious conflict between N. J. S. A. 2A :118-1, which mandates a minimum sentence of 30 years for anyone convicted of kidnapping, and N. J. S. A. 30 :4-148, which directs that all sentences to the Youth Correctional Institution Complex must be for an indeterminate period without any minimum. The State’s thesis is that this conflict should be resolved by strictly adhering to the mandatory minimum for kidnapping in order to implement the expressed legislative policy of imposing severe sanctions on those who are found guilty of this crime. Defendant, on the other hand, contends that no minimum sentencing should be imposed which would frustrate the expressed legislative policy contained in N. J. S. A. 30 :4-148 of providing a more conducive atmosphere for rehabilitation of youthful offenders ordered to be confined at Yardville.
+This precise question has not been considered by the courts of New Jersey in connection-with the crime of kidnapping. However, the relationship between reformatory sentences imposed pursuant to N. J. S. A. 30 :4-146 and 155 and criminal statutes requiring the imposition of minimum and maximum sentencing has been discussed in a number of cases. State v. Ammirata, 104 N. J. Super. 304 (App. Div. 1969); State v. Pallitto, 107 N. J. Super. 96 (App. Div 1969), certif. den. 55 N J. 309 (1970); State v. Lavender, 113 N. J. Super. 576 (App. Div. 1971).
+The latest pronouncement is contained in the dissenting opinion of Judge Halpern in State v. Hopson, 114 N. J. Super. 146 (App. Div. 1971), which was adopted by the Supreme Court in 60 N. J. 1 (1971). We conclude that the approach adopted in that ease should be used in resolving the present conflict. Hopson involved a defendant convicted of possession of narcotics. Judge Halpern pointed out that if the Legislature intended to break away from its philosophy of reformatory sentencing, it could easily have done so by specifically creating an exception in narcotics cases. He concluded that since the Legislature did not mandate a two-year minimum when a reformatory sentence was being imposed under N. J. S. A. 24 :18-47(c) (1) for possession of narcotics, there was consequently no reason why an indeterminate sentence could not be imposed without a minimum.
+We see no reason why a different result should obtain when a'reformatory sentence is imposed for kidnapping. We are not persuaded by the State’s argument that the two statutes may be read in pari materia; that the policy of both statutes can best be expressed by recognizing the legislative mandate for minimum sentences regardless of the place where it is to be served. This argument attempts to reconcile two very different philosophies of correction. When a court sets a minimum sentence it in effect states that a person’s offensive conduct necessitates confinement for a certain period. This in essence is a retributive approach. Reformatory sentences are designed to correct and rehabilitate the offender and are based upon a philosophy of rehabilitation rather than retribution. State v. Horton, 45 N. J. Super. 44 (App. Div. 1957).
+It strikes us as incongruous to say to this defendant, a first offender, that he is sentenced to Yardville so that he can be rehabilitated and at the same time stipulate that this process must take a minimum of 30 years.
+The State seeks to distinguish Hopson solely on the basis that kidnapping is a more serious offense than possession of heroin. The flaw in this argument is that the gravity of the offense has no bearing on the issue. The issue is how to reconcile the conflicting statutes.
+There is no doubt that the Legislature considers kidnapping a serious crime and has continually increased the penalty for such an offense. See State v. Johnson, 67 N. J. Super. 414, 420-423 (App. Div. 1961). The last amendment to N. J. S. A. 2A:118-1 was made in 1933. Applying the reasoning of Hopson, it can be assumed that had the Legislature felt that no person convicted of kidnapping could or should be given a reformatory sentence it could have so provided in one of the amendments to N. J. S. A. 30:4-148, which was last amended in 1970.
+N. J. S. A. 30 :4-147 reads as follows:
+Any male person between the ages of 15 and 30 years, who has been convicted of a crime punishable by imprisonment in the State Prison, who has not previously been sentenced to a State Prison in this State, or in any other State, may be committed to the Youth Correctional Institution Complex.
+Defendant’s situation fulfilled the requirements of this statute. The court below in its discretion sentenced him to the Youth Correctional Institution Complex. As a consequence, N. J. S. A. 30 :4-148 with its no-minimum rule was applicable. Any other conclusion would be contrary not only to the Supreme Court’s decision in State v. Hopson, supra, but also the recognized and approved legislative policy designed to rehabilitate youthful offenders rather than seek retribution.
+Affirmed.
