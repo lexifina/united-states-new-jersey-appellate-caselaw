@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1978-03-07"
+citations: ["157 N.J. Super. 63"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["KATHLEEN MANZI AND JAMES MANZI, PLAINTIFFS-APPELLANTS, v. MARVIN B. ZUCKERMAN, M.D., DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/157/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 911774
+cites_cases: ["20 N. J. 451", "32 N. J. 595", "38 N. J. 308", "49 N. J. Super. 363", "75 N. J. Super. 68"]
+---
+
+# Manzi v. Zuckerman
+
+## Majority (Pee Curiam.)
+
+Pee Curiam.
+On July 12, 1974 plaintiffs Kathleen Manzi and James Manzi, her husband, instituted an action against defendant Marvin B. Zuckerman, a physician, alleging that Kathleen sustained personal injury by reason of defendant’s negligence and malpractice. James Manzi sought damages per quod.
+On September 15, 1976 the trial commenced. Before any testimony was taken, both attorneys met with the trial judge in chambers. Plaintiffs’ attorney related the factual chronology which he intended to provide during the trial. He represented to the judge that the claim of malpractice was based on alleged medical abandonment of Kathleen by defendant, who had been attending her for pregnancy, in that when she was hemorraging severely the doctor refused to “see” her. He also represented that he did not intend to establish plaintiffs’ cause of action by presenting expert testimony. All other claims of medical malpractice were voluntarily withdrawn.
+Plaintiffs’ attorney asked the judge “to make a determination, a factual determination based upon the evidence in the case. It is just a question of whether or not expert testimony is needed * * Shortly afterward he acknowledged that “perhaps it is premature * * *. I haven’t put my case in.”
+In any event, the judge then stated that plaintiffs could only prove their case by presenting expert testimony on the issue of abandonment. The attornej's then made their respective opening statements to the jury.
+Following these statements plaintiffs’ counsel informed the court that he would not present an expert witness to support plaintiffs’ thesis that defendant was negligent by reason of his alleged refusal to treat Kathleen. Upon the motion of defendant’s attorney, the judge then entered a dismissal of the action, from which plaintiffs appeal. We reverse and remand.
+This is not a case where the court has dismissed an action because a plaintiff has failed to outline a valid cause of action in his opening statement. In fact, the record reproduced for us does not even contain the transcript of the attorneys’ opening statements. The purpose of such statements is “to do no more than inform the jury in a general way of the nature of the action and the basic factual hypothesis projected, so that they may better be prepared to understand the evidence.” Farkas v. Middlesex Bd. of Freeholders, 49 N. J. Super. 363, 367-368 (App. Div. 1958), quoted with approval in Passaic Valley Sewerage Com’rs v. Geo. M. Brewster, etc., Inc., 32 N. J. 595 (1960). And although our practice has always permitted a dismissal of a complaint on a plaintiff’s opening, such dismissals would only be granted where it was clearly evident that no cause of action could be made out after accepting as true all facts stated and all proper inferences to be drawn therefrom. Passaic Valley Sewerage Corrirs, supra at 605. Our practice does not favor such dismissals. Farkas v. Middlesex County Board of Chosen Freeholders, supra, 49 N. J. Super, at 367.
+Defendant does' not and did not argue that either the factual hypothesis rendered to the judge in chambers or that contained in'plaintiffs’ opening statement to the jury failed to state a cause of action. Actually, the judge made a ruling in advance of hearing the testimony and the production of all plaintiffs’ evidence that in the absence of supporting medical proof plaintiffs would not have proved a cause of action. In effect, this constituted only an advisory' opinion, because defendant had not either agreed to the stated facts or otherwise stipulated that if plaintiffs presented evidence' they would prove the tendered hypothesis. Conceivably, plaintiffs’ evidence might not have been sufficient to prove what counsel had outlined either to the judge in chambers or to the jury in his opening statement.
+Thus, the judge was neither called upon to determine whether plaintiffs stated a claim upon which relief could be granted, R. 4:6-2(e), nor whether defendant was entitled to a summary judgment, R. 4:46-1; instead, as stated, he was merely requested to rule in advance of the production of evidence whether it was necessary for plaintiffs to support the tendered hypothesis, if it was proved, with expert testimony'. The judge’s ruling was therefore a futile one, in the sense that it rested upon a conjecture that the facts would be proven according to the stated hypothesis. Advisory opinions should not be rendered. Cf. Lucky Calendar Co. v. Cohen, 20 N. J. 451, 454 (1956); Hanover Ins. Co. v. Franke, 75 N. J. Super. 68, 74 (App. Div. 1962), certif. den. 38 N. J. 308 (1962).
+Accordingly, the judgment must be reversed. Although we are also asked by the parties to render an opinion as to the correctness of the trial court’s ruling, we decline to do so for the reasons already -stated. Plaintiffs should not be deprived of their day in court. The trial should take its normal course. The judgment under appeal is therefore reversed. The cause is remanded for trial. We do not retain jurisdiction.
