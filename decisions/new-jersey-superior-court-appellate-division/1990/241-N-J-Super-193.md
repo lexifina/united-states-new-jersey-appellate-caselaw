@@ -1,0 +1,30 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1990-05-14"
+citations: ["241 N.J. Super. 193", "574 A.2d 539"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["EILEEN KAJETZKE AND OTTO KAJETZKE, PLAINTIFFS-APPELLANTS, v. NEW JERSEY BELL, DEFENDANT-RESPONDENT, AND RYAN A. CONOVER AND ALAN P. CONOVER, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/241/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 350143
+cites_cases: ["211 N.J.Super. 636", "265 A.2d 129", "445 A.2d 1141", "512 A.2d 548", "56 N.J. 63", "89 N.J. 270"]
+---
+
+# Kajetzke v. New Jersey Bell
+
+## Majority (SKILLMAN, J.A.D.)
+
+The opinion of the court was delivered by
+SKILLMAN, J.A.D.
+The issue presented by this appeal is whether expert testimony is required to maintain a personal injury action against a public utility for a dangerous roadway condition created by the utility in the course of repairing its facilities.
+Defendant New Jersey Bell sent a work crew to repair telephone facilities located on a county highway in Freehold Township. The crew parked several trucks and erected a tent near an intersection of the county highway and a local road. The utility placed cones on the road to mark out the work area but did not use a flagman to control traffic or post any signs to warn motorists of the obstructed intersection. While the repair crew was working, a collision occurred at the intersection between automobiles operated by plaintiff Eileen Kajetzke and defendant Ryan A. Conover. Both drivers alleged that their view of the other automobile was obscured by New Jersey Bell’s equipment at the work site.
+Kajetzke, joined by her husband suing per quod, filed suit seeking damages for her injuries from both New Jersey Bell and Conover. At the conclusion of discovery, New Jersey Bell moved for summary judgment. The trial court concluded that Kajetzke’s claim against New Jersey Bell required supporting expert testimony which Kajetzke had failed to obtain and therefore granted the motion. The case subsequently went to trial against Conover and a jury returned a verdict of no cause of action in his favor. Kajetzke appeals from the summary judgment entered in favor of New Jersey Bell. We reverse.
+Expert testimony is required to support a negligence claim only if “the matter to be dealt with is so esoteric that jurors of common judgment and experience cannot form a valid judgment as to whether the conduct of the party was reasonable.” Butler v. Acme Markets, 89 N.J. 270, 283, 445 A.2d 1141 (1982). Applying this test, our courts have recognized that the need for warnings or other safety measures to protect the public from a dangerous condition ordinarily can be determined by a jury without the aid of expert testimony. In Black v. Public Service Electric & Gas Co., 56 N.J. 63, 265 A.2d 129 (1970), the Court held that a jury could decide without expert assistance whether due care required an electric utility to post signs on or near poles or wires to warn members of the public and workers in the area of the danger posed by highly charged electric wires. The Court observed that:
+The conditions present before and at the time of the mishap and the danger associated with them were perfectly apparent and capable of analysis by any person of ordinary understanding. We think such persons acting in the capacity of jurors and comprehending the danger presented by the facts in this case, were competent to decide without expert testimony whether the duty to exercise care commensurate with the risk involved was satisfied when the utility failed to post warning signs on or near the poles or on the uninsulated wires themselves. [ 56 N.J. at 78, 265 A.2d 129 ].
+Likewise, in Butler v. Acme Markets, Inc., supra, 89 N.J. at 283-284, 445 A.2d 1141, the Court held that a jury was competent without expert assistance to determine whether a supermarket in a high crime area had exercised due care for the safety of its patrons by hiring a single security guard or whether it should have hired additional security guards and/or posted signs warning patrons of the possibility of criminal attacks. To the same effect, we concluded in Macri v. Ames McDonough Co., 211 N.J.Super. 636, 641-644, 512 A.2d 548 (App.Div.1986), that a jury could determine without expert assistance whether a hammer manufacturer had failed to provide adequate warnings of the danger that its product could chip and cause personal injury. We stated that:
+Once [the danger of the hammer chipping] was established, it was within the competence of the jury, unaided by expert testimony, to determine the need for warnings and the adequacy of the warnings placed on the hammer by the manufacturer. [211 N.J.Super. at 643-644, 512 A.2d 548].
+Similarly, we conclude that a jury is competent without expert assistance to determine whether a public utility has provided adequate safety measures to protect the public from a dangerous roadway condition which the utility has created during the repair of its facilities. Most jurors have experience driving automobiles and are familiar with the dangers posed by obstructions on roadways. Most jurors also are familiar with roadway work sites maintained by highway contractors and public utilities and the kinds of safety measures employed at such sites, including the posting of signs to warn motorists of hidden entrances to the roadway and the use of flagmen to control the movement of traffic. Therefore, we have no doubt that a jury, properly instructed by the court, is able to determine whether the safety measures employed by a public utility at a roadway work site are reasonable under all the circumstances.
+Accordingly, we reverse the order granting summary judgment in favor of New Jersey Bell and remand the matter for further proceedings in conformity with this opinion.
+Alan P. Conover, the other named defendant, was the owner of the car driven by Ryan A. Conover.
