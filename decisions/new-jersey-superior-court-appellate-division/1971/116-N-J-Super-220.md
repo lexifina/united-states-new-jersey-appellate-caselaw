@@ -1,0 +1,38 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1971-09-27"
+citations: ["116 N.J. Super. 220"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["E. & E. NEWMAN, INC., PLAINTIFF-RESPONDENT, v. JAMES L. HALLOCK, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/116/cases/0220-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 295567
+cites_cases: ["107 N. J. Super. 89", "112 N. J. Super. 445", "130 U. S. App. D. C. 126", "21 L. Ed. 2d 560", "299 F. Supp. 501", "35 N. J. 459", "393 U. S. 1016", "397 F. 2d 687", "438 F. 2d 781", "56 N. J. 130", "89 S Ct. 618", "98 N. J. Super. 441"]
+---
+
+# E. & E. Newman, Inc. v. Hallock
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Plaintiff landlord sued defendant tenant in the County district court for possession of a four-room apartment on the fifth floor of a ten-family apartment building at 1312 Washington Street, in Hoboken. Suit was based upon the nonpayment of $200 in rent allegedly due on May 1, 1970. There was a judgment for possession entered on May 12, 1970 and defendant appeals therefrom.
+Defendant had rented this apartment on November 22, 1969 at a monthly rental of $70. Erom the time he moved in defendant had observed that there was a problem with the water pressure. He testified:
+There was no running water for most of the time. * * * [V]ery often I couldn’t draw any water for a bath. Very often I would wake up in the morning and there was no water in the toilet from flushing from the previous night.
+Defendant complained to Mr. Newman, a principal of plaintiff, but he testified that he received no remedial action.
+On February 23, 1970 defendant registered a complaint with the board of health or plumbing inspector. An inspector came to the premises on a number of subsequent occasions. Whether the repairs were made was disputed.
+Defendant and Lis roommate, Ronald Hine, work for a voluntary organization called “Self-Help,” whose purpose is to aid people with tenancy and welfare problems. On February 24, 1970 they organized and participated in a tenants’ meeting in plaintiff’s building. Since the great majority of the families residing in these premises are Spanish-speaking, they made up notices of the meeting in Spanish. The meeting was held in their apartment. They testified that 15 adult persons attended, but Newman stated there were 30.' Perhaps the difference is due to the presence of children of some of the tenants. The following day Newman came to their apartment and advised them that there would be no more meetings in their apartment; that it was against fire regulations.
+The court found that proper notice had been served upon defendant on April 1, 1970 which increased his rent from $70 to $200 monthly. The landlord’s alleged reason for the increase was “rising expenses, taxes, insurance, water, fuel and maintenance costs.” Of the other nine tenants in this building only one other tenant received a rental increase notice, and that was from $80 to $100 monthly.
+A “final” notice of the existence of a nuisance was received by Mr. Newman from the Department of Health. The notice was dated April 16, 1970, a date subsequent to the rental increase notice.
+Defendant has tendered $70 as rent for each month subsequent to April 1970, which tender has been refused by plaintiff. When the increased rental of $200 was not paid on May 1, 1970 dispossess proceedings were immediately instituted by plaintiff landlord and judgment for possession was granted on May 12, 1970, as first noted above.
+N. J. S. A. 2A:18-59 provides:
+Proceedings had by virtue of this article shall not be appealable except on the ground of lack of jurisdiction. * * *
+Recent cases indicate that the issue in this case should be treated as jurisdictional. See e. g., Vineland Shop ping Center, Inc. v. DeMarco, 35 N. J. 459 (1961). Since the landlord-tenant court is a statutory creation, all the statutory prerequisites must be met in order for the County district court to gain jurisdiction. In the instant case one of these prerequisites is the “default” in the payment of rent. If defendant’s contention is correct, the landlord would not have lawfully raised the rent and therefore there would have been no “default.” The County district court would thus have had no jurisdiction. See also Marini v. Ireland, 56 N. J. 130 (1970).
+These same cases also indicate that a tenant may set forth an equitable defense to defeat an action. Such a defense may be reviewed by the appellate courts. Marini v. Ireland, supra, 56 N. J. at 140, expressly overruling Peters v. Kelly, 98 N. J. Super. 441 (App. Div. 1968).
+The question is. whether “retaliation” is such a defense. N. J. S. A. 2A:42-10.10 et seq. (effective Sept. 30, 1970) expressly makes it unlawful for a landlord to serve a notice to quit upon a tenant in reprisal for the latter’s participation in a tenants’ organization. It also makes unlawful such service because of a tenant’s failure to abide by an alteration in the terms of the tenancy initiated as such a reprisal. Any such service or alteration following a tenant’s participation raises a rebuttable presumption of reprisal. This may be raised as a defense in an action for possession. Clearly, had the statute been in force it would have been applicable if the factual circumstances were as defendant contends. However, the statute became effective six months after this incident. Engler v. Capital Management Corp., 112 N. J. Super. 445 (Ch. Div. 1970).
+The above statute was taken from and replaced N. J. S. A. 2A:170-92.1 which made it a disorderly person offense for a landlord to engage in those actions now proscribed by the new statute. The statute did not, however, specifically by its terms prohibit the removal of tenants on the ground of reprisal.
+In Alexander Hamilton S. & L. Ass’n v. Whaley, 107 N. J. Super. 89 (Cty. D. Ct. 1969), the court apparently found such proscription inherent in the statute and denied the landlord the eviction since it was convinced that it was merely a reprisal.
+Such an intent was also found in Engler v. Capital Management Corp., supra. There the court reasoned that to countenance such retaliation would he to violate the 14th Amendment in that the tenant’s right to freedom of speech and assembly would be unduly impaired. Edwards v. Habib, 130 U. S. App. D. C. 126, 397 F. 2d 687 (D. C. Cir. 1968), cert. den. 393 U. S. 1016, 89 S Ct. 618, 21 L. Ed. 2d 560 (1969); Hosey v. Club Van Cortlandt, 299 F. Supp. 501 (S. D. N. Y. 1969). See McQueen v. Druker, 438 F. 2d 781 (1 Cir. 1971). Thus, a landlord should not be permitted to evict a tenant, or to raise his rent, as a reprisal for the tenant’s exercise of a constitutionally protected right.
+In the instant case it is difficult to discern the basis for the county district court’s judgment. It is unclear whether the judge actually felt there was no reprisal or held that ihe issue was merely not cognizable. It expressly found the Peters case, supra, controlling. But Marini v. Ireland, supra, decided on May 18, 1970, expressly overruled Peters. The rash increase in the rent, when viewed in relation to the lack of increases among other tenants, is a strong indication of the involvement of a factor other than "rising expenses, taxes, insurance, water, fuel and maintenance costs.”
+The judgment of possession is reversed and the case remanded for a determination by the county district court as to whether a reprisal occurred and for appropriate disposition based upon such determination. We do not retain jurisdiction.
