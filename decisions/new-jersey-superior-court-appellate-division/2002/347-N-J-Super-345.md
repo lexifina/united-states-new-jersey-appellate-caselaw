@@ -1,0 +1,37 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2002-02-05"
+citations: ["347 N.J. Super. 345", "790 A.2d 184"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BRADLEY B. DAVIS, PLAINTIFF-APPELLANT, v. METUCHEN GARDENS CONDOMINIUM ASSOCIATION, DEFENDANTS-RESPONDENTS, AND AMHERST REALTY & MANAGEMENT, INC., DEFENDANT."]
+source_url: "https://static.case.law/nj-super/347/cases/0345-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 408476
+cites_cases: ["337 N.J.Super. 293"]
+---
+
+# Davis v. Metuchen Gardens Condominium Ass'n
+
+## Majority (WEFING, J.A.D.)
+
+The opinion of the court was delivered by
+WEFING, J.A.D.
+Plaintiff Bradley B. Davis appeals from a judgment entered in favor of defendant Metuchen Gardens Condominium Association (Association). After reviewing the record in light of the contentions advanced on appeal, we affirm.
+Metuchen Gardens is a sixty-four-unit residential condominium located in Metuchen, New Jersey. Defendant Association is the governing body for the complex. The buildings are two stories in height. Thirty-one of the second-story units have balconies. Plaintiff Davis resides in a ground-floor unit, which, rather than a balcony, has a concrete patio. Under the terms of the condominium’s master deed, both the balconies and patios are considered “limited common elements.”
+Certain of the unit owners apparently did not properly maintain the balconies adjoining their units and structural problems developed. The Association retained the services of an engineer to inspect all the balconies within the complex. The engineering study concluded that sixteen of the thirty-one balconies represented safety hazards due to the rot and decay discovered in the course of the survey.
+The Association decided that all of the balconies should be replaced and further, that the new balconies should be supported by wooden support posts sunk into concrete footings. The Association further decided that the cost of this work should be divided equally among all the unit-owners, not just those whose units included a balcony. The Association assessed each unit owner a total of $1,440, payable in monthly installments of $60.
+Davis made three payments under protest, and then began this action in which he sought a refund of that money. He asserted the cost should be assessed solely against those unit owners whose units included balconies. The trial court found in favor of the Association and dismissed his complaint.
+The rights and responsibilities of a condominium unit owner and a governing association are controlled both by statute, N.J.S.A 46:8B-1 to -38, and the particular master deed and bylaws in effect. We have, in other matters, recognized that in light of the relatively recent wide-spread popularity of such developments, the law in this area is still evolving. Mulligan v. Panther Valley Property Owners Assoc., 337 N.J.Super. 293, 301, 766 A.2d 1186 (2001).
+N.J.S.A. 46:8B-3k defines limited common elements as “those common elements which are for the use of one or more specified units to the exclusion of other units.” Paragraph E(3) of the Master Deed for Metuehen Gardens provides, in pertinent part:
+The Limited Common Elements shall include, but shall not be limited to, entryways, common walls, balconies, patios or deck (sic) front entrance areas or porches, designated as appurtenant to a specified Unit. Each Unit owner shall be responsible for maintaining at their individual cost and expense, all areas designated as Limited Common Elements except, however, structural modifications and structural maintenance of the walls.
+Further, the Master Deed includes the following term in its “Declaration of Restrictive and Protective Covenants, Agreements and Easement Grants”:
+That the owner of each Unit is bound to contribute according to the percentage of his undivided interest in the Common Elements as set forth in the Master Deed toward the expenses of administration and of maintenance, repairs of the Common Elements, which includes snow removal, utility charges, solid waste removal, maintenance of streets, sewers, sidewalks, curbs, etc., the expenses of administering and maintaining Metuehen Gardens Condominium Association and all of its real and personal property in such amounts as shall from time to time be fixed by the Association, including reserves for deferred maintenance (maintenance items that occur less frequently than annually!)], reserves for replacement and reserves for capital improvements, and to any expenses that shall be lawfully agreed upon.
+Corresponding provisions are found in the Association’s by-laws. In addition, under the bylaws, an individual unit owner is barred from “contract[ing] for or performing] any maintenance, repair, replacement, alteration or modification of the common elements” and agrees to reimburse the Association for expenses it incurs “in repairing or replacing any part of parts of the Common Elements damaged solely by his negligence....”
+Finally, before turning to the particular question presented, we note that our review is somewhat hampered by the informal manner in which the matter proceeded below. Both parties refer to the matter having been tried before the court. However, the transcript that has been supplied to us contains no testimony; it appears that the court decided the matter having heard oral argument and reviewed the documents. Neither party, however, complained of the procedure utilized. Rather, they agreed that the question to be decided was whether replacement of these decks was a “structural modification” such that under Paragraph E(3) of the Master Deed, it was not the responsibility of an individual unit owner.
+After listening to the parties, the trial court concluded that the work performed was, indeed, a structural modification, and thus within the purview of the Association’s responsibility and, accordingly, dismissed plaintiffs complaint.
+We agree with the trial court’s interpretation of the master deed. In our view, if the term “structural modification” were limited to walls, as plaintiff contends, it would have read “structural modification or maintenance of the walls.” The repetition of the word “structural” in each clause indicates to us two separate, independent provisions.
+Plaintiff challenges the soundness of a policy which spreads the cost of replacement among all unit owners, rather than confining it to those immediately benefitted. We decline to interfere with that policy judgment. Because of the sparseness of the record, to which we have earlier referred, it is not possible to determine whether the decisions at issue should be judged under the reasonableness test or the business judgment rule. Mulligan, supra, 337 N.J.Super. at 302-03, 766 A.2d 1186. No matter which test we were to employ, we could not find a basis to judicially overturn the result here.
+No party has addressed the significance of the provision in the bylaws set forth above which authorizes the Association to seek reimbursement from a unit owner if the Association is forced to incur expenses to replace common elements as a result of negligence on the part of that unit owner. We express no opinion whether the Association, in the present instance, would have a viable claim against certain of the unit owners in this condominium development.
+The judgment under review is affirmed.
