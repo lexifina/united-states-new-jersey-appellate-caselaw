@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1973-06-28"
+citations: ["124 N.J. Super. 377"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LOUISE DAVID, PETITIONER-APPELLANT, v. EMPLOYERS MUTUAL INSURANCE CO. OF WAUSAU AND THE UNITED HOSPITALS OF NEWARK ORTHOPEDIC CENTER, HOSPITAL FOR CRIPPLED CHILDREN AND ADULTS, RESPONDENTS-APPELLEES."]
+source_url: "https://static.case.law/nj-super/124/cases/0377-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 314763
+cites_cases: ["105 N. J. Super. 325", "128 N. J. L. 34", "129 N. J. L. 51", "187 N. E. 2d 388", "194 A. 2d 85", "20 N. J. Misc. 339", "20 N. J. Misc. 444", "222 App. Div. 402", "226 N. Y. S. 317", "232 Md. 442", "27 A. 2d 629", "28 A. 2d 651", "32 N. J. 460", "345 Mass. 766", "58 N. J. Super. 584", "60 A. L. R. 303"]
+---
+
+# David v. Employers Mutual Insurance
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+This is an appeal from a judgment of dismissal in the Workmen’s Compensation Division.
+Petitioner, a licensed practical nurse on private duty attending to a hospital patient, was injured when a chair on which she was sitting collapsed. She sought workmen’s compensation benefits from Employers Mutual Insurance Co. of Wausau. More than two years after the accident she filed an amended petition naming the hospital as an additional respondent. At the hearing the judge of compensation dismissed the claim petition against the hospital on the ground that it was barred by the statute of limitations, N. J. S. A. 34:15-51 and entered a judgment of dismissal in favor of the insurance company, holding that there was no employer-employee relationship.
+The proofs showed that petitioner was engaged through the nurses’ registry to render private nursing care to a patient who had been injured in the course of his employment and whose medical and hospital bills, including those for private nursing care, were being paid by respondent insurance company as the compensation carrier for the patient’s employer. She billed the insurance company directly for her services, and there were no deductions for income taxes or social security.
+Petitioner contends that a compensation carrier which, in the exercise o£ its obligation to furnish an injured workman necessary medical, surgical and other treatment, as well as hospital services, authorizes and pays for the services of a private nurse, becomes thereby the employer of the nurse for the purposes of the Workmen’s Compensation Act. No ease has been brought to our attention which so holds, and our own research has disclosed none. In our view the contention is unsound.
+It is the general rule that when a nurse who offers professional service to the public is privately engaged to look after a patient in a hospital, she does not ordinarily become the employee of the patient, or the patient’s spouse or employer, whichever of them may have procured her services. 1A Larson, Workmen's Compensation (1967), § 45.32(c) at 731. In such ease she is ordinarily an independent contractor. On the facts here present the “relative nature of the work test” would not change her status to that of an employee, and we see no reason for applying a different rule to the respondent insurance carrier. Cf. Marcus v. Eastern Agricultural Ass’n, Inc., 58 N. J. Super. 584, 603 (App. Div. 1959), rev’d and dissent adopted 32 N. J. 460 (1960). The cases cited by petitioner are inapposite.
+With respect to. the hospital, we do not think the petition should have been dismissed on the ground that it was filed out of time, and the record does not support the comment of the judge of compensation that the hospital’s counsel consented to the dismissal. The issue was whether petitioner was an employee of the hospital. If she was, and if medical treatment was furnished her within the two-year period, then the petition was not barred by the statute of limitations. N. J. 8. A. 34:15 — 51. Zanni v. Rudolph Poultry Equipment, 105 N. J. Super. 325, 328 (App. Div. 1969).
+In any case, we see no need to remand these issues to the Division because we are satisfied from the proofs that petitioner was not an employee of respondent hospital. It is evident from her own testimony that she responded to a call from the nurses’ registry and proceeded directly to the patient’s room after consulting the doctor’s order sheet. She received no instructions except from the attending physicians, although she was required to observe the hospital’s rules and regulations concerning the giving of medication and the making of entries on thee patient’s chart. The hospital did not pay her. In these circumstances she retained her status as an independent contractor. Brown v. St. Vincent’s Hospital, 222 App. Div. 402, 226 N. Y. S. 317 (App. Div. 1928); Edith A. Anderson Nursing Homes, Inc. v. Walker, 232 Md. 442, 194 A. 2d 85 (Ct. App. 1963); McDonald’s Case, 345 Mass. 766, 187 N. E. 2d 388 (Sup. Jud. Ct. 1963); Annotation, “Nurse as independent contractor or servant,” 60 A. L. R. 303 (1929). See also Chmizlak v. Levine, 20 N. J. Misc. 339, 27 A. 2d 629 (Dept. Labor 1942). Cf. Bertsch v. Jones, 128 N. J. L. 34 (Sup. Ct. 1942), aff’d 129 N. J. L. 51 (E. & A. 1942), and Robinson v. Levy, 20 N. J. Misc. 444, 28 A. 2d 651 (Dept. Labor 1942), which are distinguishable factually. Applying the “relative nature of the work tost” would not change the result on the facts of this case.
+The judgment is affirmed.
