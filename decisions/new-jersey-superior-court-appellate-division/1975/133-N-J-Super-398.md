@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "1975-03-21"
-citations: ["133 N.J. Super. 398", "133 N.J. Super. 394"]
+citations: ["133 N.J. Super. 398"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. VINCENT D. BAKER, DEFEN
 source_url: "https://static.case.law/nj-super/133/cases/0398-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 298805
-cites_cases: ["109 Mass. 323", "112 N. J. Super. 6", "133 N. J. Super. 394", "133 N. J. Super. 398", "14 A. L. R. 3d 1272", "14 N. J. 538", "23 N. J. 521", "27 N. J. Super. 157", "282 U. S. 687", "49 N. J. 130", "57 N. J. 603", "62 A. L. R. 2d 610", "66 N. J. L. 601", "77 N. J. L. 766", "86 N. J. Super. 404", "93 N. J. L. 16", "97 N. J. L. 43"]
+cites_cases: ["109 Mass. 323", "112 N. J. Super. 6", "133 N. J. Super. 394", "14 A. L. R. 3d 1272", "14 N. J. 538", "23 N. J. 521", "27 N. J. Super. 157", "282 U. S. 687", "49 N. J. 130", "57 N. J. 603", "62 A. L. R. 2d 610", "66 N. J. L. 601", "77 N. J. L. 766", "86 N. J. Super. 404", "93 N. J. L. 16", "97 N. J. L. 43"]
 ---
 
 # State v. Baker
