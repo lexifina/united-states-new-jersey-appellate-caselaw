@@ -1,0 +1,37 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1999-11-23"
+citations: ["326 N.J. Super. 182", "740 A.2d 1111"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VITO LUPPINO, PLAINTIFF-APPELLANT, v. REUBEN MIZRAHI AND SYLVIA MIZRAHI, DEFENDANTS-CROSS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/326/cases/0182-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 207695
+cites_cases: ["11 U.S.C. § 541", "110 N.J. Eq. 347", "114 N.J. Eq. 551", "160 A. 48", "169 A. 281", "278 N.J.Super. 373", "290 N.J.Super. 162", "297 N.J.Super. 187", "309 N.J.Super. 596", "834 F.Supp. 275"]
+cites_law: ["united-states/federal/usc/title-11/541.md"]
+---
+
+# Luppino v. Mizrahi
+
+## Majority (WEFING, J.A.D.)
+
+The opinion of the court was delivered by
+WEFING, J.A.D.
+Plaintiff sued defendants in the Law Division, Special Civil Part, for the balance allegedly due as rent for premises defendants leased from plaintiff; defendants counterclaimed for return of their security deposit. The trial court dismissed the complaint and counterclaim and the parties appeal and cross-appeal. We affirm, although for reasons somewhat different than those expressed by the trial court.
+The premises in question are condominium unit 7 at 60 Cedar Avenue in West Long Branch, New Jersey. While the lease was originally for two years, it was thereafter renewed by consent. Within his complaint, filed in November 1997, plaintiff alleged that defendants failed to pay rent from October 1995 through May 1996 and sought the $9,600 due under the lease terms.
+Certain additional facts must be noted, however. Hermes Realty Corporation (Hermes) held a mortgage on the leased premises and plaintiff fell behind on his mortgage payments. In April 1996, Hermes filed a mortgage foreclosure action and, in May 1996, obtained the appointment of a rent receiver. Ajax Management Corporation (Ajax) was named as rent receiver.
+Plaintiff was experiencing other financial problems as well. In September 1995, he filed a voluntary petition for bankruptcy under Chapter Seven of the United States Bankruptcy Code and listed the subject premises among his scheduled assets. The trustee in bankruptcy abandoned any claim to the premises which permitted the foreclosure action to proceed in the ordinary course.
+I.
+The trial court concluded that plaintiffs complaint was barred under the entire controversy doctrine; it was the court’s view that plaintiff should have raised the issue of outstanding rent within the foreclosure action. We disagree that plaintiffs complaint was barred under the entire controversy doctrine for plaintiff would have been precluded from asserting the issue of rent within the foreclosure action. R. 4:64-5 bars the assertion of non-germane counterclaims and cross-claims in a foreclosure action unless a party demonstrates good cause and obtains leave of court. R. 4:30A also notes this limitation to the scope of the entire controversy doctrine. Sovereign Bank, FSB v. Kuelzow, 297 N.J.Super. 187, 687 A.2d 1039 (App.Div.1997) is an example of a situation that might invoke permission to raise a non-germane cross-claim as part of a foreclosure action.
+This is not such a matter. If routine disputes between landlord and tenant over balances due for rent were permitted to be raised in foreclosure actions, it would only serve to delay the appropriate disposition of those matters.
+It is well-settled that appeals are taken from orders, not opinions. Mills v. J. Daunoras Constr., Inc., 278 N.J.Super. 373, 651 A.2d 114 (App.Div.1995). Thus, if the trial court’s order is correct under a different legal principle than the one enunciated by the trial court, it should be affirmed nonetheless. Bryant v. City of Atlantic City, 309 N.J.Super. 596, 707 A.2d 1072 (App.Div. 1998).
+Defendants assert two additional reasons why the trial court’s order dismissing plaintiff’s complaint was correct. They point to the appointment of a rent receiver for this property and to plaintiffs bankruptcy filing. Specifically, defendants point to paragraphs three and seven of the order appointing Ajax as receiver because those provisions confer upon Ajax the authority to collect rent for the premises and enjoin plaintiff from doing so.
+Before the trial court, plaintiff relied upon the principle that the authority of a rent receiver to collect rent runs only from the date of his appointment and that rents which accrue prior to the receiver’s appointment belong to the mortgagor. Badaracco v. Gatti Paper Stock Corp., 114 N.J. Eq. 551, 554, 169 A. 281 (Ch.1933). Although some jurisdictions have reflected dissatisfaction with that principle, MDFC Loan Corp. v. LaSalle Nat. Bank, 834 F.Supp. 275 (N.D.Ill.1993), this is not an appropriate case within which to consider the continued viability of that principle. We note, for instance, that even in cases applying it, courts have noted that the terms of the underlying mortgage are a relevant consideration, for the mortgage document may pledge a property’s rent as additional security. Westinghouse Elec. & Mfg. Co. v. Weikel, 110 N.J. Eq. 347, 351, 160 A. 48 (Ch.1932). The terms of plaintiffs mortgage with Hermes are not before us, however. We decline, therefore, to pass upon that question.
+We are persuaded, however, that there is merit to that portion of defendants’ argument that deals with plaintiffs bankruptcy filing. Plaintiff has demonstrated no reason why, having invoked the protection of the bankruptcy court, he should still be entitled to press this collection matter. Control over this asset, including the rental income it generated, passed to the trustee. 11 U.S.C. § 541(a)(6) (property of the estate includes rents from property of the estate). Plaintiff has provided no authority for the proposition that despite his bankruptcy petition, he retained some measure of authority and control over the claim for rent.
+II.
+We turn now to defendants’ counterclaim for return of their security deposit. We are satisfied that as to this claim, the trial court correctly concluded it was barred by the entire controversy doctrine.
+Defendants were not timely in the payment of rent to Ajax and Ajax commenced two suits, one for possession and one for past due rent. Defendants settled their disputes with Ajax pursuant to a stipulation of settlement dated April 3, 1998. Any claim that defendants had to the return of their security deposit should have been raised at that time.
+Defendants rely upon Fischer v. Heck, 290 N.J.Super. 162, 675 A.2d 254 (Law Div.1996) in support of their assertion that plaintiff is liable to them under N.J.S.A. 46:8-21. That case, however, relied upon what it considered the fundamental unfairness of invoking the entire controversy doctrine to bar a tenant who had appeared pro se to defend the foreclosing bank’s claim for outstanding rent from subsequently attempting to recoup his security deposit. These tenants have been represented by counsel throughout all aspects of these proceedings, however, and had the clear ability to seek return of their deposit when they were being pressed to satisfy their outstanding arrearages. To the extent that the court in Fischer implied that the entire controversy doctrine is not applicable in the Special Civil Part, we only note that R. 6:1-1 contains no provision exempting R. 4:30A.
+Affirmed.
