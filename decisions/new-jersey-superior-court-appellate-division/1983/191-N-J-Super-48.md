@@ -1,0 +1,42 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1983-08-29"
+citations: ["191 N.J. Super. 48"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. McCORMACK TERMINAL, INC., DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/191/cases/0048-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 904698
+cites_cases: ["100 N.J.Super. 366", "128 N.J.L. 286", "15 N.J.Misc. 71", "188 A. 727", "37 N.J.Super. 262", "4 N.J. 293", "42 N.J.L. 375", "440 U.S. 978", "46 N.J.Super. 331", "53 N.J. 248", "60 L.Ed.2d 237", "63 N.J.L. 123", "78 N.J. 200", "82 N.J. 128", "96 N.J.Super. 20", "96 N.J.Super. 238", "99 S.Ct. 1782"]
+---
+
+# State v. McCormack Terminal, Inc.
+
+## Majority (BRODY, J.A.D.)
+
+The opinion of the court was delivered by
+BRODY, J.A.D.
+Defendant appeals its conviction under an ordinance for polluting the air of South Amboy. A $500 fine was imposed. It contends that the ordinance definition of “air pollution” is unconstitutionally vague and that the penalty provision of the ordinance is void because it establishes a minimum fine contrary to the limited statutory authority given municipalities to adopt penal ordinances. We affirm the conviction.
+The facts are not now disputed. Defendant was using an unenclosed conveyor to transfer coal from a railroad coal car to an open area in its yard. The operation generated a cloud of coal dust which settled on the neighborhood. Some of the dust was collected in a bag and received in evidence.
+Defendant was charged with violating that section of the ordinance prohibiting any person from causing substances “to be emitted into the open air ... in such quantities as shall result in air pollution.” “Air pollution” is defined in the ordinance as follows:
+The presence in the outdoor atmosphere of one or more air contaminants in such quantities and duration as are, or tend to be, injurious to human health or welfare, to animal or plant life, or to property, or would unreasonably interfere with the enjoyment of life or property throughout the City as shall be affected thereby, and excludes all aspects of employer-employee relationship as to health and safety hazards.
+Virtually the same definition appears in N.J.S.A. 26:2C-2 of the Air Pollution Control Act, N.J.S.A. 26:2C-1 et seq. The predecessor of N.J.S.A. 26:2C-2 (which was no more specific than the current version) was considered by this court “a sufficient guide and standard” to inform the public as to what conduct “would be considered proscribed activity.” State v. Owens-Corning Fiberglas Corp., 100 N.J.Super. 366, 383-385 (App.Div.1968), aff’d o.b. 53 N.J. 248 (1969). Furthermore, the record shows that harm from the airborne and settled particles of coal dust was direct and palpable unlike the uncertain harm from smoke emissions which depends in part on their density.
+Defendant’s second point is more troublesome. The penalty provision of the ordinance (§ 10.1) reads:
+Any person who shall violate any of the provisions of this Code, or who shall fail to comply therewith or with any of the requirements thereof, shall be punishable by a fine of no more than $500.00, nor less than $5.00.
+Our courts have consistently held that N.J.S.A. 40:49-5 prohibits municipalities from enacting minimum fines which would deprive judges of their statutory discretion to impose “any fine.” State v. Hatco Chemical Co., 96 N.J.Super. 238, 240-242, (App.Div.1967); Studerus Oil Co., Inc. v. Jersey City, 128 N.J.L. 286, 292 (Sup.Ct.1942); Pfister Chemical Co., Inc. v. Romano, 15 N.J.Misc. 71, 72, 188 A. 727, 728 (Sup.Ct.1937); see Massinger v. Millville, 63 N.J.L. 123, 126 (Sup.Ct.1899). Defendant argues that since the $5 minimum fine is invalid, the entire penalty clause is void and the ordinance is therefore unenforceable. See Verona v. Shalit, 96 N.J.Super. 20, 24-25 (App.Div.1967).
+In the trial court, Judge Breitkopf held that the invalid part of the ordinance providing for a minimum fine is severable and therefore its invalidity does not require striking down the whole ordinance. We agree. The ordinance contains the following provision (§ 11.2):
+If any section, subsection, paragraph, sentence, clause, phase [sic], or portion of this ordinance shall be adjudged invalid for any reason whatsoever, such portion shall be deemed a separate, distinct and independent provision, and such holding shall not affect the validity of the remaining portions hereof which shall remain in full force and effect.
+Where an ordinance contains a severability clause, there is a rebuttable presumption of severability. Helmsley v. Borough of Fort Lee, 78 N.J. 200, 237 (1978), app. dism. 440 U.S. 978, 99 S.Ct. 1782, 60 L.Ed.2d 237 (1979), opinion clarified 82 N.J. 128 (1980). “The question of severability of the invalid provision is one both of legislative intent, [citations omitted] and of whether the remaining provisions are functionally self-sufficient as containing the essentials of a complete enactment [citation omitted].” Gross v. Allan, 37 N.J.Super. 262, 269 (App.Div.1955).
+It is inconceivable that the South Amboy governing body would have preferred sacrificing its entire comprehensive antipollution code to losing the guarantee of a minimum $5 fine. Eliminating the minimum $5 fine does not affect the operation of the other ordinance provisions.
+Defendant contends that a severability provision cannot save an ordinance that imposes a penalty not authorized by statute, citing Leland v. Commissioners, 42 N.J.L. 375 (Sup.Ct.1880) and State v. Laurel Mills Sewerage Corp., 46 N.J.Super. 331 (App. Div.1957). These cases are distinguishable. Nothing in Leland suggests that the ordinance there contained a severability clause. In Laurel Mills the penalty clause suffered from two infirmities. It provided for a minimum fine of $10 and a maximum of $1,000 even though at the time the statute authorized a maximum of only $200. The court questioned “whether the ordinance penalty provision is not invalid for exceeding statutory authority, notwithstanding the penalty imposed was a fine of $200 and costs, the maximum allowed by N.J.S.A. 40:49-5.” Id. at 334. Despite a severability clause in the ordinance, the court held that “[t]he penalty provided in the ordinance, being. greater than is permitted by statute, is void.” The opinion reproduces the ordinance, but makes no other reference to the minimum fine provision. It appears to us that the court was exclusively concerned with the excessive maximum fine feature of the ordinance, concluding that severance would leave the ordinance unenforceable because of the absence of any fixed maximum. We need not consider whether in such a case the statutory maximum may be read into the ordinance.
+Here, removal of the $5 minimum fine is barely perceptible. The remaining portion of the penalty clause is fully operable and conforms to statutory authority. The unlawful minimum fine provision of the ordinance is severable.
+Affirmed.
+South Amboy, N.J., Ordinance 892 (February 5, 1973) (Air Pollution Control Code).
+N.J.S.A. 26:2C-22 expressly permits municipalities to adopt air pollution codes more stringent than the act, subject to the approval of the State Department of Health.
+Where the alleged pollution is smoke, the ordinance provides for the use of the Ringelmann Smoke Chart to determine if the emission is a violation. See Board of Health of Weehawken Tp. v. N.Y. Central R. Co., 4 N.J. 293, 302 (1950).
+The statute reads:
+40:49-5. Penalties for violating ordinances; maximum
+The governing body may prescribe penalties for the violation of ordinances it may have authority to pass, either by imprisonment in the county jail or in any place provided by the municipality for the detention of prisoners, for any term not exceeding 90 days, or by a fine not exceeding $500.00, or both. The court before which any person is convicted of violating any ordinance of a municipality, shall have power to impose any fíne or term of imprisonment not exceeding the maximum fixed in such ordinance.
+Any person convicted of the violation of any ordinance may, in the discretion of the court by which he was convicted, and in default of the payment of any fine imposed therefor, be imprisoned in the county jail or place of detention provided by the municipality, for any term not exceeding 90 days. [Emphasis supplied.]
