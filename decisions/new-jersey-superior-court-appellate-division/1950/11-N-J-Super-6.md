@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1950-12-27"
+citations: ["11 N.J. Super. 6"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MATTIE BARWICK, PLAINTIFF-APPELLANT, v. GENDEL REALTY CO., A NEW JERSEY CORPORATION, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/11/cases/0006-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 408993
+cites_cases: ["117 N. J. L. 54", "119 N. J. L. 83", "128 N. J. L. 79", "129 N. J. L. 386", "132 N. J. L. 173", "140 N. J. Eq. 188", "8 N. J. Super. 48", "96 N. J. L. 30", "97 N. J. L. 493"]
+---
+
+# Barwick v. Gendel Realty Co.
+
+## Majority (Proctor, J. A. D.)
+
+The opinion of the court was delivered by
+Proctor, J. A. D.
+Plaintiff tenant appeals from a judgment of dismissal, granted on motion of defendant landlord at the termination of the plaintiff’s case, in an action for personal injuries sustained as a result of a breach of the landlord’s agreement to repair the premises.
+On December 1, 1947, defendant, through Wilner, its authorized agent, advised plaintiff that it had acquired title to the premises, a multiple-family house, in which she was occupying an apartment with her father. Referring to a paper from the former owner, Wilner asked for Thomas Barwick, plaintiff’s husband, and 'was informed that he did not live in the apartment. Wilner then said, “I am the new landlord and we will get along just like you did with the other landlord, and anything to be fixed, we will take care of it.” Thereupon, plaintiff paid him the rent.
+When Wilner collected the rent in Eebruary, plaintiff, remarking, “There must be a pipe busted,” told him that water was seeping through the ceiling above the kitchen stove, causing the plaster to become cracked. About two weeks later, after showing Wilner the condition, the plaintiff again complained that water was leaking through the ceiling and she had to use pans to catch it. When paying the rent in March, she once more complained to Wilner, stating that the condition of the' ceiling was becoming worse and that “it looked like it would come down and that something should be done about it.” Again, on April 2nd, she complained to Wilner. On each of the above occasions, he promised to remedy the condition. Plaintiff’s father also complained about the ceiling to Wilner' in Eebruary and March, but did not mention the condition when paying the rent to defendant’s lawyer at the latter’s office on April 2nd. On April 8th, the plaster fell and injured the plaintiff. Later, defendant repaired the ceiling.
+The trial judge ruled that' defendant, on December 1, 1947, intended that the plaintiff was to be the tenant in place of her husband, the former tenant. However, the judge dismissed plaintiff’s action on the ground that any agreement to repair was waived by the payment of rent on April 2, 1948, because there was no proof that at the time the rent was paid the landlord agreed to make repairs; that “under the circumstances, there was a waiver of that promise and a new tenancy was created on April 2, 1948.”
+The above ruling was predicated on the theory that the tenancy ended at the expiration of each month. This was error.
+The tenancy created on December 1, 1947, being for an indefinite term at a monthly rent, was one from month to month. Maier v. Champion, 97 N. J. L. 493 (E. & A. 1922). Therefore, plaintiff’s continuing in possession and paying the rent was a continuation of the original letting and not a new tenancy. See Jador Service Co. v. Werbel, 140 N. J. Eq. 188 (E. & A. 1947); cf. P. L. 1941, c. 317, p. 856, § 1 (R. S. 46:8-10). See also Balsham v. Koffler, 8 N. J. Super. 48 (App. Div. 1950).
+The duty to repair, incurred by defendant’s promise at the commencement of the tenancy, remained in force at the time of plaintiff’s injury, and plaintiff had done nothing to relinquish her right corresponding to that duty. There was no waiver of the promise to repair. Orlando v. Camden County, 132 N. J. L. 173 (Sup. Ct. 1944).
+Harenburg v. August, 119 N. J. L. 83 (E. & A. 1937), and Stein v. Porter, 96 N. J. L. 30 (Sup. Ct. 1921), relied upon by defendant, are not in point. In the Harenburg case, the parties, with knowledge of the physical conditions, entered into a new lease at a reduced rental, without any complaint or agreement to alter the demised premises. In the Stein ease, the only point involved was the length of notice to vacate in a dispossess proceeding of a tenant from month to month.
+Defendant contends that there was no consideration for its promises to repair, each such promise being in the category of a nudum pactum, because plaintiff was a month to month tenant and, therefore, an}^ promise after the letting by the defendant, in the absence of an agreement by the plaintiff to remain only on condition that the repairs be made, was without consideration. The point is without merit. The evidence shows that an agreement to make repairs was made at the inception of the tenancy created by the parties on December 1, 1947. This is the theory upon which the trial judge ruled. Under the terms of the tenancy, the defendant obligated itself to repair the premises. A tenant’s injury, resulting from a default in such undertaking, is actionable. Watkins v. Feinberg, 128 N. J. L. 79 (Sup. Ct. 1942); affirmed, 129 N. J. L. 386 (E. & A. 1943). Such default in essence is not contractual but tortious, i. e., the failure of a legal duty that is denominated negligence. Folley v. United B. & L. Ass’n., 117 N. J. L. 54 (Sup. Ct. 1936).
+Defendant further contends that plaintiff was guilty of contributory negligence and that she assumed the risk. In view of the repeated complaints by the plaintiff of the condition of the ceiling and the express reaffirmations of the landlord that the repairs would be made and plaintiff’s reliance thereon, we find that it was for the trier of the facts to determine whether, under the circumstances, plaintiff was negligent and assumed the risk of danger. Watkins v. Feinberg, supra.
+We find no merit in plaintiff’s contention that the court erred in refusing to admit in evidence the registration certificate filed by a former owner of the premises with the Office of Price Administration in relation to the occupancy of a former tenant.
+Reversed and remanded, costs to abide the outcome.
