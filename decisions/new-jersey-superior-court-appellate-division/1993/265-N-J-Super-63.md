@@ -1,0 +1,29 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1993-05-28"
+citations: ["265 N.J. Super. 63", "625 A.2d 557"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-APPELLANT, v. PETER J. FORGIONE AND LEONARD A. IACONO, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/265/cases/0063-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 422381
+cites_cases: ["230 N.J.Super. 111", "236 N.J.Super. 69", "440 U.S. 648", "552 A.2d 1023", "564 A.2d 128"]
+---
+
+# State v. Forgione
+
+## Majority (MUIR, Jr., J.A.D.)
+
+The opinion of the court was delivered by
+MUIR, Jr., J.A.D.
+This appeal requires us to determine whether the provisions of N.J.S.A. 39:3-15, which exempt from the automobile equipment standards of Title 39 a vehicle licensed in another state and owned by a resident of that state, prevent a law enforcement officer in this state from stopping such a vehicle for a defective rear brake light. We conclude it does not and accordingly reverse the order under appeal.
+The relevant facts are stipulated. A state trooper stopped a vehicle bearing New York license plates and driven by defendant. The trooper stopped the vehicle when he observed a defective rear brake light (N.J.S.A. 39:3-66) and what he considered to be a vision obstruction hanging from the ear’s rearview mirror (N.J.S.A. 39:3-74). As defendant produced the vehicle’s registration, which disclosed defendant’s New York residence and vehicle ownership, the trooper observed a container with suspected contraband drugs. A subsequent search of the vehicle uncovered a handgun. A Warren County Grand Jury indicted defendant for possession of a weapon without a permit (N.J.S.A. 2C:39-5b).
+After hearing oral argument on defendant’s motion to suppress, the trial court ruled N.J.S.A 39:3-15 prevented the trooper from stopping the New York licensed vehicle for the defective brake light. The court did so after rejecting the State’s contention that items hanging from the rearview mirror constituted an obstruction and despite conceding there was some validity to the State’s argument that the trooper could determine the statute’s applicability only if he checked the vehicle’s registration.
+To the extent pertinent, N.J.S.A 39:3-15 provides:
+A nonresident owner of any motor vehicle ... registered in accordance with the laws respecting the registration of motor vehicles of the jurisdiction in which the nonresident resides, and which has conspicuously displayed thereon the registration number thereof, may, without complying with the provisions of this subtitle with respect to ... equipment, operate ... such vehicle in this State ... as the free operation of a similar type of vehicle belonging to a resident of this State and registered in compliance with the laws of this State, and whose registration number is conspicuously displayed thereon, is permitted in the jurisdiction of the nonresident____
+As the State argues, a law enforcement officer cannot ascertain whether an out-of-state licensed vehicle is owned by a resident of that state without checking the registration credentials for the vehicle. It is not unusual in this day and age for a resident of one state to register his ear in another state. See Bidnick v. Hanover Ins. Co., Inc., 230 N.J.Super. 111, 552 A.2d 1023 (App. Div.1989). In the latter situation, under the plain language of the statute, the exemption would not apply. Consequently, entitlement to the exemption of N.J.S.A 39:3-15 cannot be determined until the registration credentials confirm the vehicle in question is owned by an out-of-state resident and properly registered there. The only practical way for that confirmation to occur is for the police officer involved to review the appropriate credentials. Accordingly, N.J.S.A 39:3-15 does not proscribe the officer from making a stop or the officer from requiring the driver to produce registration and driving credentials when a police officer observes an out-of-state licensed vehicle with an equipment violation. See Delaware v. Prouse, 440 U.S. 648, 99 S.Ct 1391, 59 L.Ed.2d 660 (1979).
+Moreover, N.J.S.A. 39:3-15 grants reciprocity privileges only to the out-of-state vehicles that conform to the registering state’s equipment requirements. See Statement, Bill 512 (as introduced, May 13, 1957) enacted into law as Chapter 132 of the Laws of New Jersey 1957 to amend N.J.S.A. 39:3-15 (where the legislature sanctioned for use, in New Jersey, vehicle equipment approved in nonresident’s home state). However, New York requires every vehicle driven on its highways to be equipped with two stop lamps which display “red to amber light visible at least five hundred feet from the rear of the vehicle when the brake of such vehicle is applied.” N.Y.Veh. & Traf.Law § 375, subd. 40(b) (McKinney 1992). Therefore, since New York requires operable brake lights, there is no reciprocity under N.J.S.A. 39:3-15 to a New York resident’s New York registered vehicle that has an inoperable rear brake light. To the extent State v. Harrison, 236 N.J.Super. 69, 564 A.2d 128 (Law Div.1989), can be read otherwise, we disapprove it.
+Finally and contrary to the trial court’s viewpoint, regardless of the effect the statute may have on the right of a police officer to issue a summons to out-of-state vehicles, we are satisfied an officer, in the interest of public safety, can stop such a motor vehicle with non-operating lights. Laws require operable lights on motor vehicles to protect the travelling public. When such lights on a vehicle are not operable, for whatever reason, police officers may stop the vehicle and warn the driver of not only the inoperability but the danger of driving without the lights.
+The order under appeal is reversed.
