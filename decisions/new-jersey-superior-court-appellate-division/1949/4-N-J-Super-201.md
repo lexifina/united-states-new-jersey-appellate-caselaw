@@ -1,0 +1,36 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1949-06-17"
+citations: ["4 N.J. Super. 201"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ARTESIAN WELL AND EQUIPMENT CO., INC., PLAINTIFF-RESPONDENT, v. ARCHITECTURAL TILING CO., INC., DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/4/cases/0201-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 364103
+cites_cases: ["113 N. J. L. 605", "129 N. J. L. 186", "130 N. J. L. 175", "131 N. J. L. 466", "2 N. J. 45", "65 A. 2d 415", "65 A. 2d 514"]
+---
+
+# Artesian Well & Equipment Co. v. Architectural Tiling Co.
+
+## Majority (McGeehan, S. J. A. D.)
+
+The opinion of the court was delivered by
+McGeehan, S. J. A. D.
+A summary judgment was entered on December 10, 1948, in the Superior Court, Law Division, Bergen County, which awarded judgment to the plaintiff for $1,508.64 and dismissed the counterclaim filed by the defendant. The defendant appeals.
+The plaintiff sued on four promissory notes made by the defendant to the plaintiff. An answer and counterclaim and an amended answer and counterclaim were both stricken and a second amended answer and counterclaim filed. Thereafter, the plaintiff gave notice of motion for judgment on the pleadings, accompanied by an affidavit made by the president of the plaintiff corporation setting forth a description of the four notes sued upon and that “Yo part of the notes aforesaid has been paid and the full amount therefore, with interest to the due dates thereof with interest at 4% still remains unpaid.” The plaintiff’s motion was granted and the summary judgment under appeal was entered.
+In the second amended answer and counterclaim the defendant denied the existence of any obligation to pay the notes, and set up ten separate defenses and a counterclaim. One of the defenses was the failure of the consideration for which the notes were given. It was alleged that on and prior to January 2, 1940, the defendant, who is engaged in the business of manufacturing tile and ceramics, purchased its water supply for use in manufacturing from the Keyport Water Company; the plaintiff, to induce the defendant to enter into a contract for the digging of a well, had extensive investigations made of the plant, equipment, water requirements and needs of the defendant, and investigated and ascertained the nature, content and source of supply of water delivered by the Keyport Water Company to the defendant; the plaintiff represented it had ascertained the nature and content of the water at various levels and formations beneath the defendant’s property and that the plaintiff, for the consideration set forth in the contract, would produce from the defendant's own land, by the digging of the well, water of a content, volume and kind suitable for the defendant’s needs anti identical with that delivered by the Keyport Water Company. The defendant, on January 2, 1940, relying solely upon the plaintiff’s knowledge, accepted a contract drawn by the plaintiff providing fox a water well supply system which, among other things, provided that the plaintiff would sink the well “to such depth as will be necessary to reach a suitable and dependable water-bearing formation.” The parties in using the word “suitable” meant water suitable for the defendant’s needs. There was a failure of consideration, in that a suitable water-bearing formation was never readied by the plaintiff because the water from this formation was polluted water containing foreign matter which made it unsuitable for the defendant’s use. The notes sued upon were part of the series of notes given pursuant to the terms of the contract. The counterclaim alleged the failure of the plaintiff to complete his contract in accordance with its terms and that defendant was compelled to expend large sums of money for labor and materials needed to complete the contract, and demanded damages.
+Since the suit on the notes was by the payee against the maker, failure of consideration is a good defense. R. S. 7:2—28. Spalinski v. Sulo, 129 N. J. L. 186 (Sup. Ct. 1942): affirmed, o. b., 130 N. J. L. 175 (E. & A. 1943); 5 U. L. A., § 28, n. 104. If true, the facts alleged in the answer support the defense of failure of consideration and the facts alleged in the counterclaim state a canse of action. Cf. Casriel v. King, 2 N. J. 45, 65 A. 2d 514 (1949). These fact allegations wore not even controverted. We conclude the court erred in awarding judgment to the plaintiff and in dismissing the counterclaim.
+The judgment under appeal is reversed.
+
+## Dissent (Donges, J. A. D.)
+
+Donges, J. A. D.
+(Dissenting.) Upon appellant’s motion for dismissal of plaintiff’s action, I am of opinion that appellant waived any claim for relief for failure of plaintiff to prosecute in time and, also, for failure to file the notice of motion to strike the first amended answer and counterclaim, by thereafter filing its second amended answer and counterclaim.
+The action was based upon a written contract between plaintiff and defendant, which was made a part of defendant’s amended pleadings, as “Schedule A,” the provision relied upon by defendant being as follows:
+“We are pleased to submit our proposal in sinking an 8" inside diameter well using full weight drive pipe and sink same to such depth as will be necessary to reach a suitable and dependable water bearing formation. In this water bearing formation we would install an Everdur metal well strainer of proper length and slot opening to suit the formation.”
+The plaintiff alleges that the well was constructed in accordance with the contract. Defendant sets up, by way of defense and, also, as a basis for damages in its counterclaim that plaintiff failed to “produce water suitable for the defendant’s needs in that the water produced from the well sunk by the plaintiff contained foreign matter.” Also that the water was not of similar content and quality as that delivered by the Keyport Water Company, which had previously supplied defendant’s water.
+Nowhere in the written contract is there any reference to the character or suitability to defendant’s business of the water to be produced by the well. The contract relates entirely to the construction of the well and the equipment to be supplied. Nowhere has defendant claimed failure with respect to the construction. Its case rests upon matter not contemplated by the agreement. The contract is not vague and indefinite. If it does not express the actual agreement of the parties thereto, the remedy is by reformation. As was said in N. Y. Sash, etc., Inc., v. National House, etc., Inc., 131 N. J. L. 466 (N. & A. 1943): “The writing is the exclusive repository of the common intention. In the absence of reformation, the parties are bound by the language employed to state the agreement. Corn Exchange National Bank and Trust Co. v. Taubel, 113 N. J. L. 605” (E. & A. 1934). Lillian Casriel et al. v. King, 2 N. J. 45, 65 A. 2d 415 (1949).
+So here the parties are bound by their expressed agreement, upon which defendant’s defenses and counterclaim were based, and on which neither defense or claim for damages could be based.
+The judgment should, therefore, be affirmed.
