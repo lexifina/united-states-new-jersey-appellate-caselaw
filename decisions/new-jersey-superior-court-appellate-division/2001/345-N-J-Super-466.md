@@ -1,0 +1,51 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2001-12-10"
+citations: ["345 N.J. Super. 466", "785 A.2d 925"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. ALEXANDER KETTLES, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/345/cases/0466-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 341926
+cites_cases: ["103 S.Ct. 3086", "108 N.J. 210", "135 N.J. 468", "157 N.J. 463", "199 A.2d 809", "212 N.J.Super. 102", "264 N.J.Super. 549", "390 A.2d 118", "42 N.J. 146", "462 U.S. 1118", "514 A.2d 63", "528 A.2d 30", "6 N.J.Super. 36", "640 A.2d 850", "69 A.2d 745", "696 F.2d 231", "724 A.2d 234", "77 L.Ed.2d 1348", "77 N.J. 199"]
+---
+
+# State v. Kettles
+
+## Majority (CUFF, J.A.D.)
+
+The opinion of the court was delivered by
+CUFF, J.A.D.
+Following his 1996 conviction for conspiracy to distribute a controlled dangerous substance (CDS) (cocaine) contrary to N.J.S.A. 2C:5-2 and N.J.S.A. 2C:35-5b(2), and the exhaustion of his direct appeal remedies, defendant Alexander Kettles filed a petition for post-conviction relief (PCR). Defendant asserted that he was entitled to a new trial because the trial judge should have been disqualified from presiding at his trial. The PCR judge agreed, concluding that a conflict of interest existed, but disqualified the trial judge only from imposing sentence. Defendant was resentenced from an extended term of fifteen years with seven years parole ineligibility to ten years with three years of parole ineligibility; his request for a new trial was denied.
+An evidentiary hearing was conducted because relevant conversations among the trial judge, the assistant prosecutor and the defense attorney at defendant’s trial did not occur on the record. The PCR judge found that the trial judge had served as an assistant prosecutor in Middlesex County prior to her appointment to the bench. At the commencement of the trial, the trial judge recognized defendant. She recalled that she had presented evidence against him in another matter before a Middlesex County Grand Jury, and the grand jury had indicted defendant. The trial judge informed the defense attorney who, in turn, advised the defendant of the judge’s prior involvement with him. Defendant advised his attorney that he did not want another judge to try his case. According to the defense attorney, defendant was “O.K.” with the judge assigned because he was pleased with her pretrial rulings. These findings are well-supported by the evidence. State v. Locurto, 157 N.J. 463, 470-71, 724 A.2d 234 (1999); State v. Johnson, 42 N.J. 146, 162, 199 A.2d 809 (1964).
+The PCR judge further found that defendant knowingly and purposefully waived any objection to the trial judge’s involvement in his case. Therefore, he denied defendant’s request for a new trial. He concluded, however, that the trial judge’s prior involvement with defendant disqualified her from imposing sentence. The PCR judge proceeded to modify the extended term of fifteen years with a seven-year period of parole ineligibility to a regular term of ten years with a three-year period of parole ineligibility.
+On appeal, defendant raises the following points:
+POINT I
+THE DEFENDANT^ RIGHT TO A PAIR, IMPARTIAL, UNBIASED, AND CONFLICT FREE, TRIAL COURT, AS GUARANTEED BY THE FIFTH AND FOURTEENTH AMENDMENT OF THE UNITED STATES CONSTITUTION AND ARTIC[LE]1 PART 10 OF THE NEW JERSEY CONSTITUTION WAS VIOLATED WHEN SUPERIOR COURT JUDGE FAILED TO RECUSE HERSELF ON HER OWN OBLIGATORY MOTION SUA SPONTE FROM HEARING A CRIMINAL CASE INVOLVING A DEFENDANT WHO SHE HAD PERSONALLY PROSECUTED IN A PRIOR CRIMINAL CASE.
+POINT II
+THE DEFENDANT’S RIGHT TO DUE PROCESS OF LAW AS GUARANTEED BY THE FIFTH AND FOURTEENTH AMENDMENT OF THE UNITED STATES CONSTITUTION AND ARTICJLE] 1 PART 10 OF THE NEW JERSEY CONSTITUTION WAS VIOLATED WHEN THE P.C.R. COURT FAILED TO ENFORCE THE RULES GOVERNING THE COURTS’ CODE OF JUDICIAL CONDUCT UPON A SUPERIOR COURT JUDGE WHO COMMITTED PLAIN ERROR BY NOT RECU[ ]SING HERSELF SUA SPONTE FROM HEARING A MATTER INVOLVING A CRIMINAL DEFENDANT WHO SHE PREVIOUSLY PROSECUTED IN ANOTHER C.D.S. RELATED MATTER WHILE SHE WAS AN ASSISTANT PROSECUTOR.
+POINT III
+DEFENDANT WAS DENIED HIS SIXTH AMENDMENT RIGHT TO EFFECTIVE ASSISTANCE OF COUNSEL WHEN COUNSEL TOLD THE JURY IN HIS SUMMATION THAT DEFENDANT WAS A DRUG DEALER.
+The third issue is ■without sufficient merit to warrant discussion in a written decision. R. 2:ll-3(e)(2). We perceive no error in the conduct of the defense attorney during his summation. In any event, this issue should have and could have been raised on direct appeal. R. 3:22-4.
+The primary issue in this appeal is whether the conflict of interest created by the trial judge’s prior involvement with defendant could be waived by defendant. We conclude that the trial judge’s prior involvement required recusal.
+Canon 3C of the Code of Judicial Conduct provides in relevant part:
+C. Disqualification (see E. 1:21-1).
+(1) A judge should disqualify himself or herself in a proceeding in which the judge’s impartiality might reasonably be questioned, including but not limited to instances where:
+(a) the judge has a personal bias or prejudice concerning a party or a party’s lawyer or has personal knowledge of disputed evidentiary facts concerning the proceeding;
+(b) the judge served as lawyer in the matter in controversy, or a lawyer with whom the judge previously practiced law served during such association as a lawyer concerning the matter, or the judge or such lawyer has been a witness concerning it;
+Canon 3D further directs that disclosure of the disqualifying interest does not remit the disqualification. The Canon provides:
+A judge disqualified by the terms of this Canon may not avoid disqualification by disclosing on the record the disqualifying interest and securing the consent of the parties.
+Disqualification of judges is also addressed by Rule 1:12-1 which provides:
+The judge of any court shall be disqualified on the court’s own motion and shall not sit in any matter, ...
+* * 5fc
+(f) when there is any other reason which might preclude a fair and unbiased hearing and judgment, or which might reasonably lead counsel or the parties to believe so.
+See also N.J.S.A. 2A:15-49.
+One of the primary functions of the rules governing judicial disqualification “is to maintain public confidence in the integrity of the judicial process, which in turn depends on a belief in the impartiality of judicial decision making.” United States v. Nobel, 696 F.2d 231, 235 (3d Cir.1982), cert. denied, 462 U.S. 1118, 103 S.Ct. 3086, 77 L.Ed.2d 1348 (1983). The rule recognizes that the fairness and integrity of the judgment is as important as the correctness of the judgment. State v. Tucker, 264 N.J.Super. 549, 554, 625 A.2d 34 (App.Div.1993), certif. denied, 135 N.J. 468, 640 A.2d 850 (1994); State v. Muraski, 6 N.J.Super. 36, 38, 69 A.2d 745 (App.Div.1949).
+Here, the trial judge’s prior involvement does not fall within any of the enumerated circumstances. Neither Canon 3C nor Rule 1:12-1 recite an exclusive list of circumstances which disqualify a judge and require recusal from a matter. We are assisted in the resolution of the issue, however, by a factually similar case.
+In State v. Tucker, ■ defense counsel informed the trial judge during a pretrial hearing that the judge, while an assistant prosecutor, presented two cases involving the defendant before a grand jury. Tucker, supra, 264 N.J.Super. at 553, 625 A.2d 34. The judge did not recall defendant but acknowledged he had been involved in the prior matters after he examined the indictments. Ibid. We concluded that “such involvement has the capacity to undermine public confidence in the impartiality of the judicial system.” Id. at 555, 625 A.2d 34. Therefore, we held that defendant’s motion for recusal should have been granted and the conviction was reversed. Ibid.
+In reaching this result, we referred to State v. McNamara, 212 N.J.Super. 102, 514 A.2d 63 (App.Div.1986), certif. denied, 108 N.J. 210, 528 A.2d 30 (1987). In McNamara, the defendant argued that he was entitled to a new trial because the trial judge was the First Assistant Prosecutor at the time the indictment was returned. Id. at 108, 514 A.2d 63. We observed that the first assistant had general supervisory responsibility over the work of the prosecutor’s office but no personal involvement with defendant. Id. at 109, 514 A.2d 63. We also referred to a Supreme Court directive which required recusal of a judge who had previously served as an assistant prosecutor only when the judge had personally prosecuted the defendant. Id. at 108, 514 A.2d 63. Therefore, recusal was not required in McNamara because the judge had not personally prosecuted the defendant.
+In McNamara, we also referred to an advisory opinion, In re Advisory Opinion 361, 77 N.J. 199, 390 A.2d 118 (1978), which addressed the disqualification in criminal cases of county prosecutors and assistant prosecutors who return to private practice. The Court held that a former assistant prosecutor could not handle any matter at any time after his public appointment in which he had any participation or involvement as a prosecutor. 77 N.J. at 204, 390 A.2d 118. See also RPC 1.11(c).
+The facts of this case are virtually indistinguishable from Tucker. As in Tucker, the trial judge presented a case against defendant to a grand jury and obtained an indictment. We can think of no good reason to disagree with the analysis or result in Tucker. Indeed, we question how defendant or the public at large has been served by the remedy fashioned in this case. Defendant was entitled to have a judge preside at his trial who had no disqualifying interest in the case. Having been convicted and eligible for an extended term, the public could reasonably expect defendant would receive the sentence for which he was eligible. The trial judge’s prior involvement with defendant, however, prevented fulfillment of those expectations. Accordingly, the conviction is reversed and the matter is remanded for a new trial.
+Reversed and remanded.
