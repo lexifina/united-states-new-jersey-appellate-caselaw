@@ -1,0 +1,38 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1952-12-18"
+citations: ["24 N.J. Super. 59"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF JOSEPH MANFREDINI, DECEASED."]
+source_url: "https://static.case.law/nj-super/24/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 457179
+cites_cases: ["116 N. J. L. 368", "13 N. J. Super. 258", "13 N. J. Super. 27", "335 U. S. 601", "6 N. J. Super. 55", "93 L. Ed. 279", "97 N. J. L. 468"]
+---
+
+# In re Manfredini
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+The only issue is whether the Camden County Court, Probate Division, properly entered a judgment on September 15, 1952, amending the judgment of distribution entered on August 7, 1950, to reflect a payment on May 6, 1949 to Josephine Manfredini, widow of decedent, in the sum of $10,000 on account of her distributive share, not correctly shown in the August 7, 1950 judgment. The appeal is prosecuted by Josephine Manfredini.
+It is undisputed that Mrs. Manfredini received the partial distribution of $10,000 and that the judgment of August 7, 1950 improperly charged the amount of the advancement against the other three distributive shares, rather than against Mrs. Manfredini’s share.
+The appellant contends that the County Court was without jurisdiction to enter the judgment amending the original judgment of distribution, in that it disregarded the provisions of Buie 3 :60—2 and Buie 3 :6—1. We find no merit in this contention.
+In support of her contention Mrs. Manfredini argues that
+“When the court below said that the motion was decided upon the authority of Rule 3:60-2, subheading (6), it said, in effect, that the change was made under Rule 3:60-2, sub-division (6) ‘any other reason justifying relief from the operation of the judgment or order.’ It is impossible to know or even to guess what ‘other reason’ may have been in the mind of the court when it took the action which it did. The notice of motion relied upon sub-division (1) mistake, inadvertence, surprise or excusable neglect regarding which there is a one year limitation.”
+It is true that the original judgment of distribution erroneously reflecting the $10,000 payment was th.e result of the executor’s carelessness or oversight; in fact, in the executor’s application to amend the judgment it relied upon sub-division (1) of Buie 3:60-2, authorizing a judgment to be re-opened on the grounds of “(1) mistake, inadvertence, surprise, or excusable neglect,” provided “the motion shall be made within a reasonable time, and for reasons (1), (2) and (3) not more than one year after the judgment, order or proceeding was entered or taken.” However, the court, in granting the amendment, relied upon the authority of sub-division (6) of the aforementioned rule, reading: “* * * any other reason justifying relief from the operation of the judgment or order.” The executor’s application for amendment of the judgment was not made until “June, 1952,” returnable June 27, 1952. Judgment of amendment was entered on September 15, 1952. The executor asserts that much of the delay in discovering the error and applying for a judicial correction thereof was occasioned by the time consumed in an appeal to the Appellate Division by Mrs. Manfredini from the County Court’s determination that certain bonds registered in the names of Joseph Manfredini or Mrs. Josephine Manfredini and a mortgage owned jointly should be charged against Mrs. Manfredini’s share under paragraphs 3 and 4 of decedent’s will, reading:
+“THIRD: I give, devise and bequeath unto my wife, JOSEPHINE MANFREDINI, so much of the rest, residue and remainder of my entire estate as will, when added to such property as my wife and 1 own jointly at (he date of my death, equal one-hall' of my net taxable estate, absolutely and in fee.
+FOURTH: All the rest, residue and remainder of my estate, whether real, personal or mixed, and wheresoever situate, I give, devise and bequeath as follows:
+1. One-half to my brother ANDREA MANFREDINI, of Yia Giudiccioni, San Concordio, Lucca, Italy, absolutely and in fee.
+2. One-quarter to my sister, AGATINA MANFREDINI, of Pieve, Fosciana, Lucca, Italy, absolutely and in fee.
+3. One-quarter to my sister, GIUSEPPINA MANFREDINI P1BRONI, of Gallicano (Piezza), Lucca, Italy, absolutely and in fee. * * *.”
+The appeal resulted in an affirmance and the mandate of the Appellate Division was entered on April 30, 1951. 13 N. J. Super. 258.
+.It is clear that Mrs. Manfredini is only entitled to one-half of decedent’s “net taxable estate.” To pay to her a sum which will not reflect the partial distribution to her oí $10,000 would be manifestly unjust and would result in an unfair and unwarranted injustice to the other residuary legatees, who are entirely innocent victims of the executor’s mistake. It is difficult to understand how and why such a serious mistake could have occurred and why the executor not only failed to discover it for such a long period of time, but permitted such inordinate delay in taking action to correct it. However, we do not think the executor’s conduct justifies a distribution that will give to Mrs. Manfredini $10,000 to which she is clearly not entitled.
+We are satisfied that under Buie 3:60-2 (6) the County Court was warranted in giving the relief from the operation of the judgment ox order in question.
+We could not more aptly state the applicable legal and equitable principles than to quote from the opinion of Judge Brennan (now Mr. Justice Brennan), in the case of Wilford v. Sigmund Eisner Co., 13 N. J. Super. 27 (App. Div. 1951), wherein he stated at p. 33:
+“Relief for any reason allowed by the rule rests in the sound discretion of the trial court, controlled by accepted legal principles, whenever such action is appropriate to accomplish justice. Hogan v. Hodge, 6 N. J. Super. 55 (App. Div. 1949). Equitable principles may be a guide in administering relief to determine in the particular circumstances whether justice and equity require that relief be allowed. Labell v. Quasdorf, 116 N. J. L. 368 (Sup. Ct. 1936); Klapprott v. United States, 335 U. S. 601, 93 L. Ed. 279 (1949). The Rule grants a broad power to trial courts to set aside judgments in proper cases, but the power is not a new one; the courts of this State have always had power to control, vacate or correct their own decrees in the interests of justice. Assets Development Co. v. Wall, 97 N. J. L. 468 (E. & A. 1922).
+The power should doubtless be freely exercised when the enforcement of a judgment would be unjust, oppressive or inequitable as to the party moving to vacate it. Unless impropriety in its exercise clearly appears in the particular case, this court will not disturb the trial court’s action. That, too, is the practice of appellate courts in the federal system in cases arising under amended Federal Rule 60 (b), 28 U. S. C. A., which was brought into our Rules as Rule 3:6-2, 3 Barron & Holtzoff, Federal Practice Procedure (1950), p. 253, and cases cited.
+The one-year time limitation imposed upon a motion for reasons falling within subdivisions (1), (2) and (3) of the Rule is an expression of the policy of finally concluding litigation within a reasonable time. Klapprott v. United States, supra. If, however, a strong case of extreme hardship or injustice is shown, relief for such reasons has been allowed after one year within the more liberal dispensation of subdivision (6), the catch-all ‘other reason’ category. Klapprott v. United States, supra.”
+The judgment is affirmed, without costs.
