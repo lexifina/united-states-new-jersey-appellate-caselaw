@@ -1,0 +1,44 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1968-04-30"
+citations: ["100 N.J. Super. 501"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["WILLIAM J. ROGALSKY, PLAINTIFF-APPELLANT, v. PLYMOUTH HOMES, INC., A CORPORATION OF NEW JERSEY, AND WALTER H. SMITH, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/100/cases/0501-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 305416
+cites_cases: ["108 N. J. L. 68", "128 N. J. L. 426", "15 N. J. 557", "18 N. J. Super. 66", "35 N. J. Super. 1", "66 A. L. R. 2d 1048", "94 N. J. Super. 156"]
+---
+
+# Rogalsky v. Plymouth Homes, Inc.
+
+## Majority (Kolovsky, J. A. D.)
+
+The opinion of the court was delivered by
+Kolovsky, J. A. D.
+Plaintiff appeals from the judgment for defendants entered on a jury verdict of “no cause for action” in an automobile negligence action.
+Three of the four points argued by plaintiff charge error in the admission of evidence. We agree that the challenged evidential rulings were erroneous and find that the impact thereof was so prejudicial as to mandate, in the interest of substantial justice, cf. R. R. 1:5-3(6), a reversal and remand for a new trial.
+The case was tried before the effective date of the pertinent Rules of “The Evidence Act, 1960” (hereinafter referred to by Eule number). However, in the respects here involved, the Eules effected no change in the preexisting law.
+The collision between plaintiff’s northbound Volkswagen automobile and the southbound fiat-bed lumber truck owned by defendant Plymouth Homes, Inc. and driven by its employee, defendant Smith, occurred on H. S. 206, a two-lane highway in Stanhope, Sussex County. The basic factual dispute related to the point of impact, whether on the northbound or southbound half of the road. Plaintiff and Smith each testified that the other came over onto the wrong side of the center lane.
+Only two other witnesses testified on the issue of liability. A Mr. Walters, who had been driving northerly some 200 feet behind plaintiff’s auto, did not see the actual impact but testified that prior thereto plaintiff “was in his own' lane” and that defendant’s truck, when some 500 to 700 feet from Walter’s vehicle, was on the white line and appeared thereafter to be “going over the white line” into the northbound lane.
+The other witness was the police chief of Stanhope. He had learned of the collision by “police radio from Morris County” and had proceeded to the scene some five or six blocks away. It was during the Chief’s testimony that all the criticized evidential rulings were made.
+The first of those rulings permitted the Chief to relate, in response to a question of defendants’ attorney, that defendant Smith, when questioned at the scene after plaintiff had been removed to the hospital, had told the Chief
+“that he was proceeding south on 206 and this Volkswagen was proceeding north and seemed to slowly edge its way over into the left-hand lane. He pulled to the right to avoid a head-on automobile accident and the Volkswagen just seemed to continue on to the truck and he said that when the Volkswagen sideswiped the truck that he immediately pulled off the edge of the road and parked his vehicle.”
+The court overruled plaintiff’s objection to the recital of defendant’s self-serving statement, holding it admissible as part of the res gestae. The court erred. The statement was not admissible under the “spontaneous declaration” or "res gestae” exception to the hearsay evidence rule. See Riley v. Weigand, 18 N. J. Super. 66, 73 (App. Div. 1952); Lieberman v. Saley, 94 N. J. Super. 156, 161 (App. Div. 1967); Anastasio v. Rust, 128 N. J. L. 426, 428 (Sup. Ct. 1942); cf. Rule 63(4), Rules of Evidence.
+Defendant Smith’s statement was a mere narration of past events; a response to the police officer’s questioning. The record would not support a finding that the statement was made
+“(a) while the declarant was perceiving an event or condition which the statement narrates, describes or explains, or (b) while the de-clarant was under the stress of a nervous excitement caused by such perception, in reasonable proximity to the event, and without opportunity to deliberate or fabricate.” Rule 63(4).
+See also cases cited supra.
+It was also error to permit the police chief to express his opinion as to the “approximate point of impact.” He based his opinion not only on the physical evidence which he had observed — including debris and tire marks — but also on what defendant Smith had told him.
+We do not reach the question of whether the opinion of a qualified expert is admissible to prove the point of collision between two automobiles, see generally Annotation, Opinion Evidence — Point of Collision, 66 A. L. R. 2d 1048 (1959), because defendants acknowledge, as they did in the trial court, that the police chief did not qualify as an expert.
+Defendants contend, however, that the Chief’s testimony as to the probable point of impact was admissible ‘day. opinion” testimony under the evidence rule codified in Rule 56 (1). Not so. Priest v. Poleschuk, 15 N. J. 557, 562 (1954); Brindley v. Firemen's Ins. Co. of Newark, 35 N. J. Super. 1, 8 (App. Div. 1955); Annotation, 66 A. L. R. 2d 1048.
+As the Court said in Priest v. Poleschuk, supra, at pp. 562-63:
+“Knowledge is requisite to testimonial qualification. In assaying opinion evidence, for competency, the distinction is generally between the expert and the nonexpert' — • the witness who is skilled and specially experienced in the particular field, and the witness who has only the common knowledge and experience of mankind. Prom the latter, only facts perceived by the use of their senses, and not mere opinion, inferences, or conclusions based upon the facts supposedly within their knowledge, are adducible in evidence, for the assessment of the facts involving common knowledge and experience is the exclusive province of the jury or other fact-finding authority. The witness in the latter category cannot offer his opinion of the probative worth of the facts. But he has more leeway where the facts are incapable of reproduction and comprehension by mere description. * * *
+* * * The * * * conclusion * * * [of] a lay witness who has no greater skill than the jury in drawing inferences, * * * [is] inadmissible when the jury can be put into a position ‘of equal vantage for drawing them.’ Wigmore, sections 1918, 1924.”
+This is not a case where “the facts are incapable of reproduction and comprehension by mere description.” On the contrary, the Chief detailed to the jury all the facts on which he relied for his opinion as to the point of impact, including the statement he had obtained from defendant Smith. His testimony as to the probable point of impact was nothing more nor less than expert testimony, given by one who concededly is not an expert. The inference as to the point of impact to be drawn from the properly admitted evidence, including the Chief’s testimony as to what he saw, was for the jury, not for a lay witness. Further, even if the Chief had qualified as an expert, his opinion as to the point of impact would have been inadmissible since it was based, in essential part, on what defendant Smith had told him. Annotation, 66 A. L. R. 2d 1048, 1063; cf. Rule 56(2). Plaintiff’s objection to the Chief’s opinion testimony should have been sustained.
+So, too, should have plaintiff’s objection to the admission into evidence of the writing prepared by the Chief captioned “Police Report of Motor Yehicle Accident.” The report contained much of what the Chief had testified to, including matters we. have held to be inadmissible — Smith’s statement to the Chief and a diagram depicting the Chief’s opinion as to the point of impact.
+The report was not admissible as “past recollection recorded” under what is now Rule 63(1) (b). The Chief had sufficient recollection to testify and did testify fully as to everything in the report. The report itself should therefore not have been admitted on defendants’ motion. Springer v. Labow, 108 N. J. L. 68, 71 (Sup. Ct. 1931); Wigmore on Evidence, § 763, p. 111 (3d ed. 1940).
+In view of what the report contained and the fact that the Chief had testified to what was set forth therein, there is no substance in defendants’ argument that the report was admissible as a business record under either N. J. S. 2A :82-34, et seq. or present Rule 63 (13).
+Our determination that there must be a reversal because of the prejudicial evidential rulings makes it unnecessary to determine the validity of appellant’s criticism of the supplemental instruction given in response to the jury’s question and whether, if there was error, it was prejudicial. The problem is not likely to arise on the retrial.
+The judgment is reversed and the cause remanded for a new trial.
