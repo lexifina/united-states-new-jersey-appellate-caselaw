@@ -1,0 +1,36 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1952-09-24"
+citations: ["21 N.J. Super. 389"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["MICHAEL STAREGO, PLAINTIFF-APPELLANT, v. JOHN SOBOLOSKI AND MICHAEL STOFEGA, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/21/cases/0389-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 453063
+cites_cases: ["1 N. J. 377", "105 N. J. Eq. 222", "34 N. J. L. 524", "41 N. J. Eq. 380", "57 N. J. L. 293", "68 N. J. L. 501", "77 N. J. Eq. 166", "78 N. J. Eq. 283", "82 N. J. L. 491", "96 N. J. Eq. 538"]
+---
+
+# Starego v. Soboloski
+
+## Majority (Davidson, J. A. D.)
+
+The opinion of the court was delivered by
+Davidson, J. A. D.
+Plaintiff appeals from a summary judgment entered for defendants. The facts are not in dispute and briefly show that plaintiff is the owner of a tract of land, 25 feet wide by 100 feet in depth, located on the southerly side of Hall Avenue, in the City of Perth Amboy; that defendant Soboloski is the owner of an adjoining lot on the easterly side of plaintiff's property and defendant Stofega is the owner of a lot which in turn adjoins that of defendant Soboloski on the east.
+Defendants originally paid the City of Perth Amboy Water Department for service -which subsequently proved inadequate, and in 1944 they complained of insufficient pressure, as a result of which the water department installed a new sub-main and service to the property of each defendant. Defendants were not billed for the work, as the department felt responsible to provide adequate service, and the water lines were laid by employees of the City of Perth Amboy Water Department under the direction of its superintendent, who determined the location thereof.
+The department connected a D/i-inch sub-main to the 4-inch water main in Hall Avenue, which sub-main was laid underground in the area between the sidewalk and curb, being 1 foot and 4 inches from the face of the curb, and to which sub-main 1-inch service pipes were connected with defendants’ properties. The 1 !/i-ineh sub-main connects with a 4-inch main in Hall Avenue, and from the center line thereof runs in a general southerly direction 19 feet and 4 inches to the aforementioned point inside the curb line, necessarily crossing in front of plaintiff’s property for a distance of 23 feet and fi inches. On these facts plaintiff charged defendants with a continuing trespass.
+Defendants’ only actions with respect to the entire operation were their original applications to the city water department for service and subsequent complaints of insufficient pressure. which lead to the new installation, the entire scheme of the water system being in the hands of the municipal department and all work and service being done by said department wholly outside the control of individual property owners and users.
+Plaintiff does not assert that either the sub-main or water service line runs through any portion of his land as described in his title deed, but he contends that he owns the fee simple to the middle of the street and his rights, therefore, have been invaded and infringed.
+There seems to be little doubt but that a person who owns lands across which a highway has been constructed owns the fee simple of the highway, subject only to the public easement, and that the public easement extends not only to the use of the surface of the land for purposes of passage, but also to the portion which lies beneath the surface wherever it is needed for water pipes, sewer pipes, gas pipes or any other legitimate state use. Winter v. Peterson, 34 N. J. L. 524 (Sup. Ct. 1854); Bayonne v. Borough of North Arlington, 77 N. J. Eq. 166 (Ch. 1910), reversed on other grounds in 78 N. J. Eq. 283 (E. & A. 1911).
+B. S. 40:62-65 provides that:
+“Every municipality providing for the supply of water * * * may lay and maintain pipes and mains in and under the streets, highways, alleys and public places of such municipality and through private property therein; * *
+The words “street” and “highway” are often used interchangeably and denote the 'same meaning. The sidewalk is part of the highway'- and therefore within any rule laid down for a “highway.” In Saco v. Hall, 1 N. J. 377 (1949), Justice Oliphant held that:
+“The ownership in land over which a street has been laid is, for all substantial purposes, in the public, although the owner retains the naked fee to the middle of the street, which on the assertion of the public right is divested of all beneficial interest. * * * The owner has the continued use of the fee only insofar as it does not interfere with the public user above or below the street. Such a right, however, is also subject to public regulation by law or ordinance. Ivins v. Trenton, 68 N. J. L. 501, 506 (Sup. Ct. 1902) ; Bayonne v. North Arlington, 77 N. J. Eg. 166, 169 (Ch. 1910), reversed on other grounds * * ®.”
+Thus the sidewalk is part of the public highway, and Harrison Market v. Montclair, 105 N. J. Eq. 222 (Ch. 1929) holds that the abutting property owner has no vested right in sidewalks as against the state or its municipalities.
+It is well settled that the owner of the premises in question has no special rights in the use of the street and sidewalk in front of the property that are paramount to the rights of the public. Morris v. Eisner, 96 N. J. Eq. 538 (Ch. 1924); Clausen v. de Medina, 82 N. J. L. 491 (E. & A. 1911); Kennelly v. Jersey City, 57 N. J. L. 293 (Sup. Ct. 1894).
+In Halsey v. Rapid Transit, 41 N. J. Eq. 380 (Ch. 1890) it was held that the erection of poles in front of premises did not impose a new and additional servitude upon plaintiff’s land in the street and there was no appropriation for a use, to which the public had no right. Vice-Chancellor Van Fleet there stated:
+“Has the complainant’s land in the street been appropriated to a purpose for which the public have no right to use it? It is of the first importance in discussing the question to keep constantly before the mind the fact that the locus in quo is a public highway, where the public right of free passage, common to all the people, is the primary and superior right. The complainant has a right in the same land. He holds the fee subject to the public easement. But his right is subordinate to that of the public, and so insignificant, when contrasted with that of the public, that it has been declared to bo practically without the least beneficial interest.”
+Plaintiff maintains that tlie use of the street in this instance is private rather than public, solely by reason of the fact that defendants’ are the only properties served by the sub-main of which he complains, but this is without substance—the laying of the sub-main is a public usage and the number of individual connections made thereto is wholly immaterial.
+It is apparent that the street use of plaintiff’s lands in question by the Perth Amboy Water Department is a public use authorized by statute and, the proofs showing palpably that there is no genuine issue as to any material fact, summary judgment for defendants was properly entered and is affirmed.
