@@ -1,0 +1,25 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1991-11-08"
+citations: ["251 N.J. Super. 566", "598 A.2d 1232"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["THE SCOTCH PLAINS-FANWOOD BOARD OF EDUCATION, RESPONDENT, v. ALBERT J. SYVERTSEN, APPELLANT."]
+source_url: "https://static.case.law/nj-super/251/cases/0566-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 361676
+cites_cases: ["127 A.2d 190", "146 A.2d 111", "162 A.2d 862", "28 N.J. 258", "33 N.J. 207", "42 N.J.Super. 495"]
+---
+
+# Scotch Plains-Fanwood Board of Education v. Syvertsen
+
+## Majority (SKILLMAN, J.A.D.)
+
+The opinion of the court was delivered by
+SKILLMAN, J.A.D.
+Appellant Albert J. Syvertsen, a member of the respondent Scotch Plains-Fanwood Board of Education (the Board), appeals from a final decision of the State Board of Education affirming a decision of the Commissioner of Education that appellant “be excluded from any portion of an executive session of the Board wherein it is discussing the litigation filed against it by Mr. Syvertsen.” The underlying “litigation” which is the subject of appellant’s exclusion from executive sessions of the Board is appellant’s petition of appeal to the Commissioner of Education in which he alleges that the Board engaged in certain wrongful acts concerning its contract with the district’s superintendent.
+The Open Public Meetings Act, N.J.S.A. 10:4-6 to -21, does not govern this dispute. That Act authorizes the exclusion of the public from any meeting at which a public body discusses “[a]ny pending or anticipated litigation ... in which the public body is ... a party” and “[a]ny matters falling within the attorney-client privilege, to the extent that confidentiality is required in order for the attorney to exercise his ethical duties as a lawyer.” N.J.S.A. 10:4-12b(7). However, appellant does not seek the right to attend the Board’s executive sessions as a member of the public but rather as a member of the Board. We find nothing in the Open Public Meetings Act which deals with the circumstances under which a member of a public body may be excluded from an executive session of that body.
+This dispute is instead governed by general common law principles regarding the participation of public officials in matters in which they have a personal interest. A public official is disqualified from participating in judicial or quasi-judicial proceedings in which the official has a conflicting interest that may interfere with the impartial performance of his duties as a member of the public body. See Griggs v. Borough of Princeton, 33 N.J. 207, 219-220, 162 A.2d 862 (1960); Van Itallie v. Borough of Franklin Lakes, 28 N.J. 258, 267, 146 A.2d 111 (1958); Aldom v. Borough of Roseland, 42 N.J.Super. 495, 501, 127 A.2d 190 (App.Div.1956). This principle requires a member of a public body to refrain from any form of participation in the deliberations or decisions of the public body relating to litigation brought by the member seeking any form of private relief against the public body. For example, if appellant had filed suit against the Board seeking money damages for an alleged tort, he clearly would have been disqualified from attendance at executive sessions in which the case was discussed or from any other form of participation in the Board’s defense of the litigation.
+However, the subject of disqualification is more complicated where the subject matter of the litigation is an alleged public wrong and the member of the public body does not seek relief on his own behalf but rather challenges the public body’s action in furtherance of the general public interest as perceived by that member. We believe that the public body may discuss litigation strategy in executive session, outside the presence of the dissident member who has brought the action, even in such public litigation. But there is a subtle distinction in such cases between discussion of litigation strategy, from which the dissident member properly may be excluded, and discussion of the public issue which is the subject of the litigation, in this case the School Board’s contractual relationship with its Superintendent, in which the dissident member retains the same right to participate as he would have had if the litigation had never been brought. Consequently, the scope of the permissible exclusion of a member of a public body from discussions of public litigation, such as appellant’s petition to the Commissioner of Education, is narrower than it would be if appellant had brought private litigation seeking relief solely on his own behalf. Therefore, appellant’s exclusion from the Board’s executive sessions must be strictly limited to those parts of the sessions in which only litigation strategy is discussed.
+Subject to the qualifications expressed in this opinion, we affirm the decision of the State Board declaring that appellant may be excluded from executive sessions of the Board in which his petition to the Commissioner of Education is discussed.
