@@ -1,0 +1,101 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1993-12-27"
+citations: ["269 N.J. Super. 518", "636 A.2d 74"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DANIEL POPOW, PLAINTIFF-RESPONDENT, v. WINK ASSOCIATES, T/A THE WAITING ROOM, DEFENDANT-APPELLANT, AND JAMIE HEATH, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/269/cases/0518-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 614271
+cites_cases: ["103 N.J.Super. 345", "125 N.J.Super. 361", "126 N.J. 278", "133 N.J.Super. 205", "170 A.2d 39", "179 N.J.Super. 53", "195 A.2d 29", "221 N.J.Super. 347", "233 N.J.Super. 310", "241 N.J.Super. 391", "244 N.J.Super. 149", "244 N.J.Super. 254", "247 A.2d 172", "267 A.2d 7", "311 A.2d 179", "336 A.2d 24", "34 N.J. 494", "380 A.2d 693", "430 A.2d 261", "51 N.J. 62", "534 A.2d 724", "558 A.2d 1338", "56 N.J. 383", "597 A.2d 83", "75 N.J. 117", "81 N.J.Super. 132"]
+---
+
+# Popow v. Wink Associates
+
+## Majority (PETRELLA, P.J.A.D.)
+
+The opinion of the court was delivered by
+PETRELLA, P.J.A.D.
+This is an appeal by defendant Wink Associates, trading as The Waiting Room, a tavern in Rahway, New Jersey. More precisely, it is an appeal in which the tavern’s general liability insurer seeks in large part to hold the tavern additionally liable on a ground that the jury found it not culpable, i.e., serving intoxicating liquor to plaintiff while he was visibly intoxicated. Viewed thusly it is partly an appeal by the tavern against itself. The purpose of the tavern’s liquor law liability aspect of the appeal, which goes so far as to ask for a directed verdict finding itself liable on that point, is to draw in the tavern’s liquor liability carrier with the aim of partially shifting and sharing responsibility for the molded damage award to plaintiff Daniel Popow of $50,000. To that extent the appeal involves a dispute between the tavern’s two insurers, one of whom seeks to spread the risk.
+Thus, we have the anomalous situation in this appeal of the tavern appearing, and being represented, as both an appellant and respondent, and two different insurance companies taking conflicting positions with respect to the viability of that part of the verdict that found the tavern not responsible for what may be called a liquor law connected tort. No party has challenged the damage award. Moreover, it was represented to us at oral argument by the attorney for the tavern provided by the liability insurance carrier, that it does not seek a new trial on the liquor law liability issue or on damages, but rather seeks a determination that as a matter of law a verdict should have been entered against the tavern (the insured client) on the liquor law liability count.
+The tavern also argues as a separate aspect of its appeal that there was an insufficient basis for a verdict of negligent supervision. This was the basis on which the tavern was found negligent. Wink Associates’ motion for a judgment notwithstanding the verdict, and in the alternative for a new trial on liability only, was denied.
+Daniel Popow asserted three causes of action against The Waiting Room: (1) liquor law liability in that the tavern’s agent (the bartender) served Heath alcohol while Heath was visibly intoxicated; (2) liquor law liability in that the bartender served Popow alcohol while Popow was visibly intoxicated; and (3) an allegation that the tavern had inadequate security to protect its patrons.
+I
+The facts may be briefly stated. The Waiting Room is a neighborhood tavern in Rahway, New Jersey. On the evening of October 30, 1987, the bartender on duty had then been employed at The Waiting Room for about four years.
+At the time of this incident Popow was an admitted alcoholic. He had little memory of the night of the incident, presumably due to the injury received that night. Popow contended that when he arrived at the Waiting Room he was sober. Once there, he had a conversation with a woman he knew. Although he does not remember ordering drinks that night at the tavern, he does remember Heath telling him to “step outside” after his conversation with the woman. Heath testified it was Popow who asked him to step outside, and Heath told him: “to leave me alone, to go away.” Popow admitted that in his answers to interrogatories and depositions he said he was sober throughout the incident and that Heath was drunk. That theory of liability was initially pled against the tavern in the original complaint.
+Heath denied being intoxicated that evening. He testified that he arrived at the tavern around 9:00 p.m. While he waited for his girlfriend he drank a couple of beers and talked to friends. Heath said that Popow, whom he knew, looked a “little buzzed” and made some rude gestures behind a girl near the bar. According to Heath, he told Popow to stop and Popow responded with an obscenity. The two exchanged unpleasant words and then went to the side door which Heath opened for Popow who left. At this point Heath and the bartender made eye contact and each shrugged their shoulders. Heath remained in the bar about fifteen minutes more until he observed his girlfriend arrive in her car at approximately 10:45 p.m. and went out to meet her. Popow was still outside and followed Heath to the car. Heath testified Popow took his shirt off and provoked a fight. Although Heath tried to walk away, Popow swung at him. Heath said he blocked the punch and hit Popow once in self-defense.
+The bartender first learned of the fight when Heath re-entered the tavern and asked for a glass of water. The bartender asked what happened and if Popow was all right. Heath said: “Yeah, he’s fine.” A couple of days later, on November 1, 1987, the bartender learned from another patron that Popow was hospitalized with severe head injuries as a result of the incident.
+Heath testified that he believed Popow was intoxicated due to the way he was acting, particularly when Popow provoked a fight in the parking lot since this type of behavior was out of character for him.
+Other than stating that Popow looked a “little buzzed” Heath could not point to any specific indicia of visible intoxication exhibited by Popow in the tavern. The female patron who spoke to Popow also knew him before this incident. She testified she thought he was drunk because he was “louder than normal” and acting obnoxious. Another patron who knew Popow since high school testified that he was “pretty much drunk” because he saw him “staggering,” but could not say if he saw Popow drinking in the tavern. This patron did see the altercation in the parking lot.
+The bartender was the only employee on duty that night. He knew Popow and Heath prior to this incident and had never seen any problems between them. The bartender testified that he was aware that one’s speech, gait, and general behavior were means of telling whether someone was intoxicated; however, he said Popow did not appear intoxicated when he entered the tavern, and he observed nothing that would cause him to anticipate a problem. He denied serving Popow alcohol while Popow was intoxicated, let alone visibly intoxicated:
+Q. But, the night of October 30, 1987 Danny was not intoxicated in your judgment?
+A. I wouldn’t say he was intoxicated. No. He wasn’t intoxicated when he came in, and he wasn’t there that length of time. It would take—Danny wasn’t a fast drinker, but it would take a good few hours for Danny to get drunk.
+Prior to the incident there were about thirty people in the tavern, either at the bar, the tables, or standing around. Although the bartender observed Popow and Heath talking to each other, he said he noticed no argument or anything unusual. He saw Heath open the door for Popow, who left while Heath remained.
+Both the bartender and the owner of the tavern, Chris Wenson, testified as to the tavern’s policy concerning serving alcohol to persons who appeared intoxicated. Each testified that the tavern’s policy, as well as their own, is to refuse service to such persons and to provide them a ride home if necessary.
+The jury answered special interrogatories, including the following:
+1. Was plaintiff Popow intoxicated while a patron in The Waiting Room on October 30-31, 1987?
+If the answer to # 1 is “No”, cease your deliberations on this count and proceed to # 6.
+If the answer is ‘Yes,” proceed to question #2.
+Yes _6_ No _0_
+2. Was plaintiff visibly intoxicated while a patron in The Waiting Room on October 30-31, 1987?
+If the answer to # 2 is “No”, cease your deliberations on this count and proceed to # 6. If the answer is “Yes”, proceed to question # 3.
+Yes _6 No 0
+3. Was plaintiff served alcohol by an employee of The Waiting Room while he was exhibiting signs of visible intoxication on October 30-31, 1987?
+If the answer to # 3 is “No”, cease your deliberations on this count and proceed to #6.
+If the answer is “Yes”, proceed to question #4.
+Yes _5 No 1
+4. Was the agent or employee of The Waiting Room aware of the signs of visible intoxication exhibited by plaintiff?
+If the answer to # 4 is “No”, cease your deliberations on this count and proceed to # 6.
+If the answer is “Yes”, proceed to question # 5.
+Yes J_ No 5
+5. Was the service of alcohol to plaintiff while he was visibly intoxicated a proximate cause of the plaintiffs injuries? If the answer to # 5 is “No”, cease your deliberations on this count and proceed to # 6.
+If the answer is “Yes”, proceed to question #6.
+Yes No
+6. Has the plaintiff shown by the preponderance of the evidence that the defendant, The Waiting Room, had a duty to provide a reasonably safe place and safe environment for the plaintiff?
+If the answer to # 6 is “No”, cease deliberations as to this defendant, The Waiting Room, and proceed to #10.
+If the answer is “Yes”, proceed to question #7.
+Yes . 6 No 0
+7. Was the duty on the part of the defendant The Waiting Room to provide a reasonably safe place and safe environment, breached?
+If the answer to # 7 is “No”, cease deliberations on this count and proceed to # 10.
+If the answer is “Yes”, proceed to question #8.
+Yes _ 6 No 0
+8. Were the plaintiffs injuries a foreseeable consequence of the breach of this duty to provide a safe place and safe environment?
+If the answer to # 8 is “No”, cease deliberations on this count and proceed to # 10.
+If the answer is ‘Tes”, proceed to question # 9.
+Yes . 6 No 0
+9. Was the breach of the defendant The Waiting Room’s duty to provide a safe place and safe environment the proximate cause of the plaintiffs injuries.
+If the answer to # 9 is “No”, cease deliberations on this count and proceed to # 10.
+If the answer is ‘Tes”, proceed to question # 10.
+Yes 6 No 0
+10. Has the plaintiff shown by a preponderance of the evidence that he was assaulted and battered by defendant Heath?
+If the answer to # 10 is “No”, cease your deliberations as to defendant Heath and proceed to # 13.
+If the answer is “Yes”, proceed to #11.
+Yes _0_ No _6
+The jury returned a damage award of $100,000, for which the tavern was 50% liable.
+II
+The general liability carrier argues that special interrogatory number four was improper since under N.J.S.A. 2A:22A-5(b) it was not necessary to prove the server actually saw the signs of visible intoxication, rather, it only need establish that the server knew or should have known the patron was intoxicated. However, we need not decide this issue or whether judgment should be entered against the tavern based on the liquor law liability count in the complaint.
+No matter how considered, leaving aside defendant Heath, who has not been made the subject of this appeal, there is only one tavern which is a party and that is the defendant Wink Associates. Popow has not cross-appealed. Thus, despite the fact that two insurance carriers may have issued policies which cover different types of potential liability of the tavern, they failed to raise or resolve any potential conflicts before the first day of trial. The tavern (through its general liability carrier) is now appealing a jury finding of negligent supervision, which is an adverse ruling, while at the same time seeking to appeal the finding of no responsibility for serving a visibly intoxicated patron. But that latter finding, whether erroneous or not, was favorable to the tavern. Only Popow (and perhaps Heath) was entitled to appeal that finding.
+The general rule is that a litigant may not appeal from a judgment or so much of a judgment which is in that party’s favor. Stated differently, the traditional rule is that a judgment cannot be appealed by a party not thereby aggrieved. Calabro v. Campbell Soup Co., 244 N.J.Super. 149, 169, 581 A.2d 1318 (App.Div. 1990), aff'd. o.b., 126 N.J. 278, 597 A.2d 83 (1991). See also 4 C.J.S. Appeal and Error §§ 169b, 170 (1993).
+Here, the tavern’s appeal from the jury’s determination of negligent supervision is appropriate. However, its attempt to appeal from that part of the judgment which was favorable to it, i.e., the judgment finding no liability on the liquor law liability count of the complaint, is not appropriate. See Mack Auto Imports v. Jaguar Cars, 244 N.J.Super. 254, 257-259, 581 A.2d 1372 (App.Div.1990); River Vale v. E & R Office Interiors, Inc., 241 N.J.Super. 391, 575 A.2d 55 (App.Div.1990); Infante v. Gottesman, 233 N.J.Super. 310, 318-319, 558 A.2d 1338 (App.Div.1989); Cooper Medical Center v. Boyd, 179 N.J.Super. 53, 55-56, 430 A.2d 261 (App.Div.1981). Cf. Vassallo v. Bell, 221 N.J.Super. 347, 355-356, 534 A.2d 724 (App.Div.1987). There was only one insured tavern and it was owed a defense in this case by its insurers.
+To be aggrieved a party must have a personal or pecuniary interest or property right adversely affected by the judgment or portion of the judgment in question. Since the insurance company is not a party to the litigation, as opposed to it providing a defense and being interested in the result, we apply the general rule that only a party aggrieved by a judgment or portion thereof can appeal that judgment or portion of it. Howard Savings Institution v. Peep, 34 N.J. 494, 499, 170 A.2d 39 (1961); Tiger v. American Legion Post IS, 125 N.J.Super. 361, 370, 311 A.2d 179 (App.Div.1973); In re Lazarus, 81 N.J.Super. 132, 136, 195 A.2d 29 (App.Div.1963). The only issue which concerned the tavern is the defense of the liability claims. It would run counter to the purpose of insurance to allow an insurance carrier to expose its insured, which is the client and the party defendant in this case, to additional claims of liability and possibly claims which may exceed the policy limits. Indeed, to allow such an appeal would be contrary to the interests of the insured and the duty owed it.
+The fact that there are two insurance carriers affording coverage for different risks, one of whom now claims to be aggrieved by the jury’s failure to hold the other insurance carrier liable, does not affect the general rule that a party cannot appeal from a favorable judgment or decree, or the part thereof which is favorable. A fortiori, an insurer cannot appeal on the ground that the jury should have held its client negligent on another ground, particularly where the known interests of another insurer are involved. Accordingly, we dismiss so much of the tavern’s appeal that relates to its claim that a verdict should have been entered against it on the liquor law liability count.
+Ill
+Our determination on the previously discussed point renders moot the asserted conflict of interest between the positions of the two insurance carriers. Under the circumstances, this is not an appropriate ease to address the issue.
+Although not raised until the first day of trial the tavern’s liability carrier also argues that because there were two distinct and separate theories of liability against the tavern this created a conflict of interest warranting two separate trials on liability. Both carriers assert that up until the date of trial they were united in opposing Popow’s claims and there was no such conflict. We reject that argument as untimely and an obvious gamble on pretrial strategy. It was obvious from the complaint and amended complaints that there were various theories of liability pleaded which could result in alternative findings. Since there was differing coverage, the potential for a conflict of interest clearly existed and should have been raised well before the trial date. It is unfair to the plaintiff and to the court, as well as to the tavern, for the issue not to have been raised and resolved well before trial by agreement between the carriers, arbitration or declaratory judgment.
+Conflict situations between insurance carriers can and should be resolved either by intercompany arbitration, or by declaratory judgment actions prior to the liability trial. See Sussex Mutual Ins. Co. v. Hala Cleaners, Inc., 75 N.J. 117, 126, 380 A.2d 693 (1977); Burd v. Sussex Mutual Ins. Co., 56 N.J. 383, 391, 267 A.2d 7 (1970); Selected Risks Insurance v. Nationwide Mutual Insurance, 133 N.J.Super. 205, 209, 336 A.2d 24 (App.Div. 1975).
+The principles stated in Deblon v. Beaton, 103 N.J.Super. 345, 351-352, 247 A.2d 172 (L.Div.1968), although discussed in the context of settling litigation, seem appropriate:
+The interest of defendant tortfeasors is to conclude the case within the limits of their insurance coverage. As noted in Bowers v. Camden Fire Ins. Ass’n, 51 N.J. 62, 71 (1968), the purpose of liability insurance is to protect the assured from liability within the limits of an insurance contract, and an insurer cannot frustrate that policy by a selfish decision as to settlement which would expose an insured to a judgment beyond the purchased protection. Plaintiff, of course, could ordinarily not recover from Jersey [Insurance Company] any more than its policy limits. Since a carrier has a duty to act in good faith where its interests conflict with those of the insured in connection with settlement negotiations, it certainly cannot complain about the partial settlement, as in the present case, after disclaiming and refusing to negotiate at all.
+IV
+We turn finally to the tavern’s argument that there were no facts to support a verdict against it based on negligent supervision. The evidence supporting a finding that the tavern failed to provide adequate security may not be overwhelming. However, our standard of review of a jury verdict is quite limited. Our review of the record, including the reasons stated by the trial judge in denying the new trial motion, satisfies us that there was sufficient credible evidence from which the jury could have reached its verdict. There is no basis for us to interfere with the jury’s finding of negligent supervision.
+The appeal with respect to liquor law liability is dismissed. In all other respects the judgment is affirmed.
+For ease of discussion we will generally refer to the defendant Wink Associates as the tavern.
+The briefs do not address potential apportionment of damages questions or the effect of a somewhat anomalous finding by the jury of 10% negligence on Heath's part, although on the sole premise of Heath's liability (assault and battery) the jury found Heath not liable.
+Popow had suffered severe head injuries from a 1983 accident when he fell off the side of a truck. A physician testified that at the time of the October 30, 1987 incident, Popow's 1983 injuries had "just about completely cleared.”
+Popow was hospitalized for about a month.
+Another bartender came behind the bar for a few minutes, sometime between 9:00-9:30 p.m., but did not stay because the band had cancelled and thus there was no formal entertainment.
+Heath was found 10% negligent, Popow 40% negligent and the tavern 50% negligent.
+The tavern is also a respondent (through the liquor law carrier) opposing this aspect of the appeal.
+Although not in issue we would think it obvious that in a case such as the one before us an insurer, representing an insured client, could not concede liability without the consent not only of the assured (unless perhaps it was prepared to pay the damages in lull), but of any other insurer which provided implicated coverage.
+A motion to sever made on the first day of trial was denied.
