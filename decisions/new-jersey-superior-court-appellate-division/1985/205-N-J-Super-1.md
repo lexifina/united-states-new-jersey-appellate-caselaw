@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1985-10-10"
+citations: ["205 N.J. Super. 1"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. EDGAR NOLAN, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/205/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 378358
+cites_cases: ["113 N.J. Super. 11", "118 N.J. Super. 472", "167 N.J. Super. 318", "172 N.J.Super. 361", "217 A.2d 28", "256 A.2d 439", "316 A.2d 367", "58 N.J. 390", "60 N.J. 467", "84 N.J. 421"]
+---
+
+# State v. Nolan
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Defendant was charged in a multi-count indictment with aggravated assault (N.J.S.A. 2C:12-1b(1)), possession of a weapon for an unlawful purpose (N.J.S.A. 2C:39-4) and terroristic threats (N.J.S.A. 2C:12-3b). Following the trial court’s denial of his motion to suppress evidence, defendant entered a retraxit plea of guilty to the charge of terroristic threats. The plea was entered pursuant to an agreement with the State. Under the agreement, the remaining two counts of the indictment were to be dismissed and defendant was not to be subject to a term of parole ineligibility. At the time of the plea, defendant was under probationary supervision with respect to a prior unrelated conviction. It was agreed that the sentence was to run concurrently with that to be imposed on defendant’s violation of probation. Defendant was sentenced in accordance with the agreement. Specifically, the trial judge imposed concurrent custodial terms of five years and directed that defendant pay a penalty of $25 to the Violent Crimes Compensation Board. The remaining counts were dismissed.
+On appeal, defendant contends that his plea of guilty was not supported by an adequate factual basis. Although ambiguously phrased, the principal thrust of his argument is that a victim of terroristic threats must subjectively perceive himself to be immediately endangered by the promise of death in order to convict under N.J.S.A. 2C:12-3b. So posited, he asserts that the trial judge erred in accepting the plea without taking testimony from the victim.
+We disagree and affirm. N.J.S.A. 2C:12-3b reads in pertinent part as follows:
+A person is guilty of a crime of the third degree if he threatens to kill another with [the] purpose to put him in imminent fear of death under circumstances reasonably causing the victim to believe the immediacy of the threat and the likelihood that it will be carried out.
+To be sure, the statutory language is not a model of clarity. Nevertheless, we do not construe the statute as requiring proof that the victim actually feared death or was under the apprehension that he was about to be killed. Some people are braver than others and less likely to be subject to intimidation. The criminality of the perpetrator’s conduct should not depend on the courage or timidity of the intended victim. In our view, the statute merely requires that the threat be made under circumstances under which it carries the serious promise of death. Stated somewhat differently, the words or conduct must be of such a nature as would reasonably convey the menace or fear of death to the ordinary hearer.
+We note that the predecessor statute was similarly construed in State v. Kaufman, 118 N.J. Super. 472, 474, (App.Div.1972) certif. den. 60 N.J. 467, (1972). See also State v. Schultheis, 113 N.J. Super. 11, 16-17 (App.Div.1971) certif. den. 58 N.J. 390, (1971); State v. Milano, 167 N.J. Super. 318, 321 (Law Div.1979), aff’d 172 N.J.Super. 361, 362, (App.Div.1980) certif. den. 84 N.J. 421, (1980). There, we considered and rejected the argument that the threat of death must actually induce fear and apprehension in the person threatened. State v. Kaufman, supra 118 N.J.Super. at 474. We held that the “gravamen of the offense involves the communication of a threat to kill in such terms as would in the attendant circumstances convey to an ordinary individual that the language seriously threatened death.” Ibid. Although the statutory language was altered in certain respects when the Code of Criminal Justice was enacted, we do not perceive a legislative design to restrict the reach of the prohibition. Rather, the code provision, N.J.S.A. 2C:12-3b, is largely consistent with the prior statute as it was interpreted and, thus, must “be construed as a continuation of such law.” N.J.S.A. 2C:1-1e.
+In any event, it was clearly not incumbent upon the trial judge to sua sponte compel the victim to appear and testify at the plea proceedings. Our review of the record convinces us that the court meticulously adhered to the requirements of R. 3:9-2. Under the rule, the trial judge must be satisfied that “there is a factual basis for the plea” and that it is voluntary. This determination can be reached “by inquiry of the defendant and others.” R. 3:9-2. The matter is left to the judge’s discretion.
+Here, defendant’s statement in support of the plea fully established all of the statutory elements. Defendant stated that he threatened to kill his brother. The threat was made while defendant was reaching for a machete during a struggle with the victim. Even under defendant’s erroneous construction of the statute, his account of the incident plainly established that the intended victim reasonably feared immediate harm or death under the circumstances. The incident was pregnant with the potential for catastrophe.
+In sum, our careful review of the record convinces us that defendant’s guilty plea was properly entered. Accordingly, the judgment of conviction is affirmed.
+A similar statute was construed in a like manner in State v. Lizotte, 256 A.2d 439, 442 (Me.Sup.Jud.Ct.1969). See also State v. Sondergaard, 316 A.2d 367, 369 (Me.Sup.Jud.Ct.1974); State v. Cashman, 217 A.2d 28, 29 (Me.Sup.Jud.Ct. 1966).
+The predecessor statute, N.J.S.A.2A:113-8 read
+“[a]ny person who, in public or private, by speech, writing, printing or drawing, or by any other method ... [threatens to take or procure the taking of the life of any person—[i]s guilty of a high misdemeanor____”
