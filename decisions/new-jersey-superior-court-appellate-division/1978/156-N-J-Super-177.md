@@ -1,0 +1,35 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1978-01-30"
+citations: ["156 N.J. Super. 177"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["OLDEN PARKS, PETITIONER-RESPONDENT, v. JOHNSON MOTOR LINES, RESPONDENT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/156/cases/0177-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 873694
+cites_cases: ["2 N. J. 305", "23 N. J. 140", "42 N. J. Super. 341", "44 N. J. 589", "93 N. J. Super. 6", "94 N. J. Super. 326"]
+---
+
+# Parks v. Johnson Motor Lines
+
+## Majority (Pee Curiam.)
+
+Pee Curiam.
+This is an appeal from a judgment of the Division of Workmen’s Compensation in favor of petitioner on the grounds that (1) the Division lacked jurisdiction; (2) there was error in the application of New Jersey law rather than North Carolina law; (3) the award of total and permanent disability was against the weight of the evidence, and (4) the refusal to grant respondent an adjournment to enable the production of a witness was an abuse of discretion.
+Petitioner was involved in an accident in the State of Pennsylvania on May 3, 1974, as a result of which he sustained a traumatic amputation of his left arm above the elbow. On June 6, 1974 he filed a petition for compensation. In due course respondent answered and the matter came on for hearing on March 31, 1976, July 1, 1976, August 12, 1976, October 14, 1976, November 4, 1976, January 6, 1977 and February 17, 1977.
+The issues of jurisdiction and permanent disability were tried separately. At the October 14 hearing petitioner concluded his case with respect to jurisdiction. Respondent was instructed that it would have to produce all its witnesses with respect to the issue of jurisdiction at the next hearing—i. November 4, 1976. On November 4, 1976 respondent requested a continuance for the purpose of producing a lay witness on the issue of jurisdiction, which request was denied on the ground that respondent had received ample notice of hearing and opportunity to produce the witness and that further delay in this already protracted matter would be unacceptable. Finding that petitioner performed his services under the direction of respondent’s New Jersey terminal; that he was hired with the understanding that he would work out of New Jersey; that a large number of petitioner’s trips either originated or terminated in New Jersey, and that at all times pertinent his truck was garaged, repaired and maintained in New Jersey, the site of petitioner’s residence, New Jersey jurisdiction was held to exist. Thereafter, a hearing was had with respect to disability, with the result that on March 7, 1977 petitioner was found to be 100% disabled, such disability being total in character and permanent in quality.
+Jurisdiction and Appropriate Latv
+Respondent Johnson Motor Lines (JML) is a North Carolina corporation engaged in the transportation of freight and cargo throughout the continental United States. In connection with these activities it maintains and operates freight transfer and storage depots in Hackensack and Del-ran, New Jersey, as well as other locations throughout the country. Customers’ freight and cargo is transferred to and from trailers at these depots. Respondent maintains dispatchers at the depots who issue assignments and work orders relating to the transportation, forwarding and delivery of the freight.
+Petitioner resides in New Jersey and owned his own tractor, which he garaged and maintained at his home. In November 1973 he entered the employment of respondent pursuant to a contract executed in Atlanta, Georgia, which provided, among other things, that it should be governed by the laws of North Carolina. Thereafter petitioner worked exclusively for respondent. While there is a dispute as to whether petitioner was specifically assigned to- work out of the Hackensack terminal, there is no doubt that his employment had substantial New Jersey connection. In the period between his employment and the accident he made 50 trips for respondent, of which 22 had their point of origin in New Jersey and 22 had their destination in New Jersey. The trip during which the accident occurred was one which originated in Niagara Palls, New York, and was to terminate at the Hackensack terminal.
+Petitioner’s claim of jurisdiction is founded on his New Jersey residence and the fact that a substantial part of his employment was carried out in this State.'
+Although the question as to whether New Jersey can and should take compensation jurisdiction and apply the New Jersey Workers’ Compensation Act based upon residence and significant employment contacts—in the absence of contract and accident situs (see Rivera v. Green Giant Co., 93 N. J. Super. 6, 11 (App. Div. 1966)—has not been previously passed on, the matter has been thoroughly examined and carefully considered in Wenzel v. Zantop Air Transport, Inc., 94 N. J. Super. 326 (Cty. Ct. 1967). In a well reasoned dictum Judge Weidenburner stated:
+In the light of the instructions from our appellate courts to give a liberal interpretation to coverage under our statute, and the expansion of jurisdictional concepts of due process, our courts might appropriately provide the forum for a compensation action by a resident when more than casual employment services were performed in New Jersey, although the hiring contract and place of injury were elsewhere. The instant case, however, is not an appropriate one for recognition of this basis for jurisdiction. Aside from the small proportion of employment services rendered by petitioner in New Jersey, the evidence fails to establish that he was a resident of this State a1 the time of injury, [at 335]
+In our view tliis is an appropriate case ior the application of his conclusion, and for the reasons set forth therein we hold that New Jersey is an appropriate forum in the presence of residence and significant employment contacts and that the New Jersey Workers’ Compensation Act may be applied.
+This result is unaffected by the contractual provision for the application of North Carolina law. Such agreements are ineffective as a matter of public policy. See Gotkin v. Weinberg, 2 N. J. 305 (1949); 3 Larson, The Law of Workmen's Compensation, § 87.71 (1976).
+The Award and the Refusal To Grant an Adjournment
+We find no merit to the other issues raised by respondent.
+From an examination of the entire record we are satisfied that the findings as to petitioner’s disability are amply supported in the record. See Close v. Kordulak Bros., 44 N. J. 589, 599 (1965). In determining petitioner’s disability the Division properly considered not only the traumatic amputation but the effects of that loss. See Rodriguez v. Michael A. Scatuorchio, Inc., 42 N. J. Super. 341, 352-354 (App. Div. 1956), certif. den. 23 N. J. 140 (1957).
+Nor do we find any abuse of discretion in the decision requiring that this prolonged matter be concluded.
+Affirmed.
