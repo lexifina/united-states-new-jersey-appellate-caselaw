@@ -1,0 +1,26 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1977-12-22"
+citations: ["155 N.J. Super. 1"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["LORRAINE YANCOSKIE, ADMINISTRATRIX OF THE ESTATE OF FRANCIS J. YANCOSKIE, AND JASON ADAM YANCOSKIE, BY HIS PARENT AND NATURAL GUARDIAN, LORRAINE YANCOSKIE, AND LORRAINE YANCOSKIE, IN HER OWN RIGHT, PLAINTIFFS-RESPONDENTS, v. DELAWARE RIVER PORT AUTHORITY, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/155/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 929084
+cites_cases: ["122 F. Supp. 595", "136 N. J. Super. 249", "144 N. J. Super. 364", "147 N. J. Super. 139", "22 N. J. 454", "222 F. 2d 362", "327 U. S. 392", "35 N. J. 26", "359 U. S. 275", "47 Stat. 308", "57 N. J. 342", "66 Stat. 738", "66 Stat. 740", "73 N. J. 107", "78 Stat. 215"]
+---
+
+# Yancoskie v. Delaware River Port Authority
+
+## Majority (Crane, J. A. D.)
+
+The opinion of the court was delivered by
+Crane, J. A. D.
+This appeal is before us by virtue of our granting defendant’s motion for leave to appeal from an order denying summary judgment. Defendant contends that the judge below should have granted summary judgment in its favor and dismissed plaintiffs’ action arising out of the death of Francis J. Yancoskie while he was walking on defendant’s bridge because plaintiffs have not complied with the notice-requirements of the New Jersey Tort Claims Act, N. J. S. A. 59:1-1 et seq.
+The trial judge held that the Delaware River Port Authority is not a public entity within the meaning of the New Jersey Tort Claims Act, N. J. S. A. 59:1-3. He therefore concluded that the notice requirement of N. J. S. A. 59 :8-8, did not apply.
+Defendant Authority was created under the name Delaware River Joint Commission by an agreement between the Commonwealth of Pennsylvania and the State of New Jersey, N. J. S. A. 32:3-1 et seq., 36 P. S. §3503 et seq., which has been approved by the Congress of the United States. 47 Stat. 308. Its status was continued under the name Delaware River Port Authority by a supplemental agreement found in N. J. S. A. 32:3-2 et seq. and 36 P. S § 3503 et seq. Congressional approval of amendments to the compact is found in 66 Stat. 738, 66 Stat.747, 78 Stat. 215. Specific authority “to sue and be sued” has been granted by N. J. S. A. 32:3-5(b), 36 P. S. §3503, 66 Stat. 740. Such a grant of power operates as a waiver of any claim of immunity from suit. Petty v. Tennessee-Missouri Bridge Comm’n, 359 U. S. 275, 79 S. Ct. 785, 3 L. Ed. 2d 804 (1959); Interstate Wreck. Co. v. Palisades Interstate Pk. Comm., 57 N. J. 342, 346 (1971); McCabe v. N. J. Turnpike Auth., 35 N. J. 26 (1961); Taylor v. N. J. Highway Authority, 22 N. J. 454 (1956).
+The term “public entity” in the New Jersey Tort Claims Act is defined as including “the State, and any county, municipality, district, public authority, public agency, and any other political subdivision or public body in the State.” N. J. S. A. 59:1-3. The predecessor of the Authority was characterized as “a body corporate and politic” in the legislation by which it was created. See the historical note following N. J. S. A. 32:3-2. The newly created Authority known as the Delaware River Port Authority was described in the compact as a “public corporate instrumentality of the Commonwealth of Pennsylvania and the State of New Jersey.” N. J. S. A. 32:3-2. The broad powers granted leave no room for doubt that the instrumentality created is a public authority or public agency. The nature of its functions and powers places it clearly within the class of agencies designated as public entities in N. J. S. A. 59:1-3. Its possession of power to sue and be sued does not take it out of the category of public entities subject to the provisions of the New Jersey Tort Claims Act. S. E. W. Friel Co. v. N. J. Turnpike Auth., 73 N. J. 107 (1977). Neither the compact nor the federal statutes evidencing congressional approval contains any provision requiring the giving of notice or limiting the time within which actions against the Authority must be commenced. Thus there is no inhibition against the application of the procedural r quirements of the New Jersey Tort Claims Act. See Holmberg v. Armbrecht, 327 U. S. 392, 395, 66 S. Ct. 582, 90 L. Ed. 743 (1946); Rao v. Port of New York Auth., 122 F. Supp. 595 (D. C. E. D. N. Y. 1954), aff’d 222 F. 2d 362 (2 Cir. 1955); Wood v. Dic/Underhill, 136 N. J. Super. 249 (Law Div. 1975), aff’d o.b. 144 N. J. Super. 364 (App. Div. 1976).
+It is undisputed that plaintiffs failed to give notice of their claim as required by N. J. S. A. 59:8-3 et seq. It also clearly appears on the face of the complaint that the action was commenced more than a year after the cause of action accrued. Consequently, the time within which notice of the claim may be presented may not be enlarged. N. J. S. A. 59:8-9, Bell v. Camden Cty., 147 N. J. Super. 139, 142 (App. Div. 1977). Thus, plaintiffs’ action is barred by N. J. S. A. 59:8-3 and should have been dismissed.
+Reversed and remanded with the direction that judgment be entered in favor of defendant.
