@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1951-07-02"
+citations: ["14 N.J. Super. 335"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GAETANO GUIDICE, PLAINTIFF-APPELLANT, v. BOARD OF REVIEW OF THE DIVISION OF EMPLOYMENT SECURITY, AND ANOTHER, DEFENDANT-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/14/cases/0335-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 716701
+cites_cases: ["15 N. Y. S. 2d 755", "173 P. 2d 938", "179 P. 2d 707", "198 S. W. 2d 342", "28 N. E. 2d 402", "32 N. W. 2d 434", "36 So. 2d 496", "4 N. J. Super. 143", "45 A. 2d 886", "51 N. Y. S. 2d 711", "6 N. J. Super. 164", "76 A. 2d 457", "91 N. E. 2d 373", "97 N. E. 2d 435", "97 N. E. 2d 762"]
+---
+
+# Guidice v. Board of Review
+
+## Majority (Bigelow, J. A. D.)
+
+The opinion of the court was delivered by
+Bigelow, J. A. D.
+The appellant was an employee of the respondent, Merrill Textile Printers, nntil April 28, 1950, when the employer shut down its plant to dispose of its assets and to liquidate its affairs. There was in force at the time a contract between a labor union as bargaining agent for appellant, and the employer, wherein it was agreed that appellant was “hired on an annual basis” from January 1 to January 1, and should receive a specified “annual salary payable in equal weekly instalments.” On August 22, appellant filed a claim with the Division of Employment Security. The claims representative rejected the claim September 7, 1950, and the rejection was approved a week later by the appeals examiner and on November 13, 1950, by the Board of Beview.
+The hoard pnt its action on two bases,—first, that under the contract between the union and the employer, wages were payable to appellant, week by week, for the whole of the year 1950, and so he could not be considered unemployed. On the argument before us, counsel for appellant informed us that, after the Board of Beview had made its decision and the appeal had been taken to this court, the employer compromised appellant’s claim for wages, or for breach of contract, by the payment to Mm of $2,000. This sum is equivalent to unemployment compensation for 77 weeks at $26 a week, the rate at which appellant’s unemployment benefits would have run, if his claim had been allowed.
+We express no opinion on the validity of the first ground for the rejection of the claim. Two cases that may throw some light on the problem are In re Skutnik, 51 N. Y. S. 2d 711 (App. Div. 1944) and In re Tonra, 15 N. Y. S. 2d 755; affirmed 28 N. E. 2d 402 (N. Y. 1940).
+The second ground for the decision of the board was a finding that appellant was not “available for work” and had not “demonstrated that he is actively seeking work.” Appellant had been a cloth printer for 25 years. His wages just before he became unemployed were $125 a week. His efforts to obtain work have been limited to reporting once a month at the' headquarters of his local union in Paterson. If there were an opportunity for getting work as a cloth printer in a shop along the north Atlantic seaboard, appellant would hear of it when he calls at the local’s headquarters; but no opening of the sort has occurred.
+Appellant is not entitled to unemployment benefits unless he has been and continues to be “actively seeking work.” R. 8. 43:21-4(c). Just registering with the State Employment Service and asking relatives and friends if they know of any opportunities for work, are not enough. Boyer v. Board of Review, 4 N. J. Super. 143 (App. Div. 1949). Nor is reading want ads and telephoning a few places. De Rose v. Board of Review, 6 N. J. Super. 164 (App. Div. 1950).
+It is easier to get work some jrears and in some crafts than in others. When a person is first unemployed, he may not realize that he will have a hard time finding a job; that he may have to accept considerably lower pay than he is accustomed to; that he may have to go further from home than he would like; that he may have to venture outside his old kind of work; that he may have to tramp from factory to factory before finding a job. He will not be deprived of unemployment benefits just because he did not appreciate the situation at the start. But greater effort to obtain work and less insistence on his own terms is required after a while, if the claimant is to continue to receive benefits. In the Be Rose case, two months was considered long enough for the adjustment. To the same effect is Hallahan v. Riley, 45 A. 2d 886 (N. II. 1946). After becoming familiar with the situation, the claimant must make a reasonable appraisal of his opportunities for employment and be guided accordingly. Loew’s v. California, etc., Com., 173 P. 2d 938 (Cal. 1946). Other recent cases considering sufficiency of effort to get work are: Wagner v. Unemployment C. Com., 198 S. W. 2d 342 (No. 1946); Jacobs v. Office of Unemployment Comp., 179 P. 2d 707 (Wash. 1947); Dwyer v. Appeal Board, 32 N. W. 2d 434 (Mich. 1948); Dept. of Indus. Rel. v. Tomlinson, 36 So. 2d 496 (Ala. 1948); Weiland v. Unemployment, etc., Board, 76 A. 2d 457 (Pa. 1950); Mohler v. Dept. of Labor, 97 N. E. 2d 762 (Ill. 1951); Shannon v. Bureau, 97 N. E. 2d 435 (Ohio 1951).
+We agree with the Board of Keview that the appellant did not show that he actively sought work and therefore he was not entitled to compensation benefits. It is impossible to define sharply what constitutes a sufficient effort to obtain employment. In borderline cases, we ought not disturb the conclusion of the board. Walton v. Wilhelm, 91 N. E. 2d 373 (Ind. 1950).
+Affirmed.
