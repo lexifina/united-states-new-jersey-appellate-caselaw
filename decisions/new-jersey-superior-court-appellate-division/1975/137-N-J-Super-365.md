@@ -1,0 +1,31 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1975-12-09"
+citations: ["137 N.J. Super. 365"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["RUSSELL OAKES, PLAINTIFF-RESPONDENT, v. STATE FARM FIRE & CASUALTY COMPANY, A CORPORATION HAVING AUTHORITY TO DO BUSINESS IN THE STATE OF NEW JERSEY, DEFENDANT-APPELLANT, AND EDWARD APPLETON, JR., AN INFANT BY HIS GUARDIAN AD LITEM, EDWARD APPLETON, SR., DEFENDANT."]
+source_url: "https://static.case.law/nj-super/137/cases/0365-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 301145
+cites_cases: ["125 N. J. Super. 239", "246 So. 2d 235", "28 N. J. 220", "298 Minn. 93", "307 F. 2d 521", "342 F. 2d 427", "378 F. Supp. 860", "64 N. J. 322"]
+---
+
+# Oakes v. State Farm Fire & Casualty Co.
+
+## Majority (Lynch, P. J. A. D.)
+
+The opinion of the court was delivered by
+Lynch, P. J. A. D.
+Defendant State Farm Fire & Casualty Company (State Farm) appeals from a judgment of the Chancery Division which held that a homeowner’s policy that State Farm issued to Russell Oakes provided coverage to Russell Oakes, Jr. for injuries caused by the latter in an assault and battery upon Edward Appleton, Jr. State Farm contends that Oakes’ action came within Exclusion-Section 11(c) of the policy, which provided that there would be no coverage for “bodily injury or property damage caused intentionally by or at the direction of the Insured.”
+This suit traces its origin to an altercation between Appleton and Oakes during which the former suffered a broken leg. Appleton then instituted an action for compensatory and punitive damages. State Farm refused to defend Oakes at trial. The issues of liability and damages were tried separately. On liability the jury found specifically that Oakes was guilty of assault and battery upon Appleton. On the damages question a judge sitting without a jury awarded Appleton compensatory damages but denied his claim for punitive damages, saying, “I do not find that the defendant had any intention or desire to inflict this type of injury on the plaintiff, but it did, nevertheless, arise out of the assault and battery.”
+Following this judgment Oakes instituted the instant declaratory judgment suit seeking to establish that the State Farm policy provided coverage for the incident in question and, further, that conduct on behalf of the carrier through its counsel and its investigating staff estopped it from denying coverage.
+The trial judge held that “even with an exclusion clause, coverage does exist where there is an unintended injury, as distinguished from an intended one, as a result of an intentional act,” citing Lyons v. Hartford Ins. Group, 125 N. J. Super. 239 (App. Div. 1973), certif. den. 64 N. J. 322 (1974). The judge reasoned that, since the damage trial judge had held that there was “no intention to inflict the injury that resulted,” Oakes was entitled to coverage under the policy even though the jury in the liability trial had found an “intentional tort” on the part of Oakes. “Coverage exists,” the judge said, “since there is an unintended injury as the result of an intended act.”
+We conclude that the trial judge misapplied the holding of Lyons. In that case the insured had fired a gun, killing one Berger. The insured contended that the gun fired inadvertently, that he had no intention of harming anyone, and that at most he intended to fire a warning shot. The trial judge dismissed the insured’s complaint, which sought a declaratory judgment that there was coverage. The Appellate Division reversed and ordered a new trial.
+In the course of its opinion in Lyons the court referred to the rule that despite exclusion clauses such as the one at issue here, coverage exists for the unintended results of an intentional act, but not for damages assessed because of an injury which was intended to be inflicted. 125 N. J. Super. at 245. The Lyons court was careful to point out that where the intentional act has resulted in intended injury, even where the injury inflicted is different or more severe than was intended, coverage should be denied. 125 N. J. Super, at 246. Thus, in Lyons, if the insured’s contention that the shooting was inadvertent proved correct, there would be coverage. If, however, the insured intended to shoot the victim there would be no coverage.
+Here it is Oakes’ contention that coverage exists because he did not intend to inflict the specific injury that Appleton suffered. We disagree. In the liability trial the jury expressly found that Oakes was guilty of assault and battery which, under the court’s instruction here, amounted to a determination that Oakes intended to injure Appleton. It follows that coverage is excluded. Indeed to permit coverage of an assault and battery would be against public policy. See Malanga v. Manufacturers Cas. Ins. Co., 28 N. J. 220, 225 (1958).
+The fact that the judge trying the damage phase of the case found no basis for the award of punitive damages is of no consequence. He did not hold that Oakes did not intend to injure Appleton, but only that Oakes did not have “any intention or desire to inflict this type of injury.” (Emphasis added). Oakes did intend to produce injury, and even if the injury that resulted was greater than he intended, his act came within the exclusion clause of the policy.
+Other jurisdictions have considered the identical problem and have reached the same conclusion. Pendergraft v. Commercial Standard Fire & Marine Co., 342 F. 2d 427 (10 Cir. 1965); Stout v. Grain Dealers Mutual Ins. Co., 307 F. 2d 521 (4 Cir. 1962); Travelers Indemnity Co. v. Walburn, 378 F. Supp. 860 (D. D. C. 1974); Casperson v. Webber, 298 Minn. 93, 213 N. W. 2d 327 (Sup. Ct. 1973); Keeton, Insurance Law § 54(b) at 293-295 (1971). As one court so aptly put it, it would be illogical to hinge liability on the fact that “the resulting injury is not one specifically contemplated by the attacker.” Terito v. McAndrew, 246 So. 2d 235, 239 (La. Ct. App. 1971).
+We find no merit in Oakes’ contention that State Farm should he estopped from denying coverage.
+The judgment in favor of Oakes is reversed, and judgment is entered in favor of State Farm.
