@@ -1,0 +1,25 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1949-07-11"
+citations: ["4 N.J. Super. 400"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["IN THE MATTER OF THE CUSTODY OF EVELYN MARGARET SMITH AND HOLTON BRIDELL SMITH, INFANTS."]
+source_url: "https://static.case.law/nj-super/4/cases/0400-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 364017
+cites_cases: ["124 N. J. Eq. 442", "141 N. J. Eq. 8", "240 N. Y. 249", "77 N. J. Eq. 478"]
+---
+
+# In re the Custody of Smith
+
+## Majority (Colie, J. A. D.)
+
+The opinion of the court was delivered by
+Colie, J. A. D.
+This is an appeal from an order entered in the Superior Court, Chancery Division, directing John H. Smith and Isabella E. Smith, to return the infants, Evelyn Margaret Smith and Holton Bridell Smith, immediately to the home of the maternal grandmother, Mamie Smith, in the City of New York, and directing that any question pertaining to the custody of said children should be tried and determined by the proper judicial authorities of the State of New York.
+The order was entered on a petition filed by Mamie Smith, a resident of the City and State of New York, in which she set forth that she is the maternal grandmother of the above named infants, aged 7 and 4 years respectively; that the infants were born in the State of New York and lived either with their mother or with the petitioner; that the father of the infants-died in 1944; that the mother died on June 18, 1948, and that petitioner by reason of the shock therefrom became sick and was in a comatose state; that on or about that date the two infants were taken to the paternal grandparents, John H. Smith “and Isabella E. Smith, who resided in the City of Newark, New Jersey, where the infants have been ever since; that petitioner has requested the said paternal grandparents to return the children to her custody in New York and that the requests have been refused; that petitioner is able and willing to provide for the .support and care of the children and to secure for them the care and education to which they are entitled, and that the happiness and welfare of the children will be promoted by awarding their custody to her. An order to show cause issued and thereafter the order appealed from was entered.
+The court below said: “In view of the facts stipulated on the record, namely, that the children remained residents of the State of New York until the death of their mother and that they were taken out of the state without leave of the courts of the state, I must hold that they still remain residents of the State of New York, and that the decision as to their custody should be determined by the courts of that state.
+“Without deciding the question of custody in any manner, I shall advise an order that the children be returned to the home of the maternal grandmother in the State of New York so that the courts of that state, having the children present in that state, can make such orders touching the custody and guardianship and care of the children as its laws require. Either of the parties of this suit have the privilege of applying to the courts of Yew York for the guardianship of the infants. To attempt to deal with the custody of the children here, under the circumstances, would be to usurp the prerogatives of the courts of the State of Yew York.” With this reasoning we are not in agreement. In the case of In re Williams, 77 N. J. Eq. 478 (Ch. 1910), Vice-Chancellor Ilowell said: “I see no reason in the nature of things why this court, by virtue of its general jurisdiction over infants, does not acquire the same authority and control over the care and custody of infants who are actually resident in this state, as it does over infants who are actually domiciled here.” In support of this statement, reliance is placed upon Woodworth v. Spring, 4 Allen (Mass.) 321 (Sup. Jud. Ct. 1862). In that case it was held that the mere presence of the infant in the State of Massachusetts gave to the appropriate court of that state, jurisdiction to determine the matter of custody and this holding was cited with approval by Judge Cardozo in Finlay v. Finlay, 240 N. Y. 249 (Court of Appeals 1925), in which he said: "The jurisdiction of a state to regulate the custody of infants found within its territory does not depend upon the domicile of the parents. It has its origin in the protection that is due to the incompetent or helpless.” The mere presence of an infant within the State of Yew Jersey has been held sufficient to give the court jurisdiction in the matter of the custody of the infant. In re Olcott, 141 N. J. Eq. 8 (Ch. 1947); Hachez v. Hachez, 124 N. J. Eq. 442 (E. & A. 1938).
+From the foregoing it seems clear that the court had jurisdiction to act in the premises. The judgment is reversed and the cause is remanded to the end that a hearing may be had so that the court may determine, in the exercise of a sound judicial discretion, having regard to the welfare of the infants, to whose custody they should be committed.
