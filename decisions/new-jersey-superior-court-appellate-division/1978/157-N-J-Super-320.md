@@ -1,0 +1,28 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1978-03-20"
+citations: ["157 N.J. Super. 320"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-APPELLANT, v. DAVID JACKSON, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/157/cases/0320-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 911789
+cites_cases: ["125 N. J. Super. 332", "21 N. J. 496", "356 U. S. 464", "64 N. J. 318", "66 N. J. 563", "68 N. J. 69", "73 N. J, 79", "73 N. J. 82", "92 N. J. Super. 356"]
+---
+
+# State v. Jackson
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+A three-count indictment returned by the Union County grand jury charged defendant with (1) the robbery of one Elmer Richardson, Jr., on December 15, 1976, in Scotch Plains, (2) the robbery of one Giovanni Carnevale at the same time and place, and (3) the commission of these robberies while armed. Defendant subsequently entered pleas of guilty to all three counts of the indictment.
+On the day fixed for sentencing the trial judge, over the objection of the prosecutor, merged the first and second counts of robbery “since it was one criminal act in the true sense as we mean that,” and sentenced defendant to a State Prison term of three to six years. A consecutive sentence of four to five years was imposed on the third count. Credit was given for the time defendant spent in custody while awaiting disposition of the charges. The sentences were suspended and defendant was placed on probation for a period of three years.
+The State thereupon filed in this court a motion for and was granted leave to appeal “in lieu of prerogative writs” to review the judgment of conviction insofar as it pertained to the merging of the first and second counts and the suspension of the sentence imposed on the third count. The contentions are that the merger was “without legal justification” and that the court had no “statutory authority to suspend the imposition of the term of imprisonment mandated by N. J. S. A. 2A:151-5.” Although the asserted grounds of appeal are not within those enumerated in R. 2:3-1(b), the State’s theory is that the trial judge in each instance exceeded his authority, resulting in illegal sentences. See State v. Sheppard, 125 N. J. Super. 332, 335-336 (App. Div. 1973), certif. den. 64 N. J. 318 (1973).
+Addressing first the matter of the suspension of the sentence for the commission of the robberies while armed, we find no merit in the State’s argument that since N. J. S. A. 2A:151-5 prescribes additional punishment for armed criminals by imprisonment, in the ease of a first conviction, for not less than one nor more than ten years, the provision for a minimum term deprived the trial court of its power under N. J. S. A. 2A:168-1 to suspend that sentence. A trial judge may in the exercise of sound discretion make the separate sentence for being armed consecutive to the sentence for the crime, or concurrent thereto, or even suspend service of the separate sentence depending on the circumstances of the particular case. State v. Jones, 66 N. J. 563, 567 (1975).
+As for the merger of the two robbery counts, there is no doubt that the trial judge was mistaken in his concept that “it was one criminal act in the true sense as we mean that.” Where more than one person is robbed during the same holdup and each is relieved of his money or valuables, the culprit does not commit “a single act” which simultaneously, without more, affects several individuals. “At the very least, putting aside the more subjective element of placing each of the victims in fear, the crime with which the defendant was charged in each indictment required the commission of a separate and independent act with respect to each victim, i. e., the forcible taking of the victim’s property.” State v. Hoag, 21 N. J. 496, 502 (1956), aff’d 356 U. S. 464, 78 S. Ct. 829, 2 L. Ed. 2d 913 (1958). See also State v. Ford, 92 N. J. Super. 356, 361 (App. Div. 1966).
+Defendant agrees with the foregoing, but contends, nonetheless, that the trial judge acted properly in imposing a single sentence “notwithstanding the fact that the crimes did not ‘merge’ in a legal sense.” However, the cases on which he relies are inapposite, for they involve the well-settled proposition that if “an accused has committed only one offense, he cannot be punished as if for two [emphasis supplied].” State v. Davis, 68 N. J. 69, 77 (1975). Cf. State v. Moran, 73 N. J, 79 (1977) ; State v. Richardson, 73 N. J. 82 (1977).
+The further argument advanced by defendant is that the trial judge’s failure to impose a sentence on the second robbery count was neither illegal nor beyond his jurisdictional powers “because he clearly had the right to suspend the imposition of sentence on that count.” The short answer is that the trial judge did nothing at all with respect to it other than to impose one sentence for both counts.
+In light of defendant’s acknowledgment of guilt as to both robberies, coupled with the trial judge’s clear error in merging the two counts, we see no element of unfairness to defendant, or infringement of any of his constitutional rights, in requiring that each count be dealt with separately with respect to the imposition of sentence. Accordingly, we remand the matter to the trial judge with direction to recall defendant for sentencing on the remaining robbery count.
+Remanded for further proceedings consistent with the foregoing. In all other respects, the appeal is dismissed. We do not retain jurisdiction.
