@@ -1,0 +1,35 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1959-10-22"
+citations: ["57 N.J. Super. 466"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["GEORGE F. D’ELIA, PLAINTIFF-RESPONDENT, v. CITY OF JERSEY CITY, A MUNICIPAL CORPORATION OF THE STATE OF NEW JERSEY, AND JAMES A. TUMULTY, Jr., CLERK OF THE CITY OF JERSEY CITY, DEFENDANTS-APPELLANTS."]
+source_url: "https://static.case.law/nj-super/57/cases/0466-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 418187
+cites_cases: ["118 N. J. L. 311", "119 N. J. L. 433", "127 N. J. L. 175", "21 N. J. 136", "53 N. J. Super. 66", "8 N. J. 397"]
+---
+
+# D'Elia v. City of Jersey City
+
+## Majority (Foley, J. A. D.)
+
+The opinion of the court was delivered by
+Foley, J. A. D.
+The defendant appeals from a judgment of the Law Division granting plaintiff back pay for a period during which he was under suspension from defendant’s service. The ease was tried on a stipulation of facts of which the following are pertinent to this appeal. On August 15, 1952 plaintiff was appointed to the position of welfare investigator at an annual salary of $3,120. Ills services in this capacity were terminated by defendant on July 2, 1957. He then appealed to the Civil Service Commission which body on September 29, 1958 ordered his reinstatement as of July 2, 1957. On August 16, 1957 he obtained employment as a process server in the office of the sheriff of Hudson County at a salary of $5,000 per annum. After reinstatement he instituted this action.
+The Law Division held that the plaintiff was entitled to recover his full back salary from the date of discharge to the date of reinstatement (together with certain increments), rejecting the contention of the city that the back pay owing to the plaintiff should be reduced by the amount of his earnings as a process server.
+The rights of the parties are governed by N. J. 8. A. 40:46-34 :
+“Whenever a municipal officer or employee, including any policeman or fireman, has been or shall be illegally dismissed or suspended from his office or employment, and such dismissal or suspension has been or shall be judicially declared illegal, he shall be entitled to recover the salary of his office or employment for the period covered by the illegal dismissal or suspension; provided, that a written application therefor shall be filed with the clerk of the municipality within thirty days after such judicial determination, unless such determination was made prior to the effective date of this act, in which case such application shall be filed within six months after the effective date of this act.”
+The purpose of the statute, of course, was to eliminate from the law the harsh common-law rule that the right of a public officer to receive or to recover wages is dependent entirely upon the performance of service. A full discussion of the cases on this subject is found in De Marco v. Board of Chosen Freeholders of Bergen County, 21 N. J. 136, 140 (1956).
+The thesis of the defendant is that the statute being in derogation of the common law must be strictly construed to the end that the employee would be entitled only to be made whole for the loss of income which he actually suffered during the period of his suspension or discharge. The supporting argument is founded on two premises: (1) that it was not the intention of the Legislature to require the expenditure of any more of public funds than were necessary to banish the evil at which the legislation was aimed; and (2) that the lawmakers did not intend to provide a windfall by which the employee would be unjustly enriched.
+While this appears to be the first case in this State in which the proffered construction of the statute has been directly in issue, it has been the subject of prior judicial consideration. In Ratajczak v. Board of Education of City of Perth Amboy, 118 N. J. L. 311 (Sup. Ct. 1937), affirmed 119 N. J. L. 433 (E. & A. 1938), where the precise point in dispute was whether the 1919 version of the same statute (L. 1919, c. 149) should be construed to grant back salary where the dismissed employee’s duties had been performed by a de facto substitute, the court in answer to the argument now made said by way of obiter dicta at page 312 of 118 N. J. L.:
+“The decision of the present case in the Pleas rests upon the statute of 1919, which that court construed, and correctly so in our judgment, as intended by the legislature to change the rule of the common law, and in broad and general terms to confer on an excluded officer or employe adjudged to have been so excluded illegally, the right to his salary, whether he worked for it or not, whether he earned money outside or not, and whether the work he would have done if not so excluded, was or was not done by some de facto substitute.” (Emphasis added.)
+Nor has the factor of dual compensation in circumstances such as are here presented gone unnoticed by our courts. In Bianchi v. City of Newark, 53 N. J. Super. 66, 72 (App. Div. 1958) the court in speaking of this statute observed:
+“It may well be that a dismissed employee had been gainfully employed during the period of his separation from municipal service, in which case his recovery of back salary would be nothing less than a windfall. Another possibility is that the municipality may have replaced him, paid the substitute, and then found itself faced with the necessity of making a second payment when visited with a judgment for back salary.”
+And in De Marco v. Board of Chosen Freeholders of Bergen County, supra, 21 N. J. at page 143, referring to this and other statutes:
+“While such legislation would tend to satisfy the individual interests involved it would admittedly do so by placing upon the public the burden of expenditures for salaries without corresponding services. If other officers are appointed during the period of suspension duality of payments may result and if the suspended officers engage in private work during their suspensions they may be enabled to receive double compensation. The conflicting policy considerations are socially important and far reaching and the proper course to be carefully chosen and ultimately followed will rest with the Legislature rather than with the courts.”
+We are in full accord with the views thus expressed in these cases.
+It is conceded that the plaintiff herein fully complied with the prerequisites to recovery of back salary set forth in the statute. Having done so his right to recover is conferred in words of such clarity that they can have but one meaning. Attributing to them a meaning other than that which is so plainly expressed would be a gross invasion of the legislative prerogative in this area of the social sphere. “[The Court is] enjoined to interpret and enforce the legislative will as written, and not according to some supposed unexpressed intention.” Hoffman v. Hock, 8 N. J. 397, 409 (1952); City of Camden v. Local Government Board, 127 N. J. L. 175, 178 (Sup. Ct. 1941).
+Accordingly the judgment is affirmed.
