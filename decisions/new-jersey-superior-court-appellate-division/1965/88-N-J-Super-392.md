@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1965-07-12"
+citations: ["88 N.J. Super. 392"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["JAMES WINBUSH, PLAINTIFF-APPELLANT, v. ARTHUR J. SILLS, ATTORNEY GENERAL OF THE STATE OF NEW JERSEY, AND THE NEW JERSEY STATE PAROLE BOARD, DEFENDANTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/88/cases/0392-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 307202
+cites_cases: ["370 U. S. 660", "371 U. S. 905", "40 N. J. 188", "83 S. Ct. 202", "9 L. Ed. 2d 166"]
+---
+
+# Winbush v. Sills
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Defendant pleaded guilty to five indictments charging illegal entry and larceny, and one indictment charging unlawful possession of narcotic drugs. On June 26, 1963 he was sentenced in the County Court to five consecutive sentences of not less than one nor more than three years, on the entry and larceny indictments. A mandatory sentence of not less than three nor more than five years was imposed on the charge of unlawful possession of narcotics. See N. J. S. A. 24:18-47. He was committed to the State Prison on the several sentences.
+On July 18, 1963 defendant, through his attorney, requested the Parole Board that he be paroled to the IT. S. Public Health Service Hospital in Lexington, Kentucky, pursuant to N. J. S. A. 30:4-123.43. In pertinent part this statute provides that “the State Parole Board may parole any inmate serving a sentence, or sentences, in a penal or correction institution of this State * * * by reason of conviction as a narcotic addict, at any time after commitment * * provided that “such inmate, as a condition to the granting of such parole, shall agree to voluntarily admit himself to an appropriate Federal * * * hospital * * (Emphasis added)
+The Parole Board referred the matter to the Attorney General. On August 9, on application of defendant, the County Court resentenced him, suspending the sentences on the entry and larceny indictments. Because of the mandatory nature of the sentence imposed for unlawful possession of narcotics the court was without power to suspend that sentence, and so stated. Upon the resentence proceeding the court described defendant as “a hopeless addict” and indicated that its purpose in suspending the sentences imposed for entry and larceny was to give the defendant the opportunity to be released on parole to a hospital for the treatment of narcotic addicts.
+Thereafter defendant, through his attorney, renewed his request that he be paroled to the federal hospital. The Parole Board, acting on the opinion of the Attorney General, declined the request upon the ground that the defendant did not qualify for parole under N. J. 8. A. 30:4^123.43 since the statute makes eligible for parole only one convicted as an addict, as distinguished from a possessor of narcotics.
+Defendant then filed an action in the Law Division (1) to review the Parole Board’s refusal to hear his application for parole to a hospital for the treatment of narcotic addicts, and (2) for a declaratory judgment that the defendant was eligible for parole under N. J. S. A. 30 :L-123.43, supra. On motion of the Attorney General the case was transferred to this court pursuant to B. B. 4:88-8.
+We are satisfied that under the statute the Parole Board acted correctly in rejecting defendant’s claim of eligibility for parole consideration. As the Attorney General points out in his brief, the Parole Board is a creature of the Legislature and its power and authority is limited by the grant given it by the Legislature by legislative enactment. In this respect it is subject to the same jurisdictional limitations as other administrative agencies. Thus, in order for the Parole Board to consider defendant’s application, the statute required a showing of his conviction as a narcotic addict. He was not convicted of addiction. As a matter of fact we have no statute which makes addiction a penal offense. Compare Robinson v. State of California, 370 U. S. 660, 82 S. Ct. 1417, 8 L. Ed. 2d. 758 (1962), rehearing denied 371 U. S. 905, 83 S. Ct. 202, 9 L. Ed. 2d 166 (1963). Defendant was convicted of possession of narcotics. N. J. S. A. 30 :4-123.43 does not provide for parole consideration of one convicted of that crime. It is obvious that one guilty of possession of narcotics may not be a narcotic addict or even a narcotic user, and the mere fact that where, as here, the convicted possessor is also an addict is of no moment. Compare State v. Margo, 40 N. J. 188, 189-190 (1963), in which the court drew a distinction between “addiction” and “use” or being “under the influence of” a narcotic.
+In his brief the Attorney General expresses doubt of the operability of the statute in question in light of Robinson v. State of California, supra, in which a conviction of narcotic addiction was held violative of the Eighth and Fourteenth Amendments of the U. S. Constitution. On the oral argument the Deputy Attorney General indicated that he would welcome an expression of our views on this subject. Since this question is not directly involved in the present action we will not pass upon it. However, in light of Robinson v. State of California, supra, and the fact that no statute in this State attempts to make addiction a penal offense, we agree with the State that N. J. S. A. 30 :4-123.43, supra, should be re-examined by the Legislature.
+Judgment for defendants.
