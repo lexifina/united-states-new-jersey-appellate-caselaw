@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1996-08-01"
+citations: ["293 N.J. Super. 109", "679 A.2d 723"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["BENEFICIAL OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. VERNON BULLOCK, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/293/cases/0109-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 763717
+cites_cases: ["452 S.E.2d 6", "672 So.2d 1298", "821 S.W.2d 687"]
+---
+
+# Beneficial of New Jersey v. Bullock
+
+## Majority (STERN, J.A.D.)
+
+The opinion of the court was delivered by
+STERN, J.A.D.
+Vernon Bullock, an inmate confined within the custody of the Department of Corrections, appeals from a default judgment entered against him by the Special Civil Part, Cumberland County. We are told in a letter from plaintiffs attorney that, because the matter was handled in the Special Civil Part, there is no written judgment, but counsel represents that after default was entered “[a] Certificate of Proof was then submitted to the Court and Judgment was entered on 28 April 1995 for the sum of $1,329.36, together with taxed costs of $82.59.” Counsel also indicates that a judgment was actually entered by the clerk.
+In his letter to the case manager dated May 9, 1995, plaintiffs counsel also indicates that his firm is not participating in this appeal because:
+The issue being appealed is whether or not the State of New Jersey has the obligation to transport a prisoner to a Civil Court proceeding, without requiring payment of a fee by the prisoner.
+Plaintiffs attorney further advises that plaintiff “does not take a position on the issue being appealed” and therefore did not file a brief.
+However, defendant’s responding letter and pro se brief assert that as a matter of constitutional law a default cannot be entered against him based upon his inability to appear and defend himself. He states that the entry of default under the circumstances constitutes a violation of the due process clause.
+The record contains no evidence of any effort by defendant to compel the Department of Corrections to produce him in court. Nor does the record reflect that an answer was filed, that defendant endeavored to write to the Assignment Judge or Special Civil Part Designated Judge advising that he had a meritorious defense but could not appear, or that defendant requested inactivation of the ease until he was released or transportation could be provided. In the absence of any such endeavor by defendant to “seek his day in court,” there is authority to affirm the judgment. See Post v. Duckett, 672 So.2d 1298 (Ala.Civ.App.1995). However, given the amount of the judgment, and in the absence of any indication to the contrary, it would appear that the case was processed in the Small Claims Section of the Special Civil Part and that no answer was required. See R. 6:1-2; R. 6:2-1; R. 6:3-1. The transcript of the proceedings reflects only that when the case was called, the clerk indicated that an appearance had been entered for plaintiff and the judge said “Okay; we will enter a default. No appearance.” In these circumstances it would be inappropriate to permit the entry of default judgment against a non-appearing defendant who could not appear.
+Defendant has letters which reflect that at the time default was entered in April 1995 the Department of Corrections had a policy which led to the production of inmates at State expense for civil cases only when the cause of action related to the inmate’s confinement, the plaintiff was a governmental entity, or the cause of action requiring the prisoner’s appearance was in the Family Part. Inmates could be produced for other civil proceedings, absent extraordinary security risks, if the Department was “reimbursed,” in advance, for its costs. That policy, however, was “rescinded” in June 1995 until appropriate rules were adopted. N.J.AC. 10A:3-9.13 has now been adopted to regulate “transportation costs in a civil case.” The former policy was reinstated and the regulation permits production at the expense of the inmate, , his or her representative, or the plaintiff in proceedings where the State does not underwrite the expense. In any event, defendant says he could not afford the cost of “reimbursement,” and there is no indication that plaintiff offered to pay.
+Particularly in the absence of its participation in the cause and having had no opportunity to be heard, we will not compel the Department of Corrections to produce inmates for civil proceedings. Nor will we compel a plaintiff to increase its costs by “reimbursing” the Department of Corrections in order to secure a judgment against an inmate. However, before a default judgment can be entered against an inmate for “nonappearance,” the trial court must treat with liberality an inmate’s endeavor to defend.
+If the inmate asserts the right to defend, or a meritorious defense, the trial court must determine how to proceed after considering the totality of circumstances and balancing the equities. In addition to considering the position of the parties with respect to the needs for a speedy disposition, the court should consider the efforts of the parties to secure defendant’s presence, including the defendant’s ability and plaintiffs willingness to pay, the nature and complexity of the action and the expected length of incarceration, “whether the prisoner’s claims are substantial;” “whether a determination of the matter can reasonably be delayed until the prisoner is released;” “whether the prisoner can and will offer admissible, noncumulative testimony which cannot be offered effectively by deposition, telephone or otherwise;” “whether the prisoner’s presence is important in judging his demeanor and credibility compared with that of other witnesses;” “whether the trial is to the court or to a jury” and “the prisoner’s probability of success on the merits.” Pruske v. Dempsey, 821 S.W.2d 687, 689 (Texas Ct.App.1991). See also Gossett v. Gilliam, 452 S.E.2d 6 (S.C.Ct.App.1994).
+As the trial judge did not consider these factors before entering the judgment based on non-appearance, the parties should be permitted to make submissions on the subject.
+We remand to the trial court for further proceedings consistent with this opinion.
+Defendant says he called the Assignment Judge’s law secretary and advised he was in custody.
+We do not suggest plaintiff would be willing to, or should, pay such expense for the amount involved, even if it could be added to the amount of any judgment entered.
