@@ -1,0 +1,25 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "1996-10-15"
+citations: ["294 N.J. Super. 238", "683 A.2d 205"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["AMERICAN RELIANCE INSURANCE CO., PLAINTIFF-APPELLANT, v. THE AMERICAN CASUALTY COMPANY OF READING, PA., DEFENDANT-RESPONDENT, CNA INSURANCE COMPANY, “JOHN DOE” INSURANCE COMPANY, CAROL JO ORDEMANN, PETER ORDEMANN, WESTAR ELECTRONICS, ST. PAUL FIRE & MARINE INSURANCE COMPANY, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/294/cases/0238-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 765283
+cites_cases: ["140 N.J. 397", "145 N.J. 376", "259 N.J.Super. 74", "264 N.J.Super. 251", "271 N.J.Super. 409", "289 N.J.Super. 593", "293 N.J.Super. 471", "678 A.2d 716"]
+---
+
+# American Reliance Insurance v. American Casualty Co.
+
+## Majority (CONLEY, J.A.D.)
+
+The opinion of the court was delivered by
+CONLEY, J.A.D.
+This appeal involves a dispute between two insurance carriers over whether their respective policies provide underinsured motorist (U.I.M.) coverage for injuries sustained by Carol Jo Ordemann in an automobile accident. American Reliance Insurance Company (American Reliance) insures Ordemann under a policy in which she is a named insured and which covers her own vehicles. At the time of the accident, Ordemann was driving, as part of her employment, a van owned by her employer and insured by American Casualty Company (American Casualty). Ordemann, though not a named insured, nonetheless is an “other insured” under that policy. It is agreed that the statutory criteria for triggering the U.I.M. coverages of both policies are satisfied since the liability limits of the tortfeaser’s policy is less than the separate U.I.M. limits of the American Reliance and the American Casualty policies. See N.J.S.A 17:28-l.l(e). Thus, it is undisputed that the tortfeasor’s vehicle is an “underinsured vehicle” and Ordemann is an “underinsured” under the American Reliance policy and the American Casualty policy. The trial judge, however, concluded that the American Reliance policy was “primary.” He did so not based upon the policies’ respective “other insurance” clauses but, rather, based upon the discussion in Aubrey v. Harleysville Insurance Cos., 140 N.J. 397, 403-05, 658 A.2d 1246 (1995), characterizing the nature of U.I.M. coverage as “personal” to the insured.
+In our view Aubrey has no impact upon the circumstances here. It is not disputed by either of the insurers that Ordemann is an insured under both policies. More importantly in terms of whether Aubrey is dispositive, it is not disputed that she is an “underinsured” under her own policy as well as American Casualty’s. These were not the circumstances in Aubrey. Plaintiff Aubrey did not qualify as an “underinsured” with respect to her own policy because the U.I.M. limits thereof were not greater than the liability limits of the tortfeasor’s policy. 140 N.J. at 403, 658 A.2d 1246. And she most assuredly could not be considered an under-insured with respect to the “other policy” (the Harleysville policy) because the Supreme Court held that she did not qualify as an insured under the liability provisions of that other policy. 140 N.J. at 406, 658 A.2d 1246.
+There is no need, therefore, for us to grapple with the meaning and scope of Aubrey as was required in Market Transition Facility of N.J. v. Parisi-Lusardi, 293 N.J.Super. 471, 681 A.2d 660 (App.Div.1996), and Taylor v. National Union Fire Ins. Co., 289 N.J.Super. 593, 674 A.2d 634 (App.Div.), certif. denied, 145 N.J. 376, 678 A.2d 716 (1996). Unlike Aubrey, the circumstances here involve multiple policies that provide U.I.M. coverage because Ordemann qualifies as an underinsured under those policies. It is the terms of those policies, therefore, that govern. Prudential Property & Casualty Ins. Co. v. Travelers Ins. Co., 264 N.J.Super. 251, 260, 624 A.2d 600 (App.Div.1993) (“the manner in which multiple policies providing U.I.M. coverage are to be applied in a given circumstance requires the parties to turn to the provisions of the respective policies rather than the statute.”). See Royal Ins. Co. v. Rutgers Cas. Ins. Co., 271 N.J.Super. 409, 638 A.2d 924 (App.Div.1994); Universal Underwriters Ins. Co. v. Atlantic Employers Ins. Co., 259 N.J.Super. 74, 611 A.2d 165 (Law Div.1992).
+As to the issue of whether such coverage is primary, co-primary, or excess, we look to the terms of each policy. Royal Ins. Co. v. Rutgers Cas. Ins. Co., supra, 271 N.J.Super. at 419, 638 A.2d 924. We need not duplicate the critical terms in the respective policies. Suffice it to say we have compared them to the terms construed in Royal. They are identical. We see no basis for reaching a different holding than that in Royal. Consistent therewith, we hold that the American Casualty policy is primary, whereas the American Reliance policy is excess.
+Reversed and remanded for further proceedings consistent with this opinion.
