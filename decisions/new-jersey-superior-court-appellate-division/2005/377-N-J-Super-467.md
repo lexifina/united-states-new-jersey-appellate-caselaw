@@ -1,0 +1,39 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2005-05-13"
+citations: ["377 N.J. Super. 467", "873 A.2d 601"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["STRUCTURE BUILDING CORPORATION F/K/A FORMATIVE CONSTRUCTION COMPANY, A CORPORATION OF THE STATE OF NEW JERSEY, PLAINTIFF-APPELLANT, v. TOM ABELLA AND BARBARA GRUSKA, JOHN AND BETSY FUSEK, JOHN C. AND GWENDA HANSON; LARRY AND CAROL KLEVANS, WILLIAM C. AND LAURA LOWE, ALLEN AND PEGGY MEISELS, ANGELO AND LUCY WEBER, JOHN F. JENNINGS, CAROL B. CURRAN, AND WESLEY S. HOOVER, DEFENDANTS-RESPONDENTS, AND ELEANOR JENNINGS, DEFENDANT."]
+source_url: "https://static.case.law/nj-super/377/cases/0467-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1170766
+cites_cases: ["110 A.2d 24", "142 N.J. 520", "160 N.J. 476", "162 N.J. 488", "17 N.J. 67", "317 N.J.Super. 23", "323 N.J.Super. 391", "734 A.2d 791", "744 A.2d 1211"]
+---
+
+# Structure Building Corp. v. Abella
+
+## Majority (BILDER, J.A.D.)
+
+The opinion of the court was delivered by
+BILDER, J.A.D.
+(retired and temporarily assigned on recall).
+This is an action for malicious abuse of process, malicious use of process, and tortious interference with prospective economic advantage brought by a developer, plaintiff Structure Building Corporation, against a group of homeowners who unsuccessfully fought its efforts to obtain Planning Board approval for the subdivision of neighboring property into six residential lots. Plaintiffs claims are based on legal actions challenging Board actions taken by the homeowners in opposing the subdivision. It appeals from an order of the Law Division granting defendants a summary judgment and dismissing the complaint with prejudice.
+I.
+Briefly stated, when plaintiff sought approval of the six-lot subdivision, defendants, represented by one of their number who is an attorney, joined in opposition. The activity upon which plaintiffs suit is based consisted of opposition before the Board, three prerogative writ actions challenging Board action, and the filing of a cross appeal in response to an appeal by the Board.
+Initially, on May 1, 1996, a Board vote on a motion to approve the application, following six public meetings, resulted in a tie vote. Apparently several Board members would not vote without being supplied with what they considered missing elements of the required environmental impact statement.
+On May 15,1996, despite correct advice by defendants’ attorney that as a matter of law the application had been denied by the earlier tie vote* , the Board passed a resolution that only denied plaintiffs request for a waiver of the requirement for a complete environmental impact statement and set June 19, 1996 as a new date to consider plaintiffs application. This led to the filing of defendants’ first prerogative writ action in which they challenged the May 15 action and sought an order requiring the Board to pass a resolution of denial in accordance with the May 1 vote. The court agreed with defendants’ position but said it would permit the Board to consider an application by plaintiff for reconsideration or rescission of the earlier action.
+Thereafter, on July 10, 1996 the Board passed two resolutions: one denying plaintiffs subdivision application and rescinding the May 15 resolution and a second granting plaintiffs application for reconsideration and setting a hearing on plaintiffs amended economic impact statement for August 14, 1996. These resolutions were memorialized by the Board at a July 17, 1996 meeting.
+On August 14, 1996 the Board considered plaintiffs amended economic impact statement, unanimously voted to approve the subdivision application, and scheduled the Resolution of Memorialization for the Board’s September 4, 1996 meeting. This led to the filing of defendants’ second prerogative writ action in which they challenged the Board’s July 10 and 17 actions as ultra vires because they involved the original denied applications and not a new application, were not the subject matter of a hearing, and were arbitrary, capricious and unreasonable.
+On September 4, 1996 the Board unanimously adopted a resolution granting plaintiffs application subject to certain conditions, one of which required determinations by municipal authorities with respect to screening and landscaping of the property. This led to the filing of defendants’ third prerogative writ action in which they challenged the Board’s September 4 action on a number of grounds: improper delegation of powers to the Municipality with respect to screening and landscaping; approval of the drainage plans without sufficient information; approval of the application while the amended environmental plan was still incomplete; failure to consider environmental requirement of the township’s zoning code; and improper disqualification of defendants’ expert witness at the August 14 hearing.
+As already noted, defendants’ efforts were unsuccessful — the development was approved.
+II.
+The right of homeowners to participate in hearings and oppose zoning applications that affect their property is recognized and encouraged by laws which require they be given notice and an opportunity to be heard — an opportunity to participate actively in the approval process. If dissatisfied with the actions of a zoning board, they have an absolute right to appeal to the courts. Plaintiffs complaint seeks to punish defendants for the exercise of these rights.
+To vindicate these rights the courts have developed the NoerrPennington doctrine under which those who petition the government for redress are afforded immunity for their action. New Jersey recognizes this doctrine and has applied it to the sort of conduct undertaken by defendants. LoBiondo v. Schwartz, 323 N.J.Super. 391, 733 A.2d 516 (App.Div.1999), certif. denied, 162 N.J. 488, 744 A.2d 1211 (1999); Fraser v. Bovino, 317 N.J.Super. 23, 721 A.2d 20 (App.Div.1998)(cases gathered at 37), certif. denied, 160 N.J. 476, 734 A.2d 791 (1999). In an oral opinion of March 2, 2004, the trial judge applied the doctrine to dismiss plaintiff’s complaint. As the judge noted “we don’t want to chill residents’] rights to object, and they have a right to object, and when they come out and exercise that right, the last thing they want to happen to them was to be hit with a law suit. So, if we didn’t have Noerr-Pennington Doctrine, the Court would have to create one, because certainly that’s unfair to the residents and to persons who wish to object to the actions of developers.”
+On appeal plaintiff contends that genuine issues exist as to material facts such as bar summary judgment. Brill v. Guardian Life Ins. Co. of America, 142 N.J. 520, 539-540, 666 A.2d 146 (1995); Judson v. Peoples Bank & Trust Co. of Westfield, 17 N.J. 67, 73-75,110 A.2d 24 (1954).
+Plaintiffs contentions are without merit. They rely on two arguments. First, that defendants’ actions were ill motivated, and second, that their conduct fell within a sham exception to the Noerr-Pennington doctrine, i.e., the complaints and the cross-appeal were objectively baseless. Defendants’ motives are irrelevant to their right to properly seek redress. Fraser, supra, 317 N.J.Super. at 38, 721 A.2d 20. From an examination of the record we are persuaded defendants’ complaints, as well as their cross-appeal, could not be found to be meritless.
+We substantially agree with the reasons expressed by Judge Coleman’s in his oral opinion of March 2, 2004.
+Affirmed.
+The record indicates defendants were not opposed to development of the property but to the six-house subdivision. Expressing concern with traffic, tree-clearing, grading, and drainage problems, they were prepared to accept a four-house subdivision.
+N.J.S.A. 40:55D-9a.
