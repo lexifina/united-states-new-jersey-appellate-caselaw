@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2005-06-09"
+citations: ["378 N.J. Super. 101", "874 A.2d 617"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["VINCENT F. PHILLIPS, PLAINTIFF-APPELLANT, v. METLIFE AUTO & HOME/METROPOLITAN GROUP PROPERTY AND CASUALTY INSURANCE COMPANY, DEFENDANT-RESPONDENT."]
+source_url: "https://static.case.law/nj-super/378/cases/0101-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1144652
+cites_cases: ["105 A.2d 526", "118 N.J. 181", "129 N.J. 290", "15 N.J. 475", "175 N.J. 547", "180 N.J. 357", "233 N.J.Super. 568", "354 N.J.Super. 578", "354 N.J.Super. 586", "367 N.J.Super. 450", "559 A.2d 845", "570 A.2d 950", "816 A.2d 1049", "851 A.2d 650"]
+---
+
+# Phillips v. Metlife Auto & Home/Metropolitan Group Property & Casualty Insurance
+
+## Majority (COBURN, J.A.D.)
+
+The opinion of the court was delivered by
+COBURN, J.A.D.
+Plaintiff appeals from orders dismissing his complaint for failure to state a claim and denying his motion for reconsideration. We affirm.
+The complaint alleges the following facts. When plaintiff, a resident of New Jersey, was injured by another driver in an automobile accident, which occurred in New Jersey on February 24, 2002, he was insured under an automobile policy issued by defendant. As required by statute and by regulations issued by the Department of Banking and Insurance, defendant had given plaintiff a “New Jersey Auto Insurance Buyer’s Guide” (the “Buyer’s Guide”), which described the coverage options allowed by law. Without alleging that the contents of the Buyer’s Guide violated the statute or the regulations, plaintiff asserted that the Buyer’s Guide was nonetheless inadequate because it did not explain that under the Lawsuit Threshold a permanent injury would not support an action for pain and suffering unless the injury had a serious impact on the insured’s life. Because defendant had not advised him of the “serious impact” requirement for non-economic damages, plaintiff selected the Lawsuit or Verbal Threshold, mistakenly thinking that any permanent injury would be sufficient for non-economic damages. Plaintiff asked for reformation of the insurance policy so that he could get damages for pain and suffering from the other driver in the February accident.
+As plaintiff acknowledges in his brief, he purchased this insurance policy before this court held in James v. Torres, 354 N.J.Super. 586, 808 A.2d 873 (App.Div.2002), certif. denied, 175 N.J. 547, 816 A.2d 1049 (2003), and in Rios v. Szivos, 354 N.J.Super. 578, 808 A.2d 868 (App.Div.2002), that the “serious impact” requirement of Oswin v. Shaw, 129 N.J. 290, 609 A.2d 415 (1992), applied to actions brought under the Automobile Insurance Cost Reduction Act, N.J.S.A. 39:6A-1 to -35. Nevertheless, he argues that insurance companies were somehow obliged to predict the holdings of James and Rios, and to advise their insureds accordingly. Whether those cases were soundly decided is an issue pending before the Supreme Court. Serrano v. Serrano, 367 N.J.Super. 450, 843 A.2d 358 (App.Div.), certif. granted, 180 N.J. 357, 851 A.2d 650 (2004). But for our purposes, it does not matter whether James and Rios are correct or incorrect. We so conclude because N.J.S.A. 39:6A-8.1 and N.J.S.A. 39:6A-23 expressly define the information that must be included in the Buyer’s Guide, and neither statute requires inclusion of the information that plaintiff believes is necessary. Also, in Emmer v. Merin, 233 N.J.Super. 568, 559 A.2d 845 (App.Div.), certif. denied, 118 N.J. 181, 570 A.2d 950 (1989), we affirmed the validity of the regulations implementing the cited statutory provisions, and in particular the information contained in what became the regulations, N.J.A.C. 11:3-15.6 and N.J.A.C. 11:3-15.7, governing the specific contents of the Buyer’s Guide.
+Defendant cites N.J.S.A. 39:6A-8.1(e), arguing that it provides a bar to the within action that plaintiff cannot overcome. That subsection reads as follows:
+Notwithstanding any other provision of law to the contrary, no person, including, but not limited to, an insurer ... shall be liable in an action for damages on account of the election of a tort option by a named insured----Nothing in this subsection shall be deemed to grant immunity to any person causing damage as the result of his willful, wanton or grossly negligent act of commission or omission.
+Although plaintiff did not respond to that argument, we cannot overlook the fact that subsection 8.1(e), which clearly bars an action for damages, says nothing expressly about an action for reformation. But reformation “will be granted only where there is mutual mistake or where a mistake on the part of one party is accompanied by fraud or other unconscionable conduct of the other party.” Heake v. Atlantic Cas. Ins. Co., 15 N.J. 475, 481, 105 A.2d 526 (1954) (citations omitted). Assuming plaintiff made a mistake, a doubtful proposition in the circumstances of this case, it was not a mutual mistake since defendant provided the information it correctly understood to be all the information mandated by law. And, since defendant’s Buyer’s Guide complied with the law in all respects, it cannot be said that its conduct was fraudulent or unconscionable. Consequently, no justification appears for rejecting the judgment entered below.
+Affirmed.
