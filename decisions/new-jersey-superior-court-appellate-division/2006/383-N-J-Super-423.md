@@ -1,0 +1,67 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2006-02-24"
+citations: ["383 N.J. Super. 423", "892 A.2d 683"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ATLANTIC STATES GROUP, AS AGENT FOR UNDERWRITERS AT LLOYDS, SUBROGEE OF BAY POINT MOTEL, INC., PLAINTIFF-RESPONDENT, v. LAWRENCE SKOVRON AND STEPHEN SKOVRON, DEFENDANTS. RUTGERS CASUALTY INSURANCE COMPANY, PLAINTIFF-APPELLANT, v. LAWRENCE SKOVRON AND STEPHEN SKOVRON, DEFENDANTS."]
+source_url: "https://static.case.law/nj-super/383/cases/0423-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1018144
+cites_cases: ["128 N.J.Super. 217", "137 N.J. 316", "142 N.J. 401", "158 N.J. 542", "166 A.2d 345", "184 N.J. 144", "185 N.J. 406", "272 N.J.Super. 41", "299 A.2d 704", "300 A.2d 142", "319 A.2d 743", "33 N.J. 488", "62 N.J. 155", "62 N.J. 229", "645 A.2d 143", "887 A.2d 146"]
+---
+
+# Atlantic States Group v. Skovron
+
+## Majority (SKILLMAN, P.J.A.D.)
+
+The opinion of the court was delivered by
+SKILLMAN, P.J.A.D.
+This appeal involves application of the “initial permission” rule, which governs the scope of coverage of an automobile insurance policy, to a case where the named insured gave permission to use the insured vehicle to another party but the vehicle was subsequently used by a third party without the express or implied permission of either the named insured or the initial permittee.
+At a time when his son David’s credit rating prevented him from obtaining financing, defendant Stephen Skovron purchased a pickup truck in Ms own name for David to use in Ms concrete business. Stephen obtained a motor vehicle liability insurance policy for the truck from plaintiff Rutgers Casualty Insurance Company (Rutgers). Stephen named David and David’s wife, Patricia, as additional insureds under the policy.
+Stephen also had another son, Lawrence, who sometimes worked with David in the concrete business. Lawrence’s motor vehicle license had been suspended for many years due to a series of convictions for driving while under the influence of alcohol and drugs, driving while on the suspended list, and other motor veMcle violations. When Stephen expressed concern about the possibility that Lawrence might drive the truck, David and Patricia responded: ‘We don’t let Larry drive.”
+David and Patricia were the sole drivers of the truck. When they were not using it in the concrete business, they parked it on a street near their house. David and Patricia generally kept the keys to the truck on a hanger located inside their house next to their other keys. They never allowed Lawrence to operate the truck.
+On March 9, 2003, Lawrence went to David and Patricia’s house when they were not at home, removed the keys to the truck from the house, and drove the truck away. Sometime that evening, Lawrence drove the truck into the front of a motel in Somers Point, causing damage to the building. As a result of tMs accident, Lawrence was charged with and pled guilty to driving while intoxicated and driving with a suspended license.
+Atlantic States Group (Atlantic), wMch provided property insurance coverage for the motel, paid the motel owner for the damage to its premises and became subrogated to the motel’s claim arising out of the accident. Atlantic subsequently brought a property damage action against Lawrence and Stephen.
+Rutgers brought a separate action for a declaration that the policy it had issued to Stephen did not provide coverage to Lawrence for the damage he had caused to the motel because he was not a permissive user of the truck. The trial court consolidated the two actions.
+The court granted summary judgment on liability to Atlantic on its negligence claim against Lawrence. The court also dismissed Atlantic’s claim against Stephen.
+Rutgers’ coverage action was tried in a one-day bench trial in which Stephen, David and Patricia testified. The trial court concluded based on its analysis of the applicable law that the Rutgers’ policy provided coverage to Lawrence for the damage to the motel unless Rutgers could show that Lawrence obtained possession of the truck from David and Patricia by “theft or the like,” which the court found Rutgers had failed to establish.
+After the presentation of evidence relating to damages, the court determined that the reasonable cost of repairing the motel was $7,790. The court subsequently entered a judgment requiring Rutgers to pay this amount directly to Atlantic.
+On appeal, Rutgers argues that the trial court erred in concluding that Lawrence was a permissive user of his father’s pickup truck and thus entitled to indemnification from Rutgers for the property damage caused to the motel. Rutgers also argues, in the alternative, that even if its policy provided coverage to Lawrence, the trial court erred in entering judgment in Atlantic’s favor directly against Rutgers.
+We conclude that the Rutgers policy did not provide coverage to Lawrence as a permissive user of the insured vehicle. This conclusion makes it unnecessary to address Rutgers’ alternative argument.
+The Rutgers policy issued to Stephen appears to contain the same language as the policy the Court interpreted in Rutgers Casualty Insurance Co. v. Collins, 158 N.J. 542, 548, 730 A.2d 833 (1999) to provide coverage in accordance with “the omnibus clause of the policy required by N.J.S.A. 39:6B-1” and the “initial permission rule” adopted in Matits v. Nationwide Mutual Insurance Co., 33 N.J. 488, 166 A.2d 345 (1960). Under this rule, “if a person is given permission to use a motor vehicle in the first instance, any subsequent use short of theft or the like while it remains in his possession, though not within the contemplation of the parties, is a permissive use within the terms of a standard omnibus clause in an automobile liability insurance policy.” Id. at 496-97, 166 A.2d 345. Moreover, “[a]s long as the initial use of the vehicle is with the consent, express or implied, of the insured, any subsequent changes in the character or scope of the use ... do not require the additional specific consent of the insured.” French v. Hernandez, 184 N.J. 144, 152, 875 A.2d 943 (2005) (quoting Verriest v. INA Underwriters Ins. Co., 142 N.J. 401, 413, 662 A.2d 967 (1995)).
+It is undisputed that David and Patricia were permissive users of the pickup truck owned by Stephen. In fact, they were additional insureds under the liability policy Rutgers issued to Stephen. The question is whether Lawrence was also a permissive user, that is, whether there was what Judge Conford characterized as a “subdelegation” by the initial permittees, David and Patricia, to Lawrence of the permission Stephen had given them to use the truck. State Farm Mut. Auto. Ins. Co. v. Zurich Am. Ins. Co., 62 N.J. 155,177, 299 A.2d 704 (1973).
+A person seeking coverage as a subpermittee does not have to show that he had the named insured’s permission to use the vehicle. “Once established that ‘the [initial permittee] in fact ha[d] permission from the named insured, lack of permission, whether express or implied, of such named insured for use by a later permittee is irrelevant to coverage, short of theft, or the like.’ ” Collins, supra, 158 N.J. at 549, 730 A.2d 833 (quoting Tooker v. Hartford Acc. & Indem. Co., 128 N.J.Super. 217, 221-22, 319 A.2d 743 (App.Div.1974)); see also Proformance Ins. Co. v. Jones, 185 N.J. 406, 413, 887 A.2d 146 (2005).
+However, a person seeking coverage as a subpermittee must show that he had the initial permittee’s permission to use the vehicle. As stated in Collins:
+[Bjefore permission can be said to flow from the owner or named insured to the third-person-driver through the alleged initial permittee the latter must be found from the circumstances to have assumed charge or dominion over the car pursuant to the owner’s permission and to have remained in that relationship to the vehicle while allauAng the third person to drive it.
+[158 N.J. at 549, 730 A.2d 833 (quoting Zurich, supra, 62 N.J. at 174-75, 299 A.2d 704)(emphasis added).]
+Thus, in a subdelegation situation, the initial permittee stands in the shoes of the named insured, and a person seeking coverage as a subpermittee must show that he or she had the express or implied permission of the initial permittee to use the vehicle. See Zurich, supra, 62 N.J. at 180-81, 299 A.2d 704 (Weintraub, C.J.); id. at 174-75, 299 A.2d 704 (Conford, J., dissenting as to this part of decision).
+In Collins, the ease upon which both parties’ briefs focus, the only real issue was whether the named insured, James Spatora, had given initial permission to his daughter-in-law, Rhonda Collins, to use his car. As in this case, Rhonda and her husband Joseph, whose own car was not working properly, went to the Spatoras’ house when they were away, found the car keys inside the house, and took the car. At first, Rhonda drove the Spatora car. But when Rhonda became tired, Joseph, whose drivers license had been revoked for ten years, took over operation. While driving the Spatora car, Joseph was involved in an accident in which Rhonda was killed. Rhonda’s estate sought a declaration that the policy Rutgers had issued to the Spatoras provided coverage to Joseph for his negligent operation of the car. The Court affirmed the trial court’s finding that Joseph did not have his father’s express or implied permission to use the car. Id. at 550, 730 A.2d 833. However, the trial court made no finding as to whether Rhonda had the father’s permission to use the car. The Court held that if Rhonda had such permission, the Rutgers policy would provide coverage to Joseph as Rhonda’s subpermittee because it was undisputed that Rhonda had given her express permission to Joseph to operate the Spatora car. Id. at 549, 730 A.2d 833. Therefore, the court remanded for a determination of this issue. Id. at 551, 730 A.2d 833.
+This ease is the converse of Collins. It is undisputed that the named insured, Stephen Skovron, gave express permission to David and Patricia to use the pickup truck. The only question is whether David or Patricia, as initial permittees, gave express or implied permission to Lawrence to use the truck.
+The evidence presented at trial shows that neither David nor Patricia gave Lawrence permission to use the pickup truck. David gave the following testimony:
+Q. Okay. Did you ever give permission to your brother, Lawrence, prior to March 9,2003, to use this vehicle?
+A. No.
+Q. Did you give permission to you[r] brother on March 9, 2003, to use this vehicle?
+A No.
+Q. Did you ever allow your brother to operate this vehicle, sir?
+A. No.
+Q. So the best of your knowledge, if I understand your testimony correct, is on March 9, 2003, that would be the first time you ever understood your brother drove this vehicle?
+A Yes.
+Q____Did you ever give your brother the keys to this vehicle?
+A. No.
+Similarly, Patricia testified:
+Q. Was Lawrence ever given permission by you to use this vehicle for any reason?
+A. No.
+Q. Did you ever see Lawrence use this vehicle prior to March 9th of 2003? A. No.
+Q. Did you have any information that was brought to your attention that led you to believe that Lawrence was using this vehicle prior to March of 2003? A. No.
+Q. Had you ever personally observed Lawrence drive that truck anywhere at any time prior to March?
+A. I’d never observed it, no.
+Q. Okay. Had you ever heard any information, like chitchat or discussions, arguments or anything like that that suggested to you that prior to March S)th of 2003 Lawrence had been operating that truck on any other occasion?
+A. No.
+This testimony, which Atlantic failed to impeach, clearly shows that neither David nor Patricia gave Lawrence express permission to use the pickup truck and that there was no course of conduct between the parties from which implied permission could be reasonably inferred.
+Although Lawrence was present at the trial, neither side elected to call him as a witness. As a result, the only evidence of Lawrence’s version of his acquisition of possession of the truck introduced at trial was his answers to interrogatories, which stated in pertinent part:
+The truck was at my brother’s home. I went there, but no one was home. I took the keys from the house and borrowed the truck.
+This interrogatory answer does not contradict David and Patricia’s testimony that they never gave Lawrence any form of permission to drive the pickup truck. Therefore, the evidence clearly shows that Lawrence was not a permissive user entitled to coverage under the Eutgers policy.
+Atlantic also argues that even if Lawrence was not a permissive user of the truck, Rutgers is barred from disclaiming coverage for the accident because it initially undertook to provide representation to him. Atlantic did not present this argument to the trial court, and therefore, it is not properly before us. See Nieder v. Royal Indem. Ins. Co., 62 N.J. 229, 234, 300 A.2d 142 (1973). In any event, any claim that may have arisen as a result of Rutgers’ initial representation of Lawrence would belong solely to Lawrence and would not provide a foundation for Atlantic imposing liability upon Rutgers for the property damage Lawrence caused to the motel. See Wolpaw v. Gen. Acc. Ins. Co., 272 N.J.Super. 41, 44-45, 639 A.2d 338 (App.Div.), certif. denied, 137 N.J. 316, 645 A.2d 143 (1994).
+Accordingly, the judgment in favor of Atlantic against Rutgers is reversed.
