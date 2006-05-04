@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "2006-05-04"
-citations: ["385 N.J. Super. 247", "896 A.2d 1148", "385 N.J. Super. 257", "896 A.2d 1153"]
+citations: ["385 N.J. Super. 247", "896 A.2d 1148"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. HERIBERTO SOTO, DEFENDA
 source_url: "https://static.case.law/nj-super/385/cases/0247-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2894520
-cites_cases: ["100 N.J. 627", "105 S.Ct. 20", "108 N.J. 112", "115 N.J. 83", "127 N.J. 42", "177 N.J. 492", "179 N.J. 229", "182 N.J. 428", "184 N.J. 458", "184 N.J. 497", "185 N.J. 266", "185 N.J. 363", "238 N. J.Super. 31", "335 N.J.Super. 415", "342 A.2d 841", "356 A.2d 385", "358 N.J.Super. 578", "359 N.J.Super. 85", "372 N.J.Super. 539", "374 N.J.Super. 419", "459 U.S. 359", "467 U.S. 493", "468 U.S. 1224", "480 A.2d 912", "498 A.2d 1239", "527 A.2d 1362", "542 U.S. 296", "557 A.2d 277", "68 N.J. 69", "70 N.J. 56", "82 L.Ed.2d 915", "828 A.2d 919", "83 Calif. L.Rev. 1027", "866 A.2d 984", "883 A.2d 1062", "97 N.J. 513"]
+cites_cases: ["100 N.J. 627", "108 N.J. 112", "177 N.J. 492", "182 N.J. 428", "184 N.J. 458", "184 N.J. 497", "185 N.J. 266", "359 N.J.Super. 85", "372 N.J.Super. 539", "374 N.J.Super. 419", "498 A.2d 1239", "527 A.2d 1362", "542 U.S. 296", "828 A.2d 919", "866 A.2d 984", "883 A.2d 1062"]
 ---
 
 # State v. Soto
