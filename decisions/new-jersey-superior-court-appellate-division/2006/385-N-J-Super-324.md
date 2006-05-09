@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "2006-05-09"
-citations: ["385 N.J. Super. 324", "897 A.2d 373", "385 N.J. Super. 307", "897 A.2d 362"]
+citations: ["385 N.J. Super. 324", "897 A.2d 373"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,8 @@ parties: ["LAWRENCE LEDERMAN, PLAINTIFF-APPELLANT, AND PHILIP SHAPIRO, PLAINTIFF
 source_url: "https://static.case.law/nj-super/385/cases/0324-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2894948
-cites_cases: ["1 N.Y.3d 452", "110 Cal.App.4th 1273", "116 N.J. 739", "116 S.Ct. 752", "120 N.J. 112", "125 S.Ct. 60", "126 S.Ct. 1204", "128 N.J. 250", "128 N.J. 318", "130 N.J. 394", "132 F.3d 937", "133 L.Ed.2d 700", "133 N.J. 430", "139 N.J. 392", "142 N.J. 356", "142 N.J. 520", "149 F.Supp.2d 109", "150 Misc. 2d 271", "152 Misc.2d 812", "154 N.J. 608", "16 F.3d 549", "160 L.Ed.2d 29", "165 N.J. 527", "168 A.D.2d 250", "168 N.J. 124", "173 N.J. 76", "184 N.J. 432", "185 N.J. 208", "2 Cal.Rptr.3d 484", "213 F.R.D. 240", "219 AD.2d 340", "222 N.J.Super. 403", "23 F.3d 772", "240 N. J.Super. 370", "245 N.J.Super. 561", "248 N.J.Super. 181", "251 A.D.2d 567", "256 N.J.Super. 622", "259 N.J.Super. 337", "288 N.J.Super. 48", "305 AD.2d 218", "307 N.J.Super. 162", "317 N.J.Super. 574", "330 N. J.Super. 252", "332 N.E.2d 333", "337 N.J.Super. 76", "37 N.Y.2d 91", "371 N.J.Super. 69", "376 U.S. 254", "377 F.3d 133", "381 N.J.Super. 41", "385 N.E.2d 1062", "385 N.J.Super. 307", "385 N.J.Super. 324", "388 U.S. 395", "413 N.Y.S.2d 135", "42 U.S.C. §§ 1981", "435 U.S. 829", "448 U.S. 555", "46 N.Y.2d 211", "465 U.S. 1", "468 F.2d 1064", "470 U.S. 213", "473 U.S. 614", "49 F.Supp.2d 750", "514 U.S. 938", "516 U.S. 1066", "537 A.2d 306", "543 U.S. 820", "562 N.Y.S.2d 486", "563 A.2d 31", "573 N.Y.S.2d 466", "575 N.Y.S.2d 1013", "577 N.E. 2d 1058", "578 N.Y.S.2d 802", "613 F.2d 1235", "614 A.2d 617", "627 A.2d 1136", "674 N.Y.S.2d 770", "713 A.2d 499", "733 F.2d 1059", "760 A.2d 781", "78 N.Y.2d 853", "800 A.2d 872", "800 F.2d 339", "89 F.3d 154", "9 U.S.C.A. §§ 1-16", "90 N.Y.2d 733", "998 F.2d 157", "N.Y. Bus. Corp. Law § 1505"]
+cites_cases: ["1 N.Y.3d 452", "116 N.J. 739", "126 S.Ct. 1204", "128 N.J. 250", "128 N.J. 318", "132 F.3d 937", "133 N.J. 430", "142 N.J. 520", "149 F.Supp.2d 109", "150 Misc. 2d 271", "154 N.J. 608", "165 N.J. 527", "168 A.D.2d 250", "168 N.J. 124", "219 AD.2d 340", "222 N.J.Super. 403", "240 N. J.Super. 370", "245 N.J.Super. 561", "248 N.J.Super. 181", "251 A.D.2d 567", "259 N.J.Super. 337", "305 AD.2d 218", "307 N.J.Super. 162", "317 N.J.Super. 574", "330 N. J.Super. 252", "332 N.E.2d 333", "337 N.J.Super. 76", "37 N.Y.2d 91", "371 N.J.Super. 69", "385 N.E.2d 1062", "385 N.J.Super. 307", "388 U.S. 395", "413 N.Y.S.2d 135", "42 U.S.C. §§ 1981", "46 N.Y.2d 211", "465 U.S. 1", "468 F.2d 1064", "470 U.S. 213", "473 U.S. 614", "49 F.Supp.2d 750", "514 U.S. 938", "537 A.2d 306", "562 N.Y.S.2d 486", "563 A.2d 31", "573 N.Y.S.2d 466", "575 N.Y.S.2d 1013", "577 N.E. 2d 1058", "613 F.2d 1235", "627 A.2d 1136", "674 N.Y.S.2d 770", "713 A.2d 499", "760 A.2d 781", "78 N.Y.2d 853", "800 A.2d 872", "89 F.3d 154", "9 U.S.C.A. §§ 1-16", "90 N.Y.2d 733", "N.Y. Bus. Corp. Law § 1505"]
+cites_law: ["united-states/federal/usc/title-9/1.md", "united-states/federal/usc/title-9/16.md"]
 ---
 
 # Lederman v. Prudential Life Insurance Co. of America, Inc.
