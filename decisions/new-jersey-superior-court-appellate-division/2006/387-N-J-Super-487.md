@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "2006-08-18"
-citations: ["387 N.J. Super. 487", "904 A.2d 786", "387 N.J. Super. 469", "904 A.2d 775"]
+citations: ["387 N.J. Super. 487", "904 A.2d 786"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["STATE OF NEW JERSEY, DEPARTMENT OF TREASURY, DIVISION OF INVESTMENT, 
 source_url: "https://static.case.law/nj-super/387/cases/0487-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3678249
-cites_cases: ["102 N.J. 460", "104 A.D.2d 962", "115 N.J. 317", "115 S.Ct. 1175", "116 N.J. 739", "116 N.J.Eq. 55", "119 N.J.Eq. 93", "120 S.Ct. 786", "126 S.Ct. 423", "130 L.Ed.2d 1128", "134 A.2d 761", "135 N.J. 468", "138 N.J. 106", "142 F.3d 26", "145 L.Ed.2d 663", "146 F.3d 149", "147 N.J.Super. 316", "148 N.J. 582", "152 N.J.Super. 460", "155 F.3d 254", "163 L.Ed.2d 322", "164 N.J. 38", "170 N.J.Super. 334", "171 N.J. 110", "171 N.J. 442", "172 A. 517", "174 F.3d 95", "174 N.J. 1", "174 N.J. 363", "177 N.J. 219", "177 N.J. 574", "179 N.J. 500", "180 N.J. 74", "181 A. 42", "181 N.J. 70", "183 A.2d 633", "184 N.J. 161", "185 N.J. 339", "187 N.J. 353", "2006 WL 2381863", "221 N.J.Super. 547", "240 N.J.Super. 480", "25 N.J. 17", "268 N.J.Super. 337", "275 N.J.Super. 182", "277 A.2d 207", "320 N.J.Super. 312", "323 A.2d 495", "335 N.J.Super. 174", "336 N.J.Super. 395", "339 N.J.Super. 38", "348 N.J.Super. 1", "355 N.J.Super. 197", "359 N.J.Super. 497", "360 N.J.Super. 599", "362 N.J.Super. 494", "371 A.2d 308", "371 N.J.Super. 409", "378 A.2d 47", "379 A.2d 242", "38 N.J. 213", "384 F.3d 93", "387 N.J.Super 469", "387 N.J.Super. 487", "399 F.3d 651", "40 L.Ed.2d 312", "406 A.2d 474", "416 U.S. 960", "432 A.2d 521", "433 U.S. 186", "439 U.S. 930", "465 U.S. 770", "465 U.S. 783", "470 F.Supp. 559", "471 U.S. 462", "474 F.2d 1139", "480 N.Y.S.2d 756", "486 A.2d 139", "508 A.2d 1127", "513 U.S. 1183", "528 U.S. 1074", "535 A.2d 512", "558 A.2d 1252", "563 A.2d 31", "579 A.2d 793", "58 L.Ed.2d 323", "58 N.J. 264", "640 A.2d 850", "65 N.J. 474", "696 F.2d 1062", "711 F.2d 1387", "711 F.Supp. 1264", "75 N.J. 11", "751 A.2d 538", "794 A.2d 181", "807 A.2d 195", "827 A.2d 287", "832 A.2d 324", "856 F.2d 985", "86 N.J. 619", "886 A.2d 629", "930 F.Supp. 1003", "94 S.Ct. 1979", "954 F.Supp. 43", "99 S.Ct. 318", "993 F.2d 875"]
+cites_cases: ["102 N.J. 460", "104 A.D.2d 962", "115 N.J. 317", "115 S.Ct. 1175", "126 S.Ct. 423", "130 L.Ed.2d 1128", "138 N.J. 106", "142 F.3d 26", "155 F.3d 254", "163 L.Ed.2d 322", "164 N.J. 38", "171 N.J. 110", "2006 WL 2381863", "277 A.2d 207", "323 A.2d 495", "335 N.J.Super. 174", "384 F.3d 93", "387 N.J.Super 469", "399 F.3d 651", "433 U.S. 186", "465 U.S. 770", "465 U.S. 783", "470 F.Supp. 559", "471 U.S. 462", "480 N.Y.S.2d 756", "508 A.2d 1127", "513 U.S. 1183", "558 A.2d 1252", "58 N.J. 264", "65 N.J. 474", "696 F.2d 1062", "711 F.2d 1387", "751 A.2d 538", "930 F.Supp. 1003", "954 F.Supp. 43"]
 ---
 
 # State v. Qwest Communications International, Inc.
