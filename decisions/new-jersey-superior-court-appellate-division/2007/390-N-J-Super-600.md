@@ -1,0 +1,32 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2007-02-28"
+citations: ["390 N.J. Super. 600", "916 A.2d 508"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["TOWNSHIP OF MAPLEWOOD, PETITIONER-APPELLANT, v. TOWNSHIP OF SOUTH ORANGE VILLAGE, AND SOUTH ORANGE-MAPLEWOOD BOARD OF EDUCATION, RESPONDENTS-RESPONDENTS."]
+source_url: "https://static.case.law/nj-super/390/cases/0600-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3827391
+cites_cases: ["108 N.J. 19", "157 N.J. 188", "158 N.J. 170", "166 N.J. 560", "173 N.J. 368", "178 N.J. 500", "527 A.2d 848", "767 A.2d 459", "842 A.2d 148"]
+---
+
+# Township of Maplewood v. Township of South Orange Village
+
+## Majority (COLEMAN, R.B., J.A.D.)
+
+The opinion of the court was delivered by
+COLEMAN, R.B., J.A.D.
+The Township of Maplewood (Maplewood) appeals from a Final Decision of the State Board of Education, dated September 7, 2005. That Final Decision affirmed a May 9, 2005 declaratory judgment rendered by the Deputy Commissioner of Education in a matter initiated by Maplewood’s petition seeking an interpretation of N.J.S.A. 18A:22-5, which defines a necessary majority for action by the Board of School Estimate (BSE).
+The BSE is the entity that reviews the budget of the unified School District of South Orange and Maplewood pursuant to N.J.S.A. 18A:22-3 As required by N.J.S.A. 18A:22-4, the BSE consists of eight members: the chief executive officer of the governing body of each municipality, two members of the governing body of each municipality, and the president and one other member of the South Orange-Maplewood Board of Education. N.J.S.A. 18A:22-5 provides:
+When it is required by law that any action shall be taken by at least a majority of the full membership of the board of school estimate, such majority must include a majority of the members, representing the respective municipal governing bodies and the action shall be certified accordingly.
+The Deputy Commissioner of Education and the State Board of Education ruled that a BSE majority must include (i) five of the eight members of the full BSE; and (ii) four of the six BSE members appointed by the two municipalities. Both the Deputy Commissioner and the State Board of Education rejected Maplewood’s proposed interpretation of N.J.S.A. 18A:22-5, which would require that a majority vote taken by the BSE include (i) five of the eight members of the full BSE; and (ii) two of the three members appointed by Maplewood, and two of the three members appointed by South Orange. According to Maplewood, a vote of four of the six municipal members would not constitute a majority if three of the four votes were by members from the same municipality.
+“Courts generally ‘give substantial deference to the interpretation an agency gives to a statute that the agency is charged with enforcing.’ ” R & R Mktg. LLC v. Brown-Forman Corp., 158 N.J. 170, 175, 729 A.2d 1 (1999) (quoting Smith v. Dir., Div. of Taxation, 108 N.J. 19, 25, 527 A.2d 848 (1987)). In this instance, we agree with the Deputy Commissioner and the State Board of Education in their interpretation of N.J.S.A. 18A:22-5.
+Where a statute is clear and unambiguous on its face, “courts will implement the statute as written without resort to judicial interpretation, rules of construction, or extrinsic matters.” Bergen Commercial Bank v. Sisler, 157 N.J. 188, 202, 723 A.2d 944 (1999). However, where there may be more than one reasonable conclusion, courts “may look to extrinsic sources ‘such as the statute’s purpose, legislative history, and statutory context to ascertain the legislature’s intent.’ ” State v. Brannon, 178 N.J. 500, 507, 842 A.2d 148 (2004) (quoting State v. Thomas, 166 N.J. 560, 567, 767 A.2d 459 (2001)). This dispute is based upon the word “respective” in N.J.S.A. 18A:22-5. Maplewood suggests that “respective” means that a majority would require a majority within “each” municipal governing body, rather than a majority of four of the six municipal representatives.
+Although, at first blush, the language of the statute would appear to support the position taken by Maplewood, the practical effect of the construction it advances would be to allow a small minority of the BSE to veto action which six of the eight members of the Board favor. Therefore, we affirm for substantially the same reasons expressed by the Commissioner in his written decision, which has been endorsed by the State Board of Education on Maplewood’s appeal.
+First, the Deputy Commissioner examined the legislative history of the 1933 predecessor statute, L. 1933, c. 232, which increased the number of municipal representatives from each municipality from two to three. The Legislature’s statement recognized that the intent was to provide “greater representation and voting power on the [BSE] to the governing bodies of each of the municipalities within said district and requires that at least a majority of the representatives of the municipal governing bodies shall approve the budget.” Statement, L. 1933, c. 232. The Deputy Commissioner determined that, had the Legislature intended to require separate majorities from each of the municipal governing bodies, it would have made reference to such separate majorities.
+Additionally, a statute is generally “to be interpreted in an integrated way without undue emphasis on any particular word or phrase and, if possible, in a manner which harmonizes all of its parts so as to do justice to its overall meaning.” Matturri v. Bd. of Trs. of the Judicial Ret. Sys., 173 N.J. 368, 383-84, 802 A.2d 496 (2002). In this matter, the word “respective” only defines where the votes are coming from, and does not empower two members of one of the municipal governments to block action by the BSE. Rather, all that is required by statute is an overall majority of the board, plus a majority of the total of the six municipal government representatives. The Legislature did not intend to require that there be majority approval by the sub-group from each municipality in order to pass a measure.
+In light of the legislative history of the statute and the unreasonable practical impact of the interpretation endorsed by Maple-wood, the decision by the State Board of Education is affirmed.
+Affirmed.
+Presently, this is the only school district in the State whose budget is controlled by BSE.
