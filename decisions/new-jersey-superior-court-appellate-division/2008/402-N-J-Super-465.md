@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "2008-09-11"
-citations: ["402 N.J. Super. 465", "955 A.2d 304", "402 N.J. Super. 454", "955 A.2d 298"]
+citations: ["402 N.J. Super. 465", "955 A.2d 304"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["GRANT SPINKS, ROBERT KOVACS, AND MICHAEL EXLEY, PLAINTIFFS-APPELLANTS
 source_url: "https://static.case.law/nj-super/402/cases/0465-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3788220
-cites_cases: ["102 N.J. 98", "121 S.Ct. 1083", "142 N.J. 356", "142 N.J. 520", "148 L.Ed.2d 959", "148 N.J. 524", "148 N.J.Super. 294", "157 N.J. 188", "163 N.J. 336", "181 N.J. 1", "181 N.J. 70", "189 N.J. 104", "2008 WL 4159997", "300 A.2d 142", "372 A.2d 642", "377 N.J.Super. 585", "382 NJ.Super. 145", "385 N.J.Super. 448", "387 N.J.Super. 224", "402 N.J.Super. 465", "42 U.S.C. § 1983", "42 U.S.C.A. § 1983", "42 U.S.C.A. § 1988", "444 A.2d 1075", "457 U.S. 800", "461 US. 138", "477 U.S. 242", "505 A.2d 958", "531 U.S. 1146", "533 U.S. 194", "547 U.S. 410", "55 F.3d 886", "62 N.J. 229", "89 NJ. 41", "897 A.2d 362", "912 A.2d 1264"]
+cites_cases: ["121 S.Ct. 1083", "142 N.J. 520", "148 L.Ed.2d 959", "148 N.J.Super. 294", "157 N.J. 188", "163 N.J. 336", "181 N.J. 70", "189 N.J. 104", "300 A.2d 142", "372 A.2d 642", "377 N.J.Super. 585", "382 NJ.Super. 145", "385 N.J.Super. 448", "387 N.J.Super. 224", "42 U.S.C. § 1983", "42 U.S.C.A. § 1983", "42 U.S.C.A. § 1988", "457 U.S. 800", "461 US. 138", "477 U.S. 242", "531 U.S. 1146", "533 U.S. 194", "547 U.S. 410", "55 F.3d 886", "62 N.J. 229", "912 A.2d 1264"]
 ---
 
 # Spinks v. Township of Clinton
