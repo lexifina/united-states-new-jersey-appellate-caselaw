@@ -1,7 +1,7 @@
 ---
 court: "New Jersey Superior Court, Appellate Division"
 decided: "2009-08-05"
-citations: ["409 N.J. Super. 13", "975 A.2d 1006", "409 N.J. Super. 1", "975 A.2d 999"]
+citations: ["409 N.J. Super. 13", "975 A.2d 1006"]
 reporter: "nj-super"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -9,7 +9,7 @@ parties: ["LARRY LOIGMAN, PLAINTIFF-RESPONDENT, v. TOWNSHIP COMMITTEE OF THE TOW
 source_url: "https://static.case.law/nj-super/409/cases/0013-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3898608
-cites_cases: ["103 N.J. 219", "166 A.2d 360", "167 N.J. 38", "182 N.J. 628", "182 N.J.Super. 117", "192 N.J. 446", "221 N.J.Super. 520", "270 N.J.Super. 84", "318 N.J.Super. 461", "328 N.J.Super. 547", "33 N.J. 529", "373 N.J.Super. 271", "388 N.J.Super. 405", "392 N.J.Super. 322", "397 A.2d 1088", "400 N.J.Super. 51", "440 A.2d 72", "510 A.2d 1174", "535 A.2d 29", "768 A.2d 769", "79 N.J. 78", "868 A.2d 1031"]
+cites_cases: ["103 N.J. 219", "167 N.J. 38", "182 N.J. 628", "192 N.J. 446", "221 N.J.Super. 520", "318 N.J.Super. 461", "328 N.J.Super. 547", "373 N.J.Super. 271", "388 N.J.Super. 405", "392 N.J.Super. 322", "400 N.J.Super. 51", "510 A.2d 1174", "535 A.2d 29", "768 A.2d 769", "868 A.2d 1031"]
 ---
 
 # Loigman v. Township Committee of Middletown
