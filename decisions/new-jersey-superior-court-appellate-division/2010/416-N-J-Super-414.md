@@ -1,0 +1,27 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2010-10-05"
+citations: ["416 N.J. Super. 414", "5 A.3d 163"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["DEPARTMENT OF CHILDREN AND FAMILIES, DIVISION OF YOUTH AND FAMILY SERVICES, PETITIONER-RESPONDENT, v. C.H., RESPONDENT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/416/cases/0414-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3909686
+cites_cases: ["157 N.J. 161", "413 N.J.Super. 504"]
+---
+
+# Department of Children & Families v. C.H.
+
+## Majority (SAPP-PETERSON, J.A.D.)
+
+The opinion of the court was delivered by
+SAPP-PETERSON, J.A.D.
+On August 12, 2010, C.H. filed a motion for reconsideration of our earlier decision in this matter in light of DYFS v. K.A., 413 N.J.Super. 504, 996 A.2d 1040 (App.Div.2010). Relying upon K.A., C.H. argues that we: (1) erred in not applying the standard established in K.A.; (2) erred in “accepting the Director’s findings, which were arbitrary and unreasonable, and relying upon previous unsubstantiated allegations as evidence of prior abuse”; and (3) committed reversible error in relying so heavily on Doctor Vitale’s report, which was not properly admitted. We grant reconsideration and conclude that K.A. is factually distinguishable and therefore reaffirm the Director’s decision.
+In K.A. we found that a mother who struck her child several times on the shoulder, causing visible bruises after the child refused to complete her homework and to remain in her room during a “time out” punishment, did not inflict excessive corporal punishment within the meaning of N.J.S.A. 9:6-8.21(e)(4)(b). Rather, we found the record demonstrated that the mother’s use of corporal punishment was an “isolated event” and “the type of incident that appears to be aberrational to this family.”
+In K.A., we reiterated that “ ‘[t]he main goal of Title 9 is to protect children,’ ” Id. at 511, 996 A.2d 1040 (quoting G.S. v. Dep’t of Human Servs., 157 N.J. 161, 176, 723 A.2d 612 (1999)). Hence, resolving whether abuse has occurred focuses upon the harm to the child “rather than the mental state of the accused abuser[.]” Ibid. Nonetheless, the factors we considered before reaching our conclusion that K.A had not inflicted excessive corporal punishment upon her daughter examined KA’s conduct, including: “(1) the reasons underlying KA’s action; (2) the isolation of the incident; and (3) the trying circumstances which KA was undergoing due to [her ehild]’s psychological disorder.” Id. at 512, 996 A.2d 1040. We stated that these factors “form the prism through which we determine whether KA’s actions were indeed ‘excessive.’ ” Ibid.
+Here, we considered similar factors. Not only did C.H. inflict corporal punishment upon T.H. multiple times during the underlying incident, but unlike in KA, id. at 508, 996 A.2d 1040, C.H. struck T.H. in multiple locations, including a vulnerable area. The school nurse observed red demarcations on the right side of T.H.’s face, three to four inches long, and also observed dark red scratches, two inches in length, on T.H.’s right elbow and left cheek, as well as a greenish demarcation on the middle of the child’s back. Athough denying responsibility for any of the injuries the school nurse observed, C.H. admitted that she did spank T.H. for reporting to a neighbor that they did not have electricity, an explanation the Director concluded was completely unreasonable and did not justify inflicting corporal punishment upon a five-year-old child. C.H. also admitted to inflicting corporal punishment upon T.H. when the child was as young as three years old and continuing to do so once or twice per month as her way to ensure that T.H. would not “end up on the streets or doing drugs.” The Director found C.H.’s conduct established a “pattern of corporal punishment on such a young child [that] is troubling and, when considered in concert with [the underlying] matter,” provided “ample support to uphold this substantiation.” Finally, C.H. exhibited no remorse for her conduct and was not receptive to any counseling recommendations.
+These facts demonstrated that T.H.’s “physical, mental, or emotional condition ... is in imminent danger of becoming impaired as the result of the failure of [C.H.] ... to exercise a minimum degree of care ... by unreasonably inflicting ... excessive corporal punishment” upon C.H. N.J.S.A. 9:6-8.21(c).
+The remaining points raised in the motion for reconsideration are without sufficient merit to warrant further discussion beyond the following brief remarks. R. 2:ll-3(e)(l)(D) and (E). Dr. Vitale’s report was admitted without objection. Contrary to C.H.’s assertion, the Director did not rely exclusively upon Dr. Vitale’s report in reaching her decision. The Director considered other competent evidence, including C.H.’s admission that she previously used corporal punishment to discipline her daughter as early as when the child was three years old. Hence, there was sufficient credible evidence in the record establishing that the underlying incident was not an isolated event.
+We are satisfied that our decision in the within matter fully comports with the law and therefore we reaffirm our decision affirming the Director’s determination that C.H. committed an act of child abuse as defined by N.J.S.A. 9:6-8.21(c)(4)(b).
