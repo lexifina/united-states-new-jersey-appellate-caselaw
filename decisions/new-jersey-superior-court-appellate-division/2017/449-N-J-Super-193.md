@@ -1,0 +1,26 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2017-03-08"
+citations: ["449 N.J. Super. 193", "156 A.3d 188"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Judges Fisher, Espinosa and Rothstadt."]
+parties: ["GREG NOREN, PLAINTIFF-APPELLANT/CROSS-RESPONDENT, v. HEARTLAND PAYMENT SYSTEMS, INC., DEFENDANT-RESPONDENT/CROSS-APPELLANT."]
+source_url: "https://static.case.law/nj-super/449/cases/0193-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12300671
+cites_cases: ["144 F.2d 608", "154 A.3d 178", "177 N.J. 364", "188 A.2d 24", "207 N.J. 517", "324 U.S. 244", "354 N.J.Super. 578", "39 N.J. 184", "448 N.J.Super. 446"]
+---
+
+# Noren v. Heartland Payment Systems, Inc.
+
+## Majority (FISHER, P.J.A.D.)
+
+The opinion of the court was delivered by
+FISHER, P.J.A.D.
+We previously dismissed defendant Heartland Payment Systems, Inc.’s cross-appeal, which sought reversal of the denial of summary judgment, because of Heartland’s failure to comply with Rule 2:6-1 (a)(1). Noren v. Heartland Payment Sys., Inc., 448 N.J.Super. 446, 500, 154 A.3d 178 (App. Div. 2017). Specifically, we dismissed the cross-appeal because Heartland failed to “submit the items that had been submitted to the trial court on the summary judgment motion or even a statement of the items submitted.” Id. at 500, 154 A.3d 178
+Heartland now moves for reconsideration, arguing we mistakenly employed Rule 2:6 — 1(a)(1). In Heartland’s view, the obligation to include in the appendix “all items submitted to the court on the summary judgment motion” and “a statement of all items” applies only — in the words of the Rule — to an appeal “from a summary judgment,” and there can only be “a summary judgment” upon the grant of a summary judgment motion. Heartland argues that it only cross-appealed from a denial of summary judgment, not “from a summary judgment.” Hence, Heartland contends we should reconsider our rule-based disposition and review the cross-appeal on its merits.
+To be sure, Heartland’s argument has color because of the Rule’s particular wording. We nevertheless find the argument lacking in merit. As Judge Learned Hand famously said, “[tjhere is no surer way to misread any document than to read it literally.” Guiseppi v. Walling, 144 F.2d 608, 624 (2d Cir. 1944) (concurring opinion), aff'd sub nom., Gemsco, Inc. v. Walling, 324 U.S. 244, 65 S.Ct. 605, 89 L.Ed. 921 (1945); see also McNeil v. Legislative Apportionment Comm’n, 177 N.J. 364, 374, 828 A.2d 840 (2003). Despite the superficial appeal of Heartland’s literal construction of the phrase “from a summary judgment,” the Rule was obviously intended to precisely identify for the reviewing court that which was presented to the trial court “on the motion for summary judgment,” regardless of how the motion was decided. Whether a summary judgment motion is granted, denied, or granted in part and denied in part, an appellate court is limited to an examination of “the original summary judgment record.” Lombardi v. Masso, 207 N.J. 517, 542, 25 A.3d 1080 (2011); see also Bilotti v. Accurate Forming Corp., 39 N.J. 184, 188, 188 A.2d 24 (1963) (in reviewing the disposition of a summary judgment motion, a court is limited to a consideration of “the case only as it unfolded to that point”). A party’s compliance with the Rule clarifies for the reviewing court the parameters of the “original summary judgment record”; if it didn’t apply in all the ways in which a trial judge might dispose of a summary judgment motion, an appellate court could easily stray from its proper function by affirming or reversing in light of material never presented when the trial judge considered the motion. We reject Heartland’s invitation to read the Rule literally, and we conclude that the phrase “from a summary judgment” should be understood as including appeals taken “from the disposition of a summary judgment motion.”
+The motion for reconsideration is denied.
+Heartland cites Rios v. Szivos, 354 N.J.Super. 578, 581 n.1, 808 A.2d 868 (App. Div. 2002) (in an appeal of a denial of summary judgment, the panel observed the lack of certainty about what was put before the motion judge and then provided a "but see" citation to Rule 2:6 — 1(a)(1), with a comment that the Rule "regard[s] appendices on appeal from the grant of summary judgment"), as support for its position. We do not read the Rios’s footnote as does Heartland; in any case, we disagree to the extent that footnote may be interpreted as holding the Rule does not apply to the denial of summary judgment.
