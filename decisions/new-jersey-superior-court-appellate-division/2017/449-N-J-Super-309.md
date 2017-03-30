@@ -1,0 +1,33 @@
+---
+court: "New Jersey Superior Court, Appellate Division"
+decided: "2017-03-30"
+citations: ["449 N.J. Super. 309", "157 A.3d 471"]
+reporter: "nj-super"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Before Judges Reisner, Koblitz and Sumners."]
+parties: ["STATE OF NEW JERSEY, PLAINTIFF-RESPONDENT, v. MARCUS PERKINS, DEFENDANT-APPELLANT."]
+source_url: "https://static.case.law/nj-super/449/cases/0309-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12301059
+cites_cases: ["154 A.3d 697", "2016 WL 6301544", "228 N.J. 72", "446 N.J.Super. 28", "528 U.S. 470"]
+---
+
+# State v. Perkins
+
+## Majority (SUMNERS, JR., J.A.D.)
+
+The opinion of the court was delivered by
+SUMNERS, JR., J.A.D.
+Defendant Marcus Perkins challenges a March 26, 2015 order denying his petition for post-conviction relief (PCR) alleging ineffective assistance of counsel due to his trial attorney’s failure to file an appeal on defendant’s behalf.
+We reverse following the State’s acknowledgement in a supplemental brief that defendant should be allowed to file a direct appeal of his conviction due to this court’s recent decision that the trial counsel’s failure to file a direct appeal when requested by the defendant is presumed prejudicial and constitutes ineffective assistance of counsel. State v. Jones, 446 N.J.Super. 28, 34-35, 139 A.3d 1234 (App. Div.), certif. denied, 228 N.J. 72, 154 A.3d 697, 2016 WL 6301544 (2016) (relying on Roe v. Flores-Ortega, 528 U.S. 470, 484, 120 S.Ct. 1029, 1038-39, 145 L.Ed.2d 985, 999-1000 (2000)). We hold that when a defendant has not been afforded a requested appeal due to ineffective assistance of counsel, as occurred here, the PCR judge has the authority to provide defendant forty-five days to file that appeal.
+We find it necessary to provide a brief summary of the procedural history to explain what led to the State’s revised position in this matter. On October 31, 2008, a jury convicted defendant of: the lesser-included offense of first-degree aggravated manslaughter, N.J.S.A. 2C:ll-4(a), first-degree felony-murder, N.J.S.A. 2C:ll-3(a)(3), first-degree armed robbery, N.J.S.A. 2C:15-1, fourth-degree unlawful possession of a weapon, N.J.S.A. 2C:39-5(d), third-degree hindering apprehension or prosecution, N.J.S.A. 2C:39-3(b)(l), and first-degree conspiracy to commit murder, N.J.S.A. 2C:5-2. On January 15, 2009, defendant was sentenced, after merger, to an aggregate prison term of thirty-five years, subject to the No Early Release Act, N.J.S.A. 2C:43-7.2, plus a consecutive four years, two of which to be served without parole.
+Defendant did not file a direct appeal. Rather, on November 27, 2013, he submitted a pro se PCR petition to the court. His subsequently assigned PCR counsel filed a brief raising several issues. Relevant to our decision, PCR counsel argued that trial counsel failed to file a direct appeal as defendant requested.
+The PCR judge, who also presided over the trial, conducted a limited evidentiary hearing on October 31, 2014, where defendant and trial counsel testified regarding the allegation that counsel failed to file a direct appeal as requested by defendant. On March 13, 2015, the judge heard counsel’s arguments on the other PCR issues.
+On March 26, 2015, the judge entered an order and a written decision denying PCR. Concerning the filing of a direct appeal, the judge found that, based upon the evidentiary hearing testimony, counsel was deficient for not filing an appeal, but he had no authority, as he phrased it, to order our court to hear an appeal six years after sentencing. As to the remaining allegations of trial counsel’s ineffectiveness, the judge found that defendant did not establish a prima facie case of ineffective assistance.
+On appeal, defendant reiterated the arguments raised before the PCR judge, including the claim that counsel was ineffective for not filing a direct appeal. The State filed its appellate brief on March 7, 2016. Jones was subsequently decided on June 20, 2016.
+On February 23, 2017, we issued a sua sponte order directing the parties to file supplemental briefs as to “[wjhether we should allow defendant to file a direct appeal out of time pursuant to our recent decision in [Jones'].” In its submission, the State acknowledged that in light of Jones and the PCR judge’s findings, defendant is entitled to file a direct appeal out of time.
+Here, as noted, the PCR judge was concerned that he could not authorize the filing of an untimely notice of appeal. R. 2:4-4 (providing that we alone may extend time to appeal, and only on motion). We now hold, however, that where a PCR judge finds that an appeal was sought by defendant and not filed due to counsel’s ineffective assistance, the judge has the authority to afford defendant a forty-five day period to file an appeal. Upon fifing the notice of appeal, the defendant shall attach the PCR judge’s opinion and order.
+Accordingly, we reverse the PCR judge’s finding that trial counsel was not ineffective, and we allow defendant forty-five days from the date of this opinion to file his appeal of his conviction and sentence.
+Reversed.
+There was also testimony regarding the timeliness of the petition. As noted, the petition was submitted on November 27, 2013, but was not marked filed until March 4, 2014, almost two months beyond the five-year statute of limitations deadline. The PCR judge found that the petition was timely filed.
